@@ -28,9 +28,9 @@ async function verify(target,browser){
  page.on('pageerror',e=>errors.push(e.message));page.on('console',m=>{if(m.type()==='error')errors.push(m.text());});page.on('response',r=>{if(r.url().startsWith(url)&&r.status()>=400)errors.push(`${r.status()} ${r.url()}`);});
  // Full navigation reload so each direct deep link is tested independently.
  async function open(route){await page.goto(`${url}#${route}`);await page.reload();await page.locator('main').waitFor();await page.locator('main h1').first().waitFor();assert.equal(new URL(page.url()).hash,`#${route}`,`Unexpected route redirect: ${route}`);}
- async function stored(){return page.evaluate(k=>JSON.parse(localStorage.getItem(k)||'null'),key);}
+ async function stored(){return page.evaluate(k=>JSON.parse(globalThis.localStorage.getItem(k)||'null'),key);}
  try{
-  for(const width of widths){await page.setViewportSize({width,height:width>800?1000:844});for(const route of routes){await open(route);const title=await page.locator('main h1').first().innerText();assert(title.trim(),`${route}: missing title`);const overflow=await page.evaluate(()=>document.documentElement.scrollWidth-window.innerWidth);assert(overflow<=2,`${target} ${width}px ${route}: horizontal overflow ${overflow}px`);}
+  for(const width of widths){await page.setViewportSize({width,height:width>800?1000:844});for(const route of routes){await open(route);const title=await page.locator('main h1').first().innerText();assert(title.trim(),`${route}: missing title`);const overflow=await page.evaluate(()=>globalThis.document.documentElement.scrollWidth-globalThis.innerWidth);assert(overflow<=2,`${target} ${width}px ${route}: horizontal overflow ${overflow}px`);}
    await open('/');await page.screenshot({path:`browser-evidence/${target}-${width}-home.png`});console.log(`${target}: ${width}px, ${routes.length} direct routes loaded without document overflow`);
   }
   await page.setViewportSize({width:390,height:844});await open('/');await page.getByRole('button',{name:'Open menu'}).click();assert.equal(await page.getByRole('button',{name:'Close menu'}).getAttribute('aria-expanded'),'true');await page.keyboard.press('Escape');assert.equal(await page.getByRole('button',{name:'Open menu'}).getAttribute('aria-expanded'),'false');

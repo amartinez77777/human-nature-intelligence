@@ -1,7 +1,6 @@
 import {readFileSync} from 'node:fs';
 import {fileURLToPath} from 'node:url';
 import {dirname,resolve} from 'node:path';
-import {strict as assert} from 'node:assert';
 const root=resolve(dirname(fileURLToPath(import.meta.url)),'..');
 const json=path=>JSON.parse(readFileSync(resolve(root,path),'utf8'));
 const m=json('research/PDF_SOURCE_MANIFEST.json'),cm=json('research/CHAPTER_MAP.json'),c=json('research/COVERAGE_MATRIX.json'),ledger=json('research/SOURCE_LEDGER.json'),log=json('research/STAGE_02_READING_LOG.json'),log3=json('research/STAGE_03_READING_LOG.json'),refs=json('src/data/source-references.json'),manifest=json('src/data/dataset-manifest.json'),laws=json('src/data/laws.json');
