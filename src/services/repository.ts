@@ -1,0 +1,42 @@
+import {validateAcademy} from '../domain/academy-validator';
+import rawScenarios from '../data/scenarios.json';
+import {parseScenarios} from '../domain/scenario-validator';
+import rawLaws from '../data/laws.json';
+import rawConcepts from '../data/concepts.json';
+import rawCases from '../data/historical-cases.json';
+import rawClaims from '../data/claims.json';
+import rawSources from '../data/sources.json';
+import rawReferences from '../data/source-references.json';
+import rawFindings from '../data/research-findings.json';
+import rawEdges from '../data/knowledge-edges.json';
+import rawExercises from '../data/exercises.json';
+import rawPaths from '../data/learning-paths.json';
+import rawComparisons from '../data/concept-comparisons.json';
+import rawManifest from '../data/dataset-manifest.json';
+import { LawRecord,ConceptRecord,HistoricalCaseRecord,ClaimRecord,SourceRecord,SourceReferenceRecord,ResearchFindingRecord,KnowledgeEdgeRecord,ExerciseRecord,LearningPathRecord,DatasetManifest,ConceptComparisonDataset } from '../domain/schemas';
+export const rawDataset={laws:rawLaws,concepts:rawConcepts,historicalCases:rawCases,claims:rawClaims,sources:rawSources,sourceReferences:rawReferences,researchFindings:rawFindings,knowledgeEdges:rawEdges,exercises:rawExercises,learningPaths:rawPaths,conceptComparisons:rawComparisons,manifest:rawManifest,scenarios:rawScenarios};
+export const laws=LawRecord.array().parse(rawLaws);
+export const concepts=ConceptRecord.array().parse(rawConcepts);
+export const historicalCases=HistoricalCaseRecord.array().parse(rawCases);
+export const claims=ClaimRecord.array().parse(rawClaims);
+export const sources=SourceRecord.array().parse(rawSources);
+export const sourceReferences=SourceReferenceRecord.array().parse(rawReferences);
+export const researchFindings=ResearchFindingRecord.array().parse(rawFindings);
+export const knowledgeEdges=KnowledgeEdgeRecord.array().parse(rawEdges);
+export const exercises=ExerciseRecord.array().parse(rawExercises);
+export const learningPaths=LearningPathRecord.array().parse(rawPaths);
+export const datasetManifest=DatasetManifest.parse(rawManifest);
+export const conceptComparisons=ConceptComparisonDataset.parse(rawComparisons).comparisons;
+export const findLaw=(id:string)=>laws.find(x=>x.id===id);
+export const findConcept=(id:string)=>concepts.find(x=>x.id===id);
+export const findCase=(id:string)=>historicalCases.find(x=>x.id===id);
+export const findReference=(id:string)=>sourceReferences.find(x=>x.id===id);
+export const findSource=(id:string)=>sources.find(x=>x.id===id);
+
+export const findConceptComparison=(id:string)=>conceptComparisons.find(x=>x.id===id);
+
+export const scenarios=parseScenarios(rawScenarios,{laws,concepts,historicalCases,claims,researchFindings,sourceReferences});
+export const findScenario=(id:string)=>scenarios.find(s=>s.id===id);
+
+validateAcademy({exercises,learningPaths,laws,concepts,historicalCases,researchFindings,sourceReferences,scenarios});
+export const findExercise=(id:string)=>exercises.find(e=>e.id===id);

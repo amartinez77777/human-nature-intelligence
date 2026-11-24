@@ -1,0 +1,436 @@
+{
+  "stage": "06",
+  "pdfSha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e",
+  "pdfPages": 690,
+  "sourceId": "SRC-0001",
+  "headingConvention": "physical PDF zero-based; viewer page = index + 1; printed page unknown",
+  "readMethod": "Direct fitz PDF text layer, chapter subsections and attributed narrative sampled; no fabricated full-review status",
+  "sections": [
+    {
+      "lawId": "LAW-16",
+      "section": "The Sophisticated Aggressor",
+      "startPdfPageIndex": 518,
+      "endPdfPageIndex": 539,
+      "viewerOpeningPage": 519,
+      "headingVerified": true,
+      "reviewStatus": "substantive_opening_review",
+      "sampledPageIndices": [
+        518,
+        519
+      ],
+      "printedPage": null,
+      "sourceSha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e"
+    },
+    {
+      "lawId": "LAW-16",
+      "section": "The Source of Human Aggression",
+      "startPdfPageIndex": 540,
+      "endPdfPageIndex": 550,
+      "viewerOpeningPage": 541,
+      "headingVerified": true,
+      "reviewStatus": "sampled_not_complete",
+      "sampledPageIndices": [
+        540,
+        541
+      ],
+      "printedPage": null,
+      "sourceSha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e"
+    },
+    {
+      "lawId": "LAW-16",
+      "section": "Passive Aggression—Its Strategies and How to Counter Them",
+      "startPdfPageIndex": 551,
+      "endPdfPageIndex": 559,
+      "viewerOpeningPage": 552,
+      "headingVerified": true,
+      "reviewStatus": "sampled_not_complete",
+      "sampledPageIndices": [
+        551,
+        552
+      ],
+      "printedPage": null,
+      "sourceSha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e"
+    },
+    {
+      "lawId": "LAW-16",
+      "section": "Controlled Aggression",
+      "startPdfPageIndex": 560,
+      "endPdfPageIndex": 566,
+      "viewerOpeningPage": 561,
+      "headingVerified": true,
+      "reviewStatus": "sampled_not_complete",
+      "sampledPageIndices": [
+        560,
+        561
+      ],
+      "printedPage": null,
+      "sourceSha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e"
+    },
+    {
+      "lawId": "LAW-17",
+      "section": "The Rising Tide",
+      "startPdfPageIndex": 567,
+      "endPdfPageIndex": 589,
+      "viewerOpeningPage": 568,
+      "headingVerified": true,
+      "reviewStatus": "substantive_opening_review",
+      "sampledPageIndices": [
+        567,
+        568
+      ],
+      "printedPage": null,
+      "sourceSha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e"
+    },
+    {
+      "lawId": "LAW-17",
+      "section": "The Generational Phenomenon",
+      "startPdfPageIndex": 590,
+      "endPdfPageIndex": 594,
+      "viewerOpeningPage": 591,
+      "headingVerified": true,
+      "reviewStatus": "sampled_not_complete",
+      "sampledPageIndices": [
+        590,
+        591
+      ],
+      "printedPage": null,
+      "sourceSha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e"
+    },
+    {
+      "lawId": "LAW-17",
+      "section": "Generational Patterns",
+      "startPdfPageIndex": 595,
+      "endPdfPageIndex": 602,
+      "viewerOpeningPage": 596,
+      "headingVerified": true,
+      "reviewStatus": "sampled_not_complete",
+      "sampledPageIndices": [
+        595,
+        596
+      ],
+      "printedPage": null,
+      "sourceSha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e"
+    },
+    {
+      "lawId": "LAW-17",
+      "section": "Strategies for Exploiting the Spirit of the Times",
+      "startPdfPageIndex": 603,
+      "endPdfPageIndex": 607,
+      "viewerOpeningPage": 604,
+      "headingVerified": true,
+      "reviewStatus": "sampled_not_complete",
+      "sampledPageIndices": [
+        603,
+        604
+      ],
+      "printedPage": null,
+      "sourceSha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e"
+    },
+    {
+      "lawId": "LAW-17",
+      "section": "The Human Beyond Time and Death",
+      "startPdfPageIndex": 608,
+      "endPdfPageIndex": 614,
+      "viewerOpeningPage": 609,
+      "headingVerified": true,
+      "reviewStatus": "sampled_not_complete",
+      "sampledPageIndices": [
+        608,
+        609
+      ],
+      "printedPage": null,
+      "sourceSha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e"
+    },
+    {
+      "lawId": "LAW-18",
+      "section": "The Bullet in the Side",
+      "startPdfPageIndex": 615,
+      "endPdfPageIndex": 631,
+      "viewerOpeningPage": 616,
+      "headingVerified": true,
+      "reviewStatus": "substantive_opening_review",
+      "sampledPageIndices": [
+        615,
+        616
+      ],
+      "printedPage": null,
+      "sourceSha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e"
+    },
+    {
+      "lawId": "LAW-18",
+      "section": "A Philosophy of Life Through Death",
+      "startPdfPageIndex": 632,
+      "endPdfPageIndex": 641,
+      "viewerOpeningPage": 633,
+      "headingVerified": true,
+      "reviewStatus": "sampled_not_complete",
+      "sampledPageIndices": [
+        632,
+        633
+      ],
+      "printedPage": null,
+      "sourceSha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e"
+    }
+  ],
+  "pageChecks": [
+    {
+      "lawId": "LAW-16",
+      "pdfPageIndex": 518,
+      "viewerPage": 519,
+      "charsExtracted": 1588,
+      "hasText": true,
+      "topic": "The Sophisticated Aggressor / Chapter argument"
+    },
+    {
+      "lawId": "LAW-16",
+      "pdfPageIndex": 520,
+      "viewerPage": 521,
+      "charsExtracted": 2479,
+      "hasText": true,
+      "topic": "Maurice Clark and Rockefeller / partnership"
+    },
+    {
+      "lawId": "LAW-16",
+      "pdfPageIndex": 527,
+      "viewerPage": 528,
+      "charsExtracted": 2296,
+      "hasText": true,
+      "topic": "Standard Oil and competitor pressure"
+    },
+    {
+      "lawId": "LAW-16",
+      "pdfPageIndex": 534,
+      "viewerPage": 535,
+      "charsExtracted": 2519,
+      "hasText": true,
+      "topic": "Rockefeller / aggressive narrative"
+    },
+    {
+      "lawId": "LAW-16",
+      "pdfPageIndex": 540,
+      "viewerPage": 541,
+      "charsExtracted": 2251,
+      "hasText": true,
+      "topic": "The Source of Human Aggression"
+    },
+    {
+      "lawId": "LAW-16",
+      "pdfPageIndex": 544,
+      "viewerPage": 545,
+      "charsExtracted": 2560,
+      "hasText": true,
+      "topic": "Aggression / insecurity and control"
+    },
+    {
+      "lawId": "LAW-16",
+      "pdfPageIndex": 551,
+      "viewerPage": 552,
+      "charsExtracted": 2373,
+      "hasText": true,
+      "topic": "Passive Aggression—Its Strategies and How to Counter Them"
+    },
+    {
+      "lawId": "LAW-16",
+      "pdfPageIndex": 556,
+      "viewerPage": 557,
+      "charsExtracted": 2430,
+      "hasText": true,
+      "topic": "Indirect hostility and responses"
+    },
+    {
+      "lawId": "LAW-16",
+      "pdfPageIndex": 560,
+      "viewerPage": 561,
+      "charsExtracted": 2430,
+      "hasText": true,
+      "topic": "Controlled Aggression"
+    },
+    {
+      "lawId": "LAW-16",
+      "pdfPageIndex": 565,
+      "viewerPage": 566,
+      "charsExtracted": 2533,
+      "hasText": true,
+      "topic": "Purposeful response and restraint"
+    },
+    {
+      "lawId": "LAW-17",
+      "pdfPageIndex": 567,
+      "viewerPage": 568,
+      "charsExtracted": 1637,
+      "hasText": true,
+      "topic": "The Rising Tide / Chapter argument"
+    },
+    {
+      "lawId": "LAW-17",
+      "pdfPageIndex": 572,
+      "viewerPage": 573,
+      "charsExtracted": 2353,
+      "hasText": true,
+      "topic": "Louis XVI and revolutionary atmosphere"
+    },
+    {
+      "lawId": "LAW-17",
+      "pdfPageIndex": 578,
+      "viewerPage": 579,
+      "charsExtracted": 2285,
+      "hasText": true,
+      "topic": "French Revolution / Danton"
+    },
+    {
+      "lawId": "LAW-17",
+      "pdfPageIndex": 584,
+      "viewerPage": 585,
+      "charsExtracted": 2471,
+      "hasText": true,
+      "topic": "Historical generation / interpretation"
+    },
+    {
+      "lawId": "LAW-17",
+      "pdfPageIndex": 590,
+      "viewerPage": 591,
+      "charsExtracted": 2330,
+      "hasText": true,
+      "topic": "The Generational Phenomenon"
+    },
+    {
+      "lawId": "LAW-17",
+      "pdfPageIndex": 595,
+      "viewerPage": 596,
+      "charsExtracted": 2340,
+      "hasText": true,
+      "topic": "Generational Patterns"
+    },
+    {
+      "lawId": "LAW-17",
+      "pdfPageIndex": 599,
+      "viewerPage": 600,
+      "charsExtracted": 2505,
+      "hasText": true,
+      "topic": "Cohort narratives and periods"
+    },
+    {
+      "lawId": "LAW-17",
+      "pdfPageIndex": 603,
+      "viewerPage": 604,
+      "charsExtracted": 2375,
+      "hasText": true,
+      "topic": "Strategies for Exploiting the Spirit of the Times"
+    },
+    {
+      "lawId": "LAW-17",
+      "pdfPageIndex": 608,
+      "viewerPage": 609,
+      "charsExtracted": 2422,
+      "hasText": true,
+      "topic": "The Human Beyond Time and Death"
+    },
+    {
+      "lawId": "LAW-17",
+      "pdfPageIndex": 613,
+      "viewerPage": 614,
+      "charsExtracted": 2539,
+      "hasText": true,
+      "topic": "Historical continuity and audience"
+    },
+    {
+      "lawId": "LAW-18",
+      "pdfPageIndex": 615,
+      "viewerPage": 616,
+      "charsExtracted": 1441,
+      "hasText": true,
+      "topic": "The Bullet in the Side / Chapter argument"
+    },
+    {
+      "lawId": "LAW-18",
+      "pdfPageIndex": 617,
+      "viewerPage": 618,
+      "charsExtracted": 2356,
+      "hasText": true,
+      "topic": "Flannery O’Connor / father and illness"
+    },
+    {
+      "lawId": "LAW-18",
+      "pdfPageIndex": 620,
+      "viewerPage": 621,
+      "charsExtracted": 2485,
+      "hasText": true,
+      "topic": "Flannery O’Connor / writing and diagnosis"
+    },
+    {
+      "lawId": "LAW-18",
+      "pdfPageIndex": 623,
+      "viewerPage": 624,
+      "charsExtracted": 2385,
+      "hasText": true,
+      "topic": "Flannery O’Connor / relationships"
+    },
+    {
+      "lawId": "LAW-18",
+      "pdfPageIndex": 627,
+      "viewerPage": 628,
+      "charsExtracted": 2481,
+      "hasText": true,
+      "topic": "Flannery O’Connor / perspective"
+    },
+    {
+      "lawId": "LAW-18",
+      "pdfPageIndex": 629,
+      "viewerPage": 630,
+      "charsExtracted": 2456,
+      "hasText": true,
+      "topic": "Keys to Human Nature / mortality"
+    },
+    {
+      "lawId": "LAW-18",
+      "pdfPageIndex": 632,
+      "viewerPage": 633,
+      "charsExtracted": 2281,
+      "hasText": true,
+      "topic": "A Philosophy of Life Through Death"
+    },
+    {
+      "lawId": "LAW-18",
+      "pdfPageIndex": 635,
+      "viewerPage": 636,
+      "charsExtracted": 2451,
+      "hasText": true,
+      "topic": "Mortality, impermanence and priorities"
+    },
+    {
+      "lawId": "LAW-18",
+      "pdfPageIndex": 638,
+      "viewerPage": 639,
+      "charsExtracted": 2515,
+      "hasText": true,
+      "topic": "Adversity and interpretation"
+    },
+    {
+      "lawId": "LAW-18",
+      "pdfPageIndex": 640,
+      "viewerPage": 641,
+      "charsExtracted": 2399,
+      "hasText": true,
+      "topic": "The sublime / awe and mystery"
+    }
+  ],
+  "locatorCorrections": [
+    {
+      "lawId": "LAW-16",
+      "section": "Controlled Aggression",
+      "oldPdfPageIndex": 546,
+      "correctedPdfPageIndex": 560,
+      "viewerPage": 561,
+      "reason": "Old index cited an earlier occurrence; exact section heading at index 560."
+    },
+    {
+      "lawId": "LAW-17",
+      "section": "Generational Patterns",
+      "oldPdfPageIndex": 590,
+      "correctedPdfPageIndex": 595,
+      "viewerPage": 596,
+      "reason": "Old index cited phrase in preceding prose; actual section heading at index 595."
+    }
+  ],
+  "coverageCaveat": "Three openings credited substantially; eight additional section starts and selected passages inspected, not full chapter reading."
+}

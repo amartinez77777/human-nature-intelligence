@@ -1,0 +1,2460 @@
+[
+  {
+    "id": "EXR-0001",
+    "exerciseType": "multiple_choice",
+    "prompt": "Fictional: A manager favors a proposal, requests another favorable forecast, and excludes a documented objection. What most specifically warrants a confirmation-bias hypothesis?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The selective search and exclusion of contrary information."
+      },
+      {
+        "id": "B",
+        "text": "The manager has a preferred outcome before the meeting."
+      },
+      {
+        "id": "C",
+        "text": "The manager requests a second forecast rather than using the first."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "A"
+      ]
+    },
+    "explanations": {
+      "A": "Selective treatment of evidence, rather than simply holding a preference, is the diagnostic feature of the reasoning pattern.",
+      "B": "Preferences may guide objectives without distorting evidence.",
+      "C": "Seeking replication can be good practice if favorable and unfavorable results receive equal scrutiny."
+    },
+    "relatedLawIds": [
+      "LAW-01"
+    ],
+    "relatedConceptIds": [
+      "CON-0001"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0002"
+    ],
+    "revision": 2
+  },
+  {
+    "id": "EXR-0002",
+    "exerciseType": "multiple_choice",
+    "prompt": "A decision-maker feels anxious about a launch. Which action most directly tests whether confirmation bias is affecting the plan?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Seek a concrete failure scenario and contradictory evidence"
+      },
+      {
+        "id": "B",
+        "text": "Assume anxiety means the launch must fail"
+      },
+      {
+        "id": "C",
+        "text": "Reassure everyone that feelings are irrelevant"
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "A"
+      ]
+    },
+    "explanations": {
+      "A": "Correct: the question is about testing the preferred conclusion, not suppressing emotions.",
+      "B": "Anxiety alone is not a forecast.",
+      "C": "Emotions can contain relevant information; evidence still matters."
+    },
+    "relatedLawIds": [
+      "LAW-01"
+    ],
+    "relatedConceptIds": [
+      "CON-0001"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0002"
+    ]
+  },
+  {
+    "id": "EXR-0003",
+    "exerciseType": "multiple_choice",
+    "prompt": "Fictional: A colleague raises their voice while discussing an overdue report. Which note best separates observation from interpretation?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The voice became louder, so prior unresolved conflict is the likely cause."
+      },
+      {
+        "id": "B",
+        "text": "The voice became louder; stress, concern or anger remain hypotheses."
+      },
+      {
+        "id": "C",
+        "text": "The voice became louder, which establishes the speaker's judgment was impaired."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "B"
+      ]
+    },
+    "explanations": {
+      "B": "Only the change in volume is observed. The competing explanations need more information.",
+      "A": "Prior conflict is possible but is not established by volume alone.",
+      "C": "Emotion and impaired judgment are different claims; evaluate the actual argument."
+    },
+    "relatedLawIds": [
+      "LAW-01"
+    ],
+    "relatedConceptIds": [
+      "CON-0002"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0007"
+    ],
+    "revision": 2
+  },
+  {
+    "id": "EXR-0004",
+    "exerciseType": "multiple_choice",
+    "prompt": "Fictional: A colleague repeatedly redirects discussion to their achievements, especially in meetings with a supervisor. What is the most defensible interpretation?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The audience dependence establishes a persistent need for admiration."
+      },
+      {
+        "id": "B",
+        "text": "Validation seeking is plausible, but incentives, habit and audience also matter."
+      },
+      {
+        "id": "C",
+        "text": "The pattern is sufficiently explained by normal career incentives, so no further observation is useful."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "B"
+      ]
+    },
+    "explanations": {
+      "B": "The repeated pattern is worth studying, but a motive and a clinical diagnosis cannot be inferred from it.",
+      "A": "Audience dependence is consistent with several mechanisms, including role demands.",
+      "C": "Career incentives are a rival explanation, not a reason to ignore recurring conduct."
+    },
+    "relatedLawIds": [
+      "LAW-02"
+    ],
+    "relatedConceptIds": [
+      "CON-0006"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0005"
+    ],
+    "revision": 2
+  },
+  {
+    "id": "EXR-0005",
+    "exerciseType": "multiple_choice",
+    "prompt": "What is a stronger test of whether you understood another person’s perspective?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Rely entirely on your first visceral impression"
+      },
+      {
+        "id": "B",
+        "text": "Ask them to clarify and update your interpretation"
+      },
+      {
+        "id": "C",
+        "text": "Infer their childhood history from their posture"
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "B"
+      ]
+    },
+    "explanations": {
+      "A": "An initial impression is fallible.",
+      "B": "Correct: direct feedback checks an interpretation.",
+      "C": "The information is not justified from a gesture."
+    },
+    "relatedLawIds": [
+      "LAW-02"
+    ],
+    "relatedConceptIds": [
+      "CON-0005"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0010"
+    ]
+  },
+  {
+    "id": "EXR-0006",
+    "exerciseType": "multiple_choice",
+    "prompt": "Fictional: A normally talkative employee avoids eye contact during a difficult review. What would most improve an inference about the behavior?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Compare their eye contact with the team's average during routine meetings."
+      },
+      {
+        "id": "B",
+        "text": "Compare their baseline, the review context and verbal account before drawing a conclusion."
+      },
+      {
+        "id": "C",
+        "text": "Give the change greater weight because the employee knows the stakes."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "B"
+      ]
+    },
+    "explanations": {
+      "B": "A within-person contextual comparison and clarification reduce unsupported inferences. A cue is not a lie detector.",
+      "A": "Group averages may miss personal or cultural differences and the change in stakes.",
+      "C": "High stakes can explain nervousness even when the employee is truthful."
+    },
+    "relatedLawIds": [
+      "LAW-03"
+    ],
+    "relatedConceptIds": [
+      "CON-0008"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0015",
+      "REF-0133"
+    ],
+    "revision": 2,
+    "relatedResearchFindingIds": [
+      "RES-0001"
+    ]
+  },
+  {
+    "id": "EXR-0007",
+    "exerciseType": "multiple_choice",
+    "prompt": "An employee adopts a confident tone for a public presentation despite feeling nervous. Which distinction is most appropriate?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Role adaptation can be appropriate without fraud"
+      },
+      {
+        "id": "B",
+        "text": "All presentation styles conceal malicious motives"
+      },
+      {
+        "id": "C",
+        "text": "A confident voice always proves confidence"
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "A"
+      ]
+    },
+    "explanations": {
+      "A": "Correct: professional role-playing is not necessarily manipulation.",
+      "B": "The blanket claim is unsupported.",
+      "C": "Presentation and internal state can differ."
+    },
+    "relatedLawIds": [
+      "LAW-03"
+    ],
+    "relatedConceptIds": [
+      "CON-0007"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0017"
+    ]
+  },
+  {
+    "id": "EXR-0008",
+    "exerciseType": "multiple_choice",
+    "prompt": "An executive has missed 3 deliverables under different managers. What should a careful evaluator do?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Assume a permanent character defect"
+      },
+      {
+        "id": "B",
+        "text": "Review the specific constraints, records and recurring behavior before concluding"
+      },
+      {
+        "id": "C",
+        "text": "Ignore the pattern because context always excuses missed delivery"
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "B"
+      ]
+    },
+    "explanations": {
+      "A": "Change and contextual constraints matter.",
+      "B": "Correct: inspect repeat evidence and alternatives.",
+      "C": "Patterns can be relevant without being definitive."
+    },
+    "relatedLawIds": [
+      "LAW-04"
+    ],
+    "relatedConceptIds": [
+      "CON-0010",
+      "CON-0011"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0020",
+      "REF-0134"
+    ],
+    "relatedResearchFindingIds": [
+      "RES-0002"
+    ]
+  },
+  {
+    "id": "EXR-0009",
+    "exerciseType": "multiple_choice",
+    "prompt": "What is the strongest reason to treat the Howard Hughes account cautiously?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Greene’s inferred childhood motives have not been independently established here"
+      },
+      {
+        "id": "B",
+        "text": "An engaging historical story proves a universal personality law"
+      },
+      {
+        "id": "C",
+        "text": "Every account of a historical person is necessarily false"
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "A"
+      ]
+    },
+    "explanations": {
+      "A": "Correct: Greene’s attributed interpretation and independent evidence are distinct.",
+      "B": "Anecdotes cannot prove universality.",
+      "C": "Some facts may be documented, but this dataset has not verified them."
+    },
+    "relatedLawIds": [
+      "LAW-04"
+    ],
+    "relatedConceptIds": [
+      "CON-0010"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0018"
+    ],
+    "relatedCaseIds": [
+      "CAS-0004"
+    ]
+  },
+  {
+    "id": "EXR-0010",
+    "exerciseType": "multiple_choice",
+    "prompt": "Fictional: Sales rise after a store announces limited stock and simultaneously offers free shipping. What would best isolate the proposed scarcity mechanism?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Compare sales this week with last week, because the difference captures the campaign."
+      },
+      {
+        "id": "b",
+        "text": "Compare otherwise similar offers with and without genuine scarcity information while holding shipping constant."
+      },
+      {
+        "id": "c",
+        "text": "Ask purchasers whether the product seemed desirable after buying it."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "b"
+      ]
+    },
+    "explanations": {
+      "b": "Holding the shipping offer constant helps separate scarcity information from a price-related incentive; results would still be context-specific.",
+      "a": "The before-after comparison combines two changes and possible time effects.",
+      "c": "Retrospective reports may be informative but cannot alone isolate the causal contribution."
+    },
+    "relatedLawIds": [
+      "LAW-05"
+    ],
+    "relatedConceptIds": [
+      "CON-0013",
+      "CON-0014"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0023"
+    ],
+    "revision": 2
+  },
+  {
+    "id": "EXR-0011",
+    "exerciseType": "multiple_choice",
+    "prompt": "Fictional: A buyer wants an expensive laptop for reliable editing and because colleagues admire its brand. How should the two motives be assessed?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Use the buyer's willingness to pay as the measure of practical need."
+      },
+      {
+        "id": "b",
+        "text": "Evaluate the functional requirement separately from the symbolic appeal, allowing both to influence the choice."
+      },
+      {
+        "id": "c",
+        "text": "Classify the purchase as projected desire whenever a less expensive laptop exists."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "b"
+      ]
+    },
+    "explanations": {
+      "b": "Function and imagined status are distinct dimensions; a single purchase can satisfy both.",
+      "a": "Willingness to pay includes preferences and constraints, not just functional requirements.",
+      "c": "A cheaper alternative may fail legitimate workflow or reliability requirements."
+    },
+    "relatedLawIds": [
+      "LAW-05"
+    ],
+    "relatedConceptIds": [
+      "CON-0013",
+      "CON-0014"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0023"
+    ],
+    "revision": 2
+  },
+  {
+    "id": "EXR-0012",
+    "exerciseType": "multiple_choice",
+    "prompt": "Fictional: A team chooses a supplier after reviewing delivery risks; an unexpected port closure causes failure. What would justify calling the choice shortsighted?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Evidence that another supplier would have delivered on time, discovered only afterward."
+      },
+      {
+        "id": "b",
+        "text": "Evidence that foreseeable delayed costs or realistic contingencies were systematically ignored at decision time."
+      },
+      {
+        "id": "c",
+        "text": "Evidence that the team considered immediate cash flow a major factor."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "b"
+      ]
+    },
+    "explanations": {
+      "b": "Evaluate the information and tradeoffs available before commitment; failure alone is not proof of a short horizon.",
+      "a": "Hindsight reveals alternatives but cannot establish that they were predictable.",
+      "c": "Near-term cash flow may be a rational constraint when considered alongside later risks."
+    },
+    "relatedLawIds": [
+      "LAW-06"
+    ],
+    "relatedConceptIds": [
+      "CON-0016",
+      "CON-0017"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0029"
+    ],
+    "revision": 2
+  },
+  {
+    "id": "EXR-0013",
+    "exerciseType": "multiple_choice",
+    "prompt": "Fictional: A rapid launch would bring revenue but leave maintenance work for another team. Which planning change best tests the decision horizon?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Postpone the launch until all future maintenance costs can be known precisely."
+      },
+      {
+        "id": "b",
+        "text": "Compare early revenue with delayed maintenance costs, downside scenarios and the affected team's capacity."
+      },
+      {
+        "id": "c",
+        "text": "Increase the forecast period while leaving the assumptions about maintenance unchanged."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "b"
+      ]
+    },
+    "explanations": {
+      "b": "A wider perspective includes timing, uncertainty and who bears the costs; it may still favor launch.",
+      "a": "Certainty is rarely available; waiting also has a cost.",
+      "c": "A longer spreadsheet is not a better forecast if key costs remain excluded."
+    },
+    "relatedLawIds": [
+      "LAW-06"
+    ],
+    "relatedConceptIds": [
+      "CON-0016",
+      "CON-0017"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0029"
+    ],
+    "revision": 2
+  },
+  {
+    "id": "EXR-0014",
+    "exerciseType": "multiple_choice",
+    "prompt": "Fictional: A manager requests overtime and says refusal may reduce future scheduled hours. What distinguishes persuasion from coercion here?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Whether the overtime rate is generous compared with alternatives."
+      },
+      {
+        "id": "b",
+        "text": "Whether the employee can realistically refuse without a threatened material penalty."
+      },
+      {
+        "id": "c",
+        "text": "Whether the manager uses respectful wording during the request."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "b"
+      ]
+    },
+    "explanations": {
+      "b": "The practical freedom to refuse matters independently of pay or tone.",
+      "a": "Generous pay does not remove a threat tied to refusal.",
+      "c": "A polite request may still be coercive if a credible penalty is attached."
+    },
+    "relatedLawIds": [
+      "LAW-07"
+    ],
+    "relatedConceptIds": [
+      "CON-0019",
+      "CON-0020"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0035"
+    ],
+    "revision": 2
+  },
+  {
+    "id": "EXR-0015",
+    "exerciseType": "multiple_choice",
+    "prompt": "Fictional: A colleague challenges your plan after their own proposal was rejected. What information best distinguishes identity threat from a substantive objection?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Observe whether they sound more emotional when discussing their rejected proposal."
+      },
+      {
+        "id": "b",
+        "text": "Ask for specific objections and test them against the same criteria applied to other plans."
+      },
+      {
+        "id": "c",
+        "text": "Check whether they previously supported a plan with similar goals."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "b"
+      ]
+    },
+    "explanations": {
+      "b": "Testing the actual objections gives them a fair hearing and may reveal genuine problems; motive remains uncertain.",
+      "a": "Emotional tone can reflect disappointment or real concern, so it is not decisive.",
+      "c": "Past agreement may be relevant but changes in context can justify new objections."
+    },
+    "relatedLawIds": [
+      "LAW-07"
+    ],
+    "relatedConceptIds": [
+      "CON-0019",
+      "CON-0020"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0035",
+      "REF-0135"
+    ],
+    "revision": 2,
+    "relatedResearchFindingIds": [
+      "RES-0003"
+    ]
+  },
+  {
+    "id": "EXR-0016",
+    "exerciseType": "multiple_choice",
+    "prompt": "A person feels wary after prior mistreatment. Which interpretation avoids victim-blaming?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Wary attitude alone created the mistreatment."
+      },
+      {
+        "id": "b",
+        "text": "Caution may be justified; agency and external harm should be evaluated separately."
+      },
+      {
+        "id": "c",
+        "text": "A positive mindset guarantees safety."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "b"
+      ]
+    },
+    "explanations": {
+      "a": "Conditions and history shape legitimate caution.",
+      "b": "An expectation can sometimes affect interaction but does not cause every external event.",
+      "c": "Conditions and history shape legitimate caution."
+    },
+    "relatedLawIds": [
+      "LAW-08"
+    ],
+    "relatedConceptIds": [
+      "CON-0022",
+      "CON-0023"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0041"
+    ]
+  },
+  {
+    "id": "EXR-0017",
+    "exerciseType": "multiple_choice",
+    "prompt": "What best tests whether a negative interpretation is self-reinforcing?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Assume the person has a bad character."
+      },
+      {
+        "id": "b",
+        "text": "Compare observable events, alternative causes, interaction patterns and constraints."
+      },
+      {
+        "id": "c",
+        "text": "Only measure how optimistic the person feels."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "b"
+      ]
+    },
+    "explanations": {
+      "a": "Structural constraints must not be erased.",
+      "b": "Evidence and alternatives are required before assigning causality.",
+      "c": "Structural constraints must not be erased."
+    },
+    "relatedLawIds": [
+      "LAW-08"
+    ],
+    "relatedConceptIds": [
+      "CON-0022",
+      "CON-0023"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0041"
+    ]
+  },
+  {
+    "id": "EXR-0018",
+    "exerciseType": "multiple_choice",
+    "prompt": "Fictional: A manager praises dissent but critics repeatedly lose meeting access. What is the strongest justified conclusion?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The inconsistency makes a disowned hostile motive more likely than administrative causes."
+      },
+      {
+        "id": "b",
+        "text": "The conduct conflicts with the public commitment; investigate access rules and decision patterns."
+      },
+      {
+        "id": "c",
+        "text": "The discrepancy is inconclusive, so there is no basis for reviewing exclusion."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "b"
+      ]
+    },
+    "explanations": {
+      "b": "The observable discrepancy warrants action and investigation even though private motives remain unknown.",
+      "a": "A shadow interpretation is one hypothesis, not a comparative probability established by these facts.",
+      "c": "Uncertain motive does not make a recurring exclusion unimportant."
+    },
+    "relatedLawIds": [
+      "LAW-09"
+    ],
+    "relatedConceptIds": [
+      "CON-0025",
+      "CON-0026"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0047",
+      "REF-0048"
+    ],
+    "revision": 2
+  },
+  {
+    "id": "EXR-0019",
+    "exerciseType": "multiple_choice",
+    "prompt": "Which pair must be kept distinct in a research dossier on repression?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Greene’s Jungian interpretation and independently tested memory mechanisms."
+      },
+      {
+        "id": "b",
+        "text": "Social appearance and observed action, because they are always identical."
+      },
+      {
+        "id": "c",
+        "text": "An inferred motive and a documented event, because neither can be evaluated."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "a"
+      ]
+    },
+    "explanations": {
+      "a": "Greene’s psychodynamic account is an authorial interpretation; independent memory research would need its own design and evidence.",
+      "b": "Public presentation can differ from behavior, but they are not identical.",
+      "c": "Documented events can be checked; inferred motives require more evidence."
+    },
+    "relatedLawIds": [
+      "LAW-09"
+    ],
+    "relatedConceptIds": [
+      "CON-0025",
+      "CON-0026"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0047",
+      "REF-0049"
+    ]
+  },
+  {
+    "id": "EXR-0020",
+    "exerciseType": "multiple_choice",
+    "prompt": "Which fictional response illustrates ethical self-integration?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Using anger to justify retaliation."
+      },
+      {
+        "id": "b",
+        "text": "Claiming to have recovered another person’s hidden memories."
+      },
+      {
+        "id": "c",
+        "text": "Acknowledging resentment and choosing accountable, non-harmful conduct."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "c"
+      ]
+    },
+    "explanations": {
+      "a": "Feeling anger does not justify harming others.",
+      "b": "An inferred memory is not established by observation or imagination.",
+      "c": "Acknowledging a feeling without acting harmfully separates awareness from endorsement."
+    },
+    "relatedLawIds": [
+      "LAW-09"
+    ],
+    "relatedConceptIds": [
+      "CON-0025",
+      "CON-0026"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0047",
+      "REF-0050"
+    ]
+  },
+  {
+    "id": "EXR-0021",
+    "exerciseType": "multiple_choice",
+    "prompt": "Fictional: A colleague disputes award criteria after a peer wins. What evidence most distinguishes a fairness objection from an envy hypothesis?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Compare their emotional intensity with the winner's reaction."
+      },
+      {
+        "id": "b",
+        "text": "Compare the stated objection with published criteria and their behavior in similar awards when they were not competing."
+      },
+      {
+        "id": "c",
+        "text": "Ask whether the colleague would have preferred to win the award."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "b"
+      ]
+    },
+    "explanations": {
+      "b": "Consistency across situations and procedural evidence help distinguish explanations; they do not establish a private emotion.",
+      "a": "Intensity can reflect perceived injustice or disappointment.",
+      "c": "Wanting the award is compatible with fair criticism and ordinary ambition."
+    },
+    "relatedLawIds": [
+      "LAW-10"
+    ],
+    "relatedConceptIds": [
+      "CON-0028",
+      "CON-0029"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0053",
+      "REF-0054"
+    ],
+    "revision": 2
+  },
+  {
+    "id": "EXR-0022",
+    "exerciseType": "multiple_choice",
+    "prompt": "Which distinction is accurate?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Envy and jealousy always mean the same thing."
+      },
+      {
+        "id": "b",
+        "text": "Admiration must eventually become sabotage."
+      },
+      {
+        "id": "c",
+        "text": "Envy concerns another’s advantage; jealousy often concerns a threatened relationship."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "c"
+      ]
+    },
+    "explanations": {
+      "a": "Envy concerns another’s advantage; jealousy more often involves a threatened relationship, though everyday language overlaps.",
+      "b": "Admiration can coexist with comparison and need not lead to harm.",
+      "c": "The target of the concern distinguishes the concepts; neither feeling can be diagnosed from one action."
+    },
+    "relatedLawIds": [
+      "LAW-10"
+    ],
+    "relatedConceptIds": [
+      "CON-0028",
+      "CON-0029"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0053",
+      "REF-0055"
+    ]
+  },
+  {
+    "id": "EXR-0023",
+    "exerciseType": "multiple_choice",
+    "prompt": "How should a team handle possible envy-related sabotage?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Document and address harmful actions without claiming to read the culprit’s mind."
+      },
+      {
+        "id": "b",
+        "text": "Label every underperforming colleague as envious."
+      },
+      {
+        "id": "c",
+        "text": "Ignore demonstrable harm because motive is unverified."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "a"
+      ]
+    },
+    "explanations": {
+      "a": "Address documented conduct and protect fair process; the motive need not be known.",
+      "b": "Underperformance may reflect capacity, instructions or other causes.",
+      "c": "Uncertain motive does not remove the need to address concrete harm."
+    },
+    "relatedLawIds": [
+      "LAW-10"
+    ],
+    "relatedConceptIds": [
+      "CON-0028",
+      "CON-0029"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0053",
+      "REF-0056"
+    ]
+  },
+  {
+    "id": "EXR-0024",
+    "exerciseType": "multiple_choice",
+    "prompt": "After a surprising business loss, which inference is strongest?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The CEO has a personality disorder."
+      },
+      {
+        "id": "b",
+        "text": "Review the decision process, forecasts and available information rather than diagnosing a person."
+      },
+      {
+        "id": "c",
+        "text": "Any prior success was pure luck."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "b"
+      ]
+    },
+    "explanations": {
+      "a": "A business loss cannot establish a clinical diagnosis.",
+      "b": "Process review separates forecast quality, uncertainty and available evidence from hindsight.",
+      "c": "Prior success may reflect skill, luck and circumstance together."
+    },
+    "relatedLawIds": [
+      "LAW-11"
+    ],
+    "relatedConceptIds": [
+      "CON-0031",
+      "CON-0032"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0060",
+      "REF-0061"
+    ]
+  },
+  {
+    "id": "EXR-0025",
+    "exerciseType": "multiple_choice",
+    "prompt": "Fictional: A founder forecasts eight successful projects out of ten and completes five. What is needed to assess overconfidence rather than ordinary confidence?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "A series of comparable forecasts, their uncertainty, outcomes and information available when made."
+      },
+      {
+        "id": "b",
+        "text": "A comparison with the founder's most successful project."
+      },
+      {
+        "id": "c",
+        "text": "A measure of how confident the founder sounded in the presentations."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "a"
+      ]
+    },
+    "explanations": {
+      "a": "Calibration compares judgments with evidence and repeated outcomes. One shortfall alone need not establish miscalibration.",
+      "b": "A standout success is a selected outcome, not a calibration sample.",
+      "c": "Presentation style is not a measure of forecast accuracy."
+    },
+    "relatedLawIds": [
+      "LAW-11"
+    ],
+    "relatedConceptIds": [
+      "CON-0031",
+      "CON-0032"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0060",
+      "REF-0062"
+    ],
+    "revision": 2
+  },
+  {
+    "id": "EXR-0026",
+    "exerciseType": "multiple_choice",
+    "prompt": "Which response demonstrates practical ambition?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Ban all ambitious plans."
+      },
+      {
+        "id": "b",
+        "text": "Require colleagues to endorse the founder’s exceptional judgment."
+      },
+      {
+        "id": "c",
+        "text": "Set a challenging goal with feedback milestones and criteria for revision."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "c"
+      ]
+    },
+    "explanations": {
+      "a": "Rejecting ambition entirely loses the distinction between aspiration and overconfidence.",
+      "b": "Enforced agreement removes corrective feedback and can conceal errors.",
+      "c": "An ambitious goal can coexist with measurable limits, feedback and revision."
+    },
+    "relatedLawIds": [
+      "LAW-11"
+    ],
+    "relatedConceptIds": [
+      "CON-0031",
+      "CON-0032"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0060",
+      "REF-0063"
+    ]
+  },
+  {
+    "id": "EXR-0027",
+    "exerciseType": "multiple_choice",
+    "prompt": "An employer calls a woman 'too forceful' for an action praised in male peers. What is the first research question?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Which anima/animus trait dominates her?"
+      },
+      {
+        "id": "b",
+        "text": "Are performance standards and organizational responses applied consistently?"
+      },
+      {
+        "id": "c",
+        "text": "Does this prove a universal female communication style?"
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "b"
+      ]
+    },
+    "explanations": {
+      "a": "The Jungian vocabulary does not establish why the employer treats workers differently.",
+      "b": "Comparing standards and actual conduct can test differential treatment without asserting a private motive.",
+      "c": "An individual workplace comparison cannot establish a universal communication style."
+    },
+    "relatedLawIds": [
+      "LAW-12"
+    ],
+    "relatedConceptIds": [
+      "CON-0034",
+      "CON-0035"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0066",
+      "REF-0067"
+    ]
+  },
+  {
+    "id": "EXR-0028",
+    "exerciseType": "multiple_choice",
+    "prompt": "How should Jung’s anima/animus vocabulary appear in an evidence-aware encyclopedia?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "As Greene’s framework with explicit unassessed empirical status."
+      },
+      {
+        "id": "b",
+        "text": "As validated neuroscience describing all people."
+      },
+      {
+        "id": "c",
+        "text": "As a diagnosis assignable through partner selection."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "a"
+      ]
+    },
+    "explanations": {
+      "a": "The theory belongs to Greene’s framework; attributing it accurately is not empirical validation.",
+      "b": "The linked evidence does not validate a universal neural or binary psychological mechanism.",
+      "c": "Partner selection is not a clinical diagnostic instrument."
+    },
+    "relatedLawIds": [
+      "LAW-12"
+    ],
+    "relatedConceptIds": [
+      "CON-0034",
+      "CON-0035"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0066",
+      "REF-0068",
+      "REF-0136"
+    ],
+    "relatedResearchFindingIds": [
+      "RES-0004"
+    ]
+  },
+  {
+    "id": "EXR-0029",
+    "exerciseType": "multiple_choice",
+    "prompt": "Which interpretation of Caterina Sforza is most responsible?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "She proves courage is masculine."
+      },
+      {
+        "id": "b",
+        "text": "She proves sex has no impact on any historical institution."
+      },
+      {
+        "id": "c",
+        "text": "Her behavior is situated within her education, political position and historical constraints."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "c"
+      ]
+    },
+    "explanations": {
+      "a": "A historical example does not make courage inherently masculine.",
+      "b": "One biography cannot establish absence of sex-related institutional constraints.",
+      "c": "Education, position and historical constraints are relevant rival explanations; private motives remain uncertain."
+    },
+    "relatedLawIds": [
+      "LAW-12"
+    ],
+    "relatedConceptIds": [
+      "CON-0034",
+      "CON-0035"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0066",
+      "REF-0069"
+    ],
+    "relatedCaseIds": [
+      "CAS-0012"
+    ]
+  },
+  {
+    "id": "EXR-0030",
+    "exerciseType": "multiple_choice",
+    "prompt": "Which is the strongest distinction between purpose and a fixed destiny?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "A meaningful project can be deliberately chosen and revised."
+      },
+      {
+        "id": "b",
+        "text": "A childhood interest determines every later occupation."
+      },
+      {
+        "id": "c",
+        "text": "A high income always proves a true calling."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "a"
+      ]
+    },
+    "explanations": {
+      "a": "Purpose may be chosen and revised in light of experience and constraints.",
+      "b": "Childhood interests can inform choices without determining an entire career.",
+      "c": "Income is one outcome and does not establish alignment with values."
+    },
+    "relatedLawIds": [
+      "LAW-13"
+    ],
+    "relatedConceptIds": [
+      "CON-0037"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0073",
+      "REF-0080"
+    ]
+  },
+  {
+    "id": "EXR-0031",
+    "exerciseType": "multiple_choice",
+    "prompt": "Why might a goal ladder help without guaranteeing outcomes?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "It eliminates economic barriers."
+      },
+      {
+        "id": "b",
+        "text": "It translates values into practical steps and feedback."
+      },
+      {
+        "id": "c",
+        "text": "It proves every setback was necessary."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "b"
+      ]
+    },
+    "explanations": {
+      "a": "Milestones cannot eliminate material and economic constraints.",
+      "b": "Breaking a valued goal into concrete steps makes feedback and revision possible.",
+      "c": "Setbacks can be avoidable, random or structural; they need not be necessary."
+    },
+    "relatedLawIds": [
+      "LAW-13"
+    ],
+    "relatedConceptIds": [
+      "CON-0038"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0073",
+      "REF-0080"
+    ]
+  },
+  {
+    "id": "EXR-0032",
+    "exerciseType": "multiple_choice",
+    "prompt": "What is the most careful interpretation of King in Greene’s narrative?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "One biography proves purpose causes success."
+      },
+      {
+        "id": "b",
+        "text": "All participants in the movement shared the same private motive."
+      },
+      {
+        "id": "c",
+        "text": "The narrative offers an illustrative case; independent history and causal analysis remain open."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "c"
+      ]
+    },
+    "explanations": {
+      "a": "A single selected biography cannot establish a causal effect of purpose.",
+      "b": "Shared membership does not establish identical motives.",
+      "c": "Greene’s account illustrates a hypothesis; historical corroboration and causal assessment are separate."
+    },
+    "relatedLawIds": [
+      "LAW-13"
+    ],
+    "relatedConceptIds": [
+      "CON-0039"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0073",
+      "REF-0076"
+    ],
+    "relatedCaseIds": [
+      "CAS-0013"
+    ]
+  },
+  {
+    "id": "EXR-0033",
+    "exerciseType": "multiple_choice",
+    "prompt": "Fictional: A committee votes unanimously after hearing a respected member's objection. What does the vote itself establish?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The objection persuaded most members because the vote changed immediately afterward."
+      },
+      {
+        "id": "b",
+        "text": "The members publicly selected the same outcome; their reasons remain open."
+      },
+      {
+        "id": "c",
+        "text": "The members were influenced mainly by social pressure rather than by information."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "b"
+      ]
+    },
+    "explanations": {
+      "b": "The vote records public behavior, not private belief or causal mechanism.",
+      "a": "Timing is consistent with persuasion but also other mechanisms.",
+      "c": "Pressure is plausible but the vote alone does not establish it."
+    },
+    "relatedLawIds": [
+      "LAW-14"
+    ],
+    "relatedConceptIds": [
+      "CON-0040"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0083",
+      "REF-0090"
+    ],
+    "revision": 2
+  },
+  {
+    "id": "EXR-0034",
+    "exerciseType": "multiple_choice",
+    "prompt": "Fictional: Two committees reach identical consensus. Which additional observation most distinguishes informed agreement from conformity pressure?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Members independently describe evidence-based reasons and can dissent without penalty."
+      },
+      {
+        "id": "b",
+        "text": "Members use the same technical vocabulary when explaining the decision."
+      },
+      {
+        "id": "c",
+        "text": "The committee took several meetings to reach its agreement."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "a"
+      ]
+    },
+    "explanations": {
+      "a": "Independent reasons and safe dissent make evidence-based consensus more plausible, though not certain.",
+      "b": "Shared vocabulary can result from training or imitation.",
+      "c": "Time spent deliberating is not necessarily evidence of independent judgment."
+    },
+    "relatedLawIds": [
+      "LAW-14"
+    ],
+    "relatedConceptIds": [
+      "CON-0041"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0083",
+      "REF-0090"
+    ],
+    "revision": 2
+  },
+  {
+    "id": "EXR-0035",
+    "exerciseType": "multiple_choice",
+    "prompt": "Why is Greene’s Cultural Revolution narrative unsuitable as a direct team analogy?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "It happened outside Europe."
+      },
+      {
+        "id": "b",
+        "text": "It involves writing."
+      },
+      {
+        "id": "c",
+        "text": "Political coercion and personal danger differ from voluntary team decisions."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "c"
+      ]
+    },
+    "explanations": {
+      "a": "Geography alone is not the important difference; the relevant variables are institutional context and risk.",
+      "b": "Written material can be evidence in many contexts; the medium does not explain group pressure.",
+      "c": "Political coercion and personal danger alter available choices; do not equate them with voluntary workplace discussion."
+    },
+    "relatedLawIds": [
+      "LAW-14"
+    ],
+    "relatedConceptIds": [
+      "CON-0042"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0083",
+      "REF-0086"
+    ],
+    "relatedCaseIds": [
+      "CAS-0014"
+    ]
+  },
+  {
+    "id": "EXR-0036",
+    "exerciseType": "multiple_choice",
+    "prompt": "Fictional: A leader's decisions are followed even when absent. What evidence best supports accountable authority rather than compliance driven by dependence?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Members follow procedures even when the leader is not present."
+      },
+      {
+        "id": "b",
+        "text": "Members can challenge decisions without retaliation, and the leader explains and revises judgments when warranted."
+      },
+      {
+        "id": "c",
+        "text": "The leader's decisions have generally produced favorable outcomes."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "b"
+      ]
+    },
+    "explanations": {
+      "b": "Accountability and safe challenge show a meaningful basis for legitimacy beyond compliance alone.",
+      "a": "Dependence and fear of later consequences can persist in the leader's absence.",
+      "c": "Success may support competence but does not establish how dissent is treated."
+    },
+    "relatedLawIds": [
+      "LAW-15"
+    ],
+    "relatedConceptIds": [
+      "CON-0043"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0093",
+      "REF-0100"
+    ],
+    "revision": 2
+  },
+  {
+    "id": "EXR-0037",
+    "exerciseType": "multiple_choice",
+    "prompt": "What could explain a follower’s reduced loyalty?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Changed facts, unmet commitments or unfair treatment."
+      },
+      {
+        "id": "b",
+        "text": "Only a defective follower personality."
+      },
+      {
+        "id": "c",
+        "text": "Always envy of a successful leader."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "a"
+      ]
+    },
+    "explanations": {
+      "a": "Changed circumstances and unmet commitments may make withdrawal reasonable.",
+      "b": "A change in support does not establish a personality defect.",
+      "c": "Envy is only one possible hypothesis and is not implied by withdrawal."
+    },
+    "relatedLawIds": [
+      "LAW-15"
+    ],
+    "relatedConceptIds": [
+      "CON-0044"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0093",
+      "REF-0100"
+    ]
+  },
+  {
+    "id": "EXR-0038",
+    "exerciseType": "multiple_choice",
+    "prompt": "How should Elizabeth I’s political narrative be used?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "As an exact universal leadership manual."
+      },
+      {
+        "id": "b",
+        "text": "As proof theatrical presentation is always effective."
+      },
+      {
+        "id": "c",
+        "text": "As a book-attributed historical case requiring institutional and archival context."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "c"
+      ]
+    },
+    "explanations": {
+      "a": "Historical institutions differ from modern organizations; no exact universal manual follows.",
+      "b": "Presentation may contribute to authority but effectiveness depends on context and other factors.",
+      "c": "Treat the narrative as book-attributed; institutions, documented events and Greene’s interpretation need separate treatment."
+    },
+    "relatedLawIds": [
+      "LAW-15"
+    ],
+    "relatedConceptIds": [
+      "CON-0045"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0093",
+      "REF-0096"
+    ],
+    "relatedCaseIds": [
+      "CAS-0015"
+    ]
+  },
+  {
+    "id": "EXR-0039",
+    "exerciseType": "multiple_choice",
+    "prompt": "Which observation most warrants concern about coercive pressure?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "One respectful refusal"
+      },
+      {
+        "id": "b",
+        "text": "Documented repeated threats affecting the ability to choose"
+      },
+      {
+        "id": "c",
+        "text": "A calm tone"
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "b"
+      ]
+    },
+    "explanations": {
+      "a": "A respectful refusal may indicate autonomy rather than coercion.",
+      "b": "Repeated documented threats tied to choices are conduct that warrants attention without guessing motive.",
+      "c": "A calm tone alone cannot establish the absence or presence of coercion."
+    },
+    "relatedLawIds": [
+      "LAW-16"
+    ],
+    "relatedConceptIds": [
+      "CON-0046"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0103",
+      "REF-0112"
+    ]
+  },
+  {
+    "id": "EXR-0040",
+    "exerciseType": "multiple_choice",
+    "prompt": "Fictional: A colleague misses three deadlines after a responsibility dispute. What is the best next step?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Treat the timing after the dispute as the main evidence of covert hostility."
+      },
+      {
+        "id": "b",
+        "text": "Wait for an explicit admission before discussing any missed deadlines."
+      },
+      {
+        "id": "c",
+        "text": "Check workload, instructions, communication and the pattern; address concrete delays without asserting revenge."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "c"
+      ]
+    },
+    "explanations": {
+      "c": "The sequence merits investigation and practical boundaries, but cannot establish intent.",
+      "a": "Timing can reflect changes in workload or role clarity as well as conflict.",
+      "b": "Documented disruption can be addressed without proving motive."
+    },
+    "relatedLawIds": [
+      "LAW-16"
+    ],
+    "relatedConceptIds": [
+      "CON-0047"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0103",
+      "REF-0112"
+    ],
+    "revision": 2
+  },
+  {
+    "id": "EXR-0041",
+    "exerciseType": "multiple_choice",
+    "prompt": "What does constructive controlled aggression mean in this dossier?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Assertive goal pursuit with limits and accountability"
+      },
+      {
+        "id": "b",
+        "text": "Crushing opponents at any cost"
+      },
+      {
+        "id": "c",
+        "text": "Suppressing every objection"
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "a"
+      ]
+    },
+    "explanations": {
+      "a": "Firm, accountable pursuit of a goal can coexist with respect for others’ choices.",
+      "b": "Destruction of opponents disregards proportionality and legitimate interests.",
+      "c": "Suppressing objections removes feedback and is not necessary for constructive assertiveness."
+    },
+    "relatedLawIds": [
+      "LAW-16"
+    ],
+    "relatedConceptIds": [
+      "CON-0048"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0103",
+      "REF-0112"
+    ]
+  },
+  {
+    "id": "EXR-0042",
+    "exerciseType": "multiple_choice",
+    "prompt": "A fictional one-time survey finds different preferences among workers aged 25 and 60. What additional design would best investigate a cohort explanation?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Increase the sample in the same one-time survey until the age difference is statistically precise."
+      },
+      {
+        "id": "b",
+        "text": "Compare repeated measurements across age groups and periods, acknowledging remaining identification limits."
+      },
+      {
+        "id": "c",
+        "text": "Ask respondents which generation they identify with and attribute the difference to that identity."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "b"
+      ]
+    },
+    "explanations": {
+      "b": "Age, historical period and cohort are entangled; repeated observations can improve inquiry without automatically identifying causal cohort effects.",
+      "a": "Precision does not solve confounding among age, period and cohort.",
+      "c": "Identification with a label does not establish the cause of a preference."
+    },
+    "relatedLawIds": [
+      "LAW-17"
+    ],
+    "relatedConceptIds": [
+      "CON-0049"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0113",
+      "REF-0122",
+      "REF-0137"
+    ],
+    "revision": 2,
+    "relatedResearchFindingIds": [
+      "RES-0005"
+    ]
+  },
+  {
+    "id": "EXR-0043",
+    "exerciseType": "multiple_choice",
+    "prompt": "How should Greene’s French Revolution narrative be read?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "As evidence of one common generational mind"
+      },
+      {
+        "id": "b",
+        "text": "As a simple individual personality test"
+      },
+      {
+        "id": "c",
+        "text": "As a selected historical account with several institutional explanations"
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "c"
+      ]
+    },
+    "explanations": {
+      "a": "A historical cohort narrative does not establish one shared private mind.",
+      "b": "Individual personality is not an adequate explanation for institutional change.",
+      "c": "Economic crisis, institutions and other historical circumstances must be considered alongside Greene’s narrative."
+    },
+    "relatedLawIds": [
+      "LAW-17"
+    ],
+    "relatedConceptIds": [
+      "CON-0050"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0113",
+      "REF-0122"
+    ],
+    "relatedCaseIds": [
+      "CAS-0017"
+    ]
+  },
+  {
+    "id": "EXR-0044",
+    "exerciseType": "multiple_choice",
+    "prompt": "What is a more ethical use of historical period awareness?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Measure contemporary needs rather than stereotype by birth year"
+      },
+      {
+        "id": "b",
+        "text": "Assume younger users always prefer digital services"
+      },
+      {
+        "id": "c",
+        "text": "Ignore structural barriers"
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "a"
+      ]
+    },
+    "explanations": {
+      "a": "Historical context should motivate checking contemporary needs and designing inclusively.",
+      "b": "Age is not a reliable substitute for measuring preferences or access.",
+      "c": "Structural barriers can shape behavior independently of generational values."
+    },
+    "relatedLawIds": [
+      "LAW-17"
+    ],
+    "relatedConceptIds": [
+      "CON-0051"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0113",
+      "REF-0122"
+    ]
+  },
+  {
+    "id": "EXR-0045",
+    "exerciseType": "multiple_choice",
+    "prompt": "Which statement about mortality reflection is appropriately qualified?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Everyone benefits emotionally from the same meditation"
+      },
+      {
+        "id": "b",
+        "text": "A reflection may change priorities, but responses differ"
+      },
+      {
+        "id": "c",
+        "text": "Grief proves inability to cope"
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "b"
+      ]
+    },
+    "explanations": {
+      "a": "Individual and cultural differences make a universal benefit claim unsupported.",
+      "b": "Reflection may change priorities; its direction and emotional effect depend on context and are not established here.",
+      "c": "Grief does not establish inability to cope, nor does it justify a psychological diagnosis."
+    },
+    "relatedLawIds": [
+      "LAW-18"
+    ],
+    "relatedConceptIds": [
+      "CON-0052"
+    ],
+    "difficulty": "intermediate",
+    "sourceReferenceIds": [
+      "REF-0123",
+      "REF-0132",
+      "REF-0138"
+    ],
+    "relatedResearchFindingIds": [
+      "RES-0006"
+    ]
+  },
+  {
+    "id": "EXR-0046",
+    "exerciseType": "multiple_choice",
+    "prompt": "What can Greene’s Flannery O’Connor example establish?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "That all illness improves creativity"
+      },
+      {
+        "id": "b",
+        "text": "That private motives are clinically verified"
+      },
+      {
+        "id": "c",
+        "text": "That Greene develops a literary interpretation grounded in a selected biography"
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "c"
+      ]
+    },
+    "explanations": {
+      "a": "A selected biography cannot establish that illness generally improves creativity.",
+      "b": "Historical narrative does not clinically verify private motives.",
+      "c": "The case illustrates Greene’s literary interpretation, not a universal causal claim."
+    },
+    "relatedLawIds": [
+      "LAW-18"
+    ],
+    "relatedConceptIds": [
+      "CON-0053"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0123",
+      "REF-0132"
+    ],
+    "relatedCaseIds": [
+      "CAS-0018"
+    ]
+  },
+  {
+    "id": "EXR-0047",
+    "exerciseType": "multiple_choice",
+    "prompt": "Which ethical principle matters most in discussing death awareness?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Respect personal and cultural variation without pressuring positivity"
+      },
+      {
+        "id": "b",
+        "text": "Demand a productive lesson from every loss"
+      },
+      {
+        "id": "c",
+        "text": "Discourage medical care in favor of acceptance"
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "a"
+      ]
+    },
+    "explanations": {
+      "a": "Respecting autonomy and cultural variation matters; no positive response should be required.",
+      "b": "Pressuring a grieving person to find a lesson may disregard their circumstances.",
+      "c": "Reflection is not a substitute for appropriate medical care."
+    },
+    "relatedLawIds": [
+      "LAW-18"
+    ],
+    "relatedConceptIds": [
+      "CON-0054"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0123",
+      "REF-0132"
+    ]
+  },
+  {
+    "id": "EXR-0048",
+    "exerciseType": "evidence_classification",
+    "prompt": "Fictional: You watch a meeting recording in which Sam interrupts Lee twice. Classify the statement: Sam interrupted Lee twice.",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Direct observation"
+      },
+      {
+        "id": "b",
+        "text": "Reported information"
+      },
+      {
+        "id": "c",
+        "text": "Psychological inference"
+      },
+      {
+        "id": "d",
+        "text": "Unsupported assumption"
+      },
+      {
+        "id": "e",
+        "text": "Independently corroborated evidence"
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "a"
+      ]
+    },
+    "explanations": {
+      "a": "The recording permits the specified behavior to be counted; no motive is established.",
+      "b": "This would describe a secondhand account rather than the recording you inspected.",
+      "c": "Hostility or impatience would be interpretations, not the count.",
+      "d": "The count is supported by the stated recording.",
+      "e": "No separate independent corroboration was provided."
+    },
+    "relatedLawIds": [
+      "LAW-03"
+    ],
+    "relatedConceptIds": [
+      "CON-0008"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0015",
+      "REF-0133"
+    ],
+    "relatedCaseIds": [],
+    "relatedResearchFindingIds": [
+      "RES-0001"
+    ],
+    "revision": 1
+  },
+  {
+    "id": "EXR-0049",
+    "exerciseType": "evidence_classification",
+    "prompt": "Fictional: A coworker tells you that a supervisor withheld a memo. You have not seen the memo or delivery logs. Classify the statement as it reaches you.",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Direct observation"
+      },
+      {
+        "id": "b",
+        "text": "Reported information"
+      },
+      {
+        "id": "c",
+        "text": "Psychological inference"
+      },
+      {
+        "id": "d",
+        "text": "Unsupported assumption"
+      },
+      {
+        "id": "e",
+        "text": "Independently corroborated evidence"
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "b"
+      ]
+    },
+    "explanations": {
+      "a": "You did not inspect delivery evidence.",
+      "b": "A report is information from another person; its accuracy remains to be checked.",
+      "c": "Withholding is alleged conduct, not necessarily a motive inference.",
+      "d": "The report exists, though the alleged event is not yet established.",
+      "e": "There is no independent check described."
+    },
+    "relatedLawIds": [
+      "LAW-03",
+      "LAW-04"
+    ],
+    "relatedConceptIds": [
+      "CON-0008",
+      "CON-0011"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0015",
+      "REF-0020"
+    ],
+    "relatedCaseIds": [],
+    "relatedResearchFindingIds": [],
+    "revision": 1
+  },
+  {
+    "id": "EXR-0050",
+    "exerciseType": "multiple_interpretations",
+    "prompt": "Fictional: A teammate stops speaking after their suggestion is rejected. Select every explanation that remains plausible given only this information.",
+    "choices": [
+      {
+        "id": "a",
+        "text": "They are reconsidering the proposal."
+      },
+      {
+        "id": "b",
+        "text": "They are disappointed or worried about how they were perceived."
+      },
+      {
+        "id": "c",
+        "text": "The silence establishes deliberate retaliation."
+      },
+      {
+        "id": "d",
+        "text": "They are giving the discussion space because others have started speaking."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "a",
+        "b",
+        "d"
+      ]
+    },
+    "explanations": {
+      "a": "Reconsideration is compatible with the observed silence but not proven.",
+      "b": "A self-image concern is possible but cannot be read directly.",
+      "c": "Retaliation requires more evidence than silence.",
+      "d": "Turn-taking is an ordinary situational alternative."
+    },
+    "relatedLawIds": [
+      "LAW-02",
+      "LAW-07"
+    ],
+    "relatedConceptIds": [
+      "CON-0003",
+      "CON-0019"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0010",
+      "REF-0035"
+    ],
+    "relatedCaseIds": [],
+    "relatedResearchFindingIds": [],
+    "revision": 1
+  },
+  {
+    "id": "EXR-0051",
+    "exerciseType": "multiple_interpretations",
+    "prompt": "Fictional: Two teams adopt a popular tool after seeing a competitor use it. Select all mechanisms worth investigating.",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The competitor demonstrates practical usefulness."
+      },
+      {
+        "id": "b",
+        "text": "Social proof or status appeal influences desire."
+      },
+      {
+        "id": "c",
+        "text": "The purchase proves both teams envy the competitor."
+      },
+      {
+        "id": "d",
+        "text": "Shared procurement requirements make the same tool convenient."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "a",
+        "b",
+        "d"
+      ]
+    },
+    "explanations": {
+      "a": "Evidence of function may rationally influence demand.",
+      "b": "Imitation can alter perceived value without proving it did.",
+      "c": "Envy is not established by adoption alone.",
+      "d": "Institutional requirements could explain convergence independently of desire."
+    },
+    "relatedLawIds": [
+      "LAW-05",
+      "LAW-10"
+    ],
+    "relatedConceptIds": [
+      "CON-0013",
+      "CON-0014",
+      "CON-0015",
+      "CON-0028"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0023",
+      "REF-0053"
+    ],
+    "relatedCaseIds": [],
+    "relatedResearchFindingIds": [],
+    "revision": 1
+  },
+  {
+    "id": "EXR-0052",
+    "exerciseType": "evidence_classification",
+    "prompt": "In the Pericles case, HNI lists a PBS biographical overview for the epidemic chronology. Classify the narrow statement that Pericles died during the epidemic in 429 BCE, as presented in the archive.",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Direct observation by the learner"
+      },
+      {
+        "id": "b",
+        "text": "Reported information with no cited corroboration"
+      },
+      {
+        "id": "c",
+        "text": "Psychological inference"
+      },
+      {
+        "id": "d",
+        "text": "Unsupported assumption"
+      },
+      {
+        "id": "e",
+        "text": "Independently corroborated historical evidence (secondary overview)"
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "e"
+      ]
+    },
+    "explanations": {
+      "a": "The learner did not observe the ancient event.",
+      "b": "The archive cites an independent overview for this narrow fact.",
+      "c": "The date and epidemic are historical assertions, not motives.",
+      "d": "The archive gives a supporting source.",
+      "e": "The existing corroboration is a secondary overview, not proof of Greene’s wider psychological interpretation."
+    },
+    "relatedLawIds": [
+      "LAW-01"
+    ],
+    "relatedConceptIds": [
+      "CON-0002"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0004",
+      "REF-0143"
+    ],
+    "relatedCaseIds": [
+      "CAS-0001"
+    ],
+    "relatedResearchFindingIds": [],
+    "revision": 1
+  },
+  {
+    "id": "EXR-0053",
+    "exerciseType": "multiple_choice",
+    "prompt": "The HNI deception-cue finding (RES-0001) reports many weak or absent cue associations. Which inference stays within its limits?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "A weak group-level association can still make one gesture a reliable individual test."
+      },
+      {
+        "id": "b",
+        "text": "A cue may prompt inquiry but individual conclusions need more evidence; the archive reviewed only the abstract."
+      },
+      {
+        "id": "c",
+        "text": "The finding proves nonverbal information is never useful."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "b"
+      ]
+    },
+    "explanations": {
+      "a": "A group average does not establish individual diagnostic accuracy.",
+      "b": "This respects weak/variable associations and the limited source review.",
+      "c": "Weak associations do not mean every nonverbal observation is useless."
+    },
+    "relatedLawIds": [
+      "LAW-03"
+    ],
+    "relatedConceptIds": [
+      "CON-0008"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0133"
+    ],
+    "relatedCaseIds": [],
+    "relatedResearchFindingIds": [
+      "RES-0001"
+    ],
+    "revision": 1
+  },
+  {
+    "id": "EXR-0054",
+    "exerciseType": "multiple_choice",
+    "prompt": "RES-0003 relates freedom-threatening messages to reactance. What would overstate HNI’s evidence?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Treating reactance as a possible analogue for one part of Greene’s argument."
+      },
+      {
+        "id": "b",
+        "text": "Noting that the archive did not inspect the full meta-analysis."
+      },
+      {
+        "id": "c",
+        "text": "Concluding that confirming someone’s self-image always eliminates resistance."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "c"
+      ]
+    },
+    "explanations": {
+      "a": "An analogue is narrower than a universal validation.",
+      "b": "This accurately describes the access limitation.",
+      "c": "The record does not establish universal efficacy, all boundary conditions or every proposed technique."
+    },
+    "relatedLawIds": [
+      "LAW-07"
+    ],
+    "relatedConceptIds": [
+      "CON-0019",
+      "CON-0020"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0135"
+    ],
+    "relatedCaseIds": [],
+    "relatedResearchFindingIds": [
+      "RES-0003"
+    ],
+    "revision": 1
+  },
+  {
+    "id": "EXR-0055",
+    "exerciseType": "multiple_interpretations",
+    "prompt": "Fictional: A leader receives unanimous support for a fast expansion plan. Select all plausible reasons to investigate before acting.",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Members believe the forecast based on independent analysis."
+      },
+      {
+        "id": "b",
+        "text": "Members anticipate social or career costs from dissent."
+      },
+      {
+        "id": "c",
+        "text": "The unanimity proves the leader is grandiose."
+      },
+      {
+        "id": "d",
+        "text": "Near-term revenue is a legitimate constraint for some members."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "a",
+        "b",
+        "d"
+      ]
+    },
+    "explanations": {
+      "a": "Independent analysis can produce genuine consensus.",
+      "b": "Pressure can create public agreement without private assent.",
+      "c": "Grandiosity requires evidence of miscalibration, not popularity.",
+      "d": "Cash flow can legitimately shape a short-horizon decision."
+    },
+    "relatedLawIds": [
+      "LAW-06",
+      "LAW-11",
+      "LAW-14",
+      "LAW-15"
+    ],
+    "relatedConceptIds": [
+      "CON-0016",
+      "CON-0031",
+      "CON-0040",
+      "CON-0045"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0029",
+      "REF-0060",
+      "REF-0083",
+      "REF-0093"
+    ],
+    "relatedCaseIds": [],
+    "relatedResearchFindingIds": [],
+    "revision": 1
+  },
+  {
+    "id": "EXR-0056",
+    "exerciseType": "multiple_choice",
+    "prompt": "In the historical Hughes case, the archive connects repeated behavior with Greene’s interpretation. RES-0002 describes conditional person-by-situation patterns. What follows?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The research validates Greene’s account of Hughes’s childhood motives."
+      },
+      {
+        "id": "b",
+        "text": "Recurring behavior may merit contextual examination, without establishing the particular historical motive."
+      },
+      {
+        "id": "c",
+        "text": "Context-dependence makes repeated behavior irrelevant."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "b"
+      ]
+    },
+    "explanations": {
+      "a": "The finding explicitly does not verify that particular diagnosis or biography.",
+      "b": "Repeated conditional patterns can be informative while causes remain uncertain.",
+      "c": "Context is part of a pattern, not a reason to discard it."
+    },
+    "relatedLawIds": [
+      "LAW-04"
+    ],
+    "relatedConceptIds": [
+      "CON-0010",
+      "CON-0011"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0018",
+      "REF-0134"
+    ],
+    "relatedCaseIds": [
+      "CAS-0004"
+    ],
+    "relatedResearchFindingIds": [
+      "RES-0002"
+    ],
+    "revision": 1
+  },
+  {
+    "id": "EXR-0057",
+    "exerciseType": "multiple_choice",
+    "prompt": "RES-0006 is an abstract-level review in the mortality-awareness research tradition. Which conclusion is justified?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The review proves that everyone who reflects on death becomes more compassionate."
+      },
+      {
+        "id": "b",
+        "text": "The research topic exists, but the available record does not establish Greene’s recommended practice as universally beneficial."
+      },
+      {
+        "id": "c",
+        "text": "The limited access proves mortality reflection has no psychological consequences."
+      }
+    ],
+    "evaluationRules": {
+      "correctChoiceIds": [
+        "b"
+      ]
+    },
+    "explanations": {
+      "a": "Universal benefit exceeds the evidence and ignores individual differences.",
+      "b": "The scope and access limit are explicit; a direct intervention study would be a different evidentiary question.",
+      "c": "Absence of assessed evidence is not evidence of no effect."
+    },
+    "relatedLawIds": [
+      "LAW-18"
+    ],
+    "relatedConceptIds": [
+      "CON-0052",
+      "CON-0054"
+    ],
+    "difficulty": "advanced",
+    "sourceReferenceIds": [
+      "REF-0138"
+    ],
+    "relatedCaseIds": [],
+    "relatedResearchFindingIds": [
+      "RES-0006"
+    ],
+    "revision": 1
+  }
+]

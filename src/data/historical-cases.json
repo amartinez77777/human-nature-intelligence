@@ -1,0 +1,903 @@
+[
+  {
+    "id": "CAS-0001",
+    "title": "Pericles, Athens, and restraint under pressure",
+    "people": [
+      "Pericles"
+    ],
+    "historicalPeriod": "Classical Athens, fifth century BCE",
+    "context": "Greene opens Chapter 1 with a narrative contrasting Pericles’s restraint with later Athenian decision-making in the Peloponnesian War.",
+    "chronology": [
+      {
+        "event": "Athens debates the Spartan ultimatum in Greene’s account",
+        "dateLabel": "432 BCE (as presented by Greene)"
+      },
+      {
+        "event": "Greene recounts the Sicilian expedition",
+        "dateLabel": "415 BCE (as presented by Greene)"
+      }
+    ],
+    "documentedFacts": [
+      "Pericles died during an epidemic in Athens in 429 BCE, according to the PBS biographical overview."
+    ],
+    "greeneInterpretationClaimIds": [
+      "CLM-0001"
+    ],
+    "alternativeInterpretations": [
+      "Historical outcomes also depend on military, disease, institutional, and material conditions; independent historical investigation is pending."
+    ],
+    "limitations": [
+      "Case extracted from Greene only. Chronology and alleged motivations have not been checked against independent historical scholarship.",
+      "Independent institutional narrative supports the epidemic chronology; Greene’s depiction of uniquely rational leadership is a separate interpretation."
+    ],
+    "relatedLawIds": [
+      "LAW-01"
+    ],
+    "relatedConceptIds": [
+      "CON-0002"
+    ],
+    "sourceReferenceIds": [
+      "REF-0004",
+      "REF-0143"
+    ],
+    "verificationStatus": "secondary_source_account",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CAS-0002",
+    "title": "Shackleton and the Endurance crew: survival and morale",
+    "people": [
+      "Ernest Shackleton"
+    ],
+    "historicalPeriod": "Antarctic expedition, 1915–1916",
+    "context": "Greene presents Shackleton as a leader who attended to individual crew members and maintained morale after Endurance became trapped and was abandoned. He describes work routines, group activities, adaptive attention, a small-boat journey, and eventual rescue. This record reproduces Greene’s interpretation in new words, not an independently verified expedition history.",
+    "chronology": [
+      {
+        "event": "Greene recounts abandonment of Endurance in Antarctic ice",
+        "dateLabel": "October 1915 (Greene)"
+      },
+      {
+        "event": "Greene recounts a difficult small-boat voyage and rescue of surviving crew",
+        "dateLabel": "1916 (Greene)"
+      }
+    ],
+    "documentedFacts": [],
+    "greeneInterpretationClaimIds": [
+      "CLM-0004"
+    ],
+    "alternativeInterpretations": [
+      "Group survival also depended on navigation, provisioning, weather, seamanship, and luck."
+    ],
+    "limitations": [
+      "No independent expedition log inspected here. Empathic motivation and private feelings are interpretive, not verifiable solely through this book."
+    ],
+    "relatedLawIds": [
+      "LAW-02"
+    ],
+    "relatedConceptIds": [
+      "CON-0005"
+    ],
+    "sourceReferenceIds": [
+      "REF-0012",
+      "REF-0013"
+    ],
+    "verificationStatus": "secondary_source_account",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CAS-0003",
+    "title": "Milton Erickson and the observation of social cues",
+    "people": [
+      "Milton Erickson"
+    ],
+    "historicalPeriod": "United States, early twentieth century",
+    "context": "Greene describes a young Erickson observing family expressions during a severe illness and later noticing gestures, voice and posture when treating patients. Greene uses the biography to argue for careful observation. Inferences about individual patients’ private lives are presented as the author’s account only.",
+    "chronology": [
+      {
+        "event": "Greene recounts a serious illness followed by intensive observation at home",
+        "dateLabel": "1919 (Greene)"
+      },
+      {
+        "event": "Greene describes later therapeutic practice and inferred nonverbal cues",
+        "dateLabel": "Later career (Greene)"
+      }
+    ],
+    "documentedFacts": [],
+    "greeneInterpretationClaimIds": [
+      "CLM-0006"
+    ],
+    "alternativeInterpretations": [
+      "Retrospective storytelling, patient selection, context and coincidence may influence apparent predictive success."
+    ],
+    "limitations": [
+      "No independent clinical records or empirical validation of cue interpretation consulted. Not a reliable deception or diagnosis technique."
+    ],
+    "relatedLawIds": [
+      "LAW-03"
+    ],
+    "relatedConceptIds": [
+      "CON-0008"
+    ],
+    "sourceReferenceIds": [
+      "REF-0014",
+      "REF-0015"
+    ],
+    "verificationStatus": "secondary_source_account",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CAS-0004",
+    "title": "Howard Hughes: control and recurring project failure",
+    "people": [
+      "Howard Hughes"
+    ],
+    "historicalPeriod": "United States, twentieth-century aviation and film",
+    "context": "Greene uses Hughes’s film projects, aviation businesses and repeated conflicts with delegated executives as examples of a pattern of control. The author explains this through family history and fear of dependence. This reconstruction is editorial attribution rather than an independent biography.",
+    "chronology": [
+      {
+        "event": "Greene describes Hughes directing and overmanaging Hell’s Angels",
+        "dateLabel": "Late 1920s–1930 (Greene)"
+      },
+      {
+        "event": "Greene recounts wartime aircraft contracts and management difficulties",
+        "dateLabel": "1940s (Greene)"
+      },
+      {
+        "event": "Greene recounts RKO troubles and later helicopter delays",
+        "dateLabel": "1950s–1960s (Greene)"
+      }
+    ],
+    "documentedFacts": [],
+    "greeneInterpretationClaimIds": [
+      "CLM-0007"
+    ],
+    "alternativeInterpretations": [
+      "Enterprise scale, technology, defense procurement and business institutions may have contributed to outcomes."
+    ],
+    "limitations": [
+      "Specific monetary amounts, diagnoses and childhood-causation claims have not been independently checked."
+    ],
+    "relatedLawIds": [
+      "LAW-04"
+    ],
+    "relatedConceptIds": [
+      "CON-0010",
+      "CON-0011"
+    ],
+    "sourceReferenceIds": [
+      "REF-0018",
+      "REF-0019"
+    ],
+    "verificationStatus": "secondary_source_account",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CAS-0005",
+    "title": "Coco Chanel: designing an object of desire",
+    "people": [
+      "Gabrielle “Coco” Chanel"
+    ],
+    "historicalPeriod": "Late 19th–mid 20th century",
+    "context": "Greene recounts Chanel’s early exclusion, her entry into fashion and her way of making everyday forms into symbols of desirable novelty. His narrative includes perfume marketing and the contested wartime legacy of her associations.",
+    "chronology": [
+      {
+        "dateLabel": "1895",
+        "event": "Greene recounts the death of Chanel’s mother and her placement at a convent."
+      },
+      {
+        "dateLabel": "Early design career",
+        "event": "Greene describes experiments with hats, garments and alternative status symbols."
+      },
+      {
+        "dateLabel": "Perfume launch",
+        "event": "Greene depicts secrecy and distribution to select clients in a new perfume campaign."
+      }
+    ],
+    "documentedFacts": [],
+    "greeneInterpretationClaimIds": [
+      "CLM-0011"
+    ],
+    "alternativeInterpretations": [
+      "Craftsmanship, comfort, price, distribution and access can account for demand without psychological mystique."
+    ],
+    "limitations": [
+      "Commercial outcomes have many causes; Greene’s psychological attribution to hidden desire is not independently verified.",
+      "The history and seriousness of wartime associations cannot be eclipsed by praise for commercial technique."
+    ],
+    "relatedLawIds": [
+      "LAW-05"
+    ],
+    "relatedConceptIds": [
+      "CON-0013",
+      "CON-0014"
+    ],
+    "sourceReferenceIds": [
+      "REF-0023",
+      "REF-0024",
+      "REF-0025"
+    ],
+    "verificationStatus": "secondary_source_account",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CAS-0006",
+    "title": "John Blunt and the South Sea speculation",
+    "people": [
+      "John Blunt",
+      "South Sea Company"
+    ],
+    "historicalPeriod": "1719–1720",
+    "context": "Greene presents South Sea Company share promotion and the British bubble as an account of collective attention locked on immediate wealth and increasingly fragile expectations.",
+    "chronology": [
+      {
+        "dateLabel": "1719",
+        "event": "Greene describes Blunt’s comparisons with the French Mississippi Company boom."
+      },
+      {
+        "dateLabel": "1720",
+        "event": "Shares were promoted aggressively and enthusiasm gave way to a crisis in Greene’s account."
+      }
+    ],
+    "documentedFacts": [],
+    "greeneInterpretationClaimIds": [
+      "CLM-0013"
+    ],
+    "alternativeInterpretations": [
+      "Institutional incentives and information asymmetry can magnify crises beyond individual impulse."
+    ],
+    "limitations": [
+      "Archival detail and political responsibilities remain unverified independently.",
+      "Collective financial crises cannot be reduced to individual greed or impulsivity alone."
+    ],
+    "relatedLawIds": [
+      "LAW-06"
+    ],
+    "relatedConceptIds": [
+      "CON-0016",
+      "CON-0017"
+    ],
+    "sourceReferenceIds": [
+      "REF-0029",
+      "REF-0030",
+      "REF-0031"
+    ],
+    "verificationStatus": "secondary_source_account",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CAS-0007",
+    "title": "Lyndon Johnson and the Senate influence game",
+    "people": [
+      "Lyndon B. Johnson",
+      "Tom Connally",
+      "Richard Russell"
+    ],
+    "historicalPeriod": "1948–1950s",
+    "context": "Greene describes Johnson’s transition from a forceful newcomer to a patient observer of colleagues’ self-image and institutional relationships.",
+    "chronology": [
+      {
+        "dateLabel": "December 1948",
+        "event": "In Greene’s account, Johnson approaches senior Senator Tom Connally."
+      },
+      {
+        "dateLabel": "1952",
+        "event": "Greene describes changing Senate leadership dynamics and Russell’s support for Johnson."
+      }
+    ],
+    "documentedFacts": [],
+    "greeneInterpretationClaimIds": [
+      "CLM-0015"
+    ],
+    "alternativeInterpretations": [
+      "Opposition may be based on genuine costs or principled objections rather than injured self-image."
+    ],
+    "limitations": [
+      "These episodes are Greene’s biographical interpretation, not direct measurement of persuasion methods.",
+      "Institutional leverage and legislative circumstances also shaped Johnson’s influence."
+    ],
+    "relatedLawIds": [
+      "LAW-07"
+    ],
+    "relatedConceptIds": [
+      "CON-0019",
+      "CON-0020"
+    ],
+    "sourceReferenceIds": [
+      "REF-0035",
+      "REF-0036",
+      "REF-0037"
+    ],
+    "verificationStatus": "secondary_source_account",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CAS-0008",
+    "title": "Anton Chekhov: interpretation under constraint",
+    "people": [
+      "Anton Chekhov"
+    ],
+    "historicalPeriod": "19th century–1904",
+    "context": "Greene uses Chekhov’s painful family circumstances, his humor and medical-literary vocation, and his interest in prisoners to show a possible shift in interpretation and conduct.",
+    "chronology": [
+      {
+        "dateLabel": "Childhood",
+        "event": "Greene recounts paternal violence and family hardship in Taganrog."
+      },
+      {
+        "dateLabel": "1890",
+        "event": "Greene describes Chekhov’s research journey to Sakhalin Island."
+      },
+      {
+        "dateLabel": "1904",
+        "event": "Greene narrates the final period of Chekhov’s illness."
+      }
+    ],
+    "documentedFacts": [],
+    "greeneInterpretationClaimIds": [
+      "CLM-0017"
+    ],
+    "alternativeInterpretations": [
+      "Economic resources, institutions and other people’s conduct shape opportunities independent of mindset."
+    ],
+    "limitations": [
+      "This narrative does not imply that abuse is beneficial or that anyone can escape structural constraints through mindset alone.",
+      "Biographical details and inner motives require independent scrutiny."
+    ],
+    "relatedLawIds": [
+      "LAW-08"
+    ],
+    "relatedConceptIds": [
+      "CON-0022",
+      "CON-0023"
+    ],
+    "sourceReferenceIds": [
+      "REF-0041",
+      "REF-0042",
+      "REF-0043"
+    ],
+    "verificationStatus": "secondary_source_account",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CAS-0009",
+    "title": "Richard Nixon, public persona and Watergate",
+    "people": [
+      "Richard Nixon"
+    ],
+    "historicalPeriod": "1962–1974",
+    "context": "Greene contrasts Nixon's political comeback and controlled public image with Watergate-era conduct and recordings. The account illustrates Greene's reading of a disowned side of public character; political history and unconscious motives must be assessed separately.",
+    "chronology": [
+      {
+        "dateLabel": "1962",
+        "event": "Greene describes Nixon’s political setback and public declaration after California gubernatorial defeat."
+      },
+      {
+        "dateLabel": "1968",
+        "event": "Greene recounts Nixon’s return in the presidential election."
+      },
+      {
+        "dateLabel": "1974",
+        "event": "Greene relates the Watergate crisis and Nixon’s resignation."
+      }
+    ],
+    "documentedFacts": [],
+    "greeneInterpretationClaimIds": [
+      "CLM-0019"
+    ],
+    "alternativeInterpretations": [
+      "Electoral strategy, organizational incentives, legal exposure and deliberate calculation offer explanations not reducible to a hidden Shadow."
+    ],
+    "limitations": [
+      "Greene’s account and psychological interpretation have not been independently checked against archival documents in Stage 04.",
+      "No diagnosis of a historical individual can be made from political narratives."
+    ],
+    "relatedLawIds": [
+      "LAW-09"
+    ],
+    "relatedConceptIds": [
+      "CON-0025",
+      "CON-0026"
+    ],
+    "sourceReferenceIds": [
+      "REF-0047",
+      "REF-0048",
+      "REF-0049"
+    ],
+    "verificationStatus": "secondary_source_account",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CAS-0010",
+    "title": "Mary Shelley and Jane Williams: Greene’s envy interpretation",
+    "people": [
+      "Mary Shelley",
+      "Jane Williams",
+      "Percy Bysshe Shelley",
+      "Edward Williams"
+    ],
+    "historicalPeriod": "1820–1822",
+    "context": "Greene recounts friendship and strain among Mary and Percy Shelley and Jane and Edward Williams in Pisa. He interprets the emotional tensions through the law of envy and perceived romantic and literary comparison; specific private motives remain uncertain.",
+    "chronology": [
+      {
+        "dateLabel": "1820",
+        "event": "Greene sets up Mary Shelley’s circumstances and personal strain."
+      },
+      {
+        "dateLabel": "1821",
+        "event": "Greene describes the Williams couple joining the Shelley circle in Pisa."
+      },
+      {
+        "dateLabel": "1822",
+        "event": "Greene recounts events surrounding the deaths of Percy Shelley and Edward Williams."
+      }
+    ],
+    "documentedFacts": [],
+    "greeneInterpretationClaimIds": [
+      "CLM-0021"
+    ],
+    "alternativeInterpretations": [
+      "Grief, relationship strain, practical dependence, social circumstances and surviving correspondence may complicate Greene’s reading of envy."
+    ],
+    "limitations": [
+      "Statements about the private feelings of Mary Shelley and Jane Williams are Greene’s interpretations, not independently verified conclusions.",
+      "Avoid treating historical literary narration as a reliable psychological instrument."
+    ],
+    "relatedLawIds": [
+      "LAW-10"
+    ],
+    "relatedConceptIds": [
+      "CON-0028",
+      "CON-0029"
+    ],
+    "sourceReferenceIds": [
+      "REF-0053",
+      "REF-0054",
+      "REF-0055"
+    ],
+    "verificationStatus": "secondary_source_account",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CAS-0011",
+    "title": "Michael Eisner and the success delusion",
+    "people": [
+      "Michael Eisner"
+    ],
+    "historicalPeriod": "1984–2005",
+    "context": "Greene narrates Eisner's executive successes and later conflicts at Disney, using the career arc to explore how high status might erode openness to feedback. The account is a retrospective author interpretation, not a clinical assessment.",
+    "chronology": [
+      {
+        "dateLabel": "1984",
+        "event": "Greene describes Eisner leaving Paramount to lead Disney."
+      },
+      {
+        "dateLabel": "Following years",
+        "event": "Greene recounts creative and corporate expansion followed by conflict."
+      },
+      {
+        "dateLabel": "2005",
+        "event": "Greene traces Eisner’s departure amid challenges to his leadership."
+      }
+    ],
+    "documentedFacts": [],
+    "greeneInterpretationClaimIds": [
+      "CLM-0023"
+    ],
+    "alternativeInterpretations": [
+      "Industry shifts, corporate governance, collaborators, strategic disagreements and ordinary business risk can explain aspects of the career record."
+    ],
+    "limitations": [
+      "Private thought patterns and motivations are not established by public management results.",
+      "No independent corporate or biographical sources were examined in Stage 04."
+    ],
+    "relatedLawIds": [
+      "LAW-11"
+    ],
+    "relatedConceptIds": [
+      "CON-0031",
+      "CON-0032"
+    ],
+    "sourceReferenceIds": [
+      "REF-0060",
+      "REF-0061",
+      "REF-0062"
+    ],
+    "verificationStatus": "secondary_source_account",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CAS-0012",
+    "title": "Caterina Sforza and Renaissance gender roles",
+    "people": [
+      "Caterina Sforza"
+    ],
+    "historicalPeriod": "15th–early 16th century",
+    "context": "Greene recounts Caterina Sforza's education, public life and political leadership to illustrate the possibility of acting outside narrow gender expectations in Renaissance Italy. The author’s gendered vocabulary and private-motive readings require critical contextualization.",
+    "chronology": [
+      {
+        "dateLabel": "Childhood",
+        "event": "Greene describes Caterina’s education and the influence of the Sforza household."
+      },
+      {
+        "dateLabel": "1495",
+        "event": "Greene recounts violent political circumstances and her response to the killing of Giacomo Feo."
+      },
+      {
+        "dateLabel": "Later life",
+        "event": "Greene summarizes her continuing conflicts and political reversals."
+      }
+    ],
+    "documentedFacts": [],
+    "greeneInterpretationClaimIds": [
+      "CLM-0025"
+    ],
+    "alternativeInterpretations": [
+      "Dynastic resources, education, aristocratic opportunity and historical power relations shaped her actions independently of a Jungian opposite-gender construct."
+    ],
+    "limitations": [
+      "The source is Greene’s secondary narrative, not independently established archival history.",
+      "Avoid assigning modern psychological or gender identity categories to a Renaissance historical figure."
+    ],
+    "relatedLawIds": [
+      "LAW-12"
+    ],
+    "relatedConceptIds": [
+      "CON-0034",
+      "CON-0035"
+    ],
+    "sourceReferenceIds": [
+      "REF-0066",
+      "REF-0067",
+      "REF-0068"
+    ],
+    "verificationStatus": "secondary_source_account",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CAS-0013",
+    "title": "Martin Luther King Jr. and the development of purpose",
+    "people": [
+      "Martin Luther King Jr.",
+      "Coretta Scott King"
+    ],
+    "historicalPeriod": "United States, mid-20th century",
+    "context": "Greene traces King’s developing religious, moral and political direction through family expectations, education, the Montgomery bus boycott and subsequent civil-rights leadership. The dossier records Greene’s account, not an independently reconstructed biography.",
+    "chronology": [
+      {
+        "dateLabel": "Early life",
+        "event": "Greene describes King’s family background and evolving response to his father’s expectations."
+      },
+      {
+        "dateLabel": "Mid-1950s",
+        "event": "Greene recounts King’s involvement in the Montgomery bus boycott and expanding sense of mission."
+      },
+      {
+        "dateLabel": "Later organizing years",
+        "event": "Greene describes conflicts, responsibilities and pressure connected with movement leadership."
+      }
+    ],
+    "documentedFacts": [
+      "The Montgomery bus boycott began in December 1955 after Rosa Parks’s arrest.",
+      "The Montgomery Improvement Association coordinated the boycott, with Martin Luther King Jr. as its president."
+    ],
+    "greeneInterpretationClaimIds": [
+      "CLM-0027"
+    ],
+    "alternativeInterpretations": [
+      "Religious, strategic, political and community institutions shaped the choices that Greene narrates.",
+      "A retrospective narrative can overstate the coherence of motives and understate collaborators’ roles."
+    ],
+    "limitations": [
+      "Book secondary narrative only; detailed biography and private motives not independently confirmed.",
+      "A singular purposeful life is not a universal causal demonstration.",
+      "Stanford documents collective organization predating King; do not reduce movement success to one person’s inner purpose."
+    ],
+    "relatedLawIds": [
+      "LAW-13"
+    ],
+    "relatedConceptIds": [
+      "CON-0037",
+      "CON-0038"
+    ],
+    "sourceReferenceIds": [
+      "REF-0073",
+      "REF-0075",
+      "REF-0076",
+      "REF-0140"
+    ],
+    "verificationStatus": "secondary_source_account",
+    "levelsOfExplanation": [
+      "individual",
+      "interpersonal",
+      "historical_institutional"
+    ]
+  },
+  {
+    "id": "CAS-0014",
+    "title": "Gao Jianhua and collective pressure in the Cultural Revolution",
+    "people": [
+      "Gao Jianhua"
+    ],
+    "historicalPeriod": "China, 1960s",
+    "context": "Greene recounts Gao Jianhua as a student navigating school factions, public loyalty signals, political campaigns and threats to family status. The case illustrates the interaction of coercive institutions and group influence, not a universal account of all participants.",
+    "chronology": [
+      {
+        "dateLabel": "1964",
+        "event": "Greene describes Gao Jianhua entering a middle school and aspiring to write."
+      },
+      {
+        "dateLabel": "Cultural Revolution period",
+        "event": "Greene recounts pressure to align with student factions and public denunciations."
+      },
+      {
+        "dateLabel": "1968",
+        "event": "Greene recounts Gao’s changed perspective amid institutional damage and the consequences of the campaigns."
+      }
+    ],
+    "documentedFacts": [],
+    "greeneInterpretationClaimIds": [
+      "CLM-0029"
+    ],
+    "alternativeInterpretations": [
+      "Fear of official sanctions and coercion may explain behavior independently of group belonging.",
+      "Individual goals, access to information and local institutional conditions likely varied."
+    ],
+    "limitations": [
+      "Greene’s secondary narration has not been independently verified using Gao Jianhua’s original testimony.",
+      "Do not generalize coercive political settings to voluntary groups or assign one group motive to every student."
+    ],
+    "relatedLawIds": [
+      "LAW-14"
+    ],
+    "relatedConceptIds": [
+      "CON-0040",
+      "CON-0041"
+    ],
+    "sourceReferenceIds": [
+      "REF-0083",
+      "REF-0085",
+      "REF-0086"
+    ],
+    "verificationStatus": "secondary_source_account",
+    "levelsOfExplanation": [
+      "individual",
+      "group",
+      "historical_institutional"
+    ]
+  },
+  {
+    "id": "CAS-0015",
+    "title": "Elizabeth I and the construction of royal authority",
+    "people": [
+      "Elizabeth I",
+      "William Cecil"
+    ],
+    "historicalPeriod": "Tudor England, 16th century",
+    "context": "Greene narrates Elizabeth I’s early reign, public ceremony, diplomatic constraints and relationships with advisers to explain political legitimacy and the unstable relationship between ruler and subjects. The source has not been independently compared with Tudor archival records.",
+    "chronology": [
+      {
+        "dateLabel": "1558–1559",
+        "event": "Greene situates Elizabeth’s accession and ceremonial presentation amid religious divisions."
+      },
+      {
+        "dateLabel": "During her reign",
+        "event": "Greene describes political consultations and public strategies used to manage expectations."
+      },
+      {
+        "dateLabel": "Later conflicts",
+        "event": "Greene discusses followers’ and courtiers’ changing alliances as authority is tested."
+      }
+    ],
+    "documentedFacts": [
+      "Elizabeth I ruled England from 1558 to 1603."
+    ],
+    "greeneInterpretationClaimIds": [
+      "CLM-0031"
+    ],
+    "alternativeInterpretations": [
+      "Religious conflict, institutions and inherited state resources help explain political outcomes.",
+      "The author’s attribution of private strategy is interpretive and not direct mental-state evidence."
+    ],
+    "limitations": [
+      "Chronology remains secondary-book-sourced, not independently verified.",
+      "A monarch’s coercive institutional powers do not provide an ethically sufficient model for modern consent-based leadership.",
+      "The monarchy and succession are corroborated; claims about her private motivational strategy are interpretive."
+    ],
+    "relatedLawIds": [
+      "LAW-15"
+    ],
+    "relatedConceptIds": [
+      "CON-0043",
+      "CON-0044"
+    ],
+    "sourceReferenceIds": [
+      "REF-0093",
+      "REF-0095",
+      "REF-0096",
+      "REF-0141"
+    ],
+    "verificationStatus": "secondary_source_account",
+    "levelsOfExplanation": [
+      "individual",
+      "interpersonal",
+      "historical_institutional"
+    ]
+  },
+  {
+    "id": "CAS-0016",
+    "title": "John D. Rockefeller, Maurice Clark and the rise of Standard Oil in Greene’s account",
+    "people": [
+      "John D. Rockefeller",
+      "Maurice B. Clark"
+    ],
+    "historicalPeriod": "United States, 1850s–1870s (period as described by Greene)",
+    "context": "Greene narrates Clark’s business partnership with Rockefeller and subsequent strategies of refinery acquisition, financial pressure and corporate organization. The book interprets calculated strategy as a form of sophisticated aggression; the archival details and private motives have not been independently verified.",
+    "chronology": [
+      {
+        "dateLabel": "Late 1850s",
+        "event": "Greene introduces Maurice Clark in Cleveland and an emerging partnership with Rockefeller."
+      },
+      {
+        "dateLabel": "1860s",
+        "event": "Greene narrates a dispute, the partnership’s dissolution and Rockefeller’s growing oil business."
+      },
+      {
+        "dateLabel": "1870s",
+        "event": "Greene depicts the methods by which Standard Oil expanded through strategic acquisitions and competition."
+      }
+    ],
+    "documentedFacts": [
+      "Rockefeller and Maurice Clark entered oil refining in 1863 with Samuel Andrews.",
+      "Their partnership separated in 1865 after disagreements about business management."
+    ],
+    "greeneInterpretationClaimIds": [
+      "CLM-0033"
+    ],
+    "alternativeInterpretations": [
+      "Changes in oil technology, access to capital, transportation contracts and antitrust institutions may explain strategic outcomes.",
+      "Commercial practices are open to historical verification; motives attributed to Rockefeller require separate evidence."
+    ],
+    "limitations": [
+      "No independent primary records, court findings or scholarly biographies were reviewed for this stage.",
+      "Do not treat the narration as proof of the inner intentions of any named business competitor.",
+      "The Rockefeller Archive Center corroborates business milestones, not hidden aggression or intent."
+    ],
+    "relatedLawIds": [
+      "LAW-16"
+    ],
+    "relatedConceptIds": [
+      "CON-0046",
+      "CON-0047"
+    ],
+    "sourceReferenceIds": [
+      "REF-0103",
+      "REF-0104",
+      "REF-0105",
+      "REF-0106",
+      "REF-0139"
+    ],
+    "verificationStatus": "secondary_source_account",
+    "levelsOfExplanation": [
+      "individual",
+      "interpersonal",
+      "group",
+      "historical_institutional"
+    ]
+  },
+  {
+    "id": "CAS-0017",
+    "title": "Louis XVI, Georges Danton and the French revolutionary moment in Greene’s account",
+    "people": [
+      "Louis XVI",
+      "Georges Danton",
+      "Marie Antoinette"
+    ],
+    "historicalPeriod": "France, late 18th century (as narrated by Greene)",
+    "context": "Greene contrasts the monarchy’s expectations with Danton’s experience of changing institutions and revolutionary mobilization. This is a selected political historical narrative, not evidence that generations possess uniform motives.",
+    "chronology": [
+      {
+        "dateLabel": "1774–1775",
+        "event": "Greene introduces Louis XVI after Louis XV and the ceremonial world of monarchy."
+      },
+      {
+        "dateLabel": "1780s",
+        "event": "Greene narrates social discontent and Danton’s experience of the changing political climate."
+      },
+      {
+        "dateLabel": "Revolutionary years",
+        "event": "Greene discusses shifts in popular demands, leadership and Danton’s role in political conflict."
+      }
+    ],
+    "documentedFacts": [],
+    "greeneInterpretationClaimIds": [
+      "CLM-0035"
+    ],
+    "alternativeInterpretations": [
+      "Fiscal crisis, institutional legitimacy, class conflict and political networks affect revolutionary change.",
+      "Danton’s choices should not be interpreted as the representative psychology of every contemporary."
+    ],
+    "limitations": [
+      "French revolutionary historiography and archival evidence have not been independently consulted.",
+      "Period/cohort claims are not causally identified from the narrative."
+    ],
+    "relatedLawIds": [
+      "LAW-17"
+    ],
+    "relatedConceptIds": [
+      "CON-0049",
+      "CON-0050"
+    ],
+    "sourceReferenceIds": [
+      "REF-0113",
+      "REF-0114",
+      "REF-0115",
+      "REF-0116"
+    ],
+    "verificationStatus": "secondary_source_account",
+    "levelsOfExplanation": [
+      "individual",
+      "group",
+      "historical_institutional"
+    ]
+  },
+  {
+    "id": "CAS-0018",
+    "title": "Flannery O’Connor, lupus and the meaning of a limited life in Greene’s account",
+    "people": [
+      "Flannery O’Connor",
+      "Regina O’Connor"
+    ],
+    "historicalPeriod": "United States, 20th century (as narrated by Greene)",
+    "context": "Greene recounts O’Connor’s experiences of illness, religious thought, literary work and relationships to illustrate mortality awareness. The book’s account is not an independently checked medical or biographical dossier.",
+    "chronology": [
+      {
+        "dateLabel": "Childhood and family",
+        "event": "Greene describes her family life and father’s illness."
+      },
+      {
+        "dateLabel": "Early writing career",
+        "event": "Greene discusses literary study, work and relationships."
+      },
+      {
+        "dateLabel": "Illness and later career",
+        "event": "Greene interprets her development amid a serious chronic illness."
+      }
+    ],
+    "documentedFacts": [
+      "Flannery O’Connor was diagnosed with lupus in 1951.",
+      "She continued writing while living in Georgia and died in 1964."
+    ],
+    "greeneInterpretationClaimIds": [
+      "CLM-0037"
+    ],
+    "alternativeInterpretations": [
+      "O’Connor’s artistic discipline, spiritual beliefs and social setting may each contribute to the meaning she assigned events.",
+      "The selected biography cannot predict how another individual will react to illness or death."
+    ],
+    "limitations": [
+      "No personal correspondence, medical records or independent scholarly biography was examined.",
+      "Do not use one literary example as evidence for a universal coping strategy.",
+      "The Georgia Historical Society documents illness and literary activity; mortality-based motives cannot be inferred from chronology."
+    ],
+    "relatedLawIds": [
+      "LAW-18"
+    ],
+    "relatedConceptIds": [
+      "CON-0052",
+      "CON-0053"
+    ],
+    "sourceReferenceIds": [
+      "REF-0123",
+      "REF-0124",
+      "REF-0125",
+      "REF-0127",
+      "REF-0142"
+    ],
+    "verificationStatus": "secondary_source_account",
+    "levelsOfExplanation": [
+      "individual",
+      "interpersonal",
+      "historical_institutional"
+    ]
+  }
+]

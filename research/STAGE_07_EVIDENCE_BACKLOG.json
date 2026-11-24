@@ -1,0 +1,271 @@
+{
+  "schemaVersion": 1,
+  "origin": "Stage 06 claim-linked research queue; not verified research findings",
+  "sourceSha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e",
+  "items": [
+    {
+      "id": "EVQ-001",
+      "priority": "high",
+      "claimId": "CLM-0006",
+      "lawId": "LAW-03",
+      "bookSourceId": "SRC-0001",
+      "bookReferenceIds": [
+        "REF-0015",
+        "REF-0016"
+      ],
+      "question": "Do visible nonverbal cues reliably reveal hidden emotions or deceptive intentions?",
+      "verificationTarget": "Systematic reviews of cue accuracy and task-dependent predictive validity; separate within-person and cross-person variance.",
+      "sourceProvenance": "Greene PDF directly inspected where attributed; external historical and scientific evidence not yet consulted.",
+      "scientificEvidenceStatus": "limited",
+      "editorialStatus": "partially_reviewed",
+      "nextAction": "Review full text, study methods and competing replications; keep abstract-scope qualifications before any stronger evidence claim.",
+      "stage07FindingIds": [
+        "RES-0001"
+      ]
+    },
+    {
+      "id": "EVQ-002",
+      "priority": "high",
+      "claimId": "CLM-0007",
+      "lawId": "LAW-04",
+      "bookSourceId": "SRC-0001",
+      "bookReferenceIds": [
+        "REF-0018",
+        "REF-0019"
+      ],
+      "question": "How stable are recurring personality-related behaviors across situations?",
+      "verificationTarget": "Peer-reviewed longitudinal/situation studies; independent Hughes biographies and documented actions.",
+      "sourceProvenance": "Greene PDF directly inspected where attributed; external historical and scientific evidence not yet consulted.",
+      "scientificEvidenceStatus": "mixed",
+      "editorialStatus": "partially_reviewed",
+      "nextAction": "Review full text, study methods and competing replications; keep abstract-scope qualifications before any stronger evidence claim.",
+      "stage07FindingIds": [
+        "RES-0002"
+      ]
+    },
+    {
+      "id": "EVQ-003",
+      "priority": "medium",
+      "claimId": "CLM-0012",
+      "lawId": "LAW-05",
+      "bookSourceId": "SRC-0001",
+      "bookReferenceIds": [
+        "REF-0023",
+        "REF-0028"
+      ],
+      "question": "When do scarcity and social comparison influence desire, and what boundary conditions limit the effect?",
+      "verificationTarget": "Peer-reviewed experimental studies and meta-analyses with manipulation checks and effect heterogeneity.",
+      "sourceProvenance": "Greene PDF directly inspected where attributed; external historical and scientific evidence not yet consulted.",
+      "scientificEvidenceStatus": "not_assessed",
+      "editorialStatus": "awaiting_review",
+      "nextAction": "Seek exact primary/scholarly sources; register SRC/REF/RES records only after reading them; do not manufacture DOI or independent findings.",
+      "stage07FindingIds": []
+    },
+    {
+      "id": "EVQ-004",
+      "priority": "high",
+      "claimId": "CLM-0016",
+      "lawId": "LAW-07",
+      "bookSourceId": "SRC-0001",
+      "bookReferenceIds": [
+        "REF-0035",
+        "REF-0040"
+      ],
+      "question": "What supports autonomy-respecting persuasion, and when does perceived threat cause resistance?",
+      "verificationTarget": "Experimental persuasion and reactance literature; analyze context and consent.",
+      "sourceProvenance": "Greene PDF directly inspected where attributed; external historical and scientific evidence not yet consulted.",
+      "scientificEvidenceStatus": "limited",
+      "editorialStatus": "partially_reviewed",
+      "nextAction": "Review full text, study methods and competing replications; keep abstract-scope qualifications before any stronger evidence claim.",
+      "stage07FindingIds": [
+        "RES-0003"
+      ]
+    },
+    {
+      "id": "EVQ-005",
+      "priority": "high",
+      "claimId": "CLM-0020",
+      "lawId": "LAW-09",
+      "bookSourceId": "SRC-0001",
+      "bookReferenceIds": [
+        "REF-0047",
+        "REF-0050"
+      ],
+      "question": "How does Greene’s psychodynamic Shadow account compare with contemporary research on self-concept and concealment?",
+      "verificationTarget": "Evaluate construct validity separately from repression of autobiographical memories; check source attribution.",
+      "sourceProvenance": "Greene PDF directly inspected where attributed; external historical and scientific evidence not yet consulted.",
+      "scientificEvidenceStatus": "not_assessed",
+      "editorialStatus": "awaiting_review",
+      "nextAction": "Seek exact primary/scholarly sources; register SRC/REF/RES records only after reading them; do not manufacture DOI or independent findings.",
+      "stage07FindingIds": []
+    },
+    {
+      "id": "EVQ-006",
+      "priority": "high",
+      "claimId": "CLM-0025",
+      "lawId": "LAW-12",
+      "bookSourceId": "SRC-0001",
+      "bookReferenceIds": [
+        "REF-0066",
+        "REF-0068"
+      ],
+      "question": "Which gender-related personality differences survive contextual controls, and what does cross-cultural variability show?",
+      "verificationTarget": "Cross-cultural primary studies and reviews; avoid essentialist conclusions and unsupported generalizations.",
+      "sourceProvenance": "Greene PDF directly inspected where attributed; external historical and scientific evidence not yet consulted.",
+      "scientificEvidenceStatus": "mixed",
+      "editorialStatus": "partially_reviewed",
+      "nextAction": "Review full text, study methods and competing replications; keep abstract-scope qualifications before any stronger evidence claim.",
+      "stage07FindingIds": [
+        "RES-0004"
+      ]
+    },
+    {
+      "id": "EVQ-007",
+      "priority": "high",
+      "claimId": "CLM-0029",
+      "lawId": "LAW-14",
+      "bookSourceId": "SRC-0001",
+      "bookReferenceIds": [
+        "REF-0083",
+        "REF-0086"
+      ],
+      "question": "Which social-norm and conformity effects replicate across settings, and what are study design limits?",
+      "verificationTarget": "Original Asch-style paradigms, contemporary replications and group-decision research; separate compliance from belief.",
+      "sourceProvenance": "Greene PDF directly inspected where attributed; external historical and scientific evidence not yet consulted.",
+      "scientificEvidenceStatus": "not_assessed",
+      "editorialStatus": "awaiting_review",
+      "nextAction": "Seek exact primary/scholarly sources; register SRC/REF/RES records only after reading them; do not manufacture DOI or independent findings.",
+      "stage07FindingIds": []
+    },
+    {
+      "id": "EVQ-008",
+      "priority": "medium",
+      "claimId": "CLM-0031",
+      "lawId": "LAW-15",
+      "bookSourceId": "SRC-0001",
+      "bookReferenceIds": [
+        "REF-0093",
+        "REF-0096"
+      ],
+      "question": "How do legitimacy, procedural justice and competence affect leadership followership?",
+      "verificationTarget": "Primary studies of trust and legitimacy; historical evidence for Elizabeth I separately.",
+      "sourceProvenance": "Greene PDF directly inspected where attributed; external historical and scientific evidence not yet consulted.",
+      "scientificEvidenceStatus": "not_assessed",
+      "editorialStatus": "awaiting_review",
+      "nextAction": "Seek exact primary/scholarly sources; register SRC/REF/RES records only after reading them; do not manufacture DOI or independent findings.",
+      "stage07FindingIds": []
+    },
+    {
+      "id": "EVQ-009",
+      "priority": "high",
+      "claimId": "CLM-0033",
+      "lawId": "LAW-16",
+      "bookSourceId": "SRC-0001",
+      "bookReferenceIds": [
+        "REF-0103",
+        "REF-0106"
+      ],
+      "question": "Which Standard Oil acquisition or railroad practices are independently documented, and does evidence support the specific psychological inference?",
+      "verificationTarget": "Compare primary antitrust findings, business histories and contemporaneous correspondence to Greene’s sourced pages.",
+      "sourceProvenance": "Greene PDF directly inspected where attributed; external historical and scientific evidence not yet consulted.",
+      "scientificEvidenceStatus": "not_assessed",
+      "editorialStatus": "awaiting_review",
+      "nextAction": "Seek exact primary/scholarly sources; register SRC/REF/RES records only after reading them; do not manufacture DOI or independent findings.",
+      "stage07FindingIds": []
+    },
+    {
+      "id": "EVQ-010",
+      "priority": "high",
+      "claimId": "CLM-0034",
+      "lawId": "LAW-16",
+      "bookSourceId": "SRC-0001",
+      "bookReferenceIds": [
+        "REF-0108",
+        "REF-0112"
+      ],
+      "question": "What separates assertiveness from hostility and passive-aggressive behavior in validated behavioral measures?",
+      "verificationTarget": "Operational definitions, construct validity, systematic review and competing situational explanations.",
+      "sourceProvenance": "Greene PDF directly inspected where attributed; external historical and scientific evidence not yet consulted.",
+      "scientificEvidenceStatus": "not_assessed",
+      "editorialStatus": "awaiting_review",
+      "nextAction": "Seek exact primary/scholarly sources; register SRC/REF/RES records only after reading them; do not manufacture DOI or independent findings.",
+      "stage07FindingIds": []
+    },
+    {
+      "id": "EVQ-011",
+      "priority": "high",
+      "claimId": "CLM-0035",
+      "lawId": "LAW-17",
+      "bookSourceId": "SRC-0001",
+      "bookReferenceIds": [
+        "REF-0113",
+        "REF-0116"
+      ],
+      "question": "Can age, period and cohort effects be distinguished in the evidence cited for generational styles?",
+      "verificationTarget": "Age-period-cohort identification constraints, survey longitudinal comparisons and robust counterexamples.",
+      "sourceProvenance": "Greene PDF directly inspected where attributed; external historical and scientific evidence not yet consulted.",
+      "scientificEvidenceStatus": "not_assessed",
+      "editorialStatus": "awaiting_review",
+      "nextAction": "Seek exact primary/scholarly sources; register SRC/REF/RES records only after reading them; do not manufacture DOI or independent findings.",
+      "stage07FindingIds": []
+    },
+    {
+      "id": "EVQ-012",
+      "priority": "medium",
+      "claimId": "CLM-0036",
+      "lawId": "LAW-17",
+      "bookSourceId": "SRC-0001",
+      "bookReferenceIds": [
+        "REF-0118",
+        "REF-0122"
+      ],
+      "question": "Which parts of Greene’s Danton/Louis XVI narrative are established history rather than hindsight selection?",
+      "verificationTarget": "Independent French Revolution scholarship and primary historical documents; compare timeline and quotations.",
+      "sourceProvenance": "Greene PDF directly inspected where attributed; external historical and scientific evidence not yet consulted.",
+      "scientificEvidenceStatus": "limited",
+      "editorialStatus": "partially_reviewed",
+      "nextAction": "Review full text, study methods and competing replications; keep abstract-scope qualifications before any stronger evidence claim.",
+      "stage07FindingIds": [
+        "RES-0005"
+      ]
+    },
+    {
+      "id": "EVQ-013",
+      "priority": "high",
+      "claimId": "CLM-0037",
+      "lawId": "LAW-18",
+      "bookSourceId": "SRC-0001",
+      "bookReferenceIds": [
+        "REF-0123",
+        "REF-0126"
+      ],
+      "question": "Which O’Connor biographical and medical details are attested by primary documents, and which are Greene’s interpretation?",
+      "verificationTarget": "Selected letters, scholarly biography and original reports; respect medical privacy and context.",
+      "sourceProvenance": "Greene PDF directly inspected where attributed; external historical and scientific evidence not yet consulted.",
+      "scientificEvidenceStatus": "not_assessed",
+      "editorialStatus": "awaiting_review",
+      "nextAction": "Seek exact primary/scholarly sources; register SRC/REF/RES records only after reading them; do not manufacture DOI or independent findings.",
+      "stage07FindingIds": []
+    },
+    {
+      "id": "EVQ-014",
+      "priority": "high",
+      "claimId": "CLM-0038",
+      "lawId": "LAW-18",
+      "bookSourceId": "SRC-0001",
+      "bookReferenceIds": [
+        "REF-0129",
+        "REF-0132"
+      ],
+      "question": "How variable are responses to mortality salience, and do reflective exercises change empathy or avoidance?",
+      "verificationTarget": "Primary studies, replication work, longitudinal or clinical boundary conditions; do not equate existential practices with therapy.",
+      "sourceProvenance": "Greene PDF directly inspected where attributed; external historical and scientific evidence not yet consulted.",
+      "scientificEvidenceStatus": "limited",
+      "editorialStatus": "partially_reviewed",
+      "nextAction": "Review full text, study methods and competing replications; keep abstract-scope qualifications before any stronger evidence claim.",
+      "stage07FindingIds": [
+        "RES-0006"
+      ]
+    }
+  ]
+}

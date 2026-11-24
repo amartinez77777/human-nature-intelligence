@@ -1,0 +1,138 @@
+{
+  "applicationVersion": "0.7.0",
+  "datasetSchemaVersion": 2,
+  "userProgressSchemaVersion": 1,
+  "authoritativeSourceZip": "HNI_STAGE_07_SOURCE.zip",
+  "previousSourceZip": "HNI_STAGE_06_SOURCE(1).zip",
+  "previousSourceSha256": "af2e200aaff494bc579d6704ffe54bde0f71fbeab3735ec769aafdebc12ec43a",
+  "pdfSha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e",
+  "pdfPages": 690,
+  "filesModified": [
+    "package.json",
+    "src/data/sources.json",
+    "src/data/source-references.json",
+    "src/data/research-findings.json",
+    "src/data/claims.json",
+    "src/data/historical-cases.json",
+    "src/modules/science-evidence/ScienceEvidence.tsx",
+    "src/modules/historical-cases/HistoricalCases.tsx",
+    "src/app/router.tsx",
+    "src/styles/global.css",
+    "research/SOURCE_LEDGER.json",
+    "research/STAGE_07_EVIDENCE_BACKLOG.json",
+    "research/STAGE_07_INDEPENDENT_SOURCE_AUDIT.json",
+    "scripts/validate-research.mjs",
+    "scripts/offline-tests.mjs",
+    "README.md",
+    "docs/ARCHITECTURE.md"
+  ],
+  "researchCounts": {
+    "laws": 18,
+    "concepts": 54,
+    "historicalCases": 18,
+    "claims": 38,
+    "sources": 12,
+    "sourceReferences": 143,
+    "researchFindings": 6,
+    "knowledgeEdges": 127,
+    "exercises": 47,
+    "ledgerLinks": 522
+  },
+  "claimsAssessed": [
+    "CLM-0006",
+    "CLM-0007",
+    "CLM-0016",
+    "CLM-0025",
+    "CLM-0036",
+    "CLM-0038"
+  ],
+  "historicalCasesChecked": [
+    "CAS-0001",
+    "CAS-0013",
+    "CAS-0015",
+    "CAS-0016",
+    "CAS-0018"
+  ],
+  "tests": [
+    {
+      "gate": "Stage 06 ZIP baseline restore",
+      "status": "PASS",
+      "observation": "Source extracted from exact uploaded archive, single hni/ root"
+    },
+    {
+      "gate": "Matching PDF SHA-256",
+      "status": "PASS",
+      "observation": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e; 690 pages"
+    },
+    {
+      "gate": "Baseline npm run validate:data",
+      "status": "PASS",
+      "observation": "0 errors, 0 warnings"
+    },
+    {
+      "gate": "Baseline npm run test:offline",
+      "status": "PASS",
+      "observation": "62/62 tests"
+    },
+    {
+      "gate": "npm install --package-lock-only",
+      "status": "BLOCKED",
+      "observation": "One 14-second bounded registry attempt timed out; no lockfile created"
+    },
+    {
+      "gate": "npm ci",
+      "status": "BLOCKED",
+      "observation": "No genuine package-lock.json, registry inaccessible"
+    },
+    {
+      "gate": "Final npm run validate:data",
+      "status": "PASS",
+      "observation": "0 dataset errors; 522 ledger links; 143 references; 60 verified section headings"
+    },
+    {
+      "gate": "Final npm run test:offline",
+      "status": "PASS",
+      "observation": "70/70 Node tests"
+    },
+    {
+      "gate": "npm run typecheck",
+      "status": "BLOCKED",
+      "observation": "TS2688; missing vite/client and vitest/globals"
+    },
+    {
+      "gate": "npm run lint",
+      "status": "BLOCKED",
+      "observation": "eslint: not found"
+    },
+    {
+      "gate": "npm run test",
+      "status": "BLOCKED",
+      "observation": "vitest: not found"
+    },
+    {
+      "gate": "npm run build",
+      "status": "BLOCKED",
+      "observation": "vite: not found after successful data checks"
+    },
+    {
+      "gate": "Actual browser / mobile Safari",
+      "status": "NOT RUN",
+      "observation": "No built React bundle or Safari environment"
+    },
+    {
+      "gate": "GitHub Pages deployment",
+      "status": "NOT RUN",
+      "observation": "Not requested and no verified install/build"
+    }
+  ],
+  "remainingIssues": [
+    "No genuine package-lock.json; npm registry timeouts",
+    "React typecheck, lint, Vitest and Vite build not verified",
+    "Full text for several research articles not accessible",
+    "Eight backlog claims not independently assessed",
+    "Other historical cases need independent checks",
+    "All 18 law chapters still partially reviewed; 37 major subsections remain",
+    "No iPhone Safari/browser or Pages deployment verification"
+  ],
+  "stage08Readiness": "Cumulative source and research checks PASS; production compilation BLOCKED; Stage 08 must continue with the exact cumulative ZIP and resolve the installation gate"
+}

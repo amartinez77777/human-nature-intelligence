@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "stage": 7,
+  "reviewedClaimIds": [
+    "CLM-0006",
+    "CLM-0007",
+    "CLM-0016",
+    "CLM-0025",
+    "CLM-0036",
+    "CLM-0038"
+  ],
+  "researchFindingIds": [
+    "RES-0001",
+    "RES-0002",
+    "RES-0003",
+    "RES-0004",
+    "RES-0005",
+    "RES-0006"
+  ],
+  "historicalCaseIds": [
+    "CAS-0001",
+    "CAS-0013",
+    "CAS-0015",
+    "CAS-0016",
+    "CAS-0018"
+  ],
+  "limitations": [
+    "External journal abstracts or article overviews were inspected; do not claim that full study methods were independently replicated.",
+    "Three historical sources represent institutional narratives, not newly located primary archival material.",
+    "No new cause-of-behavior or diagnosis claim is established by event chronology."
+  ],
+  "sourceUrls": [
+    "https://pubmed.ncbi.nlm.nih.gov/12555795/",
+    "https://www.psychologicalscience.org/journals/current-directions/1467-8721.00166/",
+    "https://doi.org/10.1111/j.1468-2958.2012.01443.x",
+    "https://digitalcommons.usu.edu/advance/142/",
+    "https://uwnxt.nationalacademies.org/read/25796/chapter/6",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0065260115000052",
+    "https://rockarch.org/resources/about-the-rockefellers/john-d-rockefeller-sr/",
+    "https://kinginstitute.stanford.edu/montgomery-bus-boycott",
+    "https://www.hrp.org.uk/hampton-court-palace/history-and-stories/elizabeth-i/",
+    "https://www.georgiahistory.com/resource/flannery-oconnor/brief-biography/",
+    "https://www.pbs.org/empires/thegreeks/characters/pericles_p11.html"
+  ]
+}

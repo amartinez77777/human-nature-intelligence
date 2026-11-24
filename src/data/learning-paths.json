@@ -1,0 +1,747 @@
+[
+  {
+    "id": "PATH-0001",
+    "title": "Understanding the Individual",
+    "description": "Distinguish emotional judgment, desire, time horizons and self-concept before interpreting outcomes.",
+    "lawIds": [
+      "LAW-01",
+      "LAW-05",
+      "LAW-06",
+      "LAW-08",
+      "LAW-09",
+      "LAW-11",
+      "LAW-13",
+      "LAW-18",
+      "LAW-02",
+      "LAW-03",
+      "LAW-04"
+    ],
+    "conceptIds": [
+      "CON-0001",
+      "CON-0002",
+      "CON-0004",
+      "CON-0013",
+      "CON-0014",
+      "CON-0015",
+      "CON-0016",
+      "CON-0017",
+      "CON-0018",
+      "CON-0022",
+      "CON-0023",
+      "CON-0024",
+      "CON-0025",
+      "CON-0026",
+      "CON-0027",
+      "CON-0031",
+      "CON-0032",
+      "CON-0033",
+      "CON-0037",
+      "CON-0038",
+      "CON-0039",
+      "CON-0052",
+      "CON-0053",
+      "CON-0054",
+      "CON-0005",
+      "CON-0008",
+      "CON-0010"
+    ],
+    "exerciseIds": [
+      "EXR-0001",
+      "EXR-0002",
+      "EXR-0003",
+      "EXR-0052",
+      "EXR-0010",
+      "EXR-0011",
+      "EXR-0051",
+      "EXR-0012",
+      "EXR-0013",
+      "EXR-0055",
+      "EXR-0016",
+      "EXR-0017",
+      "EXR-0018",
+      "EXR-0019",
+      "EXR-0020",
+      "EXR-0024",
+      "EXR-0025",
+      "EXR-0026",
+      "EXR-0030",
+      "EXR-0031",
+      "EXR-0032",
+      "EXR-0045",
+      "EXR-0046",
+      "EXR-0047",
+      "EXR-0057",
+      "EXR-0005",
+      "EXR-0006",
+      "EXR-0008"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "lessons": [
+      {
+        "id": "LES-0001",
+        "title": "What makes a judgment evidence-sensitive?",
+        "objective": "Explain and apply irrationality while distinguishing evidence from inference.",
+        "introduction": "A preferred result may shape the evidence we seek. Contrast selective confirmation with testing a hypothesis against rival explanations.",
+        "illustration": "Fictional example: A project manager deliberately asks an independent reviewer to find conditions under which a favored plan might fail.",
+        "lawIds": [
+          "LAW-01"
+        ],
+        "conceptIds": [
+          "CON-0001",
+          "CON-0002",
+          "CON-0004"
+        ],
+        "caseIds": [
+          "CAS-0001"
+        ],
+        "findingIds": [],
+        "exerciseIds": [
+          "EXR-0001",
+          "EXR-0002",
+          "EXR-0003",
+          "EXR-0052"
+        ],
+        "scenarioIds": [
+          "SIM-0001",
+          "SIM-0006"
+        ],
+        "sourceReferenceIds": [
+          "REF-0001",
+          "REF-0007"
+        ]
+      },
+      {
+        "id": "LES-0005",
+        "title": "Why does an object become desirable?",
+        "objective": "Explain and apply covetousness while distinguishing evidence from inference.",
+        "introduction": "Greene emphasizes imagined value and absence. Separate functional need, symbolic value and social proof; causal claims require comparisons.",
+        "illustration": "Fictional example: A buyer checks actual product requirements before treating popularity as evidence of suitability.",
+        "lawIds": [
+          "LAW-05"
+        ],
+        "conceptIds": [
+          "CON-0013",
+          "CON-0014",
+          "CON-0015"
+        ],
+        "caseIds": [
+          "CAS-0005"
+        ],
+        "findingIds": [],
+        "exerciseIds": [
+          "EXR-0010",
+          "EXR-0011",
+          "EXR-0051"
+        ],
+        "scenarioIds": [],
+        "sourceReferenceIds": [
+          "REF-0023",
+          "REF-0024"
+        ]
+      },
+      {
+        "id": "LES-0006",
+        "title": "How far ahead should a decision look?",
+        "objective": "Explain and apply shortsightedness while distinguishing evidence from inference.",
+        "introduction": "Immediate constraints matter, but delayed costs and uncertainty belong in the same assessment. Evaluate decisions using information available at the time.",
+        "illustration": "Fictional example: A committee compares a quick launch with a staged trial and lists reversal costs.",
+        "lawIds": [
+          "LAW-06"
+        ],
+        "conceptIds": [
+          "CON-0016",
+          "CON-0017",
+          "CON-0018"
+        ],
+        "caseIds": [
+          "CAS-0006"
+        ],
+        "findingIds": [],
+        "exerciseIds": [
+          "EXR-0012",
+          "EXR-0013",
+          "EXR-0055"
+        ],
+        "scenarioIds": [
+          "SIM-0006"
+        ],
+        "sourceReferenceIds": [
+          "REF-0029",
+          "REF-0030"
+        ]
+      },
+      {
+        "id": "LES-0008",
+        "title": "Where does attitude end and circumstance begin?",
+        "objective": "Explain and apply self-sabotage while distinguishing evidence from inference.",
+        "introduction": "Expectations may influence interaction, yet outside constraints and mistreatment are real. A feedback loop is a hypothesis that needs observations.",
+        "illustration": "Fictional example: A worker records specific barriers alongside their expectations instead of blaming every setback on mindset.",
+        "lawIds": [
+          "LAW-08"
+        ],
+        "conceptIds": [
+          "CON-0022",
+          "CON-0023",
+          "CON-0024"
+        ],
+        "caseIds": [
+          "CAS-0008"
+        ],
+        "findingIds": [],
+        "exerciseIds": [
+          "EXR-0016",
+          "EXR-0017"
+        ],
+        "scenarioIds": [
+          "SIM-0001"
+        ],
+        "sourceReferenceIds": [
+          "REF-0041",
+          "REF-0042"
+        ]
+      },
+      {
+        "id": "LES-0009",
+        "title": "Can contradictory conduct reveal a hidden motive?",
+        "objective": "Explain and apply repression while distinguishing evidence from inference.",
+        "introduction": "Greene uses a shadow framework to interpret discrepancies. The discrepancy itself can be investigated without accepting a hidden motive as fact.",
+        "illustration": "Fictional example: A leader claims to welcome feedback but repeatedly excludes critics; review the decisions, not a guessed personality.",
+        "lawIds": [
+          "LAW-09"
+        ],
+        "conceptIds": [
+          "CON-0025",
+          "CON-0026",
+          "CON-0027"
+        ],
+        "caseIds": [
+          "CAS-0009"
+        ],
+        "findingIds": [],
+        "exerciseIds": [
+          "EXR-0018",
+          "EXR-0019",
+          "EXR-0020"
+        ],
+        "scenarioIds": [],
+        "sourceReferenceIds": [
+          "REF-0047",
+          "REF-0048"
+        ]
+      },
+      {
+        "id": "LES-0011",
+        "title": "How is ambition calibrated?",
+        "objective": "Explain and apply grandiosity while distinguishing evidence from inference.",
+        "introduction": "Confidence should remain open to feedback and uncertainty. A successful outcome does not establish exceptional predictive ability.",
+        "illustration": "Fictional example: A founder writes a range of forecasts and tracks whether outcomes match them.",
+        "lawIds": [
+          "LAW-11"
+        ],
+        "conceptIds": [
+          "CON-0031",
+          "CON-0032",
+          "CON-0033"
+        ],
+        "caseIds": [
+          "CAS-0011"
+        ],
+        "findingIds": [],
+        "exerciseIds": [
+          "EXR-0024",
+          "EXR-0025",
+          "EXR-0026"
+        ],
+        "scenarioIds": [
+          "SIM-0003",
+          "SIM-0006"
+        ],
+        "sourceReferenceIds": [
+          "REF-0060",
+          "REF-0061"
+        ]
+      },
+      {
+        "id": "LES-0013",
+        "title": "What turns purpose into action?",
+        "objective": "Explain and apply aimlessness while distinguishing evidence from inference.",
+        "introduction": "Purpose can organize decisions without implying a predetermined destiny. Concrete steps and revision keep goals grounded in circumstances.",
+        "illustration": "Fictional example: A volunteer tests a chosen project in a small pilot before committing years to it.",
+        "lawIds": [
+          "LAW-13"
+        ],
+        "conceptIds": [
+          "CON-0037",
+          "CON-0038",
+          "CON-0039"
+        ],
+        "caseIds": [
+          "CAS-0013"
+        ],
+        "findingIds": [],
+        "exerciseIds": [
+          "EXR-0030",
+          "EXR-0031",
+          "EXR-0032"
+        ],
+        "scenarioIds": [],
+        "sourceReferenceIds": [
+          "REF-0073",
+          "REF-0074"
+        ]
+      },
+      {
+        "id": "LES-0018",
+        "title": "What can mortality awareness teach?",
+        "objective": "Explain and apply death denial while distinguishing evidence from inference.",
+        "introduction": "Greene presents a reflective philosophical practice. Responses vary, and limited research does not validate a universal outcome.",
+        "illustration": "Fictional example: A fictional reader reflects on priorities without demanding that others find meaning in loss.",
+        "lawIds": [
+          "LAW-18"
+        ],
+        "conceptIds": [
+          "CON-0052",
+          "CON-0053",
+          "CON-0054"
+        ],
+        "caseIds": [
+          "CAS-0018"
+        ],
+        "findingIds": [
+          "RES-0006"
+        ],
+        "exerciseIds": [
+          "EXR-0045",
+          "EXR-0046",
+          "EXR-0047",
+          "EXR-0057"
+        ],
+        "scenarioIds": [],
+        "sourceReferenceIds": [
+          "REF-0123",
+          "REF-0124"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PATH-0002",
+    "title": "Understanding Other People",
+    "description": "Interpret social behavior with contextual evidence, empathy and meaningful alternatives.",
+    "lawIds": [
+      "LAW-02",
+      "LAW-03",
+      "LAW-04",
+      "LAW-07",
+      "LAW-10",
+      "LAW-12",
+      "LAW-16"
+    ],
+    "conceptIds": [
+      "CON-0003",
+      "CON-0005",
+      "CON-0006",
+      "CON-0007",
+      "CON-0008",
+      "CON-0009",
+      "CON-0010",
+      "CON-0011",
+      "CON-0012",
+      "CON-0019",
+      "CON-0020",
+      "CON-0021",
+      "CON-0028",
+      "CON-0029",
+      "CON-0030",
+      "CON-0034",
+      "CON-0035",
+      "CON-0036",
+      "CON-0046",
+      "CON-0047",
+      "CON-0048"
+    ],
+    "exerciseIds": [
+      "EXR-0004",
+      "EXR-0005",
+      "EXR-0050",
+      "EXR-0006",
+      "EXR-0007",
+      "EXR-0048",
+      "EXR-0049",
+      "EXR-0053",
+      "EXR-0008",
+      "EXR-0009",
+      "EXR-0056",
+      "EXR-0014",
+      "EXR-0015",
+      "EXR-0054",
+      "EXR-0021",
+      "EXR-0022",
+      "EXR-0023",
+      "EXR-0027",
+      "EXR-0028",
+      "EXR-0029",
+      "EXR-0039",
+      "EXR-0040",
+      "EXR-0041"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "lessons": [
+      {
+        "id": "LES-0002",
+        "title": "How does self-focus affect empathy?",
+        "objective": "Explain and apply narcissism while distinguishing evidence from inference.",
+        "introduction": "Greene describes self-absorption and outward attention as competing orientations. Treat this as a literary framework, not a diagnostic scale.",
+        "illustration": "Fictional example: A listener checks whether their summary of another person’s concern is accurate rather than assuming shared feelings.",
+        "lawIds": [
+          "LAW-02"
+        ],
+        "conceptIds": [
+          "CON-0003",
+          "CON-0005",
+          "CON-0006"
+        ],
+        "caseIds": [
+          "CAS-0002"
+        ],
+        "findingIds": [],
+        "exerciseIds": [
+          "EXR-0004",
+          "EXR-0005",
+          "EXR-0050"
+        ],
+        "scenarioIds": [
+          "SIM-0002"
+        ],
+        "sourceReferenceIds": [
+          "REF-0005",
+          "REF-0010"
+        ]
+      },
+      {
+        "id": "LES-0003",
+        "title": "What does presentation reveal?",
+        "objective": "Explain and apply role-playing while distinguishing evidence from inference.",
+        "introduction": "Social roles can change how people communicate without deception. Separate observable cues from explanations and inspect the relevant evidence limits.",
+        "illustration": "Fictional example: A nervous presenter uses a steady voice while explaining a genuinely well-researched plan.",
+        "lawIds": [
+          "LAW-03"
+        ],
+        "conceptIds": [
+          "CON-0007",
+          "CON-0008",
+          "CON-0009"
+        ],
+        "caseIds": [
+          "CAS-0003"
+        ],
+        "findingIds": [
+          "RES-0001"
+        ],
+        "exerciseIds": [
+          "EXR-0006",
+          "EXR-0007",
+          "EXR-0048",
+          "EXR-0049",
+          "EXR-0053"
+        ],
+        "scenarioIds": [
+          "SIM-0003"
+        ],
+        "sourceReferenceIds": [
+          "REF-0014",
+          "REF-0015"
+        ]
+      },
+      {
+        "id": "LES-0004",
+        "title": "When does repetition become informative?",
+        "objective": "Explain and apply compulsive behavior while distinguishing evidence from inference.",
+        "introduction": "Repeated behavior is more informative when the surrounding conditions are comparable. A contextual pattern is not an invariant character judgment.",
+        "illustration": "Fictional example: A team compares delays across projects with similar workloads and clear responsibilities.",
+        "lawIds": [
+          "LAW-04"
+        ],
+        "conceptIds": [
+          "CON-0010",
+          "CON-0011",
+          "CON-0012"
+        ],
+        "caseIds": [
+          "CAS-0004"
+        ],
+        "findingIds": [
+          "RES-0002"
+        ],
+        "exerciseIds": [
+          "EXR-0008",
+          "EXR-0009",
+          "EXR-0056"
+        ],
+        "scenarioIds": [
+          "SIM-0005"
+        ],
+        "sourceReferenceIds": [
+          "REF-0018",
+          "REF-0019"
+        ]
+      },
+      {
+        "id": "LES-0007",
+        "title": "What makes disagreement legitimate?",
+        "objective": "Explain and apply defensiveness while distinguishing evidence from inference.",
+        "introduction": "Self-image and autonomy can affect resistance, but an objection may also be correct. Respect meaningful choice and assess the substance.",
+        "illustration": "Fictional example: A manager asks what would make a proposed change acceptable without penalizing disagreement.",
+        "lawIds": [
+          "LAW-07"
+        ],
+        "conceptIds": [
+          "CON-0019",
+          "CON-0020",
+          "CON-0021"
+        ],
+        "caseIds": [
+          "CAS-0007"
+        ],
+        "findingIds": [
+          "RES-0003"
+        ],
+        "exerciseIds": [
+          "EXR-0014",
+          "EXR-0015",
+          "EXR-0054"
+        ],
+        "scenarioIds": [
+          "SIM-0001"
+        ],
+        "sourceReferenceIds": [
+          "REF-0035",
+          "REF-0036"
+        ]
+      },
+      {
+        "id": "LES-0010",
+        "title": "When is comparison harmful?",
+        "objective": "Explain and apply envy while distinguishing evidence from inference.",
+        "introduction": "Social comparison may involve admiration, disappointment or envy. Behavior and procedural evidence matter more than imagined inner motives.",
+        "illustration": "Fictional example: An award committee reviews fairness complaints against published rules.",
+        "lawIds": [
+          "LAW-10"
+        ],
+        "conceptIds": [
+          "CON-0028",
+          "CON-0029",
+          "CON-0030"
+        ],
+        "caseIds": [
+          "CAS-0010"
+        ],
+        "findingIds": [],
+        "exerciseIds": [
+          "EXR-0021",
+          "EXR-0022",
+          "EXR-0023"
+        ],
+        "scenarioIds": [
+          "SIM-0002",
+          "SIM-0005"
+        ],
+        "sourceReferenceIds": [
+          "REF-0053",
+          "REF-0054"
+        ]
+      },
+      {
+        "id": "LES-0012",
+        "title": "How do roles constrain behavior?",
+        "objective": "Explain and apply gender rigidity while distinguishing evidence from inference.",
+        "introduction": "Greene’s gender framework is an authorial interpretation. Examine social expectations and individual variation without treating stereotypes as innate laws.",
+        "illustration": "Fictional example: A hiring panel applies the same behavioral criteria to every candidate.",
+        "lawIds": [
+          "LAW-12"
+        ],
+        "conceptIds": [
+          "CON-0034",
+          "CON-0035",
+          "CON-0036"
+        ],
+        "caseIds": [
+          "CAS-0012"
+        ],
+        "findingIds": [
+          "RES-0004"
+        ],
+        "exerciseIds": [
+          "EXR-0027",
+          "EXR-0028",
+          "EXR-0029"
+        ],
+        "scenarioIds": [],
+        "sourceReferenceIds": [
+          "REF-0066",
+          "REF-0067"
+        ]
+      },
+      {
+        "id": "LES-0016",
+        "title": "What separates assertiveness from aggression?",
+        "objective": "Explain and apply aggression while distinguishing evidence from inference.",
+        "introduction": "Firm boundaries can be ethical; threats or coercive conduct warrant attention. Evaluate behavior and impact without guessing motive.",
+        "illustration": "Fictional example: Two teams negotiate a deadline and document agreed responsibilities rather than escalating personal accusations.",
+        "lawIds": [
+          "LAW-16"
+        ],
+        "conceptIds": [
+          "CON-0046",
+          "CON-0047",
+          "CON-0048"
+        ],
+        "caseIds": [
+          "CAS-0016"
+        ],
+        "findingIds": [],
+        "exerciseIds": [
+          "EXR-0039",
+          "EXR-0040",
+          "EXR-0041"
+        ],
+        "scenarioIds": [
+          "SIM-0005"
+        ],
+        "sourceReferenceIds": [
+          "REF-0103",
+          "REF-0104"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PATH-0003",
+    "title": "Understanding Groups, Power and Society",
+    "description": "Separate group influence, accountable leadership and historical context from individual motives.",
+    "lawIds": [
+      "LAW-14",
+      "LAW-15",
+      "LAW-17"
+    ],
+    "conceptIds": [
+      "CON-0040",
+      "CON-0041",
+      "CON-0042",
+      "CON-0043",
+      "CON-0044",
+      "CON-0045",
+      "CON-0049",
+      "CON-0050",
+      "CON-0051"
+    ],
+    "exerciseIds": [
+      "EXR-0033",
+      "EXR-0034",
+      "EXR-0035",
+      "EXR-0036",
+      "EXR-0037",
+      "EXR-0038",
+      "EXR-0042",
+      "EXR-0043",
+      "EXR-0044"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "lessons": [
+      {
+        "id": "LES-0014",
+        "title": "How does a group reach agreement?",
+        "objective": "Explain and apply conformity while distinguishing evidence from inference.",
+        "introduction": "Public consensus can reflect evidence, pressure, or both. Seek independent reasons and conditions that allow dissent.",
+        "illustration": "Fictional example: A committee collects private views before and after a new report.",
+        "lawIds": [
+          "LAW-14"
+        ],
+        "conceptIds": [
+          "CON-0040",
+          "CON-0041",
+          "CON-0042"
+        ],
+        "caseIds": [
+          "CAS-0014"
+        ],
+        "findingIds": [],
+        "exerciseIds": [
+          "EXR-0033",
+          "EXR-0034",
+          "EXR-0035"
+        ],
+        "scenarioIds": [
+          "SIM-0004"
+        ],
+        "sourceReferenceIds": [
+          "REF-0083",
+          "REF-0084"
+        ]
+      },
+      {
+        "id": "LES-0015",
+        "title": "What makes authority credible?",
+        "objective": "Explain and apply fickleness while distinguishing evidence from inference.",
+        "introduction": "Leadership can draw on competence, accountability and institutional roles. Popularity and obedience do not uniquely identify legitimacy.",
+        "illustration": "Fictional example: A supervisor invites objections and documents revisions to a plan.",
+        "lawIds": [
+          "LAW-15"
+        ],
+        "conceptIds": [
+          "CON-0043",
+          "CON-0044",
+          "CON-0045"
+        ],
+        "caseIds": [
+          "CAS-0015"
+        ],
+        "findingIds": [],
+        "exerciseIds": [
+          "EXR-0036",
+          "EXR-0037",
+          "EXR-0038"
+        ],
+        "scenarioIds": [
+          "SIM-0003",
+          "SIM-0004"
+        ],
+        "sourceReferenceIds": [
+          "REF-0093",
+          "REF-0094"
+        ]
+      },
+      {
+        "id": "LES-0017",
+        "title": "How can historical context be assessed?",
+        "objective": "Explain and apply generational myopia while distinguishing evidence from inference.",
+        "introduction": "Age, period and cohort are intertwined. Historical narratives can inspire hypotheses but do not establish uniform generational traits.",
+        "illustration": "Fictional example: A researcher compares repeated surveys rather than attributing one age difference to birth year.",
+        "lawIds": [
+          "LAW-17"
+        ],
+        "conceptIds": [
+          "CON-0049",
+          "CON-0050",
+          "CON-0051"
+        ],
+        "caseIds": [
+          "CAS-0017"
+        ],
+        "findingIds": [
+          "RES-0005"
+        ],
+        "exerciseIds": [
+          "EXR-0042",
+          "EXR-0043",
+          "EXR-0044"
+        ],
+        "scenarioIds": [],
+        "sourceReferenceIds": [
+          "REF-0113",
+          "REF-0114"
+        ]
+      }
+    ]
+  }
+]

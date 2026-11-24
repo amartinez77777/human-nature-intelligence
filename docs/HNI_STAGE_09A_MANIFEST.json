@@ -1,0 +1,186 @@
+{
+  "applicationVersion": "0.9.0-alpha.1",
+  "datasetSchemaVersion": 2,
+  "scenarioSchemaVersion": 1,
+  "userProgressSchemaVersion": 2,
+  "storageKey": "hni.user-progress.v1",
+  "sourceZip": "HNI_STAGE_09A_SOURCE.zip",
+  "previousZipSha256": "c57c7edb0f19e279fa7413378fd8660b4c8ff99b37632c5c46859bcb551024aa",
+  "pdfSha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e",
+  "scenarios": [
+    {
+      "id": "SIM-0001",
+      "title": "The Unanswered Proposal",
+      "status": "implemented_source_offline_engine_tested",
+      "steps": 7,
+      "choices": 20,
+      "evidenceItems": 5,
+      "sourceReferenceIds": [
+        "REF-0002",
+        "REF-0008",
+        "REF-0039",
+        "REF-0044",
+        "REF-0135"
+      ]
+    },
+    {
+      "id": "SIM-0002",
+      "title": "The Unexpected Promotion",
+      "status": "implemented_source_offline_engine_tested",
+      "steps": 7,
+      "choices": 20,
+      "evidenceItems": 5,
+      "sourceReferenceIds": [
+        "REF-0053",
+        "REF-0059",
+        "REF-0060",
+        "REF-0065"
+      ]
+    },
+    {
+      "id": "SIM-0003",
+      "title": "The Charismatic Leader",
+      "status": "implemented_source_offline_engine_tested",
+      "steps": 7,
+      "choices": 20,
+      "evidenceItems": 5,
+      "sourceReferenceIds": [
+        "REF-0015",
+        "REF-0060",
+        "REF-0065",
+        "REF-0088",
+        "REF-0097",
+        "REF-0100",
+        "REF-0133"
+      ]
+    },
+    {
+      "id": "SIM-0004",
+      "title": "The Changing Group Opinion",
+      "status": "implemented_source_offline_engine_tested",
+      "steps": 7,
+      "choices": 20,
+      "evidenceItems": 5,
+      "sourceReferenceIds": [
+        "REF-0002",
+        "REF-0088",
+        "REF-0089",
+        "REF-0093",
+        "REF-0097"
+      ]
+    },
+    {
+      "id": "SIM-0005",
+      "title": "The Quiet Rivalry",
+      "status": "implemented_source_offline_engine_tested",
+      "steps": 7,
+      "choices": 20,
+      "evidenceItems": 5,
+      "sourceReferenceIds": [
+        "REF-0019",
+        "REF-0053",
+        "REF-0059",
+        "REF-0109",
+        "REF-0111",
+        "REF-0134"
+      ]
+    },
+    {
+      "id": "SIM-0006",
+      "title": "The High-Stakes Decision",
+      "status": "implemented_source_offline_engine_tested",
+      "steps": 7,
+      "choices": 20,
+      "evidenceItems": 5,
+      "sourceReferenceIds": [
+        "REF-0002",
+        "REF-0008",
+        "REF-0032",
+        "REF-0033",
+        "REF-0060",
+        "REF-0065",
+        "REF-0089",
+        "REF-0100"
+      ]
+    }
+  ],
+  "existingExercises": 47,
+  "learningPaths": 1,
+  "researchCoverage": {
+    "partiallyReviewedLaws": 18,
+    "substantiveSections": 23,
+    "trackedSections": 60,
+    "unassessedExternalQuestions": 8
+  },
+  "migration": {
+    "from": 1,
+    "to": 2,
+    "preserves": [
+      "bookmarks",
+      "recentlyViewed",
+      "completedExercises",
+      "learningProgress"
+    ],
+    "newField": "scenarioProgress",
+    "validV1Accepted": true,
+    "invalidSessionsRejected": true
+  },
+  "verification": {
+    "baselineOffline": "83/83 PASS",
+    "offline": "103/103 PASS",
+    "dataValidation": "PASS, 0 errors, 0 warnings",
+    "focusedStrictCoreTypecheck": "PASS",
+    "fullTypecheck": "BLOCKED: missing Vite/Vitest types",
+    "npmInstall": "BLOCKED: timeout exit 124",
+    "npmCi": "BLOCKED: no lockfile",
+    "lint": "BLOCKED: eslint absent",
+    "vitest": "BLOCKED: vitest absent",
+    "build": "BLOCKED: vite absent",
+    "browser": "NOT RUN",
+    "deployment": "NOT RUN"
+  },
+  "filesModified": [
+    "README.md",
+    "docs/ARCHITECTURE.md",
+    "docs/DATA_DICTIONARY.md",
+    "docs/DEPLOYMENT.md",
+    "package.json",
+    "scripts/offline-tests.mjs",
+    "scripts/stage09a-tests.mjs",
+    "scripts/validate-scenarios.mjs",
+    "src/app/ProgressContext.tsx",
+    "src/app/router.tsx",
+    "src/components/layout/Shell.tsx",
+    "src/data/scenarios.json",
+    "src/domain/scenario-types.ts",
+    "src/domain/scenario-validator.ts",
+    "src/domain/schemas.ts",
+    "src/domain/validator.ts",
+    "src/modules/command-center/CommandCenter.tsx",
+    "src/modules/command-center/SourceAndSettings.tsx",
+    "src/modules/simulation-lab/SimulationLab.tsx",
+    "src/services/backup-serialization.ts",
+    "src/services/import-export.ts",
+    "src/services/persistence.ts",
+    "src/services/progress-storage.ts",
+    "src/services/progress-validation.ts",
+    "src/services/repository.ts",
+    "src/services/scenario-engine.ts",
+    "src/styles/global.css",
+    "src/tests/persistence.test.ts",
+    "src/tests/stage09a-scenarios.test.ts",
+    "docs/STAGE_HANDOFF.md",
+    "docs/HNI_STAGE_09A_HANDOFF.md",
+    "docs/HNI_STAGE_09A_HANDOFF.txt",
+    "docs/HNI_STAGE_09A_VERIFICATION_REPORT.md",
+    "docs/HNI_STAGE_09A_MANIFEST.json"
+  ],
+  "remainingBlockers": [
+    "real lockfile, full npm/CI verification",
+    "browser and Safari interaction/visual verification",
+    "37 unfinished substantive section reviews",
+    "8 remaining independent evidence questions",
+    "Stage 09B Academy enhancements"
+  ],
+  "nextStage": "09B: continue this exact ZIP, preserve scenario engine/progress and existing Academy records; output HNI_STAGE_09_SOURCE.zip"
+}

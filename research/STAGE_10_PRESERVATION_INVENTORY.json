@@ -1,0 +1,1957 @@
+{
+  "baselineZipSha256": "0f86c7dd6375c82b1420d27403eaede8849180c53a0b13cce81d9bb2bf599559",
+  "baselineFileCount": 184,
+  "baseline": {
+    "recordIds": {
+      "laws.json": [
+        "LAW-01",
+        "LAW-02",
+        "LAW-03",
+        "LAW-04",
+        "LAW-05",
+        "LAW-06",
+        "LAW-07",
+        "LAW-08",
+        "LAW-09",
+        "LAW-10",
+        "LAW-11",
+        "LAW-12",
+        "LAW-13",
+        "LAW-14",
+        "LAW-15",
+        "LAW-16",
+        "LAW-17",
+        "LAW-18"
+      ],
+      "concepts.json": [
+        "CON-0001",
+        "CON-0002",
+        "CON-0003",
+        "CON-0004",
+        "CON-0005",
+        "CON-0006",
+        "CON-0007",
+        "CON-0008",
+        "CON-0009",
+        "CON-0010",
+        "CON-0011",
+        "CON-0012",
+        "CON-0013",
+        "CON-0014",
+        "CON-0015",
+        "CON-0016",
+        "CON-0017",
+        "CON-0018",
+        "CON-0019",
+        "CON-0020",
+        "CON-0021",
+        "CON-0022",
+        "CON-0023",
+        "CON-0024",
+        "CON-0025",
+        "CON-0026",
+        "CON-0027",
+        "CON-0028",
+        "CON-0029",
+        "CON-0030",
+        "CON-0031",
+        "CON-0032",
+        "CON-0033",
+        "CON-0034",
+        "CON-0035",
+        "CON-0036",
+        "CON-0037",
+        "CON-0038",
+        "CON-0039",
+        "CON-0040",
+        "CON-0041",
+        "CON-0042",
+        "CON-0043",
+        "CON-0044",
+        "CON-0045",
+        "CON-0046",
+        "CON-0047",
+        "CON-0048",
+        "CON-0049",
+        "CON-0050",
+        "CON-0051",
+        "CON-0052",
+        "CON-0053",
+        "CON-0054"
+      ],
+      "historical-cases.json": [
+        "CAS-0001",
+        "CAS-0002",
+        "CAS-0003",
+        "CAS-0004",
+        "CAS-0005",
+        "CAS-0006",
+        "CAS-0007",
+        "CAS-0008",
+        "CAS-0009",
+        "CAS-0010",
+        "CAS-0011",
+        "CAS-0012",
+        "CAS-0013",
+        "CAS-0014",
+        "CAS-0015",
+        "CAS-0016",
+        "CAS-0017",
+        "CAS-0018"
+      ],
+      "claims.json": [
+        "CLM-0001",
+        "CLM-0002",
+        "CLM-0003",
+        "CLM-0004",
+        "CLM-0005",
+        "CLM-0006",
+        "CLM-0007",
+        "CLM-0008",
+        "CLM-0009",
+        "CLM-0010",
+        "CLM-0011",
+        "CLM-0012",
+        "CLM-0013",
+        "CLM-0014",
+        "CLM-0015",
+        "CLM-0016",
+        "CLM-0017",
+        "CLM-0018",
+        "CLM-0019",
+        "CLM-0020",
+        "CLM-0021",
+        "CLM-0022",
+        "CLM-0023",
+        "CLM-0024",
+        "CLM-0025",
+        "CLM-0026",
+        "CLM-0027",
+        "CLM-0028",
+        "CLM-0029",
+        "CLM-0030",
+        "CLM-0031",
+        "CLM-0032",
+        "CLM-0033",
+        "CLM-0034",
+        "CLM-0035",
+        "CLM-0036",
+        "CLM-0037",
+        "CLM-0038"
+      ],
+      "sources.json": [
+        "SRC-0001",
+        "SRC-0002",
+        "SRC-0003",
+        "SRC-0004",
+        "SRC-0005",
+        "SRC-0006",
+        "SRC-0007",
+        "SRC-0008",
+        "SRC-0009",
+        "SRC-0010",
+        "SRC-0011",
+        "SRC-0012"
+      ],
+      "source-references.json": [
+        "REF-0001",
+        "REF-0002",
+        "REF-0003",
+        "REF-0004",
+        "REF-0005",
+        "REF-0006",
+        "REF-0007",
+        "REF-0008",
+        "REF-0009",
+        "REF-0010",
+        "REF-0011",
+        "REF-0012",
+        "REF-0013",
+        "REF-0014",
+        "REF-0015",
+        "REF-0016",
+        "REF-0017",
+        "REF-0018",
+        "REF-0019",
+        "REF-0020",
+        "REF-0021",
+        "REF-0022",
+        "REF-0023",
+        "REF-0024",
+        "REF-0025",
+        "REF-0026",
+        "REF-0027",
+        "REF-0028",
+        "REF-0029",
+        "REF-0030",
+        "REF-0031",
+        "REF-0032",
+        "REF-0033",
+        "REF-0034",
+        "REF-0035",
+        "REF-0036",
+        "REF-0037",
+        "REF-0038",
+        "REF-0039",
+        "REF-0040",
+        "REF-0041",
+        "REF-0042",
+        "REF-0043",
+        "REF-0044",
+        "REF-0045",
+        "REF-0046",
+        "REF-0047",
+        "REF-0048",
+        "REF-0049",
+        "REF-0050",
+        "REF-0051",
+        "REF-0052",
+        "REF-0053",
+        "REF-0054",
+        "REF-0055",
+        "REF-0056",
+        "REF-0057",
+        "REF-0058",
+        "REF-0059",
+        "REF-0060",
+        "REF-0061",
+        "REF-0062",
+        "REF-0063",
+        "REF-0064",
+        "REF-0065",
+        "REF-0066",
+        "REF-0067",
+        "REF-0068",
+        "REF-0069",
+        "REF-0070",
+        "REF-0071",
+        "REF-0072",
+        "REF-0073",
+        "REF-0074",
+        "REF-0075",
+        "REF-0076",
+        "REF-0077",
+        "REF-0078",
+        "REF-0079",
+        "REF-0080",
+        "REF-0081",
+        "REF-0082",
+        "REF-0083",
+        "REF-0084",
+        "REF-0085",
+        "REF-0086",
+        "REF-0087",
+        "REF-0088",
+        "REF-0089",
+        "REF-0090",
+        "REF-0091",
+        "REF-0092",
+        "REF-0093",
+        "REF-0094",
+        "REF-0095",
+        "REF-0096",
+        "REF-0097",
+        "REF-0098",
+        "REF-0099",
+        "REF-0100",
+        "REF-0101",
+        "REF-0102",
+        "REF-0103",
+        "REF-0104",
+        "REF-0105",
+        "REF-0106",
+        "REF-0107",
+        "REF-0108",
+        "REF-0109",
+        "REF-0110",
+        "REF-0111",
+        "REF-0112",
+        "REF-0113",
+        "REF-0114",
+        "REF-0115",
+        "REF-0116",
+        "REF-0117",
+        "REF-0118",
+        "REF-0119",
+        "REF-0120",
+        "REF-0121",
+        "REF-0122",
+        "REF-0123",
+        "REF-0124",
+        "REF-0125",
+        "REF-0126",
+        "REF-0127",
+        "REF-0128",
+        "REF-0129",
+        "REF-0130",
+        "REF-0131",
+        "REF-0132",
+        "REF-0133",
+        "REF-0134",
+        "REF-0135",
+        "REF-0136",
+        "REF-0137",
+        "REF-0138",
+        "REF-0139",
+        "REF-0140",
+        "REF-0141",
+        "REF-0142",
+        "REF-0143"
+      ],
+      "research-findings.json": [
+        "RES-0001",
+        "RES-0002",
+        "RES-0003",
+        "RES-0004",
+        "RES-0005",
+        "RES-0006"
+      ],
+      "knowledge-edges.json": [
+        "EDG-0001",
+        "EDG-0002",
+        "EDG-0003",
+        "EDG-0004",
+        "EDG-0005",
+        "EDG-0006",
+        "EDG-0007",
+        "EDG-0008",
+        "EDG-0009",
+        "EDG-0010",
+        "EDG-0011",
+        "EDG-0012",
+        "EDG-0013",
+        "EDG-0014",
+        "EDG-0015",
+        "EDG-0016",
+        "EDG-0017",
+        "EDG-0018",
+        "EDG-0019",
+        "EDG-0020",
+        "EDG-0021",
+        "EDG-0022",
+        "EDG-0023",
+        "EDG-0024",
+        "EDG-0025",
+        "EDG-0026",
+        "EDG-0027",
+        "EDG-0028",
+        "EDG-0029",
+        "EDG-0030",
+        "EDG-0031",
+        "EDG-0032",
+        "EDG-0033",
+        "EDG-0034",
+        "EDG-0035",
+        "EDG-0036",
+        "EDG-0037",
+        "EDG-0038",
+        "EDG-0039",
+        "EDG-0040",
+        "EDG-0041",
+        "EDG-0042",
+        "EDG-0043",
+        "EDG-0044",
+        "EDG-0045",
+        "EDG-0046",
+        "EDG-0047",
+        "EDG-0048",
+        "EDG-0049",
+        "EDG-0050",
+        "EDG-0051",
+        "EDG-0052",
+        "EDG-0053",
+        "EDG-0054",
+        "EDG-0055",
+        "EDG-0056",
+        "EDG-0057",
+        "EDG-0058",
+        "EDG-0059",
+        "EDG-0060",
+        "EDG-0061",
+        "EDG-0062",
+        "EDG-0063",
+        "EDG-0064",
+        "EDG-0065",
+        "EDG-0066",
+        "EDG-0067",
+        "EDG-0068",
+        "EDG-0069",
+        "EDG-0070",
+        "EDG-0071",
+        "EDG-0072",
+        "EDG-0073",
+        "EDG-0074",
+        "EDG-0075",
+        "EDG-0076",
+        "EDG-0077",
+        "EDG-0078",
+        "EDG-0079",
+        "EDG-0080",
+        "EDG-0081",
+        "EDG-0082",
+        "EDG-0083",
+        "EDG-0084",
+        "EDG-0085",
+        "EDG-0086",
+        "EDG-0087",
+        "EDG-0088",
+        "EDG-0089",
+        "EDG-0090",
+        "EDG-0091",
+        "EDG-0092",
+        "EDG-0093",
+        "EDG-0094",
+        "EDG-0095",
+        "EDG-0096",
+        "EDG-0097",
+        "EDG-0098",
+        "EDG-0099",
+        "EDG-0100",
+        "EDG-0101",
+        "EDG-0102",
+        "EDG-0103",
+        "EDG-0104",
+        "EDG-0105",
+        "EDG-0106",
+        "EDG-0107",
+        "EDG-0108",
+        "EDG-0109",
+        "EDG-0110",
+        "EDG-0111",
+        "EDG-0112",
+        "EDG-0113",
+        "EDG-0114",
+        "EDG-0115",
+        "EDG-0116",
+        "EDG-0117",
+        "EDG-0118",
+        "EDG-0119",
+        "EDG-0120",
+        "EDG-0121",
+        "EDG-0122",
+        "EDG-0123",
+        "EDG-0124",
+        "EDG-0125",
+        "EDG-0126",
+        "EDG-0127"
+      ],
+      "exercises.json": [
+        "EXR-0001",
+        "EXR-0002",
+        "EXR-0003",
+        "EXR-0004",
+        "EXR-0005",
+        "EXR-0006",
+        "EXR-0007",
+        "EXR-0008",
+        "EXR-0009",
+        "EXR-0010",
+        "EXR-0011",
+        "EXR-0012",
+        "EXR-0013",
+        "EXR-0014",
+        "EXR-0015",
+        "EXR-0016",
+        "EXR-0017",
+        "EXR-0018",
+        "EXR-0019",
+        "EXR-0020",
+        "EXR-0021",
+        "EXR-0022",
+        "EXR-0023",
+        "EXR-0024",
+        "EXR-0025",
+        "EXR-0026",
+        "EXR-0027",
+        "EXR-0028",
+        "EXR-0029",
+        "EXR-0030",
+        "EXR-0031",
+        "EXR-0032",
+        "EXR-0033",
+        "EXR-0034",
+        "EXR-0035",
+        "EXR-0036",
+        "EXR-0037",
+        "EXR-0038",
+        "EXR-0039",
+        "EXR-0040",
+        "EXR-0041",
+        "EXR-0042",
+        "EXR-0043",
+        "EXR-0044",
+        "EXR-0045",
+        "EXR-0046",
+        "EXR-0047",
+        "EXR-0048",
+        "EXR-0049",
+        "EXR-0050",
+        "EXR-0051",
+        "EXR-0052",
+        "EXR-0053",
+        "EXR-0054",
+        "EXR-0055",
+        "EXR-0056",
+        "EXR-0057"
+      ],
+      "learning-paths.json": [
+        "PATH-0001",
+        "PATH-0002",
+        "PATH-0003"
+      ],
+      "concept-comparisons.json": [
+        "CMP-0001",
+        "CMP-0002",
+        "CMP-0003",
+        "CMP-0004"
+      ],
+      "scenarios.json": [
+        "SIM-0001",
+        "SIM-0002",
+        "SIM-0003",
+        "SIM-0004",
+        "SIM-0005",
+        "SIM-0006"
+      ]
+    },
+    "counts": {
+      "laws.json": 18,
+      "concepts.json": 54,
+      "historical-cases.json": 18,
+      "claims.json": 38,
+      "sources.json": 12,
+      "source-references.json": 143,
+      "research-findings.json": 6,
+      "knowledge-edges.json": 127,
+      "exercises.json": 57,
+      "learning-paths.json": 3,
+      "concept-comparisons.json": 4,
+      "scenarios.json": 6
+    },
+    "scenarios": [
+      {
+        "id": "SIM-0001",
+        "stepIds": [
+          "observation",
+          "interpretation",
+          "assessment",
+          "missing_information",
+          "revision",
+          "response",
+          "reflection"
+        ],
+        "choiceIdsByStep": {
+          "observation": [
+            "observation-b",
+            "observation-c",
+            "observation-a"
+          ],
+          "interpretation": [
+            "interpretation-c",
+            "interpretation-a",
+            "interpretation-b"
+          ],
+          "assessment": [
+            "assessment-a",
+            "assessment-b",
+            "assessment-c"
+          ],
+          "missing_information": [
+            "missing_information-b",
+            "missing_information-c",
+            "missing_information-a"
+          ],
+          "revision": [
+            "revision-c",
+            "revision-a",
+            "revision-b"
+          ],
+          "response": [
+            "response-a",
+            "response-b",
+            "response-c"
+          ],
+          "reflection": [
+            "reflection-b",
+            "reflection-a"
+          ]
+        }
+      },
+      {
+        "id": "SIM-0002",
+        "stepIds": [
+          "observation",
+          "interpretation",
+          "assessment",
+          "missing_information",
+          "revision",
+          "response",
+          "reflection"
+        ],
+        "choiceIdsByStep": {
+          "observation": [
+            "observation-c",
+            "observation-a",
+            "observation-b"
+          ],
+          "interpretation": [
+            "interpretation-a",
+            "interpretation-b",
+            "interpretation-c"
+          ],
+          "assessment": [
+            "assessment-b",
+            "assessment-c",
+            "assessment-a"
+          ],
+          "missing_information": [
+            "missing_information-c",
+            "missing_information-a",
+            "missing_information-b"
+          ],
+          "revision": [
+            "revision-a",
+            "revision-b",
+            "revision-c"
+          ],
+          "response": [
+            "response-b",
+            "response-c",
+            "response-a"
+          ],
+          "reflection": [
+            "reflection-a",
+            "reflection-b"
+          ]
+        }
+      },
+      {
+        "id": "SIM-0003",
+        "stepIds": [
+          "observation",
+          "interpretation",
+          "assessment",
+          "missing_information",
+          "revision",
+          "response",
+          "reflection"
+        ],
+        "choiceIdsByStep": {
+          "observation": [
+            "observation-a",
+            "observation-b",
+            "observation-c"
+          ],
+          "interpretation": [
+            "interpretation-b",
+            "interpretation-c",
+            "interpretation-a"
+          ],
+          "assessment": [
+            "assessment-c",
+            "assessment-a",
+            "assessment-b"
+          ],
+          "missing_information": [
+            "missing_information-a",
+            "missing_information-b",
+            "missing_information-c"
+          ],
+          "revision": [
+            "revision-b",
+            "revision-c",
+            "revision-a"
+          ],
+          "response": [
+            "response-c",
+            "response-a",
+            "response-b"
+          ],
+          "reflection": [
+            "reflection-b",
+            "reflection-a"
+          ]
+        }
+      },
+      {
+        "id": "SIM-0004",
+        "stepIds": [
+          "observation",
+          "interpretation",
+          "assessment",
+          "missing_information",
+          "revision",
+          "response",
+          "reflection"
+        ],
+        "choiceIdsByStep": {
+          "observation": [
+            "observation-b",
+            "observation-c",
+            "observation-a"
+          ],
+          "interpretation": [
+            "interpretation-c",
+            "interpretation-a",
+            "interpretation-b"
+          ],
+          "assessment": [
+            "assessment-a",
+            "assessment-b",
+            "assessment-c"
+          ],
+          "missing_information": [
+            "missing_information-b",
+            "missing_information-c",
+            "missing_information-a"
+          ],
+          "revision": [
+            "revision-c",
+            "revision-a",
+            "revision-b"
+          ],
+          "response": [
+            "response-a",
+            "response-b",
+            "response-c"
+          ],
+          "reflection": [
+            "reflection-a",
+            "reflection-b"
+          ]
+        }
+      },
+      {
+        "id": "SIM-0005",
+        "stepIds": [
+          "observation",
+          "interpretation",
+          "assessment",
+          "missing_information",
+          "revision",
+          "response",
+          "reflection"
+        ],
+        "choiceIdsByStep": {
+          "observation": [
+            "observation-c",
+            "observation-a",
+            "observation-b"
+          ],
+          "interpretation": [
+            "interpretation-a",
+            "interpretation-b",
+            "interpretation-c"
+          ],
+          "assessment": [
+            "assessment-b",
+            "assessment-c",
+            "assessment-a"
+          ],
+          "missing_information": [
+            "missing_information-c",
+            "missing_information-a",
+            "missing_information-b"
+          ],
+          "revision": [
+            "revision-a",
+            "revision-b",
+            "revision-c"
+          ],
+          "response": [
+            "response-b",
+            "response-c",
+            "response-a"
+          ],
+          "reflection": [
+            "reflection-b",
+            "reflection-a"
+          ]
+        }
+      },
+      {
+        "id": "SIM-0006",
+        "stepIds": [
+          "observation",
+          "interpretation",
+          "assessment",
+          "missing_information",
+          "revision",
+          "response",
+          "reflection"
+        ],
+        "choiceIdsByStep": {
+          "observation": [
+            "observation-a",
+            "observation-b",
+            "observation-c"
+          ],
+          "interpretation": [
+            "interpretation-b",
+            "interpretation-c",
+            "interpretation-a"
+          ],
+          "assessment": [
+            "assessment-c",
+            "assessment-a",
+            "assessment-b"
+          ],
+          "missing_information": [
+            "missing_information-a",
+            "missing_information-b",
+            "missing_information-c"
+          ],
+          "revision": [
+            "revision-b",
+            "revision-c",
+            "revision-a"
+          ],
+          "response": [
+            "response-c",
+            "response-a",
+            "response-b"
+          ],
+          "reflection": [
+            "reflection-a",
+            "reflection-b"
+          ]
+        }
+      }
+    ],
+    "paths": [
+      {
+        "id": "PATH-0001",
+        "lessonIds": [
+          "LES-0001",
+          "LES-0005",
+          "LES-0006",
+          "LES-0008",
+          "LES-0009",
+          "LES-0011",
+          "LES-0013",
+          "LES-0018"
+        ]
+      },
+      {
+        "id": "PATH-0002",
+        "lessonIds": [
+          "LES-0002",
+          "LES-0003",
+          "LES-0004",
+          "LES-0007",
+          "LES-0010",
+          "LES-0012",
+          "LES-0016"
+        ]
+      },
+      {
+        "id": "PATH-0003",
+        "lessonIds": [
+          "LES-0014",
+          "LES-0015",
+          "LES-0017"
+        ]
+      }
+    ],
+    "exerciseTypes": {
+      "evidence_classification": 3,
+      "multiple_choice": 51,
+      "multiple_interpretations": 3
+    },
+    "routes": [
+      "/",
+      "/laws",
+      "/laws/:id",
+      "/atlas",
+      "/atlas/compare",
+      "/atlas/:id",
+      "/cases",
+      "/cases/:id",
+      "/compare",
+      "/network",
+      "/lab",
+      "/lab/:id",
+      "/evidence",
+      "/evidence/methodology",
+      "/evidence/findings/:id",
+      "/evidence/:id",
+      "/academy",
+      "/academy/path/:pathId",
+      "/academy/path/:pathId/lesson/:lessonId",
+      "/academy/exercise/:exerciseId",
+      "/sources",
+      "/sources/:id",
+      "/search",
+      "/settings",
+      "*"
+    ],
+    "schemaVersions": {
+      "dataset": 3,
+      "scenario": 1,
+      "progress": 2
+    },
+    "progressFields": [
+      "schemaVersion",
+      "bookmarks",
+      "recentlyViewed",
+      "completedExercises",
+      "learningProgress",
+      "scenarioProgress",
+      "academyAttempts"
+    ],
+    "storageKey": "hni.user-progress.v1"
+  },
+  "final": {
+    "recordIds": {
+      "laws.json": [
+        "LAW-01",
+        "LAW-02",
+        "LAW-03",
+        "LAW-04",
+        "LAW-05",
+        "LAW-06",
+        "LAW-07",
+        "LAW-08",
+        "LAW-09",
+        "LAW-10",
+        "LAW-11",
+        "LAW-12",
+        "LAW-13",
+        "LAW-14",
+        "LAW-15",
+        "LAW-16",
+        "LAW-17",
+        "LAW-18"
+      ],
+      "concepts.json": [
+        "CON-0001",
+        "CON-0002",
+        "CON-0003",
+        "CON-0004",
+        "CON-0005",
+        "CON-0006",
+        "CON-0007",
+        "CON-0008",
+        "CON-0009",
+        "CON-0010",
+        "CON-0011",
+        "CON-0012",
+        "CON-0013",
+        "CON-0014",
+        "CON-0015",
+        "CON-0016",
+        "CON-0017",
+        "CON-0018",
+        "CON-0019",
+        "CON-0020",
+        "CON-0021",
+        "CON-0022",
+        "CON-0023",
+        "CON-0024",
+        "CON-0025",
+        "CON-0026",
+        "CON-0027",
+        "CON-0028",
+        "CON-0029",
+        "CON-0030",
+        "CON-0031",
+        "CON-0032",
+        "CON-0033",
+        "CON-0034",
+        "CON-0035",
+        "CON-0036",
+        "CON-0037",
+        "CON-0038",
+        "CON-0039",
+        "CON-0040",
+        "CON-0041",
+        "CON-0042",
+        "CON-0043",
+        "CON-0044",
+        "CON-0045",
+        "CON-0046",
+        "CON-0047",
+        "CON-0048",
+        "CON-0049",
+        "CON-0050",
+        "CON-0051",
+        "CON-0052",
+        "CON-0053",
+        "CON-0054"
+      ],
+      "historical-cases.json": [
+        "CAS-0001",
+        "CAS-0002",
+        "CAS-0003",
+        "CAS-0004",
+        "CAS-0005",
+        "CAS-0006",
+        "CAS-0007",
+        "CAS-0008",
+        "CAS-0009",
+        "CAS-0010",
+        "CAS-0011",
+        "CAS-0012",
+        "CAS-0013",
+        "CAS-0014",
+        "CAS-0015",
+        "CAS-0016",
+        "CAS-0017",
+        "CAS-0018"
+      ],
+      "claims.json": [
+        "CLM-0001",
+        "CLM-0002",
+        "CLM-0003",
+        "CLM-0004",
+        "CLM-0005",
+        "CLM-0006",
+        "CLM-0007",
+        "CLM-0008",
+        "CLM-0009",
+        "CLM-0010",
+        "CLM-0011",
+        "CLM-0012",
+        "CLM-0013",
+        "CLM-0014",
+        "CLM-0015",
+        "CLM-0016",
+        "CLM-0017",
+        "CLM-0018",
+        "CLM-0019",
+        "CLM-0020",
+        "CLM-0021",
+        "CLM-0022",
+        "CLM-0023",
+        "CLM-0024",
+        "CLM-0025",
+        "CLM-0026",
+        "CLM-0027",
+        "CLM-0028",
+        "CLM-0029",
+        "CLM-0030",
+        "CLM-0031",
+        "CLM-0032",
+        "CLM-0033",
+        "CLM-0034",
+        "CLM-0035",
+        "CLM-0036",
+        "CLM-0037",
+        "CLM-0038"
+      ],
+      "sources.json": [
+        "SRC-0001",
+        "SRC-0002",
+        "SRC-0003",
+        "SRC-0004",
+        "SRC-0005",
+        "SRC-0006",
+        "SRC-0007",
+        "SRC-0008",
+        "SRC-0009",
+        "SRC-0010",
+        "SRC-0011",
+        "SRC-0012"
+      ],
+      "source-references.json": [
+        "REF-0001",
+        "REF-0002",
+        "REF-0003",
+        "REF-0004",
+        "REF-0005",
+        "REF-0006",
+        "REF-0007",
+        "REF-0008",
+        "REF-0009",
+        "REF-0010",
+        "REF-0011",
+        "REF-0012",
+        "REF-0013",
+        "REF-0014",
+        "REF-0015",
+        "REF-0016",
+        "REF-0017",
+        "REF-0018",
+        "REF-0019",
+        "REF-0020",
+        "REF-0021",
+        "REF-0022",
+        "REF-0023",
+        "REF-0024",
+        "REF-0025",
+        "REF-0026",
+        "REF-0027",
+        "REF-0028",
+        "REF-0029",
+        "REF-0030",
+        "REF-0031",
+        "REF-0032",
+        "REF-0033",
+        "REF-0034",
+        "REF-0035",
+        "REF-0036",
+        "REF-0037",
+        "REF-0038",
+        "REF-0039",
+        "REF-0040",
+        "REF-0041",
+        "REF-0042",
+        "REF-0043",
+        "REF-0044",
+        "REF-0045",
+        "REF-0046",
+        "REF-0047",
+        "REF-0048",
+        "REF-0049",
+        "REF-0050",
+        "REF-0051",
+        "REF-0052",
+        "REF-0053",
+        "REF-0054",
+        "REF-0055",
+        "REF-0056",
+        "REF-0057",
+        "REF-0058",
+        "REF-0059",
+        "REF-0060",
+        "REF-0061",
+        "REF-0062",
+        "REF-0063",
+        "REF-0064",
+        "REF-0065",
+        "REF-0066",
+        "REF-0067",
+        "REF-0068",
+        "REF-0069",
+        "REF-0070",
+        "REF-0071",
+        "REF-0072",
+        "REF-0073",
+        "REF-0074",
+        "REF-0075",
+        "REF-0076",
+        "REF-0077",
+        "REF-0078",
+        "REF-0079",
+        "REF-0080",
+        "REF-0081",
+        "REF-0082",
+        "REF-0083",
+        "REF-0084",
+        "REF-0085",
+        "REF-0086",
+        "REF-0087",
+        "REF-0088",
+        "REF-0089",
+        "REF-0090",
+        "REF-0091",
+        "REF-0092",
+        "REF-0093",
+        "REF-0094",
+        "REF-0095",
+        "REF-0096",
+        "REF-0097",
+        "REF-0098",
+        "REF-0099",
+        "REF-0100",
+        "REF-0101",
+        "REF-0102",
+        "REF-0103",
+        "REF-0104",
+        "REF-0105",
+        "REF-0106",
+        "REF-0107",
+        "REF-0108",
+        "REF-0109",
+        "REF-0110",
+        "REF-0111",
+        "REF-0112",
+        "REF-0113",
+        "REF-0114",
+        "REF-0115",
+        "REF-0116",
+        "REF-0117",
+        "REF-0118",
+        "REF-0119",
+        "REF-0120",
+        "REF-0121",
+        "REF-0122",
+        "REF-0123",
+        "REF-0124",
+        "REF-0125",
+        "REF-0126",
+        "REF-0127",
+        "REF-0128",
+        "REF-0129",
+        "REF-0130",
+        "REF-0131",
+        "REF-0132",
+        "REF-0133",
+        "REF-0134",
+        "REF-0135",
+        "REF-0136",
+        "REF-0137",
+        "REF-0138",
+        "REF-0139",
+        "REF-0140",
+        "REF-0141",
+        "REF-0142",
+        "REF-0143"
+      ],
+      "research-findings.json": [
+        "RES-0001",
+        "RES-0002",
+        "RES-0003",
+        "RES-0004",
+        "RES-0005",
+        "RES-0006"
+      ],
+      "knowledge-edges.json": [
+        "EDG-0001",
+        "EDG-0002",
+        "EDG-0003",
+        "EDG-0004",
+        "EDG-0005",
+        "EDG-0006",
+        "EDG-0007",
+        "EDG-0008",
+        "EDG-0009",
+        "EDG-0010",
+        "EDG-0011",
+        "EDG-0012",
+        "EDG-0013",
+        "EDG-0014",
+        "EDG-0015",
+        "EDG-0016",
+        "EDG-0017",
+        "EDG-0018",
+        "EDG-0019",
+        "EDG-0020",
+        "EDG-0021",
+        "EDG-0022",
+        "EDG-0023",
+        "EDG-0024",
+        "EDG-0025",
+        "EDG-0026",
+        "EDG-0027",
+        "EDG-0028",
+        "EDG-0029",
+        "EDG-0030",
+        "EDG-0031",
+        "EDG-0032",
+        "EDG-0033",
+        "EDG-0034",
+        "EDG-0035",
+        "EDG-0036",
+        "EDG-0037",
+        "EDG-0038",
+        "EDG-0039",
+        "EDG-0040",
+        "EDG-0041",
+        "EDG-0042",
+        "EDG-0043",
+        "EDG-0044",
+        "EDG-0045",
+        "EDG-0046",
+        "EDG-0047",
+        "EDG-0048",
+        "EDG-0049",
+        "EDG-0050",
+        "EDG-0051",
+        "EDG-0052",
+        "EDG-0053",
+        "EDG-0054",
+        "EDG-0055",
+        "EDG-0056",
+        "EDG-0057",
+        "EDG-0058",
+        "EDG-0059",
+        "EDG-0060",
+        "EDG-0061",
+        "EDG-0062",
+        "EDG-0063",
+        "EDG-0064",
+        "EDG-0065",
+        "EDG-0066",
+        "EDG-0067",
+        "EDG-0068",
+        "EDG-0069",
+        "EDG-0070",
+        "EDG-0071",
+        "EDG-0072",
+        "EDG-0073",
+        "EDG-0074",
+        "EDG-0075",
+        "EDG-0076",
+        "EDG-0077",
+        "EDG-0078",
+        "EDG-0079",
+        "EDG-0080",
+        "EDG-0081",
+        "EDG-0082",
+        "EDG-0083",
+        "EDG-0084",
+        "EDG-0085",
+        "EDG-0086",
+        "EDG-0087",
+        "EDG-0088",
+        "EDG-0089",
+        "EDG-0090",
+        "EDG-0091",
+        "EDG-0092",
+        "EDG-0093",
+        "EDG-0094",
+        "EDG-0095",
+        "EDG-0096",
+        "EDG-0097",
+        "EDG-0098",
+        "EDG-0099",
+        "EDG-0100",
+        "EDG-0101",
+        "EDG-0102",
+        "EDG-0103",
+        "EDG-0104",
+        "EDG-0105",
+        "EDG-0106",
+        "EDG-0107",
+        "EDG-0108",
+        "EDG-0109",
+        "EDG-0110",
+        "EDG-0111",
+        "EDG-0112",
+        "EDG-0113",
+        "EDG-0114",
+        "EDG-0115",
+        "EDG-0116",
+        "EDG-0117",
+        "EDG-0118",
+        "EDG-0119",
+        "EDG-0120",
+        "EDG-0121",
+        "EDG-0122",
+        "EDG-0123",
+        "EDG-0124",
+        "EDG-0125",
+        "EDG-0126",
+        "EDG-0127"
+      ],
+      "exercises.json": [
+        "EXR-0001",
+        "EXR-0002",
+        "EXR-0003",
+        "EXR-0004",
+        "EXR-0005",
+        "EXR-0006",
+        "EXR-0007",
+        "EXR-0008",
+        "EXR-0009",
+        "EXR-0010",
+        "EXR-0011",
+        "EXR-0012",
+        "EXR-0013",
+        "EXR-0014",
+        "EXR-0015",
+        "EXR-0016",
+        "EXR-0017",
+        "EXR-0018",
+        "EXR-0019",
+        "EXR-0020",
+        "EXR-0021",
+        "EXR-0022",
+        "EXR-0023",
+        "EXR-0024",
+        "EXR-0025",
+        "EXR-0026",
+        "EXR-0027",
+        "EXR-0028",
+        "EXR-0029",
+        "EXR-0030",
+        "EXR-0031",
+        "EXR-0032",
+        "EXR-0033",
+        "EXR-0034",
+        "EXR-0035",
+        "EXR-0036",
+        "EXR-0037",
+        "EXR-0038",
+        "EXR-0039",
+        "EXR-0040",
+        "EXR-0041",
+        "EXR-0042",
+        "EXR-0043",
+        "EXR-0044",
+        "EXR-0045",
+        "EXR-0046",
+        "EXR-0047",
+        "EXR-0048",
+        "EXR-0049",
+        "EXR-0050",
+        "EXR-0051",
+        "EXR-0052",
+        "EXR-0053",
+        "EXR-0054",
+        "EXR-0055",
+        "EXR-0056",
+        "EXR-0057"
+      ],
+      "learning-paths.json": [
+        "PATH-0001",
+        "PATH-0002",
+        "PATH-0003"
+      ],
+      "concept-comparisons.json": [
+        "CMP-0001",
+        "CMP-0002",
+        "CMP-0003",
+        "CMP-0004"
+      ],
+      "scenarios.json": [
+        "SIM-0001",
+        "SIM-0002",
+        "SIM-0003",
+        "SIM-0004",
+        "SIM-0005",
+        "SIM-0006"
+      ]
+    },
+    "counts": {
+      "laws.json": 18,
+      "concepts.json": 54,
+      "historical-cases.json": 18,
+      "claims.json": 38,
+      "sources.json": 12,
+      "source-references.json": 143,
+      "research-findings.json": 6,
+      "knowledge-edges.json": 127,
+      "exercises.json": 57,
+      "learning-paths.json": 3,
+      "concept-comparisons.json": 4,
+      "scenarios.json": 6
+    },
+    "scenarios": [
+      {
+        "id": "SIM-0001",
+        "stepIds": [
+          "observation",
+          "interpretation",
+          "assessment",
+          "missing_information",
+          "revision",
+          "response",
+          "reflection"
+        ],
+        "choiceIdsByStep": {
+          "observation": [
+            "observation-b",
+            "observation-c",
+            "observation-a"
+          ],
+          "interpretation": [
+            "interpretation-c",
+            "interpretation-a",
+            "interpretation-b"
+          ],
+          "assessment": [
+            "assessment-a",
+            "assessment-b",
+            "assessment-c"
+          ],
+          "missing_information": [
+            "missing_information-b",
+            "missing_information-c",
+            "missing_information-a"
+          ],
+          "revision": [
+            "revision-c",
+            "revision-a",
+            "revision-b"
+          ],
+          "response": [
+            "response-a",
+            "response-b",
+            "response-c"
+          ],
+          "reflection": [
+            "reflection-b",
+            "reflection-a"
+          ]
+        }
+      },
+      {
+        "id": "SIM-0002",
+        "stepIds": [
+          "observation",
+          "interpretation",
+          "assessment",
+          "missing_information",
+          "revision",
+          "response",
+          "reflection"
+        ],
+        "choiceIdsByStep": {
+          "observation": [
+            "observation-c",
+            "observation-a",
+            "observation-b"
+          ],
+          "interpretation": [
+            "interpretation-a",
+            "interpretation-b",
+            "interpretation-c"
+          ],
+          "assessment": [
+            "assessment-b",
+            "assessment-c",
+            "assessment-a"
+          ],
+          "missing_information": [
+            "missing_information-c",
+            "missing_information-a",
+            "missing_information-b"
+          ],
+          "revision": [
+            "revision-a",
+            "revision-b",
+            "revision-c"
+          ],
+          "response": [
+            "response-b",
+            "response-c",
+            "response-a"
+          ],
+          "reflection": [
+            "reflection-a",
+            "reflection-b"
+          ]
+        }
+      },
+      {
+        "id": "SIM-0003",
+        "stepIds": [
+          "observation",
+          "interpretation",
+          "assessment",
+          "missing_information",
+          "revision",
+          "response",
+          "reflection"
+        ],
+        "choiceIdsByStep": {
+          "observation": [
+            "observation-a",
+            "observation-b",
+            "observation-c"
+          ],
+          "interpretation": [
+            "interpretation-b",
+            "interpretation-c",
+            "interpretation-a"
+          ],
+          "assessment": [
+            "assessment-c",
+            "assessment-a",
+            "assessment-b"
+          ],
+          "missing_information": [
+            "missing_information-a",
+            "missing_information-b",
+            "missing_information-c"
+          ],
+          "revision": [
+            "revision-b",
+            "revision-c",
+            "revision-a"
+          ],
+          "response": [
+            "response-c",
+            "response-a",
+            "response-b"
+          ],
+          "reflection": [
+            "reflection-b",
+            "reflection-a"
+          ]
+        }
+      },
+      {
+        "id": "SIM-0004",
+        "stepIds": [
+          "observation",
+          "interpretation",
+          "assessment",
+          "missing_information",
+          "revision",
+          "response",
+          "reflection"
+        ],
+        "choiceIdsByStep": {
+          "observation": [
+            "observation-b",
+            "observation-c",
+            "observation-a"
+          ],
+          "interpretation": [
+            "interpretation-c",
+            "interpretation-a",
+            "interpretation-b"
+          ],
+          "assessment": [
+            "assessment-a",
+            "assessment-b",
+            "assessment-c"
+          ],
+          "missing_information": [
+            "missing_information-b",
+            "missing_information-c",
+            "missing_information-a"
+          ],
+          "revision": [
+            "revision-c",
+            "revision-a",
+            "revision-b"
+          ],
+          "response": [
+            "response-a",
+            "response-b",
+            "response-c"
+          ],
+          "reflection": [
+            "reflection-a",
+            "reflection-b"
+          ]
+        }
+      },
+      {
+        "id": "SIM-0005",
+        "stepIds": [
+          "observation",
+          "interpretation",
+          "assessment",
+          "missing_information",
+          "revision",
+          "response",
+          "reflection"
+        ],
+        "choiceIdsByStep": {
+          "observation": [
+            "observation-c",
+            "observation-a",
+            "observation-b"
+          ],
+          "interpretation": [
+            "interpretation-a",
+            "interpretation-b",
+            "interpretation-c"
+          ],
+          "assessment": [
+            "assessment-b",
+            "assessment-c",
+            "assessment-a"
+          ],
+          "missing_information": [
+            "missing_information-c",
+            "missing_information-a",
+            "missing_information-b"
+          ],
+          "revision": [
+            "revision-a",
+            "revision-b",
+            "revision-c"
+          ],
+          "response": [
+            "response-b",
+            "response-c",
+            "response-a"
+          ],
+          "reflection": [
+            "reflection-b",
+            "reflection-a"
+          ]
+        }
+      },
+      {
+        "id": "SIM-0006",
+        "stepIds": [
+          "observation",
+          "interpretation",
+          "assessment",
+          "missing_information",
+          "revision",
+          "response",
+          "reflection"
+        ],
+        "choiceIdsByStep": {
+          "observation": [
+            "observation-a",
+            "observation-b",
+            "observation-c"
+          ],
+          "interpretation": [
+            "interpretation-b",
+            "interpretation-c",
+            "interpretation-a"
+          ],
+          "assessment": [
+            "assessment-c",
+            "assessment-a",
+            "assessment-b"
+          ],
+          "missing_information": [
+            "missing_information-a",
+            "missing_information-b",
+            "missing_information-c"
+          ],
+          "revision": [
+            "revision-b",
+            "revision-c",
+            "revision-a"
+          ],
+          "response": [
+            "response-c",
+            "response-a",
+            "response-b"
+          ],
+          "reflection": [
+            "reflection-a",
+            "reflection-b"
+          ]
+        }
+      }
+    ],
+    "paths": [
+      {
+        "id": "PATH-0001",
+        "lessonIds": [
+          "LES-0001",
+          "LES-0005",
+          "LES-0006",
+          "LES-0008",
+          "LES-0009",
+          "LES-0011",
+          "LES-0013",
+          "LES-0018"
+        ]
+      },
+      {
+        "id": "PATH-0002",
+        "lessonIds": [
+          "LES-0002",
+          "LES-0003",
+          "LES-0004",
+          "LES-0007",
+          "LES-0010",
+          "LES-0012",
+          "LES-0016"
+        ]
+      },
+      {
+        "id": "PATH-0003",
+        "lessonIds": [
+          "LES-0014",
+          "LES-0015",
+          "LES-0017"
+        ]
+      }
+    ],
+    "exerciseTypes": {
+      "evidence_classification": 3,
+      "multiple_choice": 51,
+      "multiple_interpretations": 3
+    },
+    "routes": [
+      "/",
+      "/laws",
+      "/laws/:id",
+      "/atlas",
+      "/atlas/compare",
+      "/atlas/:id",
+      "/cases",
+      "/cases/:id",
+      "/compare",
+      "/network",
+      "/lab",
+      "/lab/:id",
+      "/evidence",
+      "/evidence/methodology",
+      "/evidence/findings/:id",
+      "/evidence/:id",
+      "/academy",
+      "/academy/path/:pathId",
+      "/academy/path/:pathId/lesson/:lessonId",
+      "/academy/exercise/:exerciseId",
+      "/sources",
+      "/sources/:id",
+      "/search",
+      "/settings",
+      "*"
+    ],
+    "schemaVersions": {
+      "dataset": 3,
+      "scenario": 1,
+      "progress": 2
+    },
+    "progressFields": [
+      "schemaVersion",
+      "bookmarks",
+      "recentlyViewed",
+      "completedExercises",
+      "learningProgress",
+      "scenarioProgress",
+      "academyAttempts"
+    ],
+    "storageKey": "hni.user-progress.v1"
+  },
+  "inventoriesIdentical": true,
+  "originalDataAndResearchHashes": {
+    "research/ACADEMY_SOURCE_LEDGER.json": {
+      "before": "0d8fbf00f47564545c4036a06781532b8953f83e8a425a0a511b2cded8fcf916",
+      "after": "0d8fbf00f47564545c4036a06781532b8953f83e8a425a0a511b2cded8fcf916"
+    },
+    "research/CHAPTER_MAP.json": {
+      "before": "960a6d54181679e819ba211af2b22976fa92c0c20dacc65678a77b9624618317",
+      "after": "960a6d54181679e819ba211af2b22976fa92c0c20dacc65678a77b9624618317"
+    },
+    "research/COVERAGE_MATRIX.json": {
+      "before": "08df7cf380536939fa0e8ad1ead7f35532b7344ddee469ba20f372aae6069fa9",
+      "after": "08df7cf380536939fa0e8ad1ead7f35532b7344ddee469ba20f372aae6069fa9"
+    },
+    "research/EDITORIAL_STANDARD.md": {
+      "before": "1cb26754a90b625516cc406c6a255eef841728774009ea9862c193819c5912e8",
+      "after": "1cb26754a90b625516cc406c6a255eef841728774009ea9862c193819c5912e8"
+    },
+    "research/ID_ALIASES.json": {
+      "before": "d7def6a3bafab5ab4b492b14acea94cd7e88213618dacf475f55bbc122843f6c",
+      "after": "d7def6a3bafab5ab4b492b14acea94cd7e88213618dacf475f55bbc122843f6c"
+    },
+    "research/PDF_SOURCE_MANIFEST.json": {
+      "before": "adea5fba44df983c515afb0d5609a7763c920b72379d295b8ddd604a506fbda7",
+      "after": "adea5fba44df983c515afb0d5609a7763c920b72379d295b8ddd604a506fbda7"
+    },
+    "research/RESEARCH_METHOD.md": {
+      "before": "ad893e859a2a796bae9d6872db801aa3438e6c17794d88f28ab583968951d157",
+      "after": "ad893e859a2a796bae9d6872db801aa3438e6c17794d88f28ab583968951d157"
+    },
+    "research/SOURCE_LEDGER.json": {
+      "before": "aa78ee01e488333813298dfa9ff23025048093201ff85b705ec1402bfe8f6a39",
+      "after": "aa78ee01e488333813298dfa9ff23025048093201ff85b705ec1402bfe8f6a39"
+    },
+    "research/STAGE_02_READING_LOG.json": {
+      "before": "10b8be3f6871ddd7857b599764b3846e95c06b9b3d80cfd1c3147cd7332e903c",
+      "after": "10b8be3f6871ddd7857b599764b3846e95c06b9b3d80cfd1c3147cd7332e903c"
+    },
+    "research/STAGE_03_READING_LOG.json": {
+      "before": "c8f9de8a51cf46aa2a8b4602bf95ad30ef883bccd2ea06b258df8e85ef8f108e",
+      "after": "c8f9de8a51cf46aa2a8b4602bf95ad30ef883bccd2ea06b258df8e85ef8f108e"
+    },
+    "research/STAGE_04_READING_LOG.json": {
+      "before": "9a3308aa49e7d7429f2e9cef467bc51a62af635acecc7ae68bcc0dc97f068a6e",
+      "after": "9a3308aa49e7d7429f2e9cef467bc51a62af635acecc7ae68bcc0dc97f068a6e"
+    },
+    "research/STAGE_05_LEGACY_PRESERVATION.json": {
+      "before": "78e9e707f56d6398b1a868711a87f0ae9f5e2b53557483dcf823968789eba6a2",
+      "after": "78e9e707f56d6398b1a868711a87f0ae9f5e2b53557483dcf823968789eba6a2"
+    },
+    "research/STAGE_05_READING_LOG.json": {
+      "before": "b46f93f79ad158b928d0b379d2549c57a604f9e41be815e39e5bc16de2a0835d",
+      "after": "b46f93f79ad158b928d0b379d2549c57a604f9e41be815e39e5bc16de2a0835d"
+    },
+    "research/STAGE_05_SCHEMA_MIGRATION.json": {
+      "before": "fd00dc4ba046c8da85bde53e0e032ff8e7d7c08f68b538f62b3e8e38a33b22d9",
+      "after": "fd00dc4ba046c8da85bde53e0e032ff8e7d7c08f68b538f62b3e8e38a33b22d9"
+    },
+    "research/STAGE_06_FULL_BOOK_AUDIT.json": {
+      "before": "fa483b149e0fa8e7de6fe95dd39e3d731187052de6e10de541fd8d1e80f07c60",
+      "after": "fa483b149e0fa8e7de6fe95dd39e3d731187052de6e10de541fd8d1e80f07c60"
+    },
+    "research/STAGE_06_READING_LOG.json": {
+      "before": "66b80553d9030497f2e42989ed76bdb1aa2a2c63a36989cb4e5be51127065f00",
+      "after": "66b80553d9030497f2e42989ed76bdb1aa2a2c63a36989cb4e5be51127065f00"
+    },
+    "research/STAGE_07_EVIDENCE_BACKLOG.json": {
+      "before": "3c243868c106ba6eb2105e108324347ce25e8d5beb4f9ab8fd1c9d9322150d8d",
+      "after": "3c243868c106ba6eb2105e108324347ce25e8d5beb4f9ab8fd1c9d9322150d8d"
+    },
+    "research/STAGE_07_INDEPENDENT_SOURCE_AUDIT.json": {
+      "before": "d2e3267468224f373a263c490c8adebb9c286ca77c4c17f3a53bb812ce417b12",
+      "after": "d2e3267468224f373a263c490c8adebb9c286ca77c4c17f3a53bb812ce417b12"
+    },
+    "src/data/claims.json": {
+      "before": "4827760f5f45c950cac329c191f8c4f7febd2f6f74a8383c269f94a28bb956d6",
+      "after": "4827760f5f45c950cac329c191f8c4f7febd2f6f74a8383c269f94a28bb956d6"
+    },
+    "src/data/concept-comparisons.json": {
+      "before": "e09cbd675cad27dca36dbb7eab1023404c1af7649d9d216b68d90ac4df83766d",
+      "after": "e09cbd675cad27dca36dbb7eab1023404c1af7649d9d216b68d90ac4df83766d"
+    },
+    "src/data/concepts.json": {
+      "before": "64af8a162d060b18bce5e1f636dd8fe0f2fd03010350f001e6493f64cd0c26e4",
+      "after": "64af8a162d060b18bce5e1f636dd8fe0f2fd03010350f001e6493f64cd0c26e4"
+    },
+    "src/data/dataset-manifest.json": {
+      "before": "3e95b9256ef1655d609f99e7c8f812541bf97b94520bc051f69fba78190edfca",
+      "after": "3e95b9256ef1655d609f99e7c8f812541bf97b94520bc051f69fba78190edfca"
+    },
+    "src/data/exercises.json": {
+      "before": "3c7410019af82b40b182edc7129013cc1a60e622b70215e10e6d947fd941c3f4",
+      "after": "3c7410019af82b40b182edc7129013cc1a60e622b70215e10e6d947fd941c3f4"
+    },
+    "src/data/historical-cases.json": {
+      "before": "d6b238fe8ed8a909ed31670dcb49d2b48ad7467f8c94f516da606e47f186a655",
+      "after": "d6b238fe8ed8a909ed31670dcb49d2b48ad7467f8c94f516da606e47f186a655"
+    },
+    "src/data/knowledge-edges.json": {
+      "before": "19bac0e27154324e8fb1a608674c0dbc14bd35762b91175e94c0423609f44202",
+      "after": "19bac0e27154324e8fb1a608674c0dbc14bd35762b91175e94c0423609f44202"
+    },
+    "src/data/laws.json": {
+      "before": "35ef6c10e775910f565da513698ce7745ee1888242e602fc0921b2ebf15dfc47",
+      "after": "35ef6c10e775910f565da513698ce7745ee1888242e602fc0921b2ebf15dfc47"
+    },
+    "src/data/learning-paths.json": {
+      "before": "c4402104b49ce1214cd1081f99b9e24e78ee27776fe9941f70a0c5d3f049e241",
+      "after": "c4402104b49ce1214cd1081f99b9e24e78ee27776fe9941f70a0c5d3f049e241"
+    },
+    "src/data/research-findings.json": {
+      "before": "6f393d9d1a376060edbe66eb55b13ca942dad91e4878bfbb7570b594409d3182",
+      "after": "6f393d9d1a376060edbe66eb55b13ca942dad91e4878bfbb7570b594409d3182"
+    },
+    "src/data/scenarios.json": {
+      "before": "69611367d85e3ed249f35662437a881978c1e5fa65d145563610badbf08eb990",
+      "after": "69611367d85e3ed249f35662437a881978c1e5fa65d145563610badbf08eb990"
+    },
+    "src/data/source-references.json": {
+      "before": "f37bb09d0700e85e46ee520aa2a083328dc7650b31fd089fe5c24272943a40ad",
+      "after": "f37bb09d0700e85e46ee520aa2a083328dc7650b31fd089fe5c24272943a40ad"
+    },
+    "src/data/sources.json": {
+      "before": "31190908a1fbf087802772bf5ab764a3be0c46300eca3a91f9ee457860a0ab0d",
+      "after": "31190908a1fbf087802772bf5ab764a3be0c46300eca3a91f9ee457860a0ab0d"
+    }
+  },
+  "inheritedTestFiles": [
+    "scripts/offline-tests.mjs",
+    "scripts/stage09a-tests.mjs",
+    "scripts/stage09b-tests.mjs",
+    "src/tests/concept-comparisons.test.ts",
+    "src/tests/persistence.test.ts",
+    "src/tests/repair-regressions.test.ts",
+    "src/tests/search.test.ts",
+    "src/tests/stage06-integration.test.ts",
+    "src/tests/stage08-discovery.test.ts",
+    "src/tests/stage09a-scenarios.test.ts",
+    "src/tests/validator.test.ts"
+  ],
+  "baselineOfflineTests": 119,
+  "finalOfflineTests": 128,
+  "criticalInteractions": [
+    "HashRouter eight modules and secondary routes",
+    "canonical source resolution",
+    "graph and search",
+    "simulation replay/feedback/resume",
+    "Academy evaluation and path/lesson progression",
+    "bookmark and recent history",
+    "validated v1/v2 backup import with affirmative confirmation",
+    "transactional writes and corrupt raw recovery"
+  ],
+  "note": "All original canonical JSON and research files byte-identical. Runtime interaction verification blocked; inventory is structural, not proof of rendering."
+}

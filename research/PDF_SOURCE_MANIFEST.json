@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "filename": "The Laws of Human Nature(5).pdf",
+  "sha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e",
+  "fileBytes": 2986842,
+  "pageCount": 690,
+  "creatorMetadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "PDFium",
+    "producer": "PDFium",
+    "creationDate": "D:20181226162310",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "author": "Robert Greene",
+  "title": "The Laws of Human Nature",
+  "imprint": "Viking / Penguin Random House LLC",
+  "copyrightYear": 2018,
+  "editionStatus": "Copyright page and cover verified; PDF itself does not identify unequivocally as hardcover or ebook rendition",
+  "isbnPrinted": {
+    "hardcover": "9780525428145",
+    "ebook": "9780698184541",
+    "international": "9780525561804"
+  },
+  "pdfTextLayer": true,
+  "nonTextFrontMatterPagesOneBased": [
+    1,
+    3,
+    4
+  ],
+  "textExtractionSpotChecks": {
+    "early": {
+      "pdfPageOneBased": 22,
+      "chars": 1682
+    },
+    "middle": {
+      "pdfPageOneBased": 353,
+      "chars": 1587
+    },
+    "late": {
+      "pdfPageOneBased": 616,
+      "chars": 1441
+    }
+  },
+  "physicalPdfPagesIndexedFrom": 0,
+  "physicalViewerPagesIndexedFrom": 1,
+  "printedPageMapping": "Not established. Index refers to printed edition but PDF has no consistently visible printed page numbering.",
+  "missingPagesAssessment": "18 numbered chapter openings found in order; no proof of absolute completeness or page-by-page scan.",
+  "copyrightHandling": "Full PDF excluded from distributable source ZIP; only original paraphrases, heading metadata, and locators are stored.",
+  "stage02VerifiedUploadAlias": "The Laws of Human Nature(6).pdf",
+  "stage02FingerprintMatchedStage01B": true,
+  "stage02FullChapterReviewCertified": false,
+  "stage03VerifiedUploadAlias": "The Laws of Human Nature(7).pdf",
+  "stage03FingerprintMatchedStage02": true,
+  "stage03ChapterBoundsVerified": {
+    "LAW-05": {
+      "pdfStartIndex": 148,
+      "pdfEndIndex": 167
+    },
+    "LAW-06": {
+      "pdfStartIndex": 168,
+      "pdfEndIndex": 190
+    },
+    "LAW-07": {
+      "pdfStartIndex": 191,
+      "pdfEndIndex": 223
+    },
+    "LAW-08": {
+      "pdfStartIndex": 224,
+      "pdfEndIndex": 254
+    }
+  },
+  "stage04VerifiedUploadAlias": "The Laws of Human Nature(8).pdf",
+  "stage04FingerprintMatchedStage03": true,
+  "stage04FullChapterReviewCertified": false,
+  "stage04CorrectedChapter11PracticalGrandiosityIndex": 347,
+  "stage05VerifiedUploadAlias": "The Laws of Human Nature(8)(1).pdf",
+  "stage05FingerprintMatchedStage04": true,
+  "stage05ChapterBoundsVerified": {
+    "LAW-13": {
+      "pdfStartIndex": 391,
+      "pdfEndIndex": 428
+    },
+    "LAW-14": {
+      "pdfStartIndex": 429,
+      "pdfEndIndex": 479
+    },
+    "LAW-15": {
+      "pdfStartIndex": 480,
+      "pdfEndIndex": 517
+    }
+  },
+  "stage05SectionHeadingCorrection": "LAW-14 The Reality Group: PDF index 472 / viewer page 473; earlier 463 was a cross-reference."
+}

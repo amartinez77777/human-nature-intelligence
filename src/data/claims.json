@@ -1,0 +1,736 @@
+[
+  {
+    "id": "CLM-0001",
+    "statement": "Greene argues that unchecked emotion and selective thinking can undermine decisions, and that deliberate self-examination can improve rational judgment.",
+    "attributedTo": "Robert Greene",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-01"
+    ],
+    "sourceReferenceIds": [
+      "REF-0001",
+      "REF-0002"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "This verifies attribution in the attached book, not universal scientific validity."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0002",
+    "statement": "Greene argues that focused attention on others and perspective taking are practices for developing empathy.",
+    "attributedTo": "Robert Greene",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-02"
+    ],
+    "sourceReferenceIds": [
+      "REF-0005",
+      "REF-0006"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "Scientific evidence is not assessed in Stage 01."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0003",
+    "statement": "Greene contrasts routine biases with intensified emotional reactions and proposes pausing to restore deliberative choice.",
+    "attributedTo": "Robert Greene",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-01"
+    ],
+    "sourceReferenceIds": [
+      "REF-0007",
+      "REF-0008"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "Descriptive categories are Greene’s interpretation, not independently validated clinical types."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0004",
+    "statement": "Greene portrays Shackleton’s attention to crew morale as a model of outward-focused empathy under pressure.",
+    "attributedTo": "Robert Greene",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-02"
+    ],
+    "sourceReferenceIds": [
+      "REF-0012",
+      "REF-0013"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "Historical details and causal claims are not independently corroborated."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0005",
+    "statement": "Greene distinguishes ordinary social role-playing and impression management from a person’s private feelings.",
+    "attributedTo": "Robert Greene",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-03"
+    ],
+    "sourceReferenceIds": [
+      "REF-0014",
+      "REF-0017"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "A socially adapted performance need not constitute deception."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0006",
+    "statement": "Greene claims that sustained observation of nonverbal behavior can generate clues about feelings and hidden attitudes.",
+    "attributedTo": "Robert Greene",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-03"
+    ],
+    "sourceReferenceIds": [
+      "REF-0015",
+      "REF-0016",
+      "REF-0133"
+    ],
+    "researchFindingIds": [
+      "RES-0001"
+    ],
+    "qualifications": [
+      "Gesture interpretations are ambiguous; predictive accuracy and lie-detection reliability have not been assessed.",
+      "Stage 07 independent literature review is scoped to the listed source and its accessible abstract/review; do not generalize to universal causality."
+    ],
+    "evidenceStatus": "limited"
+  },
+  {
+    "id": "CLM-0007",
+    "statement": "Greene uses Howard Hughes as an example of recurring control-focused conduct across projects.",
+    "attributedTo": "Robert Greene",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-04"
+    ],
+    "sourceReferenceIds": [
+      "REF-0018",
+      "REF-0019",
+      "REF-0134"
+    ],
+    "researchFindingIds": [
+      "RES-0002"
+    ],
+    "qualifications": [
+      "Greene’s narrative and suggested childhood causes require independent historical investigation.",
+      "Stage 07 independent literature review is scoped to the listed source and its accessible abstract/review; do not generalize to universal causality."
+    ],
+    "evidenceStatus": "mixed"
+  },
+  {
+    "id": "CLM-0008",
+    "statement": "Greene argues that repeated conduct and practical responsibility deserve more attention than charm or reputation in evaluating character.",
+    "attributedTo": "Robert Greene",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-04"
+    ],
+    "sourceReferenceIds": [
+      "REF-0020",
+      "REF-0022"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "Context and change can affect behavior; no deterministic prediction is warranted."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0009",
+    "statement": "Greene proposes that emotional awareness does not require denying the useful energy of emotion.",
+    "attributedTo": "Robert Greene",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-01"
+    ],
+    "sourceReferenceIds": [
+      "REF-0008"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "Greene’s normative strategy, not a tested intervention in this dataset."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0010",
+    "statement": "Greene presents empathy as a blend of listening, affective attentiveness, contextual knowledge and feedback.",
+    "attributedTo": "Robert Greene",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-02"
+    ],
+    "sourceReferenceIds": [
+      "REF-0010"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "Do not interpret empathetic attention as certified mind-reading."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0011",
+    "statement": "In Chapter 5, Greene interprets the coco chanel: designing an object of desire case as an illustration of the law of covetousness rather than as independently verified universal psychology.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (2018)",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-05"
+    ],
+    "sourceReferenceIds": [
+      "REF-0023",
+      "REF-0024",
+      "REF-0025"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "Historical narrative and psychological motive attribution have not been independently corroborated."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0012",
+    "statement": "Greene argues that wanting is shaped by distance, comparison, imagination, and the sense that an object or person cannot easily be possessed. He treats the perception of absence as an amplifier of desire, while urging readers to resist endless dissatisfaction in their own lives.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (2018), editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-05"
+    ],
+    "sourceReferenceIds": [
+      "REF-0023",
+      "REF-0028"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "Greene attributes motives to Chanel that the text alone cannot independently confirm.",
+      "No experimental effect sizes or representative samples are supplied in this dossier."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0013",
+    "statement": "In Chapter 6, Greene interprets the john blunt and the south sea speculation case as an illustration of the law of shortsightedness rather than as independently verified universal psychology.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (2018)",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-06"
+    ],
+    "sourceReferenceIds": [
+      "REF-0029",
+      "REF-0030",
+      "REF-0031"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "Historical narrative and psychological motive attribution have not been independently corroborated."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0014",
+    "statement": "Greene argues that immediate events, crowd emotion and apparently rapid gains draw attention away from long-range consequences. He recommends using a broader time horizon, past patterns and alternative scenarios to test decisions rather than reacting to the moment.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (2018), editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-06"
+    ],
+    "sourceReferenceIds": [
+      "REF-0029",
+      "REF-0034"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "The South Sea story is attributed to Greene; detailed archival source verification remains outstanding.",
+      "No independent experimental finding is included to prove a fixed time-bias magnitude."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0015",
+    "statement": "In Chapter 7, Greene interprets the lyndon johnson and the senate influence game case as an illustration of the law of defensiveness rather than as independently verified universal psychology.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (2018)",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-07"
+    ],
+    "sourceReferenceIds": [
+      "REF-0035",
+      "REF-0036",
+      "REF-0037"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "Historical narrative and psychological motive attribution have not been independently corroborated."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0016",
+    "statement": "Greene argues that efforts to change another person’s mind often meet resistance when they threaten independence, competence or moral self-image. He recommends understanding the other person’s viewpoint and lowering unnecessary threat, while also learning to question one’s own defensiveness.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (2018), editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-07"
+    ],
+    "sourceReferenceIds": [
+      "REF-0035",
+      "REF-0040",
+      "REF-0135"
+    ],
+    "researchFindingIds": [
+      "RES-0003"
+    ],
+    "qualifications": [
+      "Greene’s Johnson case is not independently corroborated here.",
+      "No single anecdote establishes broad persuasion effectiveness.",
+      "Stage 07 independent literature review is scoped to the listed source and its accessible abstract/review; do not generalize to universal causality."
+    ],
+    "evidenceStatus": "limited"
+  },
+  {
+    "id": "CLM-0017",
+    "statement": "In Chapter 8, Greene interprets the anton chekhov: interpretation under constraint case as an illustration of the law of self-sabotage rather than as independently verified universal psychology.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (2018)",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-08"
+    ],
+    "sourceReferenceIds": [
+      "REF-0041",
+      "REF-0042",
+      "REF-0043"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "Historical narrative and psychological motive attribution have not been independently corroborated."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0018",
+    "statement": "Greene argues that recurring attitudes color the interpretation of events and can influence subsequent behavior, sometimes creating self-reinforcing interpersonal patterns. His suggested alternative is an open and adaptive outlook, but circumstances and resources continue to matter.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (2018), editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-08"
+    ],
+    "sourceReferenceIds": [
+      "REF-0041",
+      "REF-0046"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "Greene’s Chekhov biography requires separate source verification.",
+      "No causal effect sizes or controlled comparison are established from this example."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0019",
+    "statement": "Greene interprets Nixon’s public persona and Watergate conduct through a Jungian Shadow framework, suggesting that disowned traits can emerge in troubling contradictions.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (2018), editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-09"
+    ],
+    "sourceReferenceIds": [
+      "REF-0047",
+      "REF-0049"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "Greene attribution confirmed from Chapter 9; independent psychological evidence not assessed.",
+      "Historical examples and inferred private motives have not been independently verified."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0020",
+    "statement": "Greene advocates recognizing disowned qualities and using self-knowledge to avoid destructive or self-defeating conduct; that recommendation is not a tested treatment outcome.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (2018), editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-09"
+    ],
+    "sourceReferenceIds": [
+      "REF-0047",
+      "REF-0050"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "Greene attribution confirmed from Chapter 9; independent psychological evidence not assessed.",
+      "Historical examples and inferred private motives have not been independently verified."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0021",
+    "statement": "Greene argues that closeness and status comparison can activate difficult-to-admit envy, sometimes changing how a person treats an admired peer.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (2018), editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-10"
+    ],
+    "sourceReferenceIds": [
+      "REF-0053",
+      "REF-0055"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "Greene attribution confirmed from Chapter 10; independent psychological evidence not assessed.",
+      "Historical examples and inferred private motives have not been independently verified."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0022",
+    "statement": "Greene recommends moving beyond corrosive comparison through self-knowledge, esteem grounded in personal work and genuine admiration; the book does not establish measured outcomes.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (2018), editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-10"
+    ],
+    "sourceReferenceIds": [
+      "REF-0053",
+      "REF-0056"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "Greene attribution confirmed from Chapter 10; independent psychological evidence not assessed.",
+      "Historical examples and inferred private motives have not been independently verified."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0023",
+    "statement": "Greene interprets executive success as a possible amplifier of self-inflation when people discount luck, collaborators and limits.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (2018), editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-11"
+    ],
+    "sourceReferenceIds": [
+      "REF-0060",
+      "REF-0062"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "Greene attribution confirmed from Chapter 11; independent psychological evidence not assessed.",
+      "Historical examples and inferred private motives have not been independently verified."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0024",
+    "statement": "Greene contrasts fantastical grandiosity with practical ambition directed toward skilled work, feedback and correction; no independent effect estimate is supplied.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (2018), editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-11"
+    ],
+    "sourceReferenceIds": [
+      "REF-0060",
+      "REF-0063"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "Greene attribution confirmed from Chapter 11; independent psychological evidence not assessed.",
+      "Historical examples and inferred private motives have not been independently verified."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0025",
+    "statement": "Greene claims that rigid gender-role identification can cause people to disavow personal qualities he terms masculine or feminine, using Jung’s anima/animus model.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (2018), editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-12"
+    ],
+    "sourceReferenceIds": [
+      "REF-0066",
+      "REF-0068",
+      "REF-0136"
+    ],
+    "researchFindingIds": [
+      "RES-0004"
+    ],
+    "qualifications": [
+      "Greene attribution confirmed from Chapter 12; independent psychological evidence not assessed.",
+      "Historical examples and inferred private motives have not been independently verified.",
+      "Stage 07 independent literature review is scoped to the listed source and its accessible abstract/review; do not generalize to universal causality."
+    ],
+    "evidenceStatus": "mixed"
+  },
+  {
+    "id": "CLM-0026",
+    "statement": "Greene proposes widening one’s range of action and relationship expectations beyond stereotyped gender roles; specific biological and psychodynamic generalizations remain scientifically unassessed.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (2018), editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-12"
+    ],
+    "sourceReferenceIds": [
+      "REF-0066",
+      "REF-0069"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "Greene attribution confirmed from Chapter 12; independent psychological evidence not assessed.",
+      "Historical examples and inferred private motives have not been independently verified."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0027",
+    "statement": "Greene argues that a durable sense of purpose can organize choices, direct effort through setbacks and reduce dependence on transient external approval; he treats this direction as something to discover and deliberately cultivate rather than something automatically conferred by success.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (2018); original editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-13"
+    ],
+    "sourceReferenceIds": [
+      "REF-0073",
+      "REF-0076"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "The attached PDF was directly inspected to attribute the argument, not to validate its scientific truth.",
+      "Greene’s historical narrative and inferred motives have not been independently corroborated."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0028",
+    "statement": "Greene proposes: False-purpose attraction: status rewards or group identification may be confused with reflective commitment.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (2018); original editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-13"
+    ],
+    "sourceReferenceIds": [
+      "REF-0073",
+      "REF-0081"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "The attached PDF was directly inspected to attribute the argument, not to validate its scientific truth.",
+      "Greene’s historical narrative and inferred motives have not been independently corroborated."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0029",
+    "statement": "Greene proposes that group membership changes attention, emotion and public behavior, and that deliberately observing social pressures can help people cooperate without surrendering independent judgment.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (2018); original editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-14"
+    ],
+    "sourceReferenceIds": [
+      "REF-0083",
+      "REF-0086"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "The attached PDF was directly inspected to attribute the argument, not to validate its scientific truth.",
+      "Greene’s historical narrative and inferred motives have not been independently corroborated."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0030",
+    "statement": "Greene proposes: Collective feedback: organizational rules can either suppress criticism or reward correction.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (2018); original editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-14"
+    ],
+    "sourceReferenceIds": [
+      "REF-0083",
+      "REF-0091"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "The attached PDF was directly inspected to attribute the argument, not to validate its scientific truth.",
+      "Greene’s historical narrative and inferred motives have not been independently corroborated."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0031",
+    "statement": "Greene interprets leadership as an unstable relationship in which people seek protection and coherent direction while resisting domination; he argues that durable authority must be established through competence, shared purpose, judgment and visible fairness.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (2018); original editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-15"
+    ],
+    "sourceReferenceIds": [
+      "REF-0093",
+      "REF-0096"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "The attached PDF was directly inspected to attribute the argument, not to validate its scientific truth.",
+      "Greene’s historical narrative and inferred motives have not been independently corroborated."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0032",
+    "statement": "Greene proposes: Responsibility and vision: coherent goals plus visible accountability can coordinate group effort without demanding blind obedience.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (2018); original editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-15"
+    ],
+    "sourceReferenceIds": [
+      "REF-0093",
+      "REF-0101"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "The attached PDF was directly inspected to attribute the argument, not to validate its scientific truth.",
+      "Greene’s historical narrative and inferred motives have not been independently corroborated."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0033",
+    "statement": "Greene interprets Rockefeller’s business and bargaining practices as an example of calculated, indirect aggressive pressure and rationalized control.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (Viking, 2018); original editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-16"
+    ],
+    "sourceReferenceIds": [
+      "REF-0103",
+      "REF-0106"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "Greene’s account does not independently establish private motives, legality or the full history of Standard Oil.",
+      "Directly inspected book passage establishes attribution only; scientific evidence remains not assessed."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0034",
+    "statement": "Greene recommends distinguishing destructive hostility from deliberately channeled assertive energy and monitoring indirect patterns over time.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (Viking, 2018); original editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-16"
+    ],
+    "sourceReferenceIds": [
+      "REF-0108",
+      "REF-0112"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "A behavioral label requires contextual observations and independent research; the book does not validate diagnostic criteria.",
+      "Directly inspected book passage establishes attribution only; scientific evidence remains not assessed."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0035",
+    "statement": "Greene presents Louis XVI and Danton as different responses to a shifting historical atmosphere and suggests that historical sensitivity changes opportunities.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (Viking, 2018); original editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-17"
+    ],
+    "sourceReferenceIds": [
+      "REF-0113",
+      "REF-0116"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "Causes of the French Revolution are multi-factorial and individual intentions are not independently established here.",
+      "Directly inspected book passage establishes attribution only; scientific evidence remains not assessed."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0036",
+    "statement": "Greene argues that cohort styles and reactions to predecessor generations shape cultural change, while encouraging readers to think beyond the age’s conventions.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (Viking, 2018); original editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-17"
+    ],
+    "sourceReferenceIds": [
+      "REF-0118",
+      "REF-0122",
+      "REF-0137"
+    ],
+    "researchFindingIds": [
+      "RES-0005"
+    ],
+    "qualifications": [
+      "Age, period and cohort effects are not empirically disentangled in this book-attributed argument.",
+      "Directly inspected book passage establishes attribution only; scientific evidence remains not assessed.",
+      "Stage 07 independent literature review is scoped to the listed source and its accessible abstract/review; do not generalize to universal causality."
+    ],
+    "evidenceStatus": "limited"
+  },
+  {
+    "id": "CLM-0037",
+    "statement": "Greene interprets Flannery O’Connor’s writing and personal choices as shaped in part by conscious engagement with serious illness and mortality.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (Viking, 2018); original editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-18"
+    ],
+    "sourceReferenceIds": [
+      "REF-0123",
+      "REF-0126"
+    ],
+    "researchFindingIds": [],
+    "qualifications": [
+      "Biographical attributions are not independently verified, and a single life cannot predict universal coping responses.",
+      "Directly inspected book passage establishes attribution only; scientific evidence remains not assessed."
+    ],
+    "evidenceStatus": "not_assessed"
+  },
+  {
+    "id": "CLM-0038",
+    "statement": "Greene proposes that considering mortality can clarify priorities, empathy and attention while opening life to wonder.",
+    "attributedTo": "Robert Greene, The Laws of Human Nature (Viking, 2018); original editorial paraphrase",
+    "claimType": "author_argument",
+    "relatedLawIds": [
+      "LAW-18"
+    ],
+    "sourceReferenceIds": [
+      "REF-0129",
+      "REF-0132",
+      "REF-0138"
+    ],
+    "researchFindingIds": [
+      "RES-0006"
+    ],
+    "qualifications": [
+      "Scientific evidence for mortality-salience effects is not assessed here; some people respond with distress or avoidance.",
+      "Directly inspected book passage establishes attribution only; scientific evidence remains not assessed.",
+      "Stage 07 independent literature review is scoped to the listed source and its accessible abstract/review; do not generalize to universal causality."
+    ],
+    "evidenceStatus": "limited"
+  }
+]

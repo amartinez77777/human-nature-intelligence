@@ -1,0 +1,356 @@
+{
+  "schemaVersion": 1,
+  "pdfSha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e",
+  "pdfPages": 690,
+  "scope": "Laws 09–12",
+  "pdfPageIndexConvention": "zero-based physical PDF; viewer page index+1; printed pages unverified",
+  "method": "Text extraction from attached same-fingerprint PDF; key chapter passages and heading lines inspected; no independent history or science review.",
+  "sections": [
+    {
+      "lawId": "LAW-09",
+      "section": "The Dark Side",
+      "startPdfPageIndex": 255,
+      "endPdfPageIndex": 272,
+      "headingVerified": true,
+      "substantiveReviewCredited": true,
+      "reviewNotes": "Opening narrative and historical discussion reviewed with targeted context"
+    },
+    {
+      "lawId": "LAW-09",
+      "section": "Deciphering the Shadow: Contradictory Behavior",
+      "startPdfPageIndex": 273,
+      "endPdfPageIndex": 278,
+      "headingVerified": true,
+      "substantiveReviewCredited": false,
+      "reviewNotes": "Section title and selected explanatory passages inspected; exhaustive review deferred."
+    },
+    {
+      "lawId": "LAW-09",
+      "section": "The Integrated Human",
+      "startPdfPageIndex": 279,
+      "endPdfPageIndex": 287,
+      "headingVerified": true,
+      "substantiveReviewCredited": false,
+      "reviewNotes": "Section title and selected explanatory passages inspected; exhaustive review deferred."
+    },
+    {
+      "lawId": "LAW-10",
+      "section": "Fatal Friends",
+      "startPdfPageIndex": 288,
+      "endPdfPageIndex": 301,
+      "headingVerified": true,
+      "substantiveReviewCredited": true,
+      "reviewNotes": "Opening narrative and historical discussion reviewed with targeted context"
+    },
+    {
+      "lawId": "LAW-10",
+      "section": "Signs of Envy",
+      "startPdfPageIndex": 302,
+      "endPdfPageIndex": 304,
+      "headingVerified": true,
+      "substantiveReviewCredited": false,
+      "reviewNotes": "Section title and selected explanatory passages inspected; exhaustive review deferred."
+    },
+    {
+      "lawId": "LAW-10",
+      "section": "Envier Types",
+      "startPdfPageIndex": 305,
+      "endPdfPageIndex": 311,
+      "headingVerified": true,
+      "substantiveReviewCredited": false,
+      "reviewNotes": "Section title and selected explanatory passages inspected; exhaustive review deferred."
+    },
+    {
+      "lawId": "LAW-10",
+      "section": "Envy Triggers",
+      "startPdfPageIndex": 312,
+      "endPdfPageIndex": 315,
+      "headingVerified": true,
+      "substantiveReviewCredited": false,
+      "reviewNotes": "Section title and selected explanatory passages inspected; exhaustive review deferred."
+    },
+    {
+      "lawId": "LAW-10",
+      "section": "Beyond Envy",
+      "startPdfPageIndex": 316,
+      "endPdfPageIndex": 320,
+      "headingVerified": true,
+      "substantiveReviewCredited": false,
+      "reviewNotes": "Section title and selected explanatory passages inspected; exhaustive review deferred."
+    },
+    {
+      "lawId": "LAW-11",
+      "section": "The Success Delusion",
+      "startPdfPageIndex": 321,
+      "endPdfPageIndex": 341,
+      "headingVerified": true,
+      "substantiveReviewCredited": true,
+      "reviewNotes": "Opening narrative and historical discussion reviewed with targeted context"
+    },
+    {
+      "lawId": "LAW-11",
+      "section": "The Grandiose Leader",
+      "startPdfPageIndex": 342,
+      "endPdfPageIndex": 346,
+      "headingVerified": true,
+      "substantiveReviewCredited": false,
+      "reviewNotes": "Section title and selected explanatory passages inspected; exhaustive review deferred."
+    },
+    {
+      "lawId": "LAW-11",
+      "section": "Practical Grandiosity",
+      "startPdfPageIndex": 347,
+      "endPdfPageIndex": 351,
+      "headingVerified": true,
+      "substantiveReviewCredited": false,
+      "reviewNotes": "Section title and selected explanatory passages inspected; exhaustive review deferred."
+    },
+    {
+      "lawId": "LAW-12",
+      "section": "The Authentic Gender",
+      "startPdfPageIndex": 352,
+      "endPdfPageIndex": 373,
+      "headingVerified": true,
+      "substantiveReviewCredited": true,
+      "reviewNotes": "Opening narrative and historical discussion reviewed with targeted context"
+    },
+    {
+      "lawId": "LAW-12",
+      "section": "Gender Projection—Types",
+      "startPdfPageIndex": 374,
+      "endPdfPageIndex": 381,
+      "headingVerified": true,
+      "substantiveReviewCredited": false,
+      "reviewNotes": "Section title and selected explanatory passages inspected; exhaustive review deferred."
+    },
+    {
+      "lawId": "LAW-12",
+      "section": "The Original Man/Woman",
+      "startPdfPageIndex": 382,
+      "endPdfPageIndex": 390,
+      "headingVerified": true,
+      "substantiveReviewCredited": false,
+      "reviewNotes": "Section title and selected explanatory passages inspected; exhaustive review deferred."
+    }
+  ],
+  "pageChecks": [
+    {
+      "lawId": "LAW-09",
+      "pdfPageIndex": 255,
+      "viewerPage": 256,
+      "textCharacters": 1660,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-09",
+      "pdfPageIndex": 264,
+      "viewerPage": 265,
+      "textCharacters": 2431,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-09",
+      "pdfPageIndex": 273,
+      "viewerPage": 274,
+      "textCharacters": 2376,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-09",
+      "pdfPageIndex": 279,
+      "viewerPage": 280,
+      "textCharacters": 2329,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-09",
+      "pdfPageIndex": 285,
+      "viewerPage": 286,
+      "textCharacters": 2486,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-09",
+      "pdfPageIndex": 287,
+      "viewerPage": 288,
+      "textCharacters": 430,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-10",
+      "pdfPageIndex": 288,
+      "viewerPage": 289,
+      "textCharacters": 1597,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-10",
+      "pdfPageIndex": 298,
+      "viewerPage": 299,
+      "textCharacters": 2511,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-10",
+      "pdfPageIndex": 302,
+      "viewerPage": 303,
+      "textCharacters": 2264,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-10",
+      "pdfPageIndex": 305,
+      "viewerPage": 306,
+      "textCharacters": 2371,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-10",
+      "pdfPageIndex": 312,
+      "viewerPage": 313,
+      "textCharacters": 2242,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-10",
+      "pdfPageIndex": 316,
+      "viewerPage": 317,
+      "textCharacters": 2408,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-10",
+      "pdfPageIndex": 320,
+      "viewerPage": 321,
+      "textCharacters": 573,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-11",
+      "pdfPageIndex": 321,
+      "viewerPage": 322,
+      "textCharacters": 1655,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-11",
+      "pdfPageIndex": 332,
+      "viewerPage": 333,
+      "textCharacters": 2539,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-11",
+      "pdfPageIndex": 342,
+      "viewerPage": 343,
+      "textCharacters": 2331,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-11",
+      "pdfPageIndex": 347,
+      "viewerPage": 348,
+      "textCharacters": 2216,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-11",
+      "pdfPageIndex": 349,
+      "viewerPage": 350,
+      "textCharacters": 2513,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-11",
+      "pdfPageIndex": 351,
+      "viewerPage": 352,
+      "textCharacters": 2612,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-12",
+      "pdfPageIndex": 352,
+      "viewerPage": 353,
+      "textCharacters": 1587,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-12",
+      "pdfPageIndex": 362,
+      "viewerPage": 363,
+      "textCharacters": 2330,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-12",
+      "pdfPageIndex": 368,
+      "viewerPage": 369,
+      "textCharacters": 2509,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-12",
+      "pdfPageIndex": 374,
+      "viewerPage": 375,
+      "textCharacters": 2395,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-12",
+      "pdfPageIndex": 382,
+      "viewerPage": 383,
+      "textCharacters": 2432,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-12",
+      "pdfPageIndex": 388,
+      "viewerPage": 389,
+      "textCharacters": 2401,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    },
+    {
+      "lawId": "LAW-12",
+      "pdfPageIndex": 390,
+      "viewerPage": 391,
+      "textCharacters": 1770,
+      "hasText": true,
+      "reviewScope": "targeted textual inspection / source locator check"
+    }
+  ],
+  "correctedPriorMetadata": [
+    {
+      "lawId": "LAW-11",
+      "section": "Practical Grandiosity",
+      "previousPdfPageIndex": 336,
+      "actualPdfPageIndex": 347,
+      "actualViewerPage": 348,
+      "reason": "Previous locator matched a cross-reference to the later section, not its standalone heading."
+    }
+  ]
+}

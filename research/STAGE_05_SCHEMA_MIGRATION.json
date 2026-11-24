@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "stage": "05",
+  "datasetFrom": 1,
+  "datasetTo": 2,
+  "userProgressFrom": 1,
+  "userProgressTo": 1,
+  "changes": [
+    "Added levelsOfExplanation arrays to ConceptRecord and HistoricalCaseRecord only.",
+    "All preexisting concept/case records assigned [] (unclassified, not guessed). Nine new concepts and three new cases receive editor-reviewed multi-level classification.",
+    "Canonical dataset manifest schemaVersion migrated to 2; imported progress schema remains v1, no localStorage migration.",
+    "Repaired Law 14 Reality Group heading locator from PDF index 463 to 472; IDs and all existing source refs unchanged."
+  ],
+  "aliasesAdded": [],
+  "rollback": "Restore Stage 04 ZIP only after preserving Stage 05 content; version 2 JSON cannot be parsed by unmodified Stage 04 runtime validator."
+}

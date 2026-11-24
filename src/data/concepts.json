@@ -1,0 +1,1692 @@
+[
+  {
+    "id": "CON-0001",
+    "name": "Confirmation bias",
+    "definition": "A tendency to attend to or prefer information that supports an existing belief or desired conclusion.",
+    "mechanism": "Greene describes self-comforting interpretation and selective evidence seeking as a pathway to distorted judgments.",
+    "observableIndicators": [
+      "Looking only for support of a favored plan",
+      "Discounting counterarguments without examining them"
+    ],
+    "alternativeExplanations": [
+      "Time constraints or limited access to contrary evidence can also produce one-sided research"
+    ],
+    "commonMisinterpretations": [
+      "One mistaken decision does not establish a stable personality trait"
+    ],
+    "relatedLawIds": [
+      "LAW-01"
+    ],
+    "relatedConceptIds": [
+      "CON-0002"
+    ],
+    "claimIds": [
+      "CLM-0001"
+    ],
+    "sourceReferenceIds": [
+      "REF-0002"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0002",
+    "name": "Emotional reactivity",
+    "definition": "A change in judgment or behavior associated with heightened emotional arousal, as described in Greene’s chapter.",
+    "mechanism": "The chapter proposes that intense feelings can narrow attention and encourage rapid reactions.",
+    "observableIndicators": [
+      "Urgent decisions made during interpersonal conflict"
+    ],
+    "alternativeExplanations": [
+      "Stressors, legitimate danger, and limited information may influence quick action"
+    ],
+    "commonMisinterpretations": [
+      "The presence of emotion does not make every decision unsound"
+    ],
+    "relatedLawIds": [
+      "LAW-01"
+    ],
+    "relatedConceptIds": [
+      "CON-0001"
+    ],
+    "claimIds": [
+      "CLM-0001"
+    ],
+    "sourceReferenceIds": [
+      "REF-0003"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0003",
+    "name": "Empathic perspective taking",
+    "definition": "An effort to understand another person’s situation and point of view without assuming certainty about their thoughts.",
+    "mechanism": "Greene proposes directed attention, active listening, and revising early impressions.",
+    "observableIndicators": [
+      "Asking clarifying questions",
+      "Withholding snap judgments"
+    ],
+    "alternativeExplanations": [
+      "Perspective taking may be limited by incomplete knowledge or context"
+    ],
+    "commonMisinterpretations": [
+      "Feeling convinced you know another person’s intentions is not proof of empathy"
+    ],
+    "relatedLawIds": [
+      "LAW-02"
+    ],
+    "relatedConceptIds": [],
+    "claimIds": [
+      "CLM-0002"
+    ],
+    "sourceReferenceIds": [
+      "REF-0006"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0004",
+    "name": "Self-protective rationalization",
+    "definition": "Post-hoc explanations that favor a flattering account of why a choice was made.",
+    "mechanism": "Greene associates ego protection with explanations that overlook one’s own contribution to mistakes.",
+    "observableIndicators": [
+      "Assigning all blame to circumstances without examining personal choices"
+    ],
+    "alternativeExplanations": [
+      "Real structural constraints or incomplete information"
+    ],
+    "commonMisinterpretations": [
+      "An explanation is not false merely because it protects self-image"
+    ],
+    "relatedLawIds": [
+      "LAW-01"
+    ],
+    "relatedConceptIds": [
+      "CON-0001"
+    ],
+    "claimIds": [
+      "CLM-0001"
+    ],
+    "sourceReferenceIds": [
+      "REF-0009"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0005",
+    "name": "Analytic empathy",
+    "definition": "Building a tentative picture of another person’s viewpoint from conversation, context and feedback.",
+    "mechanism": "Greene recommends combining perspective-taking with direct and indirect correction rather than assuming a first reading is accurate.",
+    "observableIndicators": [
+      "Asking open questions; revising an impression after hearing context"
+    ],
+    "alternativeExplanations": [
+      "Courtesy or professional requirements can prompt similar listening"
+    ],
+    "commonMisinterpretations": [
+      "Analytic empathy is not a license to infer private trauma"
+    ],
+    "relatedLawIds": [
+      "LAW-02"
+    ],
+    "relatedConceptIds": [
+      "CON-0003"
+    ],
+    "claimIds": [
+      "CLM-0002"
+    ],
+    "sourceReferenceIds": [
+      "REF-0010"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0006",
+    "name": "Self-image regulation",
+    "definition": "The maintenance of a working sense of self-worth in response to attention, comparison and criticism.",
+    "mechanism": "Greene proposes that a resilient self-concept allows more attention to be directed outward.",
+    "observableIndicators": [
+      "Accepting correction without dramatic retaliation"
+    ],
+    "alternativeExplanations": [
+      "External safety, resources and power can change reactions"
+    ],
+    "commonMisinterpretations": [
+      "This is not a verified diagnostic spectrum"
+    ],
+    "relatedLawIds": [
+      "LAW-02"
+    ],
+    "relatedConceptIds": [
+      "CON-0003"
+    ],
+    "claimIds": [
+      "CLM-0002"
+    ],
+    "sourceReferenceIds": [
+      "REF-0005"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0007",
+    "name": "Impression management",
+    "definition": "Adjusting public expression to satisfy context-dependent expectations.",
+    "mechanism": "Greene distinguishes strategic public roles from the private mix of motives and feelings.",
+    "observableIndicators": [
+      "A presenter adopts formal language despite feeling nervous"
+    ],
+    "alternativeExplanations": [
+      "Cultural courtesy, professional norms and genuine enthusiasm"
+    ],
+    "commonMisinterpretations": [
+      "A social mask does not automatically mean fraud"
+    ],
+    "relatedLawIds": [
+      "LAW-03"
+    ],
+    "relatedConceptIds": [
+      "CON-0008"
+    ],
+    "claimIds": [
+      "CLM-0005"
+    ],
+    "sourceReferenceIds": [
+      "REF-0017"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0008",
+    "name": "Nonverbal ambiguity",
+    "definition": "The fact that gestures, expression and posture may support several explanations.",
+    "mechanism": "Greene recommends observation in context; inference remains fallible and can be checked through conversation.",
+    "observableIndicators": [
+      "Interpreting hesitant speech only after asking about setting and expectations"
+    ],
+    "alternativeExplanations": [
+      "Physical condition, cultural habit, fatigue or sensory difference"
+    ],
+    "commonMisinterpretations": [
+      "A single gesture cannot establish a hidden motive"
+    ],
+    "relatedLawIds": [
+      "LAW-03"
+    ],
+    "relatedConceptIds": [
+      "CON-0007"
+    ],
+    "claimIds": [
+      "CLM-0006"
+    ],
+    "sourceReferenceIds": [
+      "REF-0015",
+      "REF-0016"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0009",
+    "name": "Role-dependent behavior",
+    "definition": "The variation of expression across social settings and responsibilities.",
+    "mechanism": "Different audiences, power hierarchies, and roles change what people feel free to say or show.",
+    "observableIndicators": [
+      "Someone behaves more cautiously with a supervisor than with peers"
+    ],
+    "alternativeExplanations": [
+      "Safety, incentives, and explicit organizational policies"
+    ],
+    "commonMisinterpretations": [
+      "Different presentation is not proof of an unstable identity"
+    ],
+    "relatedLawIds": [
+      "LAW-03"
+    ],
+    "relatedConceptIds": [
+      "CON-0007"
+    ],
+    "claimIds": [
+      "CLM-0005"
+    ],
+    "sourceReferenceIds": [
+      "REF-0017"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0010",
+    "name": "Recurring behavioral patterns",
+    "definition": "Repeated observable choices in comparable situations over time.",
+    "mechanism": "Greene treats repetition across projects and relationships as a clue to enduring coping tendencies.",
+    "observableIndicators": [
+      "An executive repeatedly retracts delegated authority despite prior promises"
+    ],
+    "alternativeExplanations": [
+      "Similar external pressures or institutional systems"
+    ],
+    "commonMisinterpretations": [
+      "History is not destiny; context matters"
+    ],
+    "relatedLawIds": [
+      "LAW-04"
+    ],
+    "relatedConceptIds": [
+      "CON-0011"
+    ],
+    "claimIds": [
+      "CLM-0007"
+    ],
+    "sourceReferenceIds": [
+      "REF-0018",
+      "REF-0019"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0011",
+    "name": "Trait-versus-situation distinction",
+    "definition": "The difference between an enduring disposition and conduct prompted by immediate conditions.",
+    "mechanism": "This editorial distinction guards against over-attributing every act to character.",
+    "observableIndicators": [
+      "Comparing reliable performance across equivalent roles and pressure levels"
+    ],
+    "alternativeExplanations": [
+      "A shortage, safety issue or temporary illness"
+    ],
+    "commonMisinterpretations": [
+      "One bad deadline is not sufficient evidence of character"
+    ],
+    "relatedLawIds": [
+      "LAW-04"
+    ],
+    "relatedConceptIds": [
+      "CON-0010"
+    ],
+    "claimIds": [
+      "CLM-0008"
+    ],
+    "sourceReferenceIds": [
+      "REF-0020"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0012",
+    "name": "Behavioral reliability",
+    "definition": "A practical pattern of following through on commitments and repairing errors.",
+    "mechanism": "Greene privileges repeatable actions over charisma or public reputation.",
+    "observableIndicators": [
+      "Documented delivery, accountability and adjustment following feedback"
+    ],
+    "alternativeExplanations": [
+      "Good systems and adequate staffing can support reliability"
+    ],
+    "commonMisinterpretations": [
+      "Quiet manner is not inherently more virtuous than energetic presentation"
+    ],
+    "relatedLawIds": [
+      "LAW-04"
+    ],
+    "relatedConceptIds": [
+      "CON-0010"
+    ],
+    "claimIds": [
+      "CLM-0008"
+    ],
+    "sourceReferenceIds": [
+      "REF-0020",
+      "REF-0022"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0013",
+    "name": "Projected desire",
+    "definition": "Anticipated possession can be valued because of the identity, freedom or distinction imagined around an object.",
+    "mechanism": "The object functions as a carrier for imagined rewards, beyond its use-value.",
+    "observableIndicators": [
+      "Attention intensifies around an unfamiliar object and may recede after acquisition."
+    ],
+    "alternativeExplanations": [
+      "Practical quality and affordability can explain interest without projection."
+    ],
+    "commonMisinterpretations": [
+      "An intense desire is not necessarily proof of a hidden unmet emotional need."
+    ],
+    "relatedLawIds": [
+      "LAW-05"
+    ],
+    "relatedConceptIds": [
+      "CON-0014",
+      "CON-0015"
+    ],
+    "claimIds": [],
+    "sourceReferenceIds": [
+      "REF-0023",
+      "REF-0027"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0014",
+    "name": "Practical need",
+    "definition": "A requirement whose absence imposes a material or functional cost, even if there is no socially attractive story around it.",
+    "mechanism": "Actual function and circumstance, not imagined status, help determine necessity.",
+    "observableIndicators": [
+      "A basic garment meets a requirement even when no one covets its style."
+    ],
+    "alternativeExplanations": [
+      "People may legitimately have symbolic and social needs, blurring the boundary."
+    ],
+    "commonMisinterpretations": [
+      "A need cannot always be reduced to mere survival."
+    ],
+    "relatedLawIds": [
+      "LAW-05"
+    ],
+    "relatedConceptIds": [
+      "CON-0013"
+    ],
+    "claimIds": [],
+    "sourceReferenceIds": [
+      "REF-0023",
+      "REF-0027"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0015",
+    "name": "Perceived scarcity and social proof",
+    "definition": "Limited access or others’ apparent interest may alter anticipated value.",
+    "mechanism": "Exclusivity and comparison change what the observer believes an object signifies.",
+    "observableIndicators": [
+      "A product receives attention after admired peers discuss it."
+    ],
+    "alternativeExplanations": [
+      "Scarcity can also be a sign of poor service or manufactured pressure."
+    ],
+    "commonMisinterpretations": [
+      "Limited supply is not evidence of quality or consent."
+    ],
+    "relatedLawIds": [
+      "LAW-05"
+    ],
+    "relatedConceptIds": [
+      "CON-0013"
+    ],
+    "claimIds": [],
+    "sourceReferenceIds": [
+      "REF-0023",
+      "REF-0027"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0016",
+    "name": "Decision horizon",
+    "definition": "The interval over which a decision-maker considers outcomes, costs and options.",
+    "mechanism": "Extending the frame reveals delayed effects and reversibility.",
+    "observableIndicators": [
+      "A plan includes present costs and multi-year maintenance."
+    ],
+    "alternativeExplanations": [
+      "A short horizon can be warranted under immediate constraints."
+    ],
+    "commonMisinterpretations": [
+      "A long horizon cannot predict surprises with certainty."
+    ],
+    "relatedLawIds": [
+      "LAW-06"
+    ],
+    "relatedConceptIds": [
+      "CON-0017",
+      "CON-0018"
+    ],
+    "claimIds": [],
+    "sourceReferenceIds": [
+      "REF-0029",
+      "REF-0033"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0017",
+    "name": "Salience of immediate rewards",
+    "definition": "Vivid short-term outcomes can dominate attention at the expense of harder-to-see future costs.",
+    "mechanism": "Current signals crowd out slower-moving risk information.",
+    "observableIndicators": [
+      "People treat rapid price appreciation as proof of safety."
+    ],
+    "alternativeExplanations": [
+      "Current information may be genuinely useful and time critical."
+    ],
+    "commonMisinterpretations": [
+      "Reacting quickly is not always irrational."
+    ],
+    "relatedLawIds": [
+      "LAW-06"
+    ],
+    "relatedConceptIds": [
+      "CON-0016",
+      "CON-0018"
+    ],
+    "claimIds": [],
+    "sourceReferenceIds": [
+      "REF-0029",
+      "REF-0033"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0018",
+    "name": "Counterfactual scenario planning",
+    "definition": "Explicitly considering alternative outcomes and assumptions before acting.",
+    "mechanism": "Parallel scenarios reduce reliance on a single desired future story.",
+    "observableIndicators": [
+      "A group evaluates success, failure and renegotiation options."
+    ],
+    "alternativeExplanations": [
+      "Forecasts can themselves be overconfident or politically biased."
+    ],
+    "commonMisinterpretations": [
+      "Scenario planning is not a guarantee against loss."
+    ],
+    "relatedLawIds": [
+      "LAW-06"
+    ],
+    "relatedConceptIds": [
+      "CON-0016"
+    ],
+    "claimIds": [],
+    "sourceReferenceIds": [
+      "REF-0029",
+      "REF-0033"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0019",
+    "name": "Self-opinion and identity threat",
+    "definition": "Perceived challenges to competence, goodness or independence can change how a proposal is heard.",
+    "mechanism": "Social threat competes with evaluating the proposition on its merits.",
+    "observableIndicators": [
+      "A public criticism produces a status-oriented defense."
+    ],
+    "alternativeExplanations": [
+      "A person may reject an idea because its consequences are harmful."
+    ],
+    "commonMisinterpretations": [
+      "Disagreement is not proof of insecurity."
+    ],
+    "relatedLawIds": [
+      "LAW-07"
+    ],
+    "relatedConceptIds": [
+      "CON-0020",
+      "CON-0021"
+    ],
+    "claimIds": [],
+    "sourceReferenceIds": [
+      "REF-0035",
+      "REF-0039"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0020",
+    "name": "Autonomy-supportive persuasion",
+    "definition": "An attempt to influence through transparent reasons and genuine capacity to decline.",
+    "mechanism": "Respect, accessible evidence and voluntary choice can enable reconsideration.",
+    "observableIndicators": [
+      "A manager offers an honest pilot with opt-out and feedback."
+    ],
+    "alternativeExplanations": [
+      "Participants may still reject the proposal on its merits."
+    ],
+    "commonMisinterpretations": [
+      "Appearing respectful without allowing refusal is not sufficient."
+    ],
+    "relatedLawIds": [
+      "LAW-07"
+    ],
+    "relatedConceptIds": [
+      "CON-0019",
+      "CON-0021"
+    ],
+    "claimIds": [],
+    "sourceReferenceIds": [
+      "REF-0035",
+      "REF-0039"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0021",
+    "name": "Coercive pressure",
+    "definition": "Influence that relies on threats, material leverage or unreasonable penalties for refusal.",
+    "mechanism": "Constrained alternatives make compliance a poor proxy for agreement.",
+    "observableIndicators": [
+      "A worker signs because a manager threatens retaliation."
+    ],
+    "alternativeExplanations": [
+      "A lawful negotiation can include real costs without automatically being coercion."
+    ],
+    "commonMisinterpretations": [
+      "Visible compliance is not evidence of consent."
+    ],
+    "relatedLawIds": [
+      "LAW-07"
+    ],
+    "relatedConceptIds": [
+      "CON-0020"
+    ],
+    "claimIds": [],
+    "sourceReferenceIds": [
+      "REF-0035",
+      "REF-0039"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0022",
+    "name": "Expectation-behavior feedback",
+    "definition": "Anticipations affect responses, which can shape others’ responses and appear to confirm initial beliefs.",
+    "mechanism": "Interpretation and interaction may recursively reinforce one another.",
+    "observableIndicators": [
+      "Guarded speech prompts distance that is read as rejection."
+    ],
+    "alternativeExplanations": [
+      "The other party may be hostile regardless of one’s expectations."
+    ],
+    "commonMisinterpretations": [
+      "This mechanism does not establish fault for mistreatment."
+    ],
+    "relatedLawIds": [
+      "LAW-08"
+    ],
+    "relatedConceptIds": [
+      "CON-0023",
+      "CON-0024"
+    ],
+    "claimIds": [
+      "CLM-0018"
+    ],
+    "sourceReferenceIds": [
+      "REF-0041",
+      "REF-0045"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0023",
+    "name": "Interpretive attitude",
+    "definition": "A recurring orientation that shapes attention and meaning assigned to ambiguous events.",
+    "mechanism": "Predictions influence which cues are noticed and which actions seem possible.",
+    "observableIndicators": [
+      "Two people interpret an uncertain comment differently."
+    ],
+    "alternativeExplanations": [
+      "Experience and environment can justify cautious interpretations."
+    ],
+    "commonMisinterpretations": [
+      "Positive interpretation should not deny observable harm."
+    ],
+    "relatedLawIds": [
+      "LAW-08"
+    ],
+    "relatedConceptIds": [
+      "CON-0022",
+      "CON-0024"
+    ],
+    "claimIds": [
+      "CLM-0018"
+    ],
+    "sourceReferenceIds": [
+      "REF-0041",
+      "REF-0045"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0024",
+    "name": "External circumstance",
+    "definition": "Material conditions, institutional rules and actions by others that shape what can happen independently of personal interpretation.",
+    "mechanism": "Constraints delimit which choices are feasible, regardless of mindset.",
+    "observableIndicators": [
+      "Unaffordable transportation restricts employment options despite motivation."
+    ],
+    "alternativeExplanations": [
+      "Some constraints can change through collective action or adaptation."
+    ],
+    "commonMisinterpretations": [
+      "Structural conditions should not be used to deny every possibility of agency."
+    ],
+    "relatedLawIds": [
+      "LAW-08"
+    ],
+    "relatedConceptIds": [
+      "CON-0022",
+      "CON-0023"
+    ],
+    "claimIds": [
+      "CLM-0018"
+    ],
+    "sourceReferenceIds": [
+      "REF-0041",
+      "REF-0045"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0025",
+    "name": "Disowned self-image",
+    "definition": "Parts of behavior or aspiration a person finds difficult to incorporate into their preferred identity.",
+    "mechanism": "Greene draws on Jungian theory to explain perceived discrepancies between a public persona and admitted impulses.",
+    "observableIndicators": [
+      "Repeatedly denying an observable mistake despite contradictory records."
+    ],
+    "alternativeExplanations": [
+      "Role demands, embarrassment, impression management or memory uncertainty."
+    ],
+    "commonMisinterpretations": [
+      "A disowned self-image cannot be detected reliably from one inconsistency."
+    ],
+    "relatedLawIds": [
+      "LAW-09"
+    ],
+    "relatedConceptIds": [
+      "CON-0026",
+      "CON-0027"
+    ],
+    "claimIds": [
+      "CLM-0019"
+    ],
+    "sourceReferenceIds": [
+      "REF-0047",
+      "REF-0048"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0026",
+    "name": "Contradictory behavior",
+    "definition": "A mismatch between stated values, stable self-descriptions, or different observable actions.",
+    "mechanism": "Inconsistency may indicate competing goals, shifting contexts or an incomplete self-description; it does not specify a unique unconscious mechanism.",
+    "observableIndicators": [
+      "A leader praises candid feedback but excludes critical voices."
+    ],
+    "alternativeExplanations": [
+      "Different context, incomplete information, multiple incentives or unfair institutional rules."
+    ],
+    "commonMisinterpretations": [
+      "A contradiction proves what a person unconsciously wants."
+    ],
+    "relatedLawIds": [
+      "LAW-09"
+    ],
+    "relatedConceptIds": [
+      "CON-0025",
+      "CON-0027"
+    ],
+    "claimIds": [
+      "CLM-0020"
+    ],
+    "sourceReferenceIds": [
+      "REF-0047",
+      "REF-0049"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0027",
+    "name": "Integration of traits",
+    "definition": "The reflective acknowledgment of mixed motives and personal capacities without treating every impulse as justified conduct.",
+    "mechanism": "Greene recommends conscious examination of disowned attitudes and a more flexible self-concept.",
+    "observableIndicators": [
+      "Admitting anger while choosing a constructive response and accepting accountability."
+    ],
+    "alternativeExplanations": [
+      "Ordinary reflective learning without a psychodynamic Shadow model."
+    ],
+    "commonMisinterpretations": [
+      "Integrating aggression means behaving aggressively."
+    ],
+    "relatedLawIds": [
+      "LAW-09"
+    ],
+    "relatedConceptIds": [
+      "CON-0025",
+      "CON-0026"
+    ],
+    "claimIds": [
+      "CLM-0020"
+    ],
+    "sourceReferenceIds": [
+      "REF-0047",
+      "REF-0050"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0028",
+    "name": "Envy and comparison",
+    "definition": "Distress or longing in response to another person possessing an advantage judged personally significant.",
+    "mechanism": "Comparison can affect self-evaluation and attention, but does not by itself determine hostility or sabotage.",
+    "observableIndicators": [
+      "A person acknowledges disappointment when a peer receives an award."
+    ],
+    "alternativeExplanations": [
+      "Admiration, disappointment about procedure, jealousy, structural inequity."
+    ],
+    "commonMisinterpretations": [
+      "Criticism or silence necessarily means someone is envious."
+    ],
+    "relatedLawIds": [
+      "LAW-10"
+    ],
+    "relatedConceptIds": [
+      "CON-0029",
+      "CON-0030"
+    ],
+    "claimIds": [
+      "CLM-0021"
+    ],
+    "sourceReferenceIds": [
+      "REF-0053",
+      "REF-0054"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0029",
+    "name": "Jealousy and relationship threat",
+    "definition": "Concern about losing a valued relationship or bond, especially to a perceived rival.",
+    "mechanism": "Perceived relational competition may elicit vigilance or distress distinct from wanting another’s advantage.",
+    "observableIndicators": [
+      "A partner expresses concern about shifting relationship boundaries."
+    ],
+    "alternativeExplanations": [
+      "Insecurity, ordinary renegotiation, concrete betrayal or unmet expectations."
+    ],
+    "commonMisinterpretations": [
+      "Jealousy and envy are interchangeable."
+    ],
+    "relatedLawIds": [
+      "LAW-10"
+    ],
+    "relatedConceptIds": [
+      "CON-0028",
+      "CON-0030"
+    ],
+    "claimIds": [
+      "CLM-0022"
+    ],
+    "sourceReferenceIds": [
+      "REF-0053",
+      "REF-0055"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0030",
+    "name": "Admiration versus resentment",
+    "definition": "Different responses to upward comparison: aspirational respect or negative response to an advantage or suspected injustice.",
+    "mechanism": "Evaluation of attainability, fairness and personal meaning can change the emotional meaning of a comparison.",
+    "observableIndicators": [
+      "A student studies a peer’s successful method rather than attacking their character."
+    ],
+    "alternativeExplanations": [
+      "Genuine procedural complaints, professional disagreement, competitiveness."
+    ],
+    "commonMisinterpretations": [
+      "Admiration implies inferiority or resentment always proves envy."
+    ],
+    "relatedLawIds": [
+      "LAW-10"
+    ],
+    "relatedConceptIds": [
+      "CON-0028",
+      "CON-0029"
+    ],
+    "claimIds": [
+      "CLM-0022"
+    ],
+    "sourceReferenceIds": [
+      "REF-0053",
+      "REF-0056"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0031",
+    "name": "Confidence versus overconfidence",
+    "definition": "Confidence is a level of belief in ability; overconfidence is unwarranted belief when compared with justified accuracy or reliable benchmarks.",
+    "mechanism": "Calibration requires comparing predictions and claims to evidence in comparable conditions.",
+    "observableIndicators": [
+      "A leader predicts results and revises estimates after new data."
+    ],
+    "alternativeExplanations": [
+      "Uncertain environment, asymmetric incentives or an ambitious but calibrated strategy."
+    ],
+    "commonMisinterpretations": [
+      "Bold decision-making alone proves irrational grandiosity."
+    ],
+    "relatedLawIds": [
+      "LAW-11"
+    ],
+    "relatedConceptIds": [
+      "CON-0032",
+      "CON-0033"
+    ],
+    "claimIds": [
+      "CLM-0023"
+    ],
+    "sourceReferenceIds": [
+      "REF-0060",
+      "REF-0061"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0032",
+    "name": "Success attribution",
+    "definition": "How people allocate credit for favorable outcomes among effort, teammates, external conditions and chance.",
+    "mechanism": "Self-serving explanations can narrow learning; alternative explanations depend on observable processes.",
+    "observableIndicators": [
+      "A project leader credits only personal genius despite recorded team contributions."
+    ],
+    "alternativeExplanations": [
+      "Different information, genuine individual influence, compensation structures."
+    ],
+    "commonMisinterpretations": [
+      "All self-praise is self-delusion."
+    ],
+    "relatedLawIds": [
+      "LAW-11"
+    ],
+    "relatedConceptIds": [
+      "CON-0031",
+      "CON-0033"
+    ],
+    "claimIds": [
+      "CLM-0024"
+    ],
+    "sourceReferenceIds": [
+      "REF-0060",
+      "REF-0062"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0033",
+    "name": "Practical ambition",
+    "definition": "Aspirations that stretch skill and resources while remaining subject to feedback, revision and measurable outcomes.",
+    "mechanism": "Goal-setting can motivate learning, but no specific effectiveness claim is established by this book alone.",
+    "observableIndicators": [
+      "A founder tests assumptions and adjusts scale when evidence changes."
+    ],
+    "alternativeExplanations": [
+      "Risk appetite, organizational opportunity and institutional support."
+    ],
+    "commonMisinterpretations": [
+      "Any high aspiration is a sign of pathology."
+    ],
+    "relatedLawIds": [
+      "LAW-11"
+    ],
+    "relatedConceptIds": [
+      "CON-0031",
+      "CON-0032"
+    ],
+    "claimIds": [
+      "CLM-0024"
+    ],
+    "sourceReferenceIds": [
+      "REF-0060",
+      "REF-0063"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0034",
+    "name": "Gender-role expectations",
+    "definition": "Social rules about which behaviors, capacities or duties are considered appropriate for people labeled with particular genders.",
+    "mechanism": "Norms can reward compliance and penalize departures; their content changes across periods and cultures.",
+    "observableIndicators": [
+      "A father receives criticism for taking parental leave."
+    ],
+    "alternativeExplanations": [
+      "Organizational rules, family circumstances, individual preference and local norms."
+    ],
+    "commonMisinterpretations": [
+      "Gender-role expectations establish permanent biological capacities."
+    ],
+    "relatedLawIds": [
+      "LAW-12"
+    ],
+    "relatedConceptIds": [
+      "CON-0035",
+      "CON-0036"
+    ],
+    "claimIds": [
+      "CLM-0025"
+    ],
+    "sourceReferenceIds": [
+      "REF-0066",
+      "REF-0067"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0035",
+    "name": "Gendered projection",
+    "definition": "Greene/Jung’s hypothesized process of attributing idealized or disowned qualities to a partner through gendered expectations.",
+    "mechanism": "Idealization is possible, but the inferred anima/animus mechanism has not been independently demonstrated here.",
+    "observableIndicators": [
+      "Someone expects a partner to meet a rigid ideal and disregards stated preferences."
+    ],
+    "alternativeExplanations": [
+      "Attachment patterns, norms, compatibility beliefs, situational disappointment."
+    ],
+    "commonMisinterpretations": [
+      "A relationship choice reveals a person’s unconscious opposite-gender self."
+    ],
+    "relatedLawIds": [
+      "LAW-12"
+    ],
+    "relatedConceptIds": [
+      "CON-0034",
+      "CON-0036"
+    ],
+    "claimIds": [
+      "CLM-0026"
+    ],
+    "sourceReferenceIds": [
+      "REF-0066",
+      "REF-0068"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0036",
+    "name": "Behavioral flexibility beyond stereotypes",
+    "definition": "The freedom to select assertive, caring, analytical, collaborative or expressive behavior based on individual purpose and context.",
+    "mechanism": "Exploring roles beyond social expectations may expand options; no causal effectiveness estimate is supplied by this book alone.",
+    "observableIndicators": [
+      "A leader combines assertiveness and emotional attentiveness without gender labels."
+    ],
+    "alternativeExplanations": [
+      "Contextual skill learning, organizational support and personal variation."
+    ],
+    "commonMisinterpretations": [
+      "Flexibility requires identifying with a prescribed binary blend."
+    ],
+    "relatedLawIds": [
+      "LAW-12"
+    ],
+    "relatedConceptIds": [
+      "CON-0034",
+      "CON-0035"
+    ],
+    "claimIds": [
+      "CLM-0026"
+    ],
+    "sourceReferenceIds": [
+      "REF-0066",
+      "REF-0069"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": []
+  },
+  {
+    "id": "CON-0037",
+    "name": "Deliberated purpose",
+    "definition": "A chosen, revisable set of values and commitments used to organize action across time.",
+    "mechanism": "Values may support prioritization without guaranteeing achievement.",
+    "observableIndicators": [
+      "Repeatedly returning to a valued project after obstacles."
+    ],
+    "alternativeExplanations": [
+      "Economic necessity and social reinforcement can explain persistence."
+    ],
+    "commonMisinterpretations": [
+      "A single destiny must be present since childhood."
+    ],
+    "relatedLawIds": [
+      "LAW-13"
+    ],
+    "relatedConceptIds": [
+      "CON-0038",
+      "CON-0039"
+    ],
+    "claimIds": [
+      "CLM-0027"
+    ],
+    "sourceReferenceIds": [
+      "REF-0073",
+      "REF-0077"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": [
+      "individual"
+    ]
+  },
+  {
+    "id": "CON-0038",
+    "name": "Goal ladder",
+    "definition": "An organized sequence of feasible nearer actions linked to a broader aim.",
+    "mechanism": "Intermediate goals can translate abstract purpose into actionable feedback.",
+    "observableIndicators": [
+      "Creating milestones and reviewing them after new evidence."
+    ],
+    "alternativeExplanations": [
+      "External planning requirements and supervision."
+    ],
+    "commonMisinterpretations": [
+      "Following milestones mechanically proves personal meaning."
+    ],
+    "relatedLawIds": [
+      "LAW-13"
+    ],
+    "relatedConceptIds": [
+      "CON-0037",
+      "CON-0039"
+    ],
+    "claimIds": [
+      "CLM-0027"
+    ],
+    "sourceReferenceIds": [
+      "REF-0073",
+      "REF-0080"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": [
+      "individual",
+      "interpersonal"
+    ]
+  },
+  {
+    "id": "CON-0039",
+    "name": "False purpose and status pursuit",
+    "definition": "The possibility that prestige, group validation or stimulation substitutes for considered commitment.",
+    "mechanism": "Short-lived rewards can pull attention away from reflective priorities.",
+    "observableIndicators": [
+      "Switching goals mainly after external applause."
+    ],
+    "alternativeExplanations": [
+      "Changing opportunities or legitimate financial requirements."
+    ],
+    "commonMisinterpretations": [
+      "Money, community or pleasure is inherently a false purpose."
+    ],
+    "relatedLawIds": [
+      "LAW-13"
+    ],
+    "relatedConceptIds": [
+      "CON-0037",
+      "CON-0038"
+    ],
+    "claimIds": [
+      "CLM-0028"
+    ],
+    "sourceReferenceIds": [
+      "REF-0073",
+      "REF-0081"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": [
+      "individual",
+      "group"
+    ]
+  },
+  {
+    "id": "CON-0040",
+    "name": "Normative group pressure",
+    "definition": "Pressure to publicly act according to perceived social expectations, whether or not private belief changes.",
+    "mechanism": "Potential rejection or sanctions may influence what members say.",
+    "observableIndicators": [
+      "Agreeing publicly after a powerful peer endorses a proposal."
+    ],
+    "alternativeExplanations": [
+      "Independent agreement, incomplete information or direct coercion."
+    ],
+    "commonMisinterpretations": [
+      "Public compliance proves sincere belief."
+    ],
+    "relatedLawIds": [
+      "LAW-14"
+    ],
+    "relatedConceptIds": [
+      "CON-0041",
+      "CON-0042"
+    ],
+    "claimIds": [
+      "CLM-0029"
+    ],
+    "sourceReferenceIds": [
+      "REF-0083",
+      "REF-0087"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": [
+      "interpersonal",
+      "group",
+      "historical_institutional"
+    ]
+  },
+  {
+    "id": "CON-0041",
+    "name": "Group social personality",
+    "definition": "A context-dependent pattern of speech, feeling or conduct shaped by participation in a group.",
+    "mechanism": "Shared cues, norms and identity can coordinate behavior.",
+    "observableIndicators": [
+      "Adopting a team’s ritual or vocabulary."
+    ],
+    "alternativeExplanations": [
+      "Learning useful norms or acting for strategic safety."
+    ],
+    "commonMisinterpretations": [
+      "Every group member experiences the same motive."
+    ],
+    "relatedLawIds": [
+      "LAW-14"
+    ],
+    "relatedConceptIds": [
+      "CON-0040",
+      "CON-0042"
+    ],
+    "claimIds": [
+      "CLM-0029"
+    ],
+    "sourceReferenceIds": [
+      "REF-0083",
+      "REF-0090"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": [
+      "individual",
+      "group"
+    ]
+  },
+  {
+    "id": "CON-0042",
+    "name": "Reality-oriented team",
+    "definition": "A normative group design ideal emphasizing accurate information, dissent and cooperative task focus.",
+    "mechanism": "Clear correction channels and mutual accountability may improve the quality of decisions.",
+    "observableIndicators": [
+      "Inviting contrary evidence before a joint commitment."
+    ],
+    "alternativeExplanations": [
+      "Formal governance, resource availability, or pre-existing trust."
+    ],
+    "commonMisinterpretations": [
+      "A cooperative team must always reach unanimity."
+    ],
+    "relatedLawIds": [
+      "LAW-14"
+    ],
+    "relatedConceptIds": [
+      "CON-0040",
+      "CON-0041"
+    ],
+    "claimIds": [
+      "CLM-0030"
+    ],
+    "sourceReferenceIds": [
+      "REF-0083",
+      "REF-0091"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": [
+      "interpersonal",
+      "group"
+    ]
+  },
+  {
+    "id": "CON-0043",
+    "name": "Perceived legitimacy",
+    "definition": "The extent to which people regard an exercise of authority as justified rather than simply compulsory.",
+    "mechanism": "Credibility can develop through fairness, capability and predictable rule application.",
+    "observableIndicators": [
+      "Leaders explain shared criteria for difficult decisions."
+    ],
+    "alternativeExplanations": [
+      "Formal office, sanctions or pragmatic need may also produce compliance."
+    ],
+    "commonMisinterpretations": [
+      "Popularity proves moral rightness."
+    ],
+    "relatedLawIds": [
+      "LAW-15"
+    ],
+    "relatedConceptIds": [
+      "CON-0044",
+      "CON-0045"
+    ],
+    "claimIds": [
+      "CLM-0031"
+    ],
+    "sourceReferenceIds": [
+      "REF-0093",
+      "REF-0097"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": [
+      "interpersonal",
+      "group",
+      "historical_institutional"
+    ]
+  },
+  {
+    "id": "CON-0044",
+    "name": "Leadership ambivalence",
+    "definition": "The coexistence of preferences for reliable direction and personal autonomy within follower–leader relationships.",
+    "mechanism": "Expectations can change following successes, setbacks or perceived disrespect.",
+    "observableIndicators": [
+      "A team requests guidance yet challenges an imposed rule."
+    ],
+    "alternativeExplanations": [
+      "Changed information, competing interests or legitimately bad leadership."
+    ],
+    "commonMisinterpretations": [
+      "Criticism is evidence of inherently fickle character."
+    ],
+    "relatedLawIds": [
+      "LAW-15"
+    ],
+    "relatedConceptIds": [
+      "CON-0043",
+      "CON-0045"
+    ],
+    "claimIds": [
+      "CLM-0031"
+    ],
+    "sourceReferenceIds": [
+      "REF-0093",
+      "REF-0100"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": [
+      "interpersonal",
+      "group"
+    ]
+  },
+  {
+    "id": "CON-0045",
+    "name": "Accountable authority",
+    "definition": "Coordination through articulated goals, competent action, feedback and answerability rather than fear alone.",
+    "mechanism": "Transparent decisions and correction processes can support reasoned trust.",
+    "observableIndicators": [
+      "A project director revises plans after candid review."
+    ],
+    "alternativeExplanations": [
+      "Institutional governance and group resources also shape outcomes."
+    ],
+    "commonMisinterpretations": [
+      "Leaders must guarantee every outcome or demand obedience."
+    ],
+    "relatedLawIds": [
+      "LAW-15"
+    ],
+    "relatedConceptIds": [
+      "CON-0043",
+      "CON-0044"
+    ],
+    "claimIds": [
+      "CLM-0032"
+    ],
+    "sourceReferenceIds": [
+      "REF-0093",
+      "REF-0101"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": [
+      "individual",
+      "interpersonal",
+      "group"
+    ]
+  },
+  {
+    "id": "CON-0046",
+    "name": "Ethical assertiveness",
+    "definition": "Directly communicating needs or defending legitimate interests while respecting others’ agency and safety.",
+    "mechanism": "Clear boundaries and consistent noncoercive action allow disagreement without threats.",
+    "observableIndicators": [
+      "A person states a decision and supplies verifiable reasons."
+    ],
+    "alternativeExplanations": [
+      "Fear or urgency may prompt strong but appropriate defensive conduct."
+    ],
+    "commonMisinterpretations": [
+      "A firm refusal by itself proves hostility."
+    ],
+    "relatedLawIds": [
+      "LAW-16"
+    ],
+    "relatedConceptIds": [
+      "CON-0021",
+      "CON-0045"
+    ],
+    "claimIds": [
+      "CLM-0033"
+    ],
+    "sourceReferenceIds": [
+      "REF-0103",
+      "REF-0111"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": [
+      "individual",
+      "interpersonal"
+    ]
+  },
+  {
+    "id": "CON-0047",
+    "name": "Instrumental intimidation",
+    "definition": "Use of pressure, fear, or asymmetric power to restrict another party’s practical choices.",
+    "mechanism": "Coercive pressure may make refusal or careful comparison harder; the means and context matter.",
+    "observableIndicators": [
+      "Abruptly imposed deadlines and threats with consequences are documented."
+    ],
+    "alternativeExplanations": [
+      "There may be genuinely binding deadlines, contractual obligations or external pressures."
+    ],
+    "commonMisinterpretations": [
+      "Every urgent negotiation is intentionally manipulative."
+    ],
+    "relatedLawIds": [
+      "LAW-16"
+    ],
+    "relatedConceptIds": [
+      "CON-0021",
+      "CON-0043"
+    ],
+    "claimIds": [
+      "CLM-0034"
+    ],
+    "sourceReferenceIds": [
+      "REF-0105",
+      "REF-0106"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": [
+      "interpersonal",
+      "group",
+      "historical_institutional"
+    ]
+  },
+  {
+    "id": "CON-0048",
+    "name": "Indirect conflict expression",
+    "definition": "Conduct that may express disagreement or resentment without direct acknowledgement, requiring careful contextual interpretation.",
+    "mechanism": "Ambiguous delays, avoidance or obstruction may be strategies but have multiple competing explanations.",
+    "observableIndicators": [
+      "Recurring mismatch between stated agreements and observable actions."
+    ],
+    "alternativeExplanations": [
+      "Overwork, disability, ambiguity, lack of resources or poor coordination."
+    ],
+    "commonMisinterpretations": [
+      "An isolated late message is proof of passive aggression."
+    ],
+    "relatedLawIds": [
+      "LAW-16"
+    ],
+    "relatedConceptIds": [
+      "CON-0011",
+      "CON-0008"
+    ],
+    "claimIds": [
+      "CLM-0034"
+    ],
+    "sourceReferenceIds": [
+      "REF-0109",
+      "REF-0110"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": [
+      "individual",
+      "interpersonal"
+    ]
+  },
+  {
+    "id": "CON-0049",
+    "name": "Age-period-cohort distinction",
+    "definition": "Analytic separation between effects of life stage, historical events shared across ages and circumstances associated with birth cohort.",
+    "mechanism": "Comparable observations across cohorts, periods and ages are needed to distinguish explanations.",
+    "observableIndicators": [
+      "A study explicitly differentiates age, period and cohort rather than assuming one."
+    ],
+    "alternativeExplanations": [
+      "Local institutions and individual circumstances can be more predictive."
+    ],
+    "commonMisinterpretations": [
+      "A birth-year label explains a person’s beliefs."
+    ],
+    "relatedLawIds": [
+      "LAW-17"
+    ],
+    "relatedConceptIds": [
+      "CON-0041",
+      "CON-0024"
+    ],
+    "claimIds": [
+      "CLM-0035"
+    ],
+    "sourceReferenceIds": [
+      "REF-0117",
+      "REF-0118"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": [
+      "group",
+      "historical_institutional"
+    ]
+  },
+  {
+    "id": "CON-0050",
+    "name": "Historical-period sensitivity",
+    "definition": "Attention to changing institutions, technologies, conflicts and cultural practices rather than fixed demographic stereotypes.",
+    "mechanism": "A changing situation can alter available goals and coordination possibilities.",
+    "observableIndicators": [
+      "An organization revises policy after documented changes in access or law."
+    ],
+    "alternativeExplanations": [
+      "Change may be driven by institutions or resources, not a psychological generation."
+    ],
+    "commonMisinterpretations": [
+      "Being modern guarantees prescience."
+    ],
+    "relatedLawIds": [
+      "LAW-17"
+    ],
+    "relatedConceptIds": [
+      "CON-0040",
+      "CON-0037"
+    ],
+    "claimIds": [
+      "CLM-0036"
+    ],
+    "sourceReferenceIds": [
+      "REF-0119",
+      "REF-0120"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": [
+      "group",
+      "historical_institutional"
+    ]
+  },
+  {
+    "id": "CON-0051",
+    "name": "Cohort narrative selection",
+    "definition": "Retrospective storytelling that selects a few memorable actors or styles as representative of a diverse generation.",
+    "mechanism": "Survivorship and hindsight can exaggerate a supposedly universal style.",
+    "observableIndicators": [
+      "A history spotlights famous winners while omitting dissenters."
+    ],
+    "alternativeExplanations": [
+      "Some cohorts do have shared measurable exposures, but variance remains important."
+    ],
+    "commonMisinterpretations": [
+      "A famous exemplar speaks for everyone born near the same time."
+    ],
+    "relatedLawIds": [
+      "LAW-17"
+    ],
+    "relatedConceptIds": [
+      "CON-0041",
+      "CON-0010"
+    ],
+    "claimIds": [
+      "CLM-0036"
+    ],
+    "sourceReferenceIds": [
+      "REF-0114",
+      "REF-0115"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": [
+      "individual",
+      "group",
+      "historical_institutional"
+    ]
+  },
+  {
+    "id": "CON-0052",
+    "name": "Mortality awareness",
+    "definition": "Reflective recognition of the finite and uncertain duration of individual life, distinct from any one emotional response.",
+    "mechanism": "Time-horizon reflection can sometimes alter priorities but emotional outcomes vary.",
+    "observableIndicators": [
+      "A person voluntarily reorders commitments after reflecting on finitude."
+    ],
+    "alternativeExplanations": [
+      "Changing priorities may instead follow medical, economic or relational events."
+    ],
+    "commonMisinterpretations": [
+      "Fear or reluctance to discuss death demonstrates weak character."
+    ],
+    "relatedLawIds": [
+      "LAW-18"
+    ],
+    "relatedConceptIds": [
+      "CON-0016",
+      "CON-0023"
+    ],
+    "claimIds": [
+      "CLM-0037"
+    ],
+    "sourceReferenceIds": [
+      "REF-0123",
+      "REF-0128"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": [
+      "individual",
+      "interpersonal"
+    ]
+  },
+  {
+    "id": "CON-0053",
+    "name": "Existential meaning-making",
+    "definition": "Constructing or revising personal meaning in response to limits, adversity and uncertainty.",
+    "mechanism": "Beliefs, relationships and practical commitments may help organize an experience.",
+    "observableIndicators": [
+      "An individual describes varied sources of value after adversity."
+    ],
+    "alternativeExplanations": [
+      "Meaning and acceptance can coexist with distress and grief."
+    ],
+    "commonMisinterpretations": [
+      "People have a duty to interpret suffering as beneficial."
+    ],
+    "relatedLawIds": [
+      "LAW-18"
+    ],
+    "relatedConceptIds": [
+      "CON-0037",
+      "CON-0024"
+    ],
+    "claimIds": [
+      "CLM-0038"
+    ],
+    "sourceReferenceIds": [
+      "REF-0129",
+      "REF-0130"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": [
+      "individual",
+      "interpersonal"
+    ]
+  },
+  {
+    "id": "CON-0054",
+    "name": "Shared finitude and compassion",
+    "definition": "Ethical recognition that vulnerability and mortality are common human conditions, without assuming uniform experiences.",
+    "mechanism": "Awareness of vulnerability can motivate respect, mutual care and perspective taking.",
+    "observableIndicators": [
+      "A community supports people with different needs during illness or loss."
+    ],
+    "alternativeExplanations": [
+      "Fear and insecurity may also prompt withdrawal; the direction is not guaranteed."
+    ],
+    "commonMisinterpretations": [
+      "Mortality inevitably makes every person kinder."
+    ],
+    "relatedLawIds": [
+      "LAW-18"
+    ],
+    "relatedConceptIds": [
+      "CON-0003",
+      "CON-0042"
+    ],
+    "claimIds": [
+      "CLM-0038"
+    ],
+    "sourceReferenceIds": [
+      "REF-0130",
+      "REF-0131"
+    ],
+    "editorialStatus": "partially_reviewed",
+    "levelsOfExplanation": [
+      "interpersonal",
+      "group",
+      "historical_institutional"
+    ]
+  }
+]

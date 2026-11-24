@@ -1,0 +1,42 @@
+name: 2 - Verify and build both hosting packages
+on:
+  workflow_dispatch:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  verify-build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      HNI_GITHUB_BASE: /${{ github.event.repository.name }}/
+    steps:
+      - uses: actions/checkout@v7
+      - name: Require a committed lockfile
+        run: git ls-files --error-unmatch package-lock.json
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+          cache-dependency-path: package-lock.json
+      - run: npm ci --no-audit --no-fund
+      - run: npm run verify
+      - run: npm run build:github && npm run build:netlify
+      - run: npx playwright install --with-deps chromium
+      - run: npm run test:browser
+      - uses: actions/upload-artifact@v7
+        with:
+          name: HNI_GITHUB_PAGES_DEPLOY
+          path: dist/github/
+          if-no-files-found: error
+      - uses: actions/upload-artifact@v7
+        with:
+          name: HNI_NETLIFY_DEPLOY
+          path: dist/netlify/
+          if-no-files-found: error
+      - uses: actions/upload-artifact@v7
+        if: always()
+        with:
+          name: HNI-browser-evidence
+          path: browser-evidence/
+          if-no-files-found: ignore

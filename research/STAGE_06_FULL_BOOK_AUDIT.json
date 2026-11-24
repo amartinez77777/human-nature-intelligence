@@ -1,0 +1,930 @@
+{
+  "schemaVersion": 1,
+  "sourceSha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e",
+  "laws": [
+    {
+      "lawId": "LAW-01",
+      "chapterNumber": 1,
+      "chapterTitle": "Master Your Emotional Self",
+      "lawSubtitle": "The Law of Irrationality",
+      "pdfStartIndex": 21,
+      "pdfEndIndex": 51,
+      "verifiedHeadings": 4,
+      "identifiedSections": 4,
+      "substantivelyReviewedSections": [
+        "The Inner Athena",
+        "Step One: Recognize the Biases"
+      ],
+      "sectionsRemaining": [
+        "Step Two: Beware the Inflaming Factors",
+        "Step Three: Strategies Toward Bringing Out the Rational Self"
+      ],
+      "editorialStatus": "partially_reviewed",
+      "coreMechanisms": [
+        "Selective confirmation of a preferred conclusion; positive feedback can conceal contrary data",
+        "Escalating arousal under pressure, losses, personal provocation, or group mood",
+        "Self-protective rationalization after poor decisions",
+        "Deliberation, delay, and widened options as proposed countermeasures"
+      ],
+      "historicalCaseIds": [
+        "CAS-0001"
+      ],
+      "conceptIds": [
+        "CON-0001",
+        "CON-0002",
+        "CON-0004"
+      ],
+      "claimIds": [
+        "CLM-0001",
+        "CLM-0003",
+        "CLM-0009"
+      ],
+      "primarySourceReferenceIds": [
+        "REF-0001",
+        "REF-0007",
+        "REF-0008",
+        "REF-0009"
+      ],
+      "unassessedQuestions": [
+        "Empirical generalizability of Greene’s The Law of Irrationality mechanism; distinguish historical case from independent data."
+      ],
+      "uiRoute": "/laws/LAW-01",
+      "routeImplemented": true,
+      "scienceStatus": "not_assessed"
+    },
+    {
+      "lawId": "LAW-02",
+      "chapterNumber": 2,
+      "chapterTitle": "Transform Self-love into Empathy",
+      "lawSubtitle": "The Law of Narcissism",
+      "pdfStartIndex": 52,
+      "pdfEndIndex": 84,
+      "verifiedHeadings": 2,
+      "identifiedSections": 2,
+      "substantivelyReviewedSections": [
+        "The Narcissistic Spectrum"
+      ],
+      "sectionsRemaining": [
+        "Four Examples of Narcissistic Types"
+      ],
+      "editorialStatus": "partially_reviewed",
+      "coreMechanisms": [
+        "Attention anchored to personal validation can crowd out listening",
+        "Self-image regulation may affect reactions to criticism",
+        "Outward attention, perspective taking, and feedback are proposed empathy practices"
+      ],
+      "historicalCaseIds": [
+        "CAS-0002"
+      ],
+      "conceptIds": [
+        "CON-0003",
+        "CON-0005",
+        "CON-0006"
+      ],
+      "claimIds": [
+        "CLM-0002",
+        "CLM-0004",
+        "CLM-0010"
+      ],
+      "primarySourceReferenceIds": [
+        "REF-0005",
+        "REF-0010",
+        "REF-0011",
+        "REF-0012",
+        "REF-0013"
+      ],
+      "unassessedQuestions": [
+        "Empirical generalizability of Greene’s The Law of Narcissism mechanism; distinguish historical case from independent data."
+      ],
+      "uiRoute": "/laws/LAW-02",
+      "routeImplemented": true,
+      "scienceStatus": "not_assessed"
+    },
+    {
+      "lawId": "LAW-03",
+      "chapterNumber": 3,
+      "chapterTitle": "See Through People’s Masks",
+      "lawSubtitle": "The Law of Role-playing",
+      "pdfStartIndex": 85,
+      "pdfEndIndex": 116,
+      "verifiedHeadings": 4,
+      "identifiedSections": 4,
+      "substantivelyReviewedSections": [
+        "The Second Language",
+        "Observational Skills"
+      ],
+      "sectionsRemaining": [
+        "Decoding Keys",
+        "The Art of Impression Management"
+      ],
+      "editorialStatus": "partially_reviewed",
+      "coreMechanisms": [
+        "Role-dependent self-presentation regulates public impressions",
+        "Attention to speech-context mismatch can generate tentative hypotheses",
+        "Appearance and first-impression bias can distort interpretation"
+      ],
+      "historicalCaseIds": [
+        "CAS-0003"
+      ],
+      "conceptIds": [
+        "CON-0007",
+        "CON-0008",
+        "CON-0009"
+      ],
+      "claimIds": [
+        "CLM-0005",
+        "CLM-0006"
+      ],
+      "primarySourceReferenceIds": [
+        "REF-0014",
+        "REF-0015",
+        "REF-0016",
+        "REF-0017"
+      ],
+      "unassessedQuestions": [
+        "Empirical generalizability of Greene’s The Law of Role-playing mechanism; distinguish historical case from independent data."
+      ],
+      "uiRoute": "/laws/LAW-03",
+      "routeImplemented": true,
+      "scienceStatus": "not_assessed"
+    },
+    {
+      "lawId": "LAW-04",
+      "chapterNumber": 4,
+      "chapterTitle": "Determine the Strength of People’s Character",
+      "lawSubtitle": "The Law of Compulsive Behavior",
+      "pdfStartIndex": 117,
+      "pdfEndIndex": 147,
+      "verifiedHeadings": 4,
+      "identifiedSections": 4,
+      "substantivelyReviewedSections": [
+        "The Pattern",
+        "Character Signs"
+      ],
+      "sectionsRemaining": [
+        "Toxic Types",
+        "The Superior Character"
+      ],
+      "editorialStatus": "partially_reviewed",
+      "coreMechanisms": [
+        "Repeated responses to responsibility and pressure may reveal stable habits",
+        "Past habits and learned coping styles may recur in unfamiliar settings",
+        "Selective attention to reputation can obscure concrete work outcomes"
+      ],
+      "historicalCaseIds": [
+        "CAS-0004"
+      ],
+      "conceptIds": [
+        "CON-0010",
+        "CON-0011",
+        "CON-0012"
+      ],
+      "claimIds": [
+        "CLM-0007",
+        "CLM-0008"
+      ],
+      "primarySourceReferenceIds": [
+        "REF-0018",
+        "REF-0019",
+        "REF-0020",
+        "REF-0021",
+        "REF-0022"
+      ],
+      "unassessedQuestions": [
+        "Empirical generalizability of Greene’s The Law of Compulsive Behavior mechanism; distinguish historical case from independent data."
+      ],
+      "uiRoute": "/laws/LAW-04",
+      "routeImplemented": true,
+      "scienceStatus": "not_assessed"
+    },
+    {
+      "lawId": "LAW-05",
+      "chapterNumber": 5,
+      "chapterTitle": "Become an Elusive Object of Desire",
+      "lawSubtitle": "The Law of Covetousness",
+      "pdfStartIndex": 148,
+      "pdfEndIndex": 167,
+      "verifiedHeadings": 3,
+      "identifiedSections": 3,
+      "substantivelyReviewedSections": [
+        "The Object of Desire",
+        "Strategies for Stimulating Desire"
+      ],
+      "sectionsRemaining": [
+        "The Supreme Desire"
+      ],
+      "editorialStatus": "partially_reviewed",
+      "coreMechanisms": [
+        "Perceived absence gives imagination room to amplify an object’s anticipated rewards.",
+        "Social comparison can lend perceived value to an object desired by admired or competing others.",
+        "Novelty, ambiguity and presentation can change a person’s interpretation without changing practical utility.",
+        "Repeated acquisition may restore the feeling that another, distant alternative is preferable."
+      ],
+      "historicalCaseIds": [
+        "CAS-0005"
+      ],
+      "conceptIds": [
+        "CON-0013",
+        "CON-0014",
+        "CON-0015"
+      ],
+      "claimIds": [
+        "CLM-0011",
+        "CLM-0012"
+      ],
+      "primarySourceReferenceIds": [
+        "REF-0023",
+        "REF-0024",
+        "REF-0025",
+        "REF-0026",
+        "REF-0027",
+        "REF-0028"
+      ],
+      "unassessedQuestions": [
+        "Empirical generalizability of Greene’s The Law of Covetousness mechanism; distinguish historical case from independent data."
+      ],
+      "uiRoute": "/laws/LAW-05",
+      "routeImplemented": true,
+      "scienceStatus": "not_assessed"
+    },
+    {
+      "lawId": "LAW-06",
+      "chapterNumber": 6,
+      "chapterTitle": "Elevate Your Perspective",
+      "lawSubtitle": "The Law of Shortsightedness",
+      "pdfStartIndex": 168,
+      "pdfEndIndex": 190,
+      "verifiedHeadings": 3,
+      "identifiedSections": 3,
+      "substantivelyReviewedSections": [
+        "Moments of Madness",
+        "Four Signs of Shortsightedness and Strategies to Overcome Them"
+      ],
+      "sectionsRemaining": [
+        "The Farsighted Human"
+      ],
+      "editorialStatus": "partially_reviewed",
+      "coreMechanisms": [
+        "Salient recent outcomes capture attention and displace delayed costs.",
+        "Social contagion can turn apparent momentum into a substitute for independent assessment.",
+        "Short feedback loops reward premature certainty even as longer-term exposure accumulates.",
+        "Scenario planning exposes assumptions that a single optimistic story hides."
+      ],
+      "historicalCaseIds": [
+        "CAS-0006"
+      ],
+      "conceptIds": [
+        "CON-0016",
+        "CON-0017",
+        "CON-0018"
+      ],
+      "claimIds": [
+        "CLM-0013",
+        "CLM-0014"
+      ],
+      "primarySourceReferenceIds": [
+        "REF-0029",
+        "REF-0030",
+        "REF-0031",
+        "REF-0032",
+        "REF-0033",
+        "REF-0034"
+      ],
+      "unassessedQuestions": [
+        "Empirical generalizability of Greene’s The Law of Shortsightedness mechanism; distinguish historical case from independent data."
+      ],
+      "uiRoute": "/laws/LAW-06",
+      "routeImplemented": true,
+      "scienceStatus": "not_assessed"
+    },
+    {
+      "lawId": "LAW-07",
+      "chapterNumber": 7,
+      "chapterTitle": "Soften People’s Resistance by Confirming Their Self-opinion",
+      "lawSubtitle": "The Law of Defensiveness",
+      "pdfStartIndex": 191,
+      "pdfEndIndex": 223,
+      "verifiedHeadings": 3,
+      "identifiedSections": 3,
+      "substantivelyReviewedSections": [
+        "The Influence Game"
+      ],
+      "sectionsRemaining": [
+        "Five Strategies for Becoming a Master Persuader",
+        "The Flexible Mind—Self-strategies"
+      ],
+      "editorialStatus": "partially_reviewed",
+      "coreMechanisms": [
+        "Identity threat can redirect attention from the proposition to defense of competence or status.",
+        "Perceived autonomy affects willingness to examine recommendations.",
+        "Warmth and accurate perspective-taking can lower interpersonal threat without deciding the merits.",
+        "Power and institutional incentives may sustain resistance even when communication is respectful."
+      ],
+      "historicalCaseIds": [
+        "CAS-0007"
+      ],
+      "conceptIds": [
+        "CON-0019",
+        "CON-0020",
+        "CON-0021"
+      ],
+      "claimIds": [
+        "CLM-0015",
+        "CLM-0016"
+      ],
+      "primarySourceReferenceIds": [
+        "REF-0035",
+        "REF-0036",
+        "REF-0037",
+        "REF-0038",
+        "REF-0039",
+        "REF-0040"
+      ],
+      "unassessedQuestions": [
+        "Empirical generalizability of Greene’s The Law of Defensiveness mechanism; distinguish historical case from independent data."
+      ],
+      "uiRoute": "/laws/LAW-07",
+      "routeImplemented": true,
+      "scienceStatus": "not_assessed"
+    },
+    {
+      "lawId": "LAW-08",
+      "chapterNumber": 8,
+      "chapterTitle": "Change Your Circumstances by Changing Your Attitude",
+      "lawSubtitle": "The Law of Self-sabotage",
+      "pdfStartIndex": 224,
+      "pdfEndIndex": 254,
+      "verifiedHeadings": 3,
+      "identifiedSections": 3,
+      "substantivelyReviewedSections": [
+        "The Ultimate Freedom"
+      ],
+      "sectionsRemaining": [
+        "The Constricted (Negative) Attitude",
+        "The Expansive (Positive) Attitude"
+      ],
+      "editorialStatus": "partially_reviewed",
+      "coreMechanisms": [
+        "Interpretive expectations can influence which cues receive attention and which actions follow.",
+        "Reciprocal interpersonal behavior may reinforce an initial expectation.",
+        "Flexibility and curiosity can expose additional choices without guaranteeing outcomes.",
+        "Threat, resource limits and structural constraints can override intentions."
+      ],
+      "historicalCaseIds": [
+        "CAS-0008"
+      ],
+      "conceptIds": [
+        "CON-0022",
+        "CON-0023",
+        "CON-0024"
+      ],
+      "claimIds": [
+        "CLM-0017",
+        "CLM-0018"
+      ],
+      "primarySourceReferenceIds": [
+        "REF-0041",
+        "REF-0042",
+        "REF-0043",
+        "REF-0044",
+        "REF-0045",
+        "REF-0046"
+      ],
+      "unassessedQuestions": [
+        "Empirical generalizability of Greene’s The Law of Self-sabotage mechanism; distinguish historical case from independent data."
+      ],
+      "uiRoute": "/laws/LAW-08",
+      "routeImplemented": true,
+      "scienceStatus": "not_assessed"
+    },
+    {
+      "lawId": "LAW-09",
+      "chapterNumber": 9,
+      "chapterTitle": "Confront Your Dark Side",
+      "lawSubtitle": "The Law of Repression",
+      "pdfStartIndex": 255,
+      "pdfEndIndex": 287,
+      "verifiedHeadings": 3,
+      "identifiedSections": 3,
+      "substantivelyReviewedSections": [
+        "The Dark Side"
+      ],
+      "sectionsRemaining": [
+        "Deciphering the Shadow: Contradictory Behavior",
+        "The Integrated Human"
+      ],
+      "editorialStatus": "partially_reviewed",
+      "coreMechanisms": [
+        "Greene/Jung: unacceptable traits may be excluded from a preferred self-image; this is an attributed psychodynamic proposal, not an empirical fact established here.",
+        "Discrepancies between social presentation and conduct can prompt investigation; context and competing explanations remain necessary.",
+        "Avoidant self-description may make candid feedback harder to incorporate; causality has not been independently tested in this research pack."
+      ],
+      "historicalCaseIds": [
+        "CAS-0009"
+      ],
+      "conceptIds": [
+        "CON-0025",
+        "CON-0026",
+        "CON-0027"
+      ],
+      "claimIds": [
+        "CLM-0019",
+        "CLM-0020"
+      ],
+      "primarySourceReferenceIds": [
+        "REF-0047",
+        "REF-0048",
+        "REF-0049",
+        "REF-0050",
+        "REF-0051",
+        "REF-0052"
+      ],
+      "unassessedQuestions": [
+        "Empirical generalizability of Greene’s The Law of Repression mechanism; distinguish historical case from independent data."
+      ],
+      "uiRoute": "/laws/LAW-09",
+      "routeImplemented": true,
+      "scienceStatus": "not_assessed"
+    },
+    {
+      "lawId": "LAW-10",
+      "chapterNumber": 10,
+      "chapterTitle": "Beware the Fragile Ego",
+      "lawSubtitle": "The Law of Envy",
+      "pdfStartIndex": 288,
+      "pdfEndIndex": 320,
+      "verifiedHeadings": 5,
+      "identifiedSections": 5,
+      "substantivelyReviewedSections": [
+        "Fatal Friends"
+      ],
+      "sectionsRemaining": [
+        "Signs of Envy",
+        "Envier Types",
+        "Envy Triggers",
+        "Beyond Envy"
+      ],
+      "editorialStatus": "partially_reviewed",
+      "coreMechanisms": [
+        "Comparison with valued peers can make a perceived status difference salient; the resulting emotion may be envy, admiration, concern or another response.",
+        "Greene hypothesizes that socially disapproved envy may be concealed under different justifications, but no behavioral sign uniquely proves that motive.",
+        "Reorienting attention to personal goals and appreciation is Greene’s suggested response, without independent efficacy evidence in this stage."
+      ],
+      "historicalCaseIds": [
+        "CAS-0010"
+      ],
+      "conceptIds": [
+        "CON-0028",
+        "CON-0029",
+        "CON-0030"
+      ],
+      "claimIds": [
+        "CLM-0021",
+        "CLM-0022"
+      ],
+      "primarySourceReferenceIds": [
+        "REF-0053",
+        "REF-0054",
+        "REF-0055",
+        "REF-0056",
+        "REF-0057",
+        "REF-0058",
+        "REF-0059"
+      ],
+      "unassessedQuestions": [
+        "Empirical generalizability of Greene’s The Law of Envy mechanism; distinguish historical case from independent data."
+      ],
+      "uiRoute": "/laws/LAW-10",
+      "routeImplemented": true,
+      "scienceStatus": "not_assessed"
+    },
+    {
+      "lawId": "LAW-11",
+      "chapterNumber": 11,
+      "chapterTitle": "Know Your Limits",
+      "lawSubtitle": "The Law of Grandiosity",
+      "pdfStartIndex": 321,
+      "pdfEndIndex": 351,
+      "verifiedHeadings": 3,
+      "identifiedSections": 3,
+      "substantivelyReviewedSections": [
+        "The Success Delusion"
+      ],
+      "sectionsRemaining": [
+        "The Grandiose Leader",
+        "Practical Grandiosity"
+      ],
+      "editorialStatus": "partially_reviewed",
+      "coreMechanisms": [
+        "Author hypothesis: success and attention can reinforce unrealistically broad assumptions of competence.",
+        "Failure to seek disconfirming feedback can permit erroneous forecasts to survive, but the precise effects have not been evaluated here.",
+        "Practical ambition pairs bold goals with calibration, accountable work and a capacity to revise plans."
+      ],
+      "historicalCaseIds": [
+        "CAS-0011"
+      ],
+      "conceptIds": [
+        "CON-0031",
+        "CON-0032",
+        "CON-0033"
+      ],
+      "claimIds": [
+        "CLM-0023",
+        "CLM-0024"
+      ],
+      "primarySourceReferenceIds": [
+        "REF-0060",
+        "REF-0061",
+        "REF-0062",
+        "REF-0063",
+        "REF-0064",
+        "REF-0065"
+      ],
+      "unassessedQuestions": [
+        "Empirical generalizability of Greene’s The Law of Grandiosity mechanism; distinguish historical case from independent data."
+      ],
+      "uiRoute": "/laws/LAW-11",
+      "routeImplemented": true,
+      "scienceStatus": "not_assessed"
+    },
+    {
+      "lawId": "LAW-12",
+      "chapterNumber": 12,
+      "chapterTitle": "Reconnect to the Masculine or Feminine Within You",
+      "lawSubtitle": "The Law of Gender Rigidity",
+      "pdfStartIndex": 352,
+      "pdfEndIndex": 390,
+      "verifiedHeadings": 3,
+      "identifiedSections": 3,
+      "substantivelyReviewedSections": [
+        "The Authentic Gender"
+      ],
+      "sectionsRemaining": [
+        "Gender Projection—Types",
+        "The Original Man/Woman"
+      ],
+      "editorialStatus": "partially_reviewed",
+      "coreMechanisms": [
+        "Greene uses the Jungian anima/animus framework to suggest people suppress qualities coded as opposite-gender; this is not empirically established by the book alone.",
+        "Gender-role enforcement can narrow the behaviors people feel safe expressing in particular social settings.",
+        "Idealized partner expectations can obscure individuality; specific childhood and unconscious causes remain unverified."
+      ],
+      "historicalCaseIds": [
+        "CAS-0012"
+      ],
+      "conceptIds": [
+        "CON-0034",
+        "CON-0035",
+        "CON-0036"
+      ],
+      "claimIds": [
+        "CLM-0025",
+        "CLM-0026"
+      ],
+      "primarySourceReferenceIds": [
+        "REF-0066",
+        "REF-0067",
+        "REF-0068",
+        "REF-0069",
+        "REF-0070",
+        "REF-0071",
+        "REF-0072"
+      ],
+      "unassessedQuestions": [
+        "Empirical generalizability of Greene’s The Law of Gender Rigidity mechanism; distinguish historical case from independent data."
+      ],
+      "uiRoute": "/laws/LAW-12",
+      "routeImplemented": true,
+      "scienceStatus": "not_assessed"
+    },
+    {
+      "lawId": "LAW-13",
+      "chapterNumber": 13,
+      "chapterTitle": "Advance with a Sense of Purpose",
+      "lawSubtitle": "The Law of Aimlessness",
+      "pdfStartIndex": 391,
+      "pdfEndIndex": 428,
+      "verifiedHeadings": 3,
+      "identifiedSections": 3,
+      "substantivelyReviewedSections": [
+        "The Voice"
+      ],
+      "sectionsRemaining": [
+        "Strategies for Developing a High Sense of Purpose",
+        "The Lure of False Purposes"
+      ],
+      "editorialStatus": "partially_reviewed",
+      "coreMechanisms": [
+        "Value-based prioritization: a deliberated purpose may guide trade-offs across competing opportunities.",
+        "Long-horizon commitment: setbacks can be understood within sustained work rather than as immediate verdicts.",
+        "Socially scaffolded agency: mentors and colleagues can provide criticism, practical support and shared standards.",
+        "False-purpose attraction: status rewards or group identification may be confused with reflective commitment."
+      ],
+      "historicalCaseIds": [
+        "CAS-0013"
+      ],
+      "conceptIds": [
+        "CON-0037",
+        "CON-0038",
+        "CON-0039"
+      ],
+      "claimIds": [
+        "CLM-0027",
+        "CLM-0028"
+      ],
+      "primarySourceReferenceIds": [
+        "REF-0073",
+        "REF-0074",
+        "REF-0075",
+        "REF-0076",
+        "REF-0077",
+        "REF-0078",
+        "REF-0079",
+        "REF-0080",
+        "REF-0081",
+        "REF-0082"
+      ],
+      "unassessedQuestions": [
+        "Empirical generalizability of Greene’s The Law of Aimlessness mechanism; distinguish historical case from independent data."
+      ],
+      "uiRoute": "/laws/LAW-13",
+      "routeImplemented": true,
+      "scienceStatus": "not_assessed"
+    },
+    {
+      "lawId": "LAW-14",
+      "chapterNumber": 14,
+      "chapterTitle": "Resist the Downward Pull of the Group",
+      "lawSubtitle": "The Law of Conformity",
+      "pdfStartIndex": 429,
+      "pdfEndIndex": 479,
+      "verifiedHeadings": 3,
+      "identifiedSections": 3,
+      "substantivelyReviewedSections": [
+        "An Experiment in Human Nature"
+      ],
+      "sectionsRemaining": [
+        "The Court and Its Courtiers",
+        "The Reality Group"
+      ],
+      "editorialStatus": "partially_reviewed",
+      "coreMechanisms": [
+        "Normative pressure: social acceptance and sanctions may influence public expressions.",
+        "Informational influence: members may reasonably defer to others they believe have relevant information.",
+        "Authority and status: control over rewards, punishment and reputation changes the cost of dissent.",
+        "Collective feedback: organizational rules can either suppress criticism or reward correction."
+      ],
+      "historicalCaseIds": [
+        "CAS-0014"
+      ],
+      "conceptIds": [
+        "CON-0040",
+        "CON-0041",
+        "CON-0042"
+      ],
+      "claimIds": [
+        "CLM-0029",
+        "CLM-0030"
+      ],
+      "primarySourceReferenceIds": [
+        "REF-0083",
+        "REF-0084",
+        "REF-0085",
+        "REF-0086",
+        "REF-0087",
+        "REF-0088",
+        "REF-0089",
+        "REF-0090",
+        "REF-0091",
+        "REF-0092"
+      ],
+      "unassessedQuestions": [
+        "Empirical generalizability of Greene’s The Law of Conformity mechanism; distinguish historical case from independent data."
+      ],
+      "uiRoute": "/laws/LAW-14",
+      "routeImplemented": true,
+      "scienceStatus": "not_assessed"
+    },
+    {
+      "lawId": "LAW-15",
+      "chapterNumber": 15,
+      "chapterTitle": "Make Them Want to Follow You",
+      "lawSubtitle": "The Law of Fickleness",
+      "pdfStartIndex": 480,
+      "pdfEndIndex": 517,
+      "verifiedHeadings": 3,
+      "identifiedSections": 3,
+      "substantivelyReviewedSections": [
+        "The Entitlement Curse"
+      ],
+      "sectionsRemaining": [
+        "Strategies for Establishing Authority",
+        "The Inner Authority"
+      ],
+      "editorialStatus": "partially_reviewed",
+      "coreMechanisms": [
+        "Legitimacy perception: judged competence, consistent conduct and procedural fairness may support willingness to follow.",
+        "Leader–follower ambivalence: people may desire reliable direction while valuing autonomy and dissent.",
+        "Reputational feedback: public decisions and treatment of stakeholders reshape trust over time.",
+        "Responsibility and vision: coherent goals plus visible accountability can coordinate group effort without demanding blind obedience."
+      ],
+      "historicalCaseIds": [
+        "CAS-0015"
+      ],
+      "conceptIds": [
+        "CON-0043",
+        "CON-0044",
+        "CON-0045"
+      ],
+      "claimIds": [
+        "CLM-0031",
+        "CLM-0032"
+      ],
+      "primarySourceReferenceIds": [
+        "REF-0093",
+        "REF-0094",
+        "REF-0095",
+        "REF-0096",
+        "REF-0097",
+        "REF-0098",
+        "REF-0099",
+        "REF-0100",
+        "REF-0101",
+        "REF-0102"
+      ],
+      "unassessedQuestions": [
+        "Empirical generalizability of Greene’s The Law of Fickleness mechanism; distinguish historical case from independent data."
+      ],
+      "uiRoute": "/laws/LAW-15",
+      "routeImplemented": true,
+      "scienceStatus": "not_assessed"
+    },
+    {
+      "lawId": "LAW-16",
+      "chapterNumber": 16,
+      "chapterTitle": "See the Hostility Behind the Friendly Façade",
+      "lawSubtitle": "The Law of Aggression",
+      "pdfStartIndex": 518,
+      "pdfEndIndex": 566,
+      "verifiedHeadings": 4,
+      "identifiedSections": 4,
+      "substantivelyReviewedSections": [
+        "The Sophisticated Aggressor"
+      ],
+      "sectionsRemaining": [
+        "The Source of Human Aggression",
+        "Passive Aggression—Its Strategies and How to Counter Them",
+        "Controlled Aggression"
+      ],
+      "editorialStatus": "partially_reviewed",
+      "coreMechanisms": [
+        "Perceived loss of control may intensify attempts to influence outcomes, in Greene’s interpretation.",
+        "Instrumental intimidation: time pressure, asymmetrical information and threats can alter bargaining behavior.",
+        "Indirect conflict expression can create plausible deniability but cannot be inferred from one ambiguous act.",
+        "Goal-directed assertiveness may redirect energy toward work and boundaries without aggression against others."
+      ],
+      "historicalCaseIds": [
+        "CAS-0016"
+      ],
+      "conceptIds": [
+        "CON-0046",
+        "CON-0047",
+        "CON-0048"
+      ],
+      "claimIds": [
+        "CLM-0033",
+        "CLM-0034"
+      ],
+      "primarySourceReferenceIds": [
+        "REF-0103",
+        "REF-0104",
+        "REF-0105",
+        "REF-0106",
+        "REF-0107",
+        "REF-0108",
+        "REF-0109",
+        "REF-0110",
+        "REF-0111",
+        "REF-0112"
+      ],
+      "unassessedQuestions": [
+        "Empirical generalizability of Greene’s The Law of Aggression mechanism; distinguish historical case from independent data."
+      ],
+      "uiRoute": "/laws/LAW-16",
+      "routeImplemented": true,
+      "scienceStatus": "not_assessed"
+    },
+    {
+      "lawId": "LAW-17",
+      "chapterNumber": 17,
+      "chapterTitle": "Seize the Historical Moment",
+      "lawSubtitle": "The Law of Generational Myopia",
+      "pdfStartIndex": 567,
+      "pdfEndIndex": 614,
+      "verifiedHeadings": 5,
+      "identifiedSections": 5,
+      "substantivelyReviewedSections": [
+        "The Rising Tide"
+      ],
+      "sectionsRemaining": [
+        "The Generational Phenomenon",
+        "Generational Patterns",
+        "Strategies for Exploiting the Spirit of the Times",
+        "The Human Beyond Time and Death"
+      ],
+      "editorialStatus": "partially_reviewed",
+      "coreMechanisms": [
+        "Shared formative environments may shape the language and opportunities available to some cohorts.",
+        "Period effects can affect multiple age groups through events, laws and institutions.",
+        "Retrospective selection can make successful historical innovators appear to have predicted an inevitable future.",
+        "Intergenerational imitation and opposition can transmit styles without determining individual beliefs."
+      ],
+      "historicalCaseIds": [
+        "CAS-0017"
+      ],
+      "conceptIds": [
+        "CON-0049",
+        "CON-0050",
+        "CON-0051"
+      ],
+      "claimIds": [
+        "CLM-0035",
+        "CLM-0036"
+      ],
+      "primarySourceReferenceIds": [
+        "REF-0113",
+        "REF-0114",
+        "REF-0115",
+        "REF-0116",
+        "REF-0117",
+        "REF-0118",
+        "REF-0119",
+        "REF-0120",
+        "REF-0121",
+        "REF-0122"
+      ],
+      "unassessedQuestions": [
+        "Empirical generalizability of Greene’s The Law of Generational Myopia mechanism; distinguish historical case from independent data."
+      ],
+      "uiRoute": "/laws/LAW-17",
+      "routeImplemented": true,
+      "scienceStatus": "not_assessed"
+    },
+    {
+      "lawId": "LAW-18",
+      "chapterNumber": 18,
+      "chapterTitle": "Meditate on Our Common Mortality",
+      "lawSubtitle": "The Law of Death Denial",
+      "pdfStartIndex": 615,
+      "pdfEndIndex": 641,
+      "verifiedHeadings": 2,
+      "identifiedSections": 2,
+      "substantivelyReviewedSections": [
+        "The Bullet in the Side"
+      ],
+      "sectionsRemaining": [
+        "A Philosophy of Life Through Death"
+      ],
+      "editorialStatus": "partially_reviewed",
+      "coreMechanisms": [
+        "Awareness of a finite horizon may prompt reflection on priorities, according to Greene’s existential proposal.",
+        "Shared vulnerability can offer an ethical basis for empathy but does not determine behavior.",
+        "Avoidance of threatening topics may reduce discomfort in the short term, while reflection affects people differently.",
+        "Experiences of awe can shift attention beyond narrow self-focus without implying a clinical outcome."
+      ],
+      "historicalCaseIds": [
+        "CAS-0018"
+      ],
+      "conceptIds": [
+        "CON-0052",
+        "CON-0053",
+        "CON-0054"
+      ],
+      "claimIds": [
+        "CLM-0037",
+        "CLM-0038"
+      ],
+      "primarySourceReferenceIds": [
+        "REF-0123",
+        "REF-0124",
+        "REF-0125",
+        "REF-0126",
+        "REF-0127",
+        "REF-0128",
+        "REF-0129",
+        "REF-0130",
+        "REF-0131",
+        "REF-0132"
+      ],
+      "unassessedQuestions": [
+        "Empirical generalizability of Greene’s The Law of Death Denial mechanism; distinguish historical case from independent data."
+      ],
+      "uiRoute": "/laws/LAW-18",
+      "routeImplemented": true,
+      "scienceStatus": "not_assessed"
+    }
+  ],
+  "verifiedVia": "canonical JSON and 2026 Stage 06 PDF pages",
+  "duplicateConceptNames": [],
+  "idAliasesChanged": false
+}

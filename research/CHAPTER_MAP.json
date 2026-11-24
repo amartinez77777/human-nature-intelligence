@@ -1,0 +1,558 @@
+{
+  "schemaVersion": 1,
+  "pageConvention": "pdfPageIndexZeroBased is zero-based; pdfStartPageOneBased is 1-based physical viewer ordinal. No printed page mapping is asserted.",
+  "chapters": [
+    {
+      "lawId": "LAW-01",
+      "chapterNumber": 1,
+      "chapterTitle": "Master Your Emotional Self",
+      "lawSubtitle": "The Law of Irrationality",
+      "pdfStartPageOneBased": 22,
+      "pdfEndPageOneBased": 52,
+      "pdfStartIndexZeroBased": 21,
+      "pdfEndIndexZeroBased": 51,
+      "printedStartPage": null,
+      "verifiedBy": "chapter heading on opening PDF page; preceding chapter boundary",
+      "internalSections": [
+        {
+          "title": "The Inner Athena",
+          "pdfPageOneBased": 22,
+          "pdfPageIndexZeroBased": 21
+        },
+        {
+          "title": "Step One: Recognize the Biases",
+          "pdfPageOneBased": 38,
+          "pdfPageIndexZeroBased": 37
+        },
+        {
+          "title": "Step Two: Beware the Inflaming Factors",
+          "pdfPageOneBased": 42,
+          "pdfPageIndexZeroBased": 41
+        },
+        {
+          "title": "Step Three: Strategies Toward Bringing Out the Rational Self",
+          "pdfPageOneBased": 48,
+          "pdfPageIndexZeroBased": 47
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-02",
+      "chapterNumber": 2,
+      "chapterTitle": "Transform Self-love into Empathy",
+      "lawSubtitle": "The Law of Narcissism",
+      "pdfStartPageOneBased": 53,
+      "pdfEndPageOneBased": 85,
+      "pdfStartIndexZeroBased": 52,
+      "pdfEndIndexZeroBased": 84,
+      "printedStartPage": null,
+      "verifiedBy": "chapter heading on opening PDF page; preceding chapter boundary",
+      "internalSections": [
+        {
+          "title": "The Narcissistic Spectrum",
+          "pdfPageOneBased": 53,
+          "pdfPageIndexZeroBased": 52
+        },
+        {
+          "title": "Four Examples of Narcissistic Types",
+          "pdfPageOneBased": 66,
+          "pdfPageIndexZeroBased": 65
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-03",
+      "chapterNumber": 3,
+      "chapterTitle": "See Through People’s Masks",
+      "lawSubtitle": "The Law of Role-playing",
+      "pdfStartPageOneBased": 86,
+      "pdfEndPageOneBased": 117,
+      "pdfStartIndexZeroBased": 85,
+      "pdfEndIndexZeroBased": 116,
+      "printedStartPage": null,
+      "verifiedBy": "chapter heading on opening PDF page; preceding chapter boundary",
+      "internalSections": [
+        {
+          "title": "The Second Language",
+          "pdfPageOneBased": 86,
+          "pdfPageIndexZeroBased": 85
+        },
+        {
+          "title": "Observational Skills",
+          "pdfPageOneBased": 97,
+          "pdfPageIndexZeroBased": 96
+        },
+        {
+          "title": "Decoding Keys",
+          "pdfPageOneBased": 101,
+          "pdfPageIndexZeroBased": 100
+        },
+        {
+          "title": "The Art of Impression Management",
+          "pdfPageOneBased": 113,
+          "pdfPageIndexZeroBased": 112
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-04",
+      "chapterNumber": 4,
+      "chapterTitle": "Determine the Strength of People’s Character",
+      "lawSubtitle": "The Law of Compulsive Behavior",
+      "pdfStartPageOneBased": 118,
+      "pdfEndPageOneBased": 148,
+      "pdfStartIndexZeroBased": 117,
+      "pdfEndIndexZeroBased": 147,
+      "printedStartPage": null,
+      "verifiedBy": "chapter heading on opening PDF page; preceding chapter boundary",
+      "internalSections": [
+        {
+          "title": "The Pattern",
+          "pdfPageOneBased": 118,
+          "pdfPageIndexZeroBased": 117
+        },
+        {
+          "title": "Character Signs",
+          "pdfPageOneBased": 132,
+          "pdfPageIndexZeroBased": 131
+        },
+        {
+          "title": "Toxic Types",
+          "pdfPageOneBased": 118,
+          "pdfPageIndexZeroBased": 117
+        },
+        {
+          "title": "The Superior Character",
+          "pdfPageOneBased": 144,
+          "pdfPageIndexZeroBased": 143
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-05",
+      "chapterNumber": 5,
+      "chapterTitle": "Become an Elusive Object of Desire",
+      "lawSubtitle": "The Law of Covetousness",
+      "pdfStartPageOneBased": 149,
+      "pdfEndPageOneBased": 168,
+      "pdfStartIndexZeroBased": 148,
+      "pdfEndIndexZeroBased": 167,
+      "printedStartPage": null,
+      "verifiedBy": "chapter heading on opening PDF page; preceding chapter boundary",
+      "internalSections": [
+        {
+          "title": "The Object of Desire",
+          "pdfPageOneBased": 149,
+          "pdfPageIndexZeroBased": 148
+        },
+        {
+          "title": "Strategies for Stimulating Desire",
+          "pdfPageOneBased": 161,
+          "pdfPageIndexZeroBased": 160
+        },
+        {
+          "title": "The Supreme Desire",
+          "pdfPageOneBased": 166,
+          "pdfPageIndexZeroBased": 165
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-06",
+      "chapterNumber": 6,
+      "chapterTitle": "Elevate Your Perspective",
+      "lawSubtitle": "The Law of Shortsightedness",
+      "pdfStartPageOneBased": 169,
+      "pdfEndPageOneBased": 191,
+      "pdfStartIndexZeroBased": 168,
+      "pdfEndIndexZeroBased": 190,
+      "printedStartPage": null,
+      "verifiedBy": "chapter heading on opening PDF page; preceding chapter boundary",
+      "internalSections": [
+        {
+          "title": "Moments of Madness",
+          "pdfPageOneBased": 169,
+          "pdfPageIndexZeroBased": 168
+        },
+        {
+          "title": "Four Signs of Shortsightedness and Strategies to Overcome Them",
+          "pdfPageOneBased": 182,
+          "pdfPageIndexZeroBased": 181
+        },
+        {
+          "title": "The Farsighted Human",
+          "pdfPageOneBased": 190,
+          "pdfPageIndexZeroBased": 189
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-07",
+      "chapterNumber": 7,
+      "chapterTitle": "Soften People’s Resistance by Confirming Their Self-opinion",
+      "lawSubtitle": "The Law of Defensiveness",
+      "pdfStartPageOneBased": 192,
+      "pdfEndPageOneBased": 224,
+      "pdfStartIndexZeroBased": 191,
+      "pdfEndIndexZeroBased": 223,
+      "printedStartPage": null,
+      "verifiedBy": "chapter heading on opening PDF page; preceding chapter boundary",
+      "internalSections": [
+        {
+          "title": "The Influence Game",
+          "pdfPageOneBased": 192,
+          "pdfPageIndexZeroBased": 191
+        },
+        {
+          "title": "Five Strategies for Becoming a Master Persuader",
+          "pdfPageOneBased": 209,
+          "pdfPageIndexZeroBased": 208
+        },
+        {
+          "title": "The Flexible Mind—Self-strategies",
+          "pdfPageOneBased": 221,
+          "pdfPageIndexZeroBased": 220
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-08",
+      "chapterNumber": 8,
+      "chapterTitle": "Change Your Circumstances by Changing Your Attitude",
+      "lawSubtitle": "The Law of Self-sabotage",
+      "pdfStartPageOneBased": 225,
+      "pdfEndPageOneBased": 255,
+      "pdfStartIndexZeroBased": 224,
+      "pdfEndIndexZeroBased": 254,
+      "printedStartPage": null,
+      "verifiedBy": "chapter heading on opening PDF page; preceding chapter boundary",
+      "internalSections": [
+        {
+          "title": "The Ultimate Freedom",
+          "pdfPageOneBased": 225,
+          "pdfPageIndexZeroBased": 224
+        },
+        {
+          "title": "The Constricted (Negative) Attitude",
+          "pdfPageOneBased": 240,
+          "pdfPageIndexZeroBased": 239
+        },
+        {
+          "title": "The Expansive (Positive) Attitude",
+          "pdfPageOneBased": 249,
+          "pdfPageIndexZeroBased": 248
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-09",
+      "chapterNumber": 9,
+      "chapterTitle": "Confront Your Dark Side",
+      "lawSubtitle": "The Law of Repression",
+      "pdfStartPageOneBased": 256,
+      "pdfEndPageOneBased": 288,
+      "pdfStartIndexZeroBased": 255,
+      "pdfEndIndexZeroBased": 287,
+      "printedStartPage": null,
+      "verifiedBy": "chapter heading on opening PDF page; preceding chapter boundary",
+      "internalSections": [
+        {
+          "title": "The Dark Side",
+          "pdfPageOneBased": 256,
+          "pdfPageIndexZeroBased": 255
+        },
+        {
+          "title": "Deciphering the Shadow: Contradictory Behavior",
+          "pdfPageOneBased": 274,
+          "pdfPageIndexZeroBased": 273
+        },
+        {
+          "title": "The Integrated Human",
+          "pdfPageOneBased": 280,
+          "pdfPageIndexZeroBased": 279
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-10",
+      "chapterNumber": 10,
+      "chapterTitle": "Beware the Fragile Ego",
+      "lawSubtitle": "The Law of Envy",
+      "pdfStartPageOneBased": 289,
+      "pdfEndPageOneBased": 321,
+      "pdfStartIndexZeroBased": 288,
+      "pdfEndIndexZeroBased": 320,
+      "printedStartPage": null,
+      "verifiedBy": "chapter heading on opening PDF page; preceding chapter boundary",
+      "internalSections": [
+        {
+          "title": "Fatal Friends",
+          "pdfPageOneBased": 289,
+          "pdfPageIndexZeroBased": 288
+        },
+        {
+          "title": "Signs of Envy",
+          "pdfPageOneBased": 303,
+          "pdfPageIndexZeroBased": 302
+        },
+        {
+          "title": "Envier Types",
+          "pdfPageOneBased": 306,
+          "pdfPageIndexZeroBased": 305
+        },
+        {
+          "title": "Envy Triggers",
+          "pdfPageOneBased": 313,
+          "pdfPageIndexZeroBased": 312
+        },
+        {
+          "title": "Beyond Envy",
+          "pdfPageOneBased": 317,
+          "pdfPageIndexZeroBased": 316
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-11",
+      "chapterNumber": 11,
+      "chapterTitle": "Know Your Limits",
+      "lawSubtitle": "The Law of Grandiosity",
+      "pdfStartPageOneBased": 322,
+      "pdfEndPageOneBased": 352,
+      "pdfStartIndexZeroBased": 321,
+      "pdfEndIndexZeroBased": 351,
+      "printedStartPage": null,
+      "verifiedBy": "chapter heading on opening PDF page; preceding chapter boundary",
+      "internalSections": [
+        {
+          "title": "The Success Delusion",
+          "pdfPageOneBased": 322,
+          "pdfPageIndexZeroBased": 321
+        },
+        {
+          "title": "The Grandiose Leader",
+          "pdfPageOneBased": 343,
+          "pdfPageIndexZeroBased": 342
+        },
+        {
+          "title": "Practical Grandiosity",
+          "pdfPageOneBased": 348,
+          "pdfPageIndexZeroBased": 347
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-12",
+      "chapterNumber": 12,
+      "chapterTitle": "Reconnect to the Masculine or Feminine Within You",
+      "lawSubtitle": "The Law of Gender Rigidity",
+      "pdfStartPageOneBased": 353,
+      "pdfEndPageOneBased": 391,
+      "pdfStartIndexZeroBased": 352,
+      "pdfEndIndexZeroBased": 390,
+      "printedStartPage": null,
+      "verifiedBy": "chapter heading on opening PDF page; preceding chapter boundary",
+      "internalSections": [
+        {
+          "title": "The Authentic Gender",
+          "pdfPageOneBased": 353,
+          "pdfPageIndexZeroBased": 352
+        },
+        {
+          "title": "Gender Projection—Types",
+          "pdfPageOneBased": 375,
+          "pdfPageIndexZeroBased": 374
+        },
+        {
+          "title": "The Original Man/Woman",
+          "pdfPageOneBased": 383,
+          "pdfPageIndexZeroBased": 382
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-13",
+      "chapterNumber": 13,
+      "chapterTitle": "Advance with a Sense of Purpose",
+      "lawSubtitle": "The Law of Aimlessness",
+      "pdfStartPageOneBased": 392,
+      "pdfEndPageOneBased": 429,
+      "pdfStartIndexZeroBased": 391,
+      "pdfEndIndexZeroBased": 428,
+      "printedStartPage": null,
+      "verifiedBy": "chapter heading on opening PDF page; preceding chapter boundary",
+      "internalSections": [
+        {
+          "title": "The Voice",
+          "pdfPageOneBased": 392,
+          "pdfPageIndexZeroBased": 391
+        },
+        {
+          "title": "Strategies for Developing a High Sense of Purpose",
+          "pdfPageOneBased": 416,
+          "pdfPageIndexZeroBased": 415
+        },
+        {
+          "title": "The Lure of False Purposes",
+          "pdfPageOneBased": 423,
+          "pdfPageIndexZeroBased": 422
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-14",
+      "chapterNumber": 14,
+      "chapterTitle": "Resist the Downward Pull of the Group",
+      "lawSubtitle": "The Law of Conformity",
+      "pdfStartPageOneBased": 430,
+      "pdfEndPageOneBased": 480,
+      "pdfStartIndexZeroBased": 429,
+      "pdfEndIndexZeroBased": 479,
+      "printedStartPage": null,
+      "verifiedBy": "chapter heading on opening PDF page; preceding chapter boundary",
+      "internalSections": [
+        {
+          "title": "An Experiment in Human Nature",
+          "pdfPageOneBased": 430,
+          "pdfPageIndexZeroBased": 429
+        },
+        {
+          "title": "The Court and Its Courtiers",
+          "pdfPageOneBased": 466,
+          "pdfPageIndexZeroBased": 465
+        },
+        {
+          "title": "The Reality Group",
+          "pdfPageOneBased": 473,
+          "pdfPageIndexZeroBased": 472
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-15",
+      "chapterNumber": 15,
+      "chapterTitle": "Make Them Want to Follow You",
+      "lawSubtitle": "The Law of Fickleness",
+      "pdfStartPageOneBased": 481,
+      "pdfEndPageOneBased": 518,
+      "pdfStartIndexZeroBased": 480,
+      "pdfEndIndexZeroBased": 517,
+      "printedStartPage": null,
+      "verifiedBy": "chapter heading on opening PDF page; preceding chapter boundary",
+      "internalSections": [
+        {
+          "title": "The Entitlement Curse",
+          "pdfPageOneBased": 481,
+          "pdfPageIndexZeroBased": 480
+        },
+        {
+          "title": "Strategies for Establishing Authority",
+          "pdfPageOneBased": 508,
+          "pdfPageIndexZeroBased": 507
+        },
+        {
+          "title": "The Inner Authority",
+          "pdfPageOneBased": 515,
+          "pdfPageIndexZeroBased": 514
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-16",
+      "chapterNumber": 16,
+      "chapterTitle": "See the Hostility Behind the Friendly Façade",
+      "lawSubtitle": "The Law of Aggression",
+      "pdfStartPageOneBased": 519,
+      "pdfEndPageOneBased": 567,
+      "pdfStartIndexZeroBased": 518,
+      "pdfEndIndexZeroBased": 566,
+      "printedStartPage": null,
+      "verifiedBy": "chapter heading on opening PDF page; preceding chapter boundary",
+      "internalSections": [
+        {
+          "title": "The Sophisticated Aggressor",
+          "pdfPageOneBased": 519,
+          "pdfPageIndexZeroBased": 518
+        },
+        {
+          "title": "The Source of Human Aggression",
+          "pdfPageOneBased": 541,
+          "pdfPageIndexZeroBased": 540
+        },
+        {
+          "title": "Passive Aggression—Its Strategies and How to Counter Them",
+          "pdfPageOneBased": 552,
+          "pdfPageIndexZeroBased": 551
+        },
+        {
+          "title": "Controlled Aggression",
+          "pdfPageOneBased": 561,
+          "pdfPageIndexZeroBased": 560
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-17",
+      "chapterNumber": 17,
+      "chapterTitle": "Seize the Historical Moment",
+      "lawSubtitle": "The Law of Generational Myopia",
+      "pdfStartPageOneBased": 568,
+      "pdfEndPageOneBased": 615,
+      "pdfStartIndexZeroBased": 567,
+      "pdfEndIndexZeroBased": 614,
+      "printedStartPage": null,
+      "verifiedBy": "chapter heading on opening PDF page; preceding chapter boundary",
+      "internalSections": [
+        {
+          "title": "The Rising Tide",
+          "pdfPageOneBased": 568,
+          "pdfPageIndexZeroBased": 567
+        },
+        {
+          "title": "The Generational Phenomenon",
+          "pdfPageOneBased": 591,
+          "pdfPageIndexZeroBased": 590
+        },
+        {
+          "title": "Generational Patterns",
+          "pdfPageOneBased": 596,
+          "pdfPageIndexZeroBased": 595
+        },
+        {
+          "title": "Strategies for Exploiting the Spirit of the Times",
+          "pdfPageOneBased": 604,
+          "pdfPageIndexZeroBased": 603
+        },
+        {
+          "title": "The Human Beyond Time and Death",
+          "pdfPageOneBased": 609,
+          "pdfPageIndexZeroBased": 608
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-18",
+      "chapterNumber": 18,
+      "chapterTitle": "Meditate on Our Common Mortality",
+      "lawSubtitle": "The Law of Death Denial",
+      "pdfStartPageOneBased": 616,
+      "pdfEndPageOneBased": 642,
+      "pdfStartIndexZeroBased": 615,
+      "pdfEndIndexZeroBased": 641,
+      "printedStartPage": null,
+      "verifiedBy": "chapter heading on opening PDF page; preceding chapter boundary",
+      "internalSections": [
+        {
+          "title": "The Bullet in the Side",
+          "pdfPageOneBased": 616,
+          "pdfPageIndexZeroBased": 615
+        },
+        {
+          "title": "A Philosophy of Life Through Death",
+          "pdfPageOneBased": 633,
+          "pdfPageIndexZeroBased": 632
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+[
+  {
+    "id": "RES-0001",
+    "researchQuestion": "How reliable are nonverbal cues as evidence of deception?",
+    "method": "Meta-analysis of behavioral deception-cue studies; reviewed PubMed abstract",
+    "populationOrContext": "1,338 estimates across 158 candidate cues",
+    "finding": "Some verbal/behavioral cues distinguish lying from truth telling, but many behaviors exhibit no or weak association; gesture interpretation is not reliable mind-reading.",
+    "limitations": [
+      "Specific cues vary by conditions and motivation; most published averages do not diagnose an individual.",
+      "Abstract inspected, not the full meta-analysis."
+    ],
+    "relatedClaimIds": [
+      "CLM-0006"
+    ],
+    "sourceReferenceIds": [
+      "REF-0133"
+    ],
+    "evidenceAssessment": "limited"
+  },
+  {
+    "id": "RES-0002",
+    "researchQuestion": "Do recurring character patterns remain stable across contexts?",
+    "method": "Theoretical/research synthesis; APS abstract reviewed",
+    "populationOrContext": "Person-by-situation behavioral patterns",
+    "finding": "A person can show regular conditional patterns across situations; repeated acts are more informative when contexts are considered, not when behavior is treated as invariant.",
+    "limitations": [
+      "The article does not validate Greene’s particular diagnosis of Howard Hughes.",
+      "Abstract and bibliographic record inspected; no full longitudinal reanalysis."
+    ],
+    "relatedClaimIds": [
+      "CLM-0007"
+    ],
+    "sourceReferenceIds": [
+      "REF-0134"
+    ],
+    "evidenceAssessment": "mixed"
+  },
+  {
+    "id": "RES-0003",
+    "researchQuestion": "Does perceived autonomy threat produce resistance to persuasion?",
+    "method": "Meta-analytic research review; publisher metadata and article overview only",
+    "populationOrContext": "Persuasion and psychological reactance studies",
+    "finding": "Reactance is a research construct connected to freedom-threatening messages, providing a partial analogue to Greene’s resistance argument.",
+    "limitations": [
+      "Full analysis unavailable; effect sizes and boundary conditions not independently checked.",
+      "This cannot validate every recommendation in the law."
+    ],
+    "relatedClaimIds": [
+      "CLM-0016"
+    ],
+    "sourceReferenceIds": [
+      "REF-0135"
+    ],
+    "evidenceAssessment": "limited"
+  },
+  {
+    "id": "RES-0004",
+    "researchQuestion": "Are psychological capacities rigidly divided by gender?",
+    "method": "Meta-synthesis of psychological gender-difference literature; institutional scholarly summary",
+    "populationOrContext": "Meta-analyses of gender differences across psychological domains",
+    "finding": "Broad psychological similarity is documented in the reviewed synthesis; universal binary or complementary-trait prescriptions exceed this evidence.",
+    "limitations": [
+      "Some specific traits differ, and results depend on measurement, samples, age and context.",
+      "Review overview inspected, not all component studies; Greene’s Jungian mechanism remains untested here."
+    ],
+    "relatedClaimIds": [
+      "CLM-0025"
+    ],
+    "sourceReferenceIds": [
+      "REF-0136"
+    ],
+    "evidenceAssessment": "mixed"
+  },
+  {
+    "id": "RES-0005",
+    "researchQuestion": "Can generation-specific traits be distinguished from age and historical period?",
+    "method": "National Academies review of research design and age-period-cohort identification",
+    "populationOrContext": "Workforce generational comparisons and survey designs",
+    "finding": "Cross-sectional age differences do not by themselves establish cohort traits; age, period and cohort effects can be statistically entangled.",
+    "limitations": [
+      "Evidence here limits generalized cohort stories but does not imply periods or social history never matter."
+    ],
+    "relatedClaimIds": [
+      "CLM-0036"
+    ],
+    "sourceReferenceIds": [
+      "REF-0137"
+    ],
+    "evidenceAssessment": "limited"
+  },
+  {
+    "id": "RES-0006",
+    "researchQuestion": "Does mortality awareness systematically increase purpose or empathy?",
+    "method": "Narrative theory review; publisher abstract only",
+    "populationOrContext": "Terror-management-theory research tradition",
+    "finding": "Death awareness is a recognized subject of experimental social psychology; the available abstract does not establish Greene’s universal positive outcomes.",
+    "limitations": [
+      "The review is about terror-management theory, not a direct test of Greene’s prescribed meditation.",
+      "Publisher abstract only; full findings and effect sizes not inspected."
+    ],
+    "relatedClaimIds": [
+      "CLM-0038"
+    ],
+    "sourceReferenceIds": [
+      "REF-0138"
+    ],
+    "evidenceAssessment": "limited"
+  }
+]

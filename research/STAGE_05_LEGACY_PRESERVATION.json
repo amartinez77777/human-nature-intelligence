@@ -1,0 +1,48 @@
+{
+  "stage04Sha256": "b7ed2ae6c597db6aed982b3b5b22a8ea74bcfbf8a68bbb563ef3fadbc7afa4f1",
+  "policy": "Legacy rows preserved as JSON objects, except newly added empty analysis-level facet. Existing IDs were not changed.",
+  "collections": {
+    "laws": {
+      "preexisting": 12,
+      "preserved": true,
+      "newCount": 18,
+      "migration": "No migration to prior records"
+    },
+    "concepts": {
+      "preexisting": 36,
+      "preserved": true,
+      "newCount": 45,
+      "migration": "Added levelsOfExplanation: [] to legacy rows only"
+    },
+    "historical-cases": {
+      "preexisting": 12,
+      "preserved": true,
+      "newCount": 15,
+      "migration": "Added levelsOfExplanation: [] to legacy rows only"
+    },
+    "claims": {
+      "preexisting": 26,
+      "preserved": true,
+      "newCount": 32,
+      "migration": "No migration to prior records"
+    },
+    "source-references": {
+      "preexisting": 72,
+      "preserved": true,
+      "newCount": 102,
+      "migration": "No migration to prior records"
+    },
+    "knowledge-edges": {
+      "preexisting": 73,
+      "preserved": true,
+      "newCount": 97,
+      "migration": "No migration to prior records"
+    },
+    "exercises": {
+      "preexisting": 29,
+      "preserved": true,
+      "newCount": 38,
+      "migration": "No migration to prior records"
+    }
+  }
+}

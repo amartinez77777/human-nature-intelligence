@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "aliases": {},
+  "migrations": [
+    {
+      "fromDatasetSchemaVersion": 2,
+      "toDatasetSchemaVersion": 3,
+      "stage": "09B",
+      "description": "Exercise enum expanded; optional exercise revision/case/finding IDs; optional structured lessons on paths; 47 existing EXR IDs, PATH-0001 and all research IDs retained; no aliases required."
+    }
+  ]
+}

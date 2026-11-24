@@ -1,0 +1,564 @@
+{
+  "schemaVersion": 1,
+  "pdfSha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e",
+  "pdfPages": 690,
+  "method": "PyMuPDF full text layer read plus targeted manual editorial inspection; spot-check is not exhaustive paragraph review",
+  "sections": [
+    {
+      "lawId": "LAW-05",
+      "section": "The Object of Desire",
+      "startPdfPageIndex": 148,
+      "endPdfPageIndex": 159,
+      "headingVerified": true,
+      "substantiveReviewCredited": true,
+      "reviewQualification": "Source-extracted section text and selected passages inspected; independent historical/scientific research not performed; not a complete critical page-by-page annotation.",
+      "spotChecks": [
+        {
+          "pdfPageIndex": 148,
+          "viewerPage": 149,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 149,
+          "viewerPage": 150,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 150,
+          "viewerPage": 151,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 159,
+          "viewerPage": 160,
+          "textLayerPresent": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-05",
+      "section": "Strategies for Stimulating Desire",
+      "startPdfPageIndex": 160,
+      "endPdfPageIndex": 164,
+      "headingVerified": true,
+      "substantiveReviewCredited": true,
+      "reviewQualification": "Source-extracted section text and selected passages inspected; independent historical/scientific research not performed; not a complete critical page-by-page annotation.",
+      "spotChecks": [
+        {
+          "pdfPageIndex": 160,
+          "viewerPage": 161,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 161,
+          "viewerPage": 162,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 162,
+          "viewerPage": 163,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 164,
+          "viewerPage": 165,
+          "textLayerPresent": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-05",
+      "section": "The Supreme Desire",
+      "startPdfPageIndex": 165,
+      "endPdfPageIndex": 167,
+      "headingVerified": true,
+      "substantiveReviewCredited": false,
+      "reviewQualification": "Source-extracted section text and selected passages inspected; independent historical/scientific research not performed; not a complete critical page-by-page annotation.",
+      "spotChecks": [
+        {
+          "pdfPageIndex": 165,
+          "viewerPage": 166,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 166,
+          "viewerPage": 167,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 167,
+          "viewerPage": 168,
+          "textLayerPresent": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-06",
+      "section": "Moments of Madness",
+      "startPdfPageIndex": 168,
+      "endPdfPageIndex": 180,
+      "headingVerified": true,
+      "substantiveReviewCredited": true,
+      "reviewQualification": "Source-extracted section text and selected passages inspected; independent historical/scientific research not performed; not a complete critical page-by-page annotation.",
+      "spotChecks": [
+        {
+          "pdfPageIndex": 168,
+          "viewerPage": 169,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 169,
+          "viewerPage": 170,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 170,
+          "viewerPage": 171,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 180,
+          "viewerPage": 181,
+          "textLayerPresent": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-06",
+      "section": "Four Signs of Shortsightedness and Strategies to Overcome Them",
+      "startPdfPageIndex": 181,
+      "endPdfPageIndex": 188,
+      "headingVerified": true,
+      "substantiveReviewCredited": true,
+      "reviewQualification": "Source-extracted section text and selected passages inspected; independent historical/scientific research not performed; not a complete critical page-by-page annotation.",
+      "spotChecks": [
+        {
+          "pdfPageIndex": 181,
+          "viewerPage": 182,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 182,
+          "viewerPage": 183,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 183,
+          "viewerPage": 184,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 188,
+          "viewerPage": 189,
+          "textLayerPresent": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-06",
+      "section": "The Farsighted Human",
+      "startPdfPageIndex": 189,
+      "endPdfPageIndex": 190,
+      "headingVerified": true,
+      "substantiveReviewCredited": false,
+      "reviewQualification": "Source-extracted section text and selected passages inspected; independent historical/scientific research not performed; not a complete critical page-by-page annotation.",
+      "spotChecks": [
+        {
+          "pdfPageIndex": 189,
+          "viewerPage": 190,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 190,
+          "viewerPage": 191,
+          "textLayerPresent": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-07",
+      "section": "The Influence Game",
+      "startPdfPageIndex": 191,
+      "endPdfPageIndex": 207,
+      "headingVerified": true,
+      "substantiveReviewCredited": true,
+      "reviewQualification": "Source-extracted section text and selected passages inspected; independent historical/scientific research not performed; not a complete critical page-by-page annotation.",
+      "spotChecks": [
+        {
+          "pdfPageIndex": 191,
+          "viewerPage": 192,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 192,
+          "viewerPage": 193,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 193,
+          "viewerPage": 194,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 207,
+          "viewerPage": 208,
+          "textLayerPresent": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-07",
+      "section": "Five Strategies for Becoming a Master Persuader",
+      "startPdfPageIndex": 208,
+      "endPdfPageIndex": 219,
+      "headingVerified": true,
+      "substantiveReviewCredited": false,
+      "reviewQualification": "Source-extracted section text and selected passages inspected; independent historical/scientific research not performed; not a complete critical page-by-page annotation.",
+      "spotChecks": [
+        {
+          "pdfPageIndex": 208,
+          "viewerPage": 209,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 209,
+          "viewerPage": 210,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 210,
+          "viewerPage": 211,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 219,
+          "viewerPage": 220,
+          "textLayerPresent": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-07",
+      "section": "The Flexible Mind—Self-strategies",
+      "startPdfPageIndex": 220,
+      "endPdfPageIndex": 223,
+      "headingVerified": true,
+      "substantiveReviewCredited": false,
+      "reviewQualification": "Source-extracted section text and selected passages inspected; independent historical/scientific research not performed; not a complete critical page-by-page annotation.",
+      "spotChecks": [
+        {
+          "pdfPageIndex": 220,
+          "viewerPage": 221,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 221,
+          "viewerPage": 222,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 222,
+          "viewerPage": 223,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 223,
+          "viewerPage": 224,
+          "textLayerPresent": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-08",
+      "section": "The Ultimate Freedom",
+      "startPdfPageIndex": 224,
+      "endPdfPageIndex": 238,
+      "headingVerified": true,
+      "substantiveReviewCredited": true,
+      "reviewQualification": "Source-extracted section text and selected passages inspected; independent historical/scientific research not performed; not a complete critical page-by-page annotation.",
+      "spotChecks": [
+        {
+          "pdfPageIndex": 224,
+          "viewerPage": 225,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 225,
+          "viewerPage": 226,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 226,
+          "viewerPage": 227,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 238,
+          "viewerPage": 239,
+          "textLayerPresent": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-08",
+      "section": "The Constricted (Negative) Attitude",
+      "startPdfPageIndex": 239,
+      "endPdfPageIndex": 247,
+      "headingVerified": true,
+      "substantiveReviewCredited": false,
+      "reviewQualification": "Source-extracted section text and selected passages inspected; independent historical/scientific research not performed; not a complete critical page-by-page annotation.",
+      "spotChecks": [
+        {
+          "pdfPageIndex": 239,
+          "viewerPage": 240,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 240,
+          "viewerPage": 241,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 241,
+          "viewerPage": 242,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 247,
+          "viewerPage": 248,
+          "textLayerPresent": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-08",
+      "section": "The Expansive (Positive) Attitude",
+      "startPdfPageIndex": 248,
+      "endPdfPageIndex": 254,
+      "headingVerified": true,
+      "substantiveReviewCredited": false,
+      "reviewQualification": "Source-extracted section text and selected passages inspected; independent historical/scientific research not performed; not a complete critical page-by-page annotation.",
+      "spotChecks": [
+        {
+          "pdfPageIndex": 248,
+          "viewerPage": 249,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 249,
+          "viewerPage": 250,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 250,
+          "viewerPage": 251,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 254,
+          "viewerPage": 255,
+          "textLayerPresent": true
+        }
+      ]
+    }
+  ],
+  "pageChecks": [
+    {
+      "lawId": "LAW-05",
+      "pdfPageIndex": 148,
+      "pdfViewerPage": 149,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-05",
+      "pdfPageIndex": 153,
+      "pdfViewerPage": 154,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-05",
+      "pdfPageIndex": 155,
+      "pdfViewerPage": 156,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-05",
+      "pdfPageIndex": 160,
+      "pdfViewerPage": 161,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-05",
+      "pdfPageIndex": 163,
+      "pdfViewerPage": 164,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-05",
+      "pdfPageIndex": 165,
+      "pdfViewerPage": 166,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-05",
+      "pdfPageIndex": 167,
+      "pdfViewerPage": 168,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-06",
+      "pdfPageIndex": 168,
+      "pdfViewerPage": 169,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-06",
+      "pdfPageIndex": 173,
+      "pdfViewerPage": 174,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-06",
+      "pdfPageIndex": 175,
+      "pdfViewerPage": 176,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-06",
+      "pdfPageIndex": 178,
+      "pdfViewerPage": 179,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-06",
+      "pdfPageIndex": 181,
+      "pdfViewerPage": 182,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-06",
+      "pdfPageIndex": 189,
+      "pdfViewerPage": 190,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-06",
+      "pdfPageIndex": 190,
+      "pdfViewerPage": 191,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-07",
+      "pdfPageIndex": 191,
+      "pdfViewerPage": 192,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-07",
+      "pdfPageIndex": 197,
+      "pdfViewerPage": 198,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-07",
+      "pdfPageIndex": 200,
+      "pdfViewerPage": 201,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-07",
+      "pdfPageIndex": 203,
+      "pdfViewerPage": 204,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-07",
+      "pdfPageIndex": 208,
+      "pdfViewerPage": 209,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-07",
+      "pdfPageIndex": 220,
+      "pdfViewerPage": 221,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-07",
+      "pdfPageIndex": 223,
+      "pdfViewerPage": 224,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-08",
+      "pdfPageIndex": 224,
+      "pdfViewerPage": 225,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-08",
+      "pdfPageIndex": 231,
+      "pdfViewerPage": 232,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-08",
+      "pdfPageIndex": 232,
+      "pdfViewerPage": 233,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-08",
+      "pdfPageIndex": 234,
+      "pdfViewerPage": 235,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-08",
+      "pdfPageIndex": 239,
+      "pdfViewerPage": 240,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-08",
+      "pdfPageIndex": 248,
+      "pdfViewerPage": 249,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    },
+    {
+      "lawId": "LAW-08",
+      "pdfPageIndex": 254,
+      "pdfViewerPage": 255,
+      "hasText": true,
+      "purpose": "chapter anchor, narrative, interpretation or section context"
+    }
+  ],
+  "unverifiedPrintedPagination": true
+}

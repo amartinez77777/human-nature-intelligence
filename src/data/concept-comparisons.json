@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "comparisons": [
+    {
+      "id": "CMP-0001",
+      "title": "Desire vs. need",
+      "leftConceptId": "CON-0013",
+      "rightConceptId": "CON-0014",
+      "contrast": "Projected desire evaluates an imagined future identity or experience; practical need asks what absence would materially prevent. The categories may overlap but do not imply identical reasons for valuing an object.",
+      "leftLens": "What story or symbolic promise makes this appealing?",
+      "rightLens": "What essential function or obligation does this satisfy?",
+      "illustration": "Fictional: a collector wants a limited-edition coat while also needing a reliable jacket for winter. Either purchase can be reasonable, but the motivations should not be confused.",
+      "ethics": "Do not disguise a luxury aspiration as a necessity or shame someone for having symbolic preferences.",
+      "relatedLawIds": [
+        "LAW-05"
+      ],
+      "sourceReferenceIds": [
+        "REF-0023",
+        "REF-0027"
+      ],
+      "editorialStatus": "partially_reviewed"
+    },
+    {
+      "id": "CMP-0002",
+      "title": "Persuasion vs. coercion",
+      "leftConceptId": "CON-0020",
+      "rightConceptId": "CON-0021",
+      "contrast": "Autonomy-supportive persuasion invites reconsideration through reasons while preserving real refusal; coercion imposes penalties or threats that make compliance a poor indicator of agreement.",
+      "leftLens": "Can the person evaluate evidence and decline without undue penalty?",
+      "rightLens": "Is a credible threat, dependency or unacceptable cost compelling assent?",
+      "illustration": "Fictional: a team lead offers a voluntary scheduling pilot versus a lead threatening staff who refuse.",
+      "ethics": "Respect consent, disclose costs and avoid using deceptive reassurance as a substitute for genuine choice.",
+      "relatedLawIds": [
+        "LAW-07"
+      ],
+      "sourceReferenceIds": [
+        "REF-0035",
+        "REF-0039"
+      ],
+      "editorialStatus": "partially_reviewed"
+    },
+    {
+      "id": "CMP-0003",
+      "title": "Immediate rewards vs. decision horizon",
+      "leftConceptId": "CON-0017",
+      "rightConceptId": "CON-0016",
+      "contrast": "Immediate-reward salience describes which outcomes capture attention; decision horizon describes how far the evaluation extends. Close attention to today is not automatically a narrow or unsound decision.",
+      "leftLens": "Which vivid recent signals dominate attention?",
+      "rightLens": "Which delayed outcomes, alternatives and probabilities have been included?",
+      "illustration": "Fictional: an organization accepts a short-term subsidy after calculating its maintenance liabilities, rather than overlooking them because the offer is attractive.",
+      "ethics": "Avoid judging decisions solely by outcomes; assess information and available options at the time.",
+      "relatedLawIds": [
+        "LAW-06"
+      ],
+      "sourceReferenceIds": [
+        "REF-0029",
+        "REF-0033"
+      ],
+      "editorialStatus": "partially_reviewed"
+    },
+    {
+      "id": "CMP-0004",
+      "title": "Interpretive attitude vs. external circumstance",
+      "leftConceptId": "CON-0023",
+      "rightConceptId": "CON-0024",
+      "contrast": "Interpretive attitude concerns what a person anticipates and how they respond; external circumstance includes facts, resource constraints and others’ decisions that interpretation cannot simply remove.",
+      "leftLens": "What assumptions and reactions are changeable with new information?",
+      "rightLens": "What physical, social or institutional limitations remain regardless of expectation?",
+      "illustration": "Fictional: two job applicants can seek more feedback, yet an inaccessible transit route remains a real barrier for either one.",
+      "ethics": "Do not blame individuals for abuse, disability, discrimination, poverty or illness by reducing all outcomes to mindset.",
+      "relatedLawIds": [
+        "LAW-08"
+      ],
+      "sourceReferenceIds": [
+        "REF-0041",
+        "REF-0045"
+      ],
+      "editorialStatus": "partially_reviewed"
+    }
+  ]
+}

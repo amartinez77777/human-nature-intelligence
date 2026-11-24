@@ -1,0 +1,452 @@
+{
+  "sourceSha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e",
+  "method": "Normalized PDF text-layer literal match. Not exhaustive reading or proof of source content.",
+  "chapterChecks": [
+    {
+      "lawId": "LAW-01",
+      "pdfPageIndex": 21,
+      "headingMatch": true,
+      "subtitleMatch": true,
+      "sections": [
+        {
+          "title": "The Inner Athena",
+          "pdfPageIndex": 21,
+          "textMatch": true
+        },
+        {
+          "title": "Step One: Recognize the Biases",
+          "pdfPageIndex": 37,
+          "textMatch": true
+        },
+        {
+          "title": "Step Two: Beware the Inflaming Factors",
+          "pdfPageIndex": 41,
+          "textMatch": true
+        },
+        {
+          "title": "Step Three: Strategies Toward Bringing Out the Rational Self",
+          "pdfPageIndex": 47,
+          "textMatch": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-02",
+      "pdfPageIndex": 52,
+      "headingMatch": true,
+      "subtitleMatch": true,
+      "sections": [
+        {
+          "title": "The Narcissistic Spectrum",
+          "pdfPageIndex": 52,
+          "textMatch": true
+        },
+        {
+          "title": "Four Examples of Narcissistic Types",
+          "pdfPageIndex": 65,
+          "textMatch": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-03",
+      "pdfPageIndex": 85,
+      "headingMatch": true,
+      "subtitleMatch": true,
+      "sections": [
+        {
+          "title": "The Second Language",
+          "pdfPageIndex": 85,
+          "textMatch": true
+        },
+        {
+          "title": "Observational Skills",
+          "pdfPageIndex": 96,
+          "textMatch": true
+        },
+        {
+          "title": "Decoding Keys",
+          "pdfPageIndex": 100,
+          "textMatch": true
+        },
+        {
+          "title": "The Art of Impression Management",
+          "pdfPageIndex": 112,
+          "textMatch": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-04",
+      "pdfPageIndex": 117,
+      "headingMatch": true,
+      "subtitleMatch": true,
+      "sections": [
+        {
+          "title": "The Pattern",
+          "pdfPageIndex": 117,
+          "textMatch": true
+        },
+        {
+          "title": "Character Signs",
+          "pdfPageIndex": 131,
+          "textMatch": true
+        },
+        {
+          "title": "Toxic Types",
+          "pdfPageIndex": 117,
+          "textMatch": true
+        },
+        {
+          "title": "The Superior Character",
+          "pdfPageIndex": 143,
+          "textMatch": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-05",
+      "pdfPageIndex": 148,
+      "headingMatch": true,
+      "subtitleMatch": true,
+      "sections": [
+        {
+          "title": "The Object of Desire",
+          "pdfPageIndex": 148,
+          "textMatch": true
+        },
+        {
+          "title": "Strategies for Stimulating Desire",
+          "pdfPageIndex": 160,
+          "textMatch": true
+        },
+        {
+          "title": "The Supreme Desire",
+          "pdfPageIndex": 165,
+          "textMatch": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-06",
+      "pdfPageIndex": 168,
+      "headingMatch": true,
+      "subtitleMatch": true,
+      "sections": [
+        {
+          "title": "Moments of Madness",
+          "pdfPageIndex": 168,
+          "textMatch": true
+        },
+        {
+          "title": "Four Signs of Shortsightedness and Strategies to Overcome Them",
+          "pdfPageIndex": 181,
+          "textMatch": true
+        },
+        {
+          "title": "The Farsighted Human",
+          "pdfPageIndex": 189,
+          "textMatch": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-07",
+      "pdfPageIndex": 191,
+      "headingMatch": true,
+      "subtitleMatch": true,
+      "sections": [
+        {
+          "title": "The Influence Game",
+          "pdfPageIndex": 191,
+          "textMatch": true
+        },
+        {
+          "title": "Five Strategies for Becoming a Master Persuader",
+          "pdfPageIndex": 208,
+          "textMatch": true
+        },
+        {
+          "title": "The Flexible Mind\u2014Self-strategies",
+          "pdfPageIndex": 220,
+          "textMatch": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-08",
+      "pdfPageIndex": 224,
+      "headingMatch": true,
+      "subtitleMatch": true,
+      "sections": [
+        {
+          "title": "The Ultimate Freedom",
+          "pdfPageIndex": 224,
+          "textMatch": true
+        },
+        {
+          "title": "The Constricted (Negative) Attitude",
+          "pdfPageIndex": 239,
+          "textMatch": true
+        },
+        {
+          "title": "The Expansive (Positive) Attitude",
+          "pdfPageIndex": 248,
+          "textMatch": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-09",
+      "pdfPageIndex": 255,
+      "headingMatch": true,
+      "subtitleMatch": true,
+      "sections": [
+        {
+          "title": "The Dark Side",
+          "pdfPageIndex": 255,
+          "textMatch": true
+        },
+        {
+          "title": "Deciphering the Shadow: Contradictory Behavior",
+          "pdfPageIndex": 273,
+          "textMatch": true
+        },
+        {
+          "title": "The Integrated Human",
+          "pdfPageIndex": 279,
+          "textMatch": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-10",
+      "pdfPageIndex": 288,
+      "headingMatch": true,
+      "subtitleMatch": true,
+      "sections": [
+        {
+          "title": "Fatal Friends",
+          "pdfPageIndex": 288,
+          "textMatch": true
+        },
+        {
+          "title": "Signs of Envy",
+          "pdfPageIndex": 302,
+          "textMatch": true
+        },
+        {
+          "title": "Envier Types",
+          "pdfPageIndex": 305,
+          "textMatch": true
+        },
+        {
+          "title": "Envy Triggers",
+          "pdfPageIndex": 312,
+          "textMatch": true
+        },
+        {
+          "title": "Beyond Envy",
+          "pdfPageIndex": 316,
+          "textMatch": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-11",
+      "pdfPageIndex": 321,
+      "headingMatch": true,
+      "subtitleMatch": true,
+      "sections": [
+        {
+          "title": "The Success Delusion",
+          "pdfPageIndex": 321,
+          "textMatch": true
+        },
+        {
+          "title": "The Grandiose Leader",
+          "pdfPageIndex": 342,
+          "textMatch": true
+        },
+        {
+          "title": "Practical Grandiosity",
+          "pdfPageIndex": 347,
+          "textMatch": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-12",
+      "pdfPageIndex": 352,
+      "headingMatch": true,
+      "subtitleMatch": true,
+      "sections": [
+        {
+          "title": "The Authentic Gender",
+          "pdfPageIndex": 352,
+          "textMatch": true
+        },
+        {
+          "title": "Gender Projection\u2014Types",
+          "pdfPageIndex": 374,
+          "textMatch": true
+        },
+        {
+          "title": "The Original Man/Woman",
+          "pdfPageIndex": 382,
+          "textMatch": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-13",
+      "pdfPageIndex": 391,
+      "headingMatch": true,
+      "subtitleMatch": true,
+      "sections": [
+        {
+          "title": "The Voice",
+          "pdfPageIndex": 391,
+          "textMatch": true
+        },
+        {
+          "title": "Strategies for Developing a High Sense of Purpose",
+          "pdfPageIndex": 415,
+          "textMatch": true
+        },
+        {
+          "title": "The Lure of False Purposes",
+          "pdfPageIndex": 422,
+          "textMatch": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-14",
+      "pdfPageIndex": 429,
+      "headingMatch": true,
+      "subtitleMatch": true,
+      "sections": [
+        {
+          "title": "An Experiment in Human Nature",
+          "pdfPageIndex": 429,
+          "textMatch": true
+        },
+        {
+          "title": "The Court and Its Courtiers",
+          "pdfPageIndex": 465,
+          "textMatch": true
+        },
+        {
+          "title": "The Reality Group",
+          "pdfPageIndex": 472,
+          "textMatch": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-15",
+      "pdfPageIndex": 480,
+      "headingMatch": true,
+      "subtitleMatch": true,
+      "sections": [
+        {
+          "title": "The Entitlement Curse",
+          "pdfPageIndex": 480,
+          "textMatch": true
+        },
+        {
+          "title": "Strategies for Establishing Authority",
+          "pdfPageIndex": 507,
+          "textMatch": true
+        },
+        {
+          "title": "The Inner Authority",
+          "pdfPageIndex": 514,
+          "textMatch": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-16",
+      "pdfPageIndex": 518,
+      "headingMatch": true,
+      "subtitleMatch": true,
+      "sections": [
+        {
+          "title": "The Sophisticated Aggressor",
+          "pdfPageIndex": 518,
+          "textMatch": true
+        },
+        {
+          "title": "The Source of Human Aggression",
+          "pdfPageIndex": 540,
+          "textMatch": true
+        },
+        {
+          "title": "Passive Aggression\u2014Its Strategies and How to Counter Them",
+          "pdfPageIndex": 551,
+          "textMatch": true
+        },
+        {
+          "title": "Controlled Aggression",
+          "pdfPageIndex": 560,
+          "textMatch": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-17",
+      "pdfPageIndex": 567,
+      "headingMatch": true,
+      "subtitleMatch": true,
+      "sections": [
+        {
+          "title": "The Rising Tide",
+          "pdfPageIndex": 567,
+          "textMatch": true
+        },
+        {
+          "title": "The Generational Phenomenon",
+          "pdfPageIndex": 590,
+          "textMatch": true
+        },
+        {
+          "title": "Generational Patterns",
+          "pdfPageIndex": 595,
+          "textMatch": true
+        },
+        {
+          "title": "Strategies for Exploiting the Spirit of the Times",
+          "pdfPageIndex": 603,
+          "textMatch": true
+        },
+        {
+          "title": "The Human Beyond Time and Death",
+          "pdfPageIndex": 608,
+          "textMatch": true
+        }
+      ]
+    },
+    {
+      "lawId": "LAW-18",
+      "pdfPageIndex": 615,
+      "headingMatch": true,
+      "subtitleMatch": true,
+      "sections": [
+        {
+          "title": "The Bullet in the Side",
+          "pdfPageIndex": 615,
+          "textMatch": true
+        },
+        {
+          "title": "A Philosophy of Life Through Death",
+          "pdfPageIndex": 632,
+          "textMatch": true
+        }
+      ]
+    }
+  ],
+  "sectionAnchorTextMatches": 60,
+  "totalSections": 60
+}

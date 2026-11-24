@@ -1,0 +1,46 @@
+{
+  "name": "human-nature-intelligence",
+  "private": true,
+  "version": "1.0.0-rc1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint .",
+    "validate:data": "node scripts/validate-data.mjs && node scripts/validate-research.mjs && node scripts/validate-comparisons.mjs && node --experimental-strip-types scripts/validate-scenarios.mjs && node --experimental-strip-types scripts/validate-academy.mjs",
+    "test": "vitest run",
+    "build": "npm run build:github",
+    "preview": "vite preview --mode github --host 0.0.0.0",
+    "test:offline": "node --experimental-strip-types --test scripts/offline-tests.mjs",
+    "build:github": "npm run validate:data && vite build --mode github && node scripts/verify-build.mjs github",
+    "build:netlify": "npm run validate:data && vite build --mode netlify && node scripts/verify-build.mjs netlify",
+    "verify": "npm run typecheck && npm run lint && npm run validate:data && npm run test:offline && npm run test",
+    "preview:netlify": "vite preview --mode netlify --host 0.0.0.0",
+    "test:browser": "node scripts/browser-smoke.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.1",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.18.0",
+    "@types/node": "^22.13.1",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9.18.0",
+    "globals": "^15.14.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3",
+    "typescript-eslint": "^8.22.0",
+    "vite": "^6.1.0",
+    "vitest": "^3.0.5",
+    "playwright": "^1.56.1"
+  },
+  "engines": {
+    "node": ">=22.16.0"
+  }
+}

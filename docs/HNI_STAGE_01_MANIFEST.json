@@ -1,0 +1,407 @@
+{
+  "application": "Human Nature Intelligence",
+  "stage": 1,
+  "version": "0.1.0",
+  "createdAt": "2026-11-23",
+  "sourceZip": "HNI_STAGE_01_SOURCE.zip",
+  "sourcePDF": {
+    "filename": "The Laws of Human Nature(5).pdf",
+    "sha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e",
+    "pdfPageCount": 690,
+    "publisher": "Viking",
+    "copyrightYear": 2018,
+    "editionPrintFormat": "unresolved"
+  },
+  "chaptersIndexed": 18,
+  "majorHeadingsMatched": 60,
+  "recordCounts": {
+    "laws": 18,
+    "concepts": 3,
+    "historicalCases": 1,
+    "claims": 2,
+    "sources": 1,
+    "sourceReferences": 6,
+    "researchFindings": 0,
+    "knowledgeEdges": 4,
+    "exercises": 1,
+    "learningPaths": 1
+  },
+  "moduleCount": 8,
+  "acceptanceStatus": "partial_blocked_toolchain",
+  "validation": {
+    "nodeDataValidation": {
+      "passed": true,
+      "errors": 0,
+      "warnings": 16
+    },
+    "offlineNegativeFixtureTests": {
+      "passed": true,
+      "passedCount": 8,
+      "totalCount": 8
+    },
+    "typescriptSyntaxParsing": {
+      "passed": true,
+      "diagnostics": 0
+    },
+    "cssParsing": {
+      "passed": true,
+      "errors": 0
+    },
+    "npmInstall": {
+      "passed": false,
+      "reason": "npm registry network unavailable"
+    },
+    "npmCi": {
+      "passed": false,
+      "reason": "valid lockfile not generated"
+    },
+    "typecheck": {
+      "passed": false,
+      "reason": "dependencies unavailable"
+    },
+    "lint": {
+      "passed": false,
+      "reason": "dependencies unavailable"
+    },
+    "vitest": {
+      "passed": false,
+      "reason": "dependencies unavailable"
+    },
+    "productionBuild": {
+      "passed": false,
+      "reason": "dependencies unavailable"
+    },
+    "browserTesting": {
+      "passed": false,
+      "reason": "no compiled build"
+    }
+  },
+  "packageLockfilePresent": false,
+  "files": [
+    {
+      "path": ".github/workflows/deploy.yml",
+      "sha256": "b538f0c2653ff4ca230904abf7a6e2e6f6959b1f79ccffb81b52aa1974ff8044",
+      "bytes": 1262
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "28a88f70397ecdd03b0d915c81e0a74f7f0cda0dbb6d93ae10456cd67c165e10",
+      "bytes": 47
+    },
+    {
+      "path": "README.md",
+      "sha256": "1212c1eb18bee7f2bd944185b6c4feda07b0dac041167d1e3d979a1b7d055494",
+      "bytes": 3773
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "sha256": "5e84b807a38153d6d9a100313126cf177565c4504bb5aa5791dfa51572dcd702",
+      "bytes": 2667
+    },
+    {
+      "path": "docs/DATA_DICTIONARY.md",
+      "sha256": "57cb63999f56bd9483b3f6f588781e2738314b4583a801ca4922a721038402bf",
+      "bytes": 2510
+    },
+    {
+      "path": "docs/DEPLOYMENT.md",
+      "sha256": "602f14d80f8584ff8326b7a34c58ad9c6866189a842e940ff485f9c0b22798cf",
+      "bytes": 1528
+    },
+    {
+      "path": "docs/HNI_STAGE_01_HANDOFF.md",
+      "sha256": "f72987d8e0f047d1e81efe98089ac1fc9e7da5a6e5a50b33f06ba66cfee61250",
+      "bytes": 7097
+    },
+    {
+      "path": "docs/HNI_STAGE_01_PDF_COVERAGE.md",
+      "sha256": "ece269f15ada36f0bbb6c77502ac76b26df9b17c68c73e12fc2c679b80376a80",
+      "bytes": 5225
+    },
+    {
+      "path": "docs/STAGE_HANDOFF.md",
+      "sha256": "f72987d8e0f047d1e81efe98089ac1fc9e7da5a6e5a50b33f06ba66cfee61250",
+      "bytes": 7097
+    },
+    {
+      "path": "eslint.config.js",
+      "sha256": "767b1f8f4ecd2975b7234c9574ef9ace3519f14fc68bef402bbfab29a7bdb26e",
+      "bytes": 435
+    },
+    {
+      "path": "index.html",
+      "sha256": "6c7e247aa6e8452b9055999040257a99a516107457d9ccc1bb85d40ebc326938",
+      "bytes": 457
+    },
+    {
+      "path": "package.json",
+      "sha256": "8c6a263e9b49124133cdd4d352a4b343c6289c0cab10e1b9cf880aae0e5848ab",
+      "bytes": 994
+    },
+    {
+      "path": "research/CHAPTER_MAP.json",
+      "sha256": "22d8598d83404a3a66ac691efcc22bebafd686ad5ff6352e035f30468b9fed20",
+      "bytes": 17139
+    },
+    {
+      "path": "research/COVERAGE_MATRIX.json",
+      "sha256": "828ab10e21cc99653be2be6b227f2988cbb8db71f0e345ec7af2a68f3a40fba3",
+      "bytes": 19015
+    },
+    {
+      "path": "research/EDITORIAL_STANDARD.md",
+      "sha256": "1cb26754a90b625516cc406c6a255eef841728774009ea9862c193819c5912e8",
+      "bytes": 1585
+    },
+    {
+      "path": "research/ID_ALIASES.json",
+      "sha256": "9ae449e443f40d0d8926d6a7daf15e2d6fedf1763b73304747daf545eb838792",
+      "bytes": 62
+    },
+    {
+      "path": "research/PDF_SOURCE_MANIFEST.json",
+      "sha256": "e6dd76169f32378832bd4a5b452a9cce8eec3e020c2edd2b9d6e8d6cd1ab31d5",
+      "bytes": 1704
+    },
+    {
+      "path": "research/RESEARCH_METHOD.md",
+      "sha256": "ad893e859a2a796bae9d6872db801aa3438e6c17794d88f28ab583968951d157",
+      "bytes": 2005
+    },
+    {
+      "path": "research/SOURCE_LEDGER.json",
+      "sha256": "181f9d3ef3de3897d42bd32e1ef291880003995f84bdc47574050ad1601ae5c2",
+      "bytes": 3686
+    },
+    {
+      "path": "scripts/offline-tests.mjs",
+      "sha256": "d41182fc0782dab01810ab72dcb9c86b9bb8e23ce39a6bccf25aeae4b5999240",
+      "bytes": 1600
+    },
+    {
+      "path": "scripts/validate-data.mjs",
+      "sha256": "469bba75decf73a664c3613c80d6686790c7e1c67163ebbdb943aab4b599b2c6",
+      "bytes": 8045
+    },
+    {
+      "path": "scripts/validate-data.ts",
+      "sha256": "746ca1d8abf709d1772bac196a56e772a8977b13943ecc8683cd9082a9058f6b",
+      "bytes": 460
+    },
+    {
+      "path": "src/app/App.tsx",
+      "sha256": "978aefb589d7f3e739df801d570cf4301c682ad0d8ceea174dcf9b5202333666",
+      "bytes": 303
+    },
+    {
+      "path": "src/app/ProgressContext.tsx",
+      "sha256": "47cc48edc3071613b4c82334a1340d030a563db995f73c582d21472b32c00595",
+      "bytes": 1490
+    },
+    {
+      "path": "src/app/router.tsx",
+      "sha256": "574c9233fd953caca96be33924e3cb207a33028ae147e787c1ae9bfaf6db4590",
+      "bytes": 1767
+    },
+    {
+      "path": "src/components/layout/Shell.tsx",
+      "sha256": "b2a84be2711c2c0f886b64e9a399b81040e4535b7ae1dc3896f46562a11bb52d",
+      "bytes": 4374
+    },
+    {
+      "path": "src/components/shared/UI.tsx",
+      "sha256": "37245ac7a25dbbcbc179c10757e9b854fe9d42c9480042770d7c80fdf7c0bb7b",
+      "bytes": 4561
+    },
+    {
+      "path": "src/data/claims.json",
+      "sha256": "5aa12b0e7fdb52a9f10e5d5425cc72223880aa89cff24b63bf9a58f5c5676540",
+      "bytes": 1086
+    },
+    {
+      "path": "src/data/concepts.json",
+      "sha256": "76b2abfa70c7ea91f8c686439e05f515750a6ecd9bc7fac58ee746b055b15437",
+      "bytes": 2743
+    },
+    {
+      "path": "src/data/dataset-manifest.json",
+      "sha256": "e43c6875ea569315f59fd2898b292cc93a2d4df9df8b656763ae073767de3ddd",
+      "bytes": 251
+    },
+    {
+      "path": "src/data/exercises.json",
+      "sha256": "87bf8f54e48d2fcb7a11f0ef2fb0035623db8a7d4c7021732894dec0b4be91a9",
+      "bytes": 1027
+    },
+    {
+      "path": "src/data/historical-cases.json",
+      "sha256": "fcfa0e8d721581906a001704935990789879e684e465eb40881f4fc9429b9fe5",
+      "bytes": 1320
+    },
+    {
+      "path": "src/data/knowledge-edges.json",
+      "sha256": "7f20ea68fbc24743fec09c954cbfe29504397410ba8dceede56c359f28c805f4",
+      "bytes": 1804
+    },
+    {
+      "path": "src/data/laws.json",
+      "sha256": "e60ac29b2f885659f20c3e1195883e741d48f561223df2c810ce9e62da4ac394",
+      "bytes": 12411
+    },
+    {
+      "path": "src/data/learning-paths.json",
+      "sha256": "234ba2810ea75738e2e6bd35230a233a5d0966579487b005808a251396dc944d",
+      "bytes": 362
+    },
+    {
+      "path": "src/data/research-findings.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "src/data/source-references.json",
+      "sha256": "59ae430a1316e15ae700016113381b5fbea3f9229867f217e98e761f1a2e1199",
+      "bytes": 2180
+    },
+    {
+      "path": "src/data/sources.json",
+      "sha256": "8a21efc28daa16fc5f52550763787e3f87a1e1242bfc559c9a19147d792a0fa4",
+      "bytes": 424
+    },
+    {
+      "path": "src/domain/entity-types.ts",
+      "sha256": "8ee4e61df42399e6617a160bd96fe0dc1122d16c2baa8ca09ca9f92c8fd17a75",
+      "bytes": 502
+    },
+    {
+      "path": "src/domain/relationship-types.ts",
+      "sha256": "0911754fe727c4f016e7545bbb457a0806ea4877f6780fa8ba1625ed468f4c55",
+      "bytes": 202
+    },
+    {
+      "path": "src/domain/research-status.ts",
+      "sha256": "8c5c3e61734b0ce448709037249bb7038679bc75e92a677bebdd756ef5be6f46",
+      "bytes": 651
+    },
+    {
+      "path": "src/domain/schemas.ts",
+      "sha256": "e692b9e7966f6d494a1230b09ec6204291463a0dd73c57e49335be3519898f01",
+      "bytes": 5232
+    },
+    {
+      "path": "src/domain/validator.ts",
+      "sha256": "6cec03aa7c9c24c02ee97e1ca5965db92032be1e430d0089b842617a64d024bb",
+      "bytes": 6581
+    },
+    {
+      "path": "src/main.tsx",
+      "sha256": "613eafc7c00b7f7b3fa6ae76fea90c58f1d10bbb96dd789b1b9022dc3ae2018e",
+      "bytes": 296
+    },
+    {
+      "path": "src/modules/behavior-atlas/BehaviorAtlas.tsx",
+      "sha256": "f68a7b0b5013434a4e6bd5468824e2f3f52b7bd138ff2f88a6f53df3bdf8c59b",
+      "bytes": 3114
+    },
+    {
+      "path": "src/modules/command-center/CommandCenter.tsx",
+      "sha256": "052921a14de4db1599c0756d0b63f4208eb0f1a3b55d24914bef72e9d3144c9e",
+      "bytes": 5121
+    },
+    {
+      "path": "src/modules/command-center/SearchPage.tsx",
+      "sha256": "f9b3b79215987664709da049ae60873fdb8d9e0cab21440794daff13c3cac37b",
+      "bytes": 1572
+    },
+    {
+      "path": "src/modules/command-center/SourceAndSettings.tsx",
+      "sha256": "591fe0fb84c7eb50194e0b3fdb4c9dff179955da6864d0613aaf1cb61288eea8",
+      "bytes": 3976
+    },
+    {
+      "path": "src/modules/historical-cases/HistoricalCases.tsx",
+      "sha256": "ed8abc8c77dd79e46a3e36afce3d1f202b496fffa4f11eb960c62aeaf24728e2",
+      "bytes": 3196
+    },
+    {
+      "path": "src/modules/intelligence-academy/IntelligenceAcademy.tsx",
+      "sha256": "22df9e5dc4f0eee17ff2ae4c9b55e48acb1d5f004b4eaead768ed0248d555550",
+      "bytes": 2450
+    },
+    {
+      "path": "src/modules/knowledge-network/KnowledgeNetwork.tsx",
+      "sha256": "132b7da4231db3f0ad0e79366dffd1be5f73e70fa5b68b8397cbee25eb29d545",
+      "bytes": 2303
+    },
+    {
+      "path": "src/modules/laws-library/LawsLibrary.tsx",
+      "sha256": "65413824668be3595b48fbcefda73dfd7ba92a75f71c8cb6e956027c2c1fdb94",
+      "bytes": 5370
+    },
+    {
+      "path": "src/modules/science-evidence/ScienceEvidence.tsx",
+      "sha256": "bb35e1065d6e5affa0285e51afd874a95d6486244497c11984a30b8a9b8031fb",
+      "bytes": 3053
+    },
+    {
+      "path": "src/modules/simulation-lab/SimulationLab.tsx",
+      "sha256": "baa82195b0203f2acde2e653b5dc0c71ec3e8e73bdd5ec967ced2ba53d895b96",
+      "bytes": 2541
+    },
+    {
+      "path": "src/services/import-export.ts",
+      "sha256": "953f948e1ff67b06bb4400fd539a0bfc6f6a584d92a46a11df9424392cd26862",
+      "bytes": 973
+    },
+    {
+      "path": "src/services/persistence.ts",
+      "sha256": "1b90f65d8bae1aca498c4e3562fb9941b272cc443a2b95876e4de3a21080ede6",
+      "bytes": 1371
+    },
+    {
+      "path": "src/services/relationships.ts",
+      "sha256": "9d6d547039c3ce974ad821b846315cf8a51f4ea8d0c9bcbcdcbbf15f400d7c0c",
+      "bytes": 542
+    },
+    {
+      "path": "src/services/repository.ts",
+      "sha256": "4ada348e3c563c9329336213407ba79733009af5a5c5fdea55f4f40f77dc055c",
+      "bytes": 2148
+    },
+    {
+      "path": "src/services/search.ts",
+      "sha256": "6eff6af7d97518518e0060f2b3d81dd121ec07cda995ab134a1ce61c71cdc20f",
+      "bytes": 1143
+    },
+    {
+      "path": "src/styles/global.css",
+      "sha256": "da826b0dedacfae532b6b948493a33f6713da402157df47d072d38389fdf8ae4",
+      "bytes": 28347
+    },
+    {
+      "path": "src/tests/persistence.test.ts",
+      "sha256": "14a66f82308b08bcbc7d620ae12991514c85bf96c8a7b22b100721f1aa0b90cb",
+      "bytes": 776
+    },
+    {
+      "path": "src/tests/search.test.ts",
+      "sha256": "746f0ba624c97df8a186e17b127cdc60b5277b393262cdc06e7865fffef3a115",
+      "bytes": 324
+    },
+    {
+      "path": "src/tests/validator.test.ts",
+      "sha256": "46159091c90055cd1c695f4234ea3695f526b4a61352531c9a84aa5a75533be3",
+      "bytes": 1958
+    },
+    {
+      "path": "tsconfig.json",
+      "sha256": "c3dddc80fbcbcbd4d21efb1ca058f667dc6db4b8ce9c73163c32ee83c8039038",
+      "bytes": 461
+    },
+    {
+      "path": "vite.config.ts",
+      "sha256": "d5e563ecf4de4721a57fe4012a9ce0dedd340eb61922b1a24277179d3f487784",
+      "bytes": 246
+    }
+  ]
+}

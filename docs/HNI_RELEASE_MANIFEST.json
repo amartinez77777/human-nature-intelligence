@@ -1,0 +1,141 @@
+{
+  "applicationVersion": "1.0.0-rc1",
+  "classification": "RELEASE_CANDIDATE_BUILD_UNVERIFIED",
+  "datasetSchemaVersion": 3,
+  "scenarioSchemaVersion": 1,
+  "userProgressSchemaVersion": 2,
+  "storageKey": "hni.user-progress.v1",
+  "baselineArchiveSha256": "0f86c7dd6375c82b1420d27403eaede8849180c53a0b13cce81d9bb2bf599559",
+  "sourcePdfSha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e",
+  "sourcePdfPageCount": 690,
+  "recordCounts": {
+    "laws.json": 18,
+    "concepts.json": 54,
+    "historical-cases.json": 18,
+    "claims.json": 38,
+    "sources.json": 12,
+    "source-references.json": 143,
+    "research-findings.json": 6,
+    "knowledge-edges.json": 127,
+    "exercises.json": 57,
+    "learning-paths.json": 3,
+    "concept-comparisons.json": 4,
+    "scenarios.json": 6
+  },
+  "featureInventory": {
+    "permanentModules": 8,
+    "graphNodes": 146,
+    "editorialEdges": 127,
+    "derivedAssociations": 189,
+    "totalGraphLinks": 316,
+    "scenarioSteps": 42,
+    "scenarioChoices": 120,
+    "scenarioEvidenceItems": 30,
+    "exerciseTypes": {
+      "evidence_classification": 3,
+      "multiple_choice": 51,
+      "multiple_interpretations": 3
+    },
+    "lessons": 18,
+    "preservedCanonicalDataAndResearch": true
+  },
+  "researchCoverage": {
+    "partiallyReviewedChapters": 18,
+    "fullyReviewedChapters": 0,
+    "reviewedSections": 23,
+    "totalSections": 60,
+    "pendingSections": 37,
+    "unassessedEvidenceQuestions": 8,
+    "bookLocatorBoundaryChecks": 132,
+    "sectionHeadingTextChecks": 60
+  },
+  "dataMigrations": [],
+  "filesModified": [
+    ".github/workflows/deploy.yml",
+    ".gitignore",
+    "README.md",
+    "docs/ARCHITECTURE.md",
+    "docs/DEPLOYMENT.md",
+    "docs/STAGE_HANDOFF.md",
+    "eslint.config.js",
+    "index.html",
+    "package.json",
+    "scripts/offline-tests.mjs",
+    "src/components/layout/Shell.tsx",
+    "src/modules/behavior-atlas/ComparisonExplorer.tsx",
+    "src/modules/command-center/CommandCenter.tsx",
+    "src/modules/command-center/SourceAndSettings.tsx",
+    "src/modules/intelligence-academy/IntelligenceAcademy.tsx",
+    "src/services/import-export.ts",
+    "src/services/progress-storage.ts",
+    "src/styles/global.css",
+    "tsconfig.json",
+    "vite.config.ts"
+  ],
+  "filesAdded": [
+    ".github/workflows/bootstrap-lockfile.yml",
+    ".github/workflows/release-build.yml",
+    ".nvmrc",
+    "docs/HNI_FINAL_QA_TEST_MATRIX.md",
+    "docs/HNI_FINAL_RELEASE_REPORT.md",
+    "docs/HNI_FINAL_RESEARCH_AND_PRESERVATION_AUDIT.md",
+    "docs/HNI_START_HERE_DEPLOYMENT_GUIDE.md",
+    "docs/HNI_START_HERE_DEPLOYMENT_GUIDE.txt",
+    "netlify.toml",
+    "public/favicon.svg",
+    "research/STAGE_10_PDF_STRUCTURE_AUDIT.json",
+    "research/STAGE_10_PRESERVATION_INVENTORY.json",
+    "scripts/browser-smoke.mjs",
+    "scripts/build-target.d.mts",
+    "scripts/build-target.mjs",
+    "scripts/stage10-tests.mjs",
+    "scripts/verify-build.mjs",
+    "src/services/academy-navigation.ts",
+    "docs/HNI_RELEASE_MANIFEST.json"
+  ],
+  "filesRemoved": [],
+  "testOutcomes": {
+    "baselineOffline": "119/119 PASS",
+    "finalOffline": "128/128 PASS",
+    "validateData": "PASS 0 errors 0 warnings",
+    "focusedNavigationTypecheck": "PASS",
+    "syntax": "59 TS/TSX/MTS files, 0 diagnostics",
+    "relativeImports": "192 resolved, 0 missing",
+    "css": "PASS parse",
+    "workflowAndToml": "PASS syntax only",
+    "npmInstall": "BLOCKED EAI_AGAIN exit 124",
+    "npmCi": "BLOCKED EUSAGE exit 1",
+    "fullTypecheck": "BLOCKED TS2688 exit 2",
+    "lint": "BLOCKED eslint missing exit 127",
+    "vitest": "BLOCKED exit 127",
+    "githubBuild": "BLOCKED vite missing exit 127",
+    "netlifyBuild": "BLOCKED vite missing exit 127",
+    "browser": "BLOCKED playwright missing exit 1",
+    "safari": "NOT RUN",
+    "deployment": "NOT RUN"
+  },
+  "qualityEvidenceCredit": {
+    "earned": 38,
+    "maximum": 100,
+    "meaning": "Evidence-limited lower bound, not actual rendered product score"
+  },
+  "buildArtifactsGenerated": [],
+  "deploymentTargets": {
+    "github": {
+      "base": "/human-nature-intelligence/ (configurable)",
+      "output": "dist/github"
+    },
+    "netlify": {
+      "base": "/",
+      "output": "dist/netlify"
+    }
+  },
+  "knownBlockers": [
+    "No genuine committed lockfile; registry DNS EAI_AGAIN",
+    "Full dependency-backed tests/builds and browser suite unexecuted",
+    "Actual Safari/device and public deployment unverified",
+    "Partial research coverage"
+  ],
+  "sourceArchive": "HNI_v1.0.0-rc1_SOURCE.zip",
+  "archiveChecksumNote": "Final ZIP checksum is provided in separate SHA256 file; embedding the ZIP checksum inside itself is circular."
+}

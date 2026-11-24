@@ -1,0 +1,183 @@
+{
+  "stage": "03",
+  "applicationVersion": "0.3.0",
+  "sourceZip": "HNI_STAGE_03_SOURCE.zip",
+  "previousZip": "HNI_STAGE_02_SOURCE(1).zip",
+  "schemaVersions": {
+    "researchDataset": 1,
+    "conceptComparisons": 1,
+    "personalProgress": 1
+  },
+  "userProgressStorageKey": "hni.user-progress.v1",
+  "pdf": {
+    "pageCount": 690,
+    "sha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e",
+    "matchToPrevious": true,
+    "publisher": "Viking/Penguin Random House",
+    "copyrightYear": 2018,
+    "printedPageMapping": "unverified"
+  },
+  "dataCounts": {
+    "laws": 18,
+    "concepts": 24,
+    "historicalCases": 8,
+    "claims": 18,
+    "sources": 1,
+    "sourceReferences": 46,
+    "researchFindings": 0,
+    "knowledgeEdges": 45,
+    "exercises": 17,
+    "learningPaths": 1,
+    "conceptComparisons": 4
+  },
+  "research": {
+    "law05To08Status": "partially_reviewed",
+    "indexedChapters": 18,
+    "partiallyReviewedChapters": 8,
+    "awaitingReviewChapters": 10,
+    "fullyReviewedChapters": 0,
+    "headingChecksThroughLaw08": 26,
+    "reviewedSectionsThroughLaw08": 13,
+    "totalSectionsThroughLaw08": 26,
+    "stage03HeadingsChecked": 12,
+    "stage03SectionsReviewed": 6,
+    "stage03SectionsTotal": 12,
+    "ledgerLinks": 136,
+    "newSourceReferences": 24,
+    "independentScientificFindings": 0
+  },
+  "tests": {
+    "validation": {
+      "status": "PASS",
+      "errorCount": 0,
+      "warnings": 10
+    },
+    "offline": {
+      "status": "PASS",
+      "passed": 32,
+      "failed": 0
+    },
+    "staticTypeScript": {
+      "status": "STATICALLY_INSPECTED",
+      "files": 39,
+      "parseErrors": 0,
+      "relativeImports": 107,
+      "brokenRelativeImports": 0
+    },
+    "staticCSS": {
+      "status": "STATICALLY_INSPECTED",
+      "rules": 343,
+      "errors": 0
+    },
+    "npmInstall": {
+      "status": "BLOCKED",
+      "reason": "one bounded registry attempt timed out; no genuine lockfile"
+    },
+    "npmCi": {
+      "status": "BLOCKED",
+      "reason": "missing committed package-lock.json"
+    },
+    "typecheck": {
+      "status": "BLOCKED",
+      "reason": "missing vite/client, vitest/globals"
+    },
+    "lint": {
+      "status": "BLOCKED",
+      "reason": "eslint not installed"
+    },
+    "vitest": {
+      "status": "BLOCKED",
+      "reason": "vitest not installed"
+    },
+    "productionBuild": {
+      "status": "BLOCKED",
+      "reason": "vite not installed"
+    },
+    "browser": {
+      "status": "NOT_RUN"
+    },
+    "mobileSafari": {
+      "status": "NOT_RUN"
+    },
+    "githubPages": {
+      "status": "NOT_RUN"
+    }
+  },
+  "preservedFeatures": [
+    "all 8 original modules",
+    "LAW-01–LAW-18 stable IDs",
+    "all Stage 02 authored records",
+    "bookmarks and recents",
+    "confirmed backup import",
+    "transactional local storage",
+    "source reference→source resolution",
+    "source-aware labels",
+    "search",
+    "HashRouter",
+    "GitHub Pages workflow"
+  ],
+  "addedFeatures": [
+    "4 LAW-05–LAW-08 editorial dossiers",
+    "12 concepts",
+    "4 historical case accounts",
+    "8 attributed claims",
+    "24 PDF references",
+    "24 graph edges",
+    "8 multiple-choice exercises",
+    "4 curated comparison pairs",
+    "Atlas comparison route",
+    "8-law homepage research coverage",
+    "search indexing enhancements"
+  ],
+  "filesModified": [
+    "README.md",
+    "docs/ARCHITECTURE.md",
+    "docs/DATA_DICTIONARY.md",
+    "docs/DEPLOYMENT.md",
+    "docs/STAGE_HANDOFF.md",
+    "package.json",
+    "research/COVERAGE_MATRIX.json",
+    "research/PDF_SOURCE_MANIFEST.json",
+    "research/SOURCE_LEDGER.json",
+    "scripts/offline-tests.mjs",
+    "scripts/validate-research.mjs",
+    "src/app/router.tsx",
+    "src/data/claims.json",
+    "src/data/concepts.json",
+    "src/data/exercises.json",
+    "src/data/historical-cases.json",
+    "src/data/knowledge-edges.json",
+    "src/data/laws.json",
+    "src/data/source-references.json",
+    "src/domain/schemas.ts",
+    "src/domain/validator.ts",
+    "src/modules/behavior-atlas/BehaviorAtlas.tsx",
+    "src/modules/command-center/CommandCenter.tsx",
+    "src/modules/historical-cases/HistoricalCases.tsx",
+    "src/modules/laws-library/LawsLibrary.tsx",
+    "src/services/coverage.ts",
+    "src/services/repository.ts",
+    "src/services/search.ts",
+    "src/styles/global.css",
+    "src/tests/validator.test.ts"
+  ],
+  "filesAdded": [
+    "docs/HNI_STAGE_03_BUILD_STATUS.md",
+    "docs/HNI_STAGE_03_BUILD_STATUS.txt",
+    "docs/HNI_STAGE_03_COMPARISON_AUDIT.md",
+    "docs/HNI_STAGE_03_COMPARISON_AUDIT.txt",
+    "docs/HNI_STAGE_03_HANDOFF.md",
+    "docs/HNI_STAGE_03_HANDOFF.txt",
+    "docs/HNI_STAGE_03_RESEARCH_OR_FEATURE_AUDIT.md",
+    "docs/HNI_STAGE_03_RESEARCH_OR_FEATURE_AUDIT.txt",
+    "research/STAGE_03_READING_LOG.json",
+    "scripts/validate-comparisons.mjs",
+    "src/data/concept-comparisons.json",
+    "src/modules/behavior-atlas/ConceptComparisons.tsx",
+    "src/tests/concept-comparisons.test.ts"
+  ],
+  "filesRemoved": [],
+  "releaseState": "RESEARCH_INTEGRATED_BUILD_UNVERIFIED",
+  "stage04Readiness": "CUMULATIVE_SOURCE_READY; DEPENDENCY_BUILD_GATE_BLOCKED",
+  "nextStage": "Laws 09–12; continue this source ZIP only"
+}

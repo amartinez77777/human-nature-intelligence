@@ -1,0 +1,26 @@
+name: 1 - Generate genuine npm lockfile
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  bootstrap:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+          package-manager-cache: false
+      - name: Generate and validate lockfile (no branch write)
+        run: |
+          npm install --package-lock-only --no-audit --no-fund
+          npm ci --no-audit --no-fund
+          npm run validate:data
+          npm run test:offline
+      - uses: actions/upload-artifact@v7
+        with:
+          name: HNI-genuine-lockfile
+          path: package-lock.json
+          if-no-files-found: error

@@ -1,0 +1,1109 @@
+{
+  "schemaVersion": 1,
+  "records": [
+    {
+      "entityId": "EXR-0001",
+      "referenceId": "REF-0002",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 38,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0002",
+      "referenceId": "REF-0002",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 38,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0003",
+      "referenceId": "REF-0007",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 42,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0004",
+      "referenceId": "REF-0005",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 52,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0005",
+      "referenceId": "REF-0010",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 60,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0006",
+      "referenceId": "REF-0015",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 96,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0006",
+      "referenceId": "REF-0133",
+      "sourceId": "SRC-0002",
+      "pdfPageIndexZeroBased": null,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0007",
+      "referenceId": "REF-0017",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 112,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0008",
+      "referenceId": "REF-0020",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 131,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0008",
+      "referenceId": "REF-0134",
+      "sourceId": "SRC-0003",
+      "pdfPageIndexZeroBased": null,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0009",
+      "referenceId": "REF-0018",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 117,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0010",
+      "referenceId": "REF-0023",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 148,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0011",
+      "referenceId": "REF-0023",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 148,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0012",
+      "referenceId": "REF-0029",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 168,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0013",
+      "referenceId": "REF-0029",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 168,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0014",
+      "referenceId": "REF-0035",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 191,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0015",
+      "referenceId": "REF-0035",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 191,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0015",
+      "referenceId": "REF-0135",
+      "sourceId": "SRC-0004",
+      "pdfPageIndexZeroBased": null,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0016",
+      "referenceId": "REF-0041",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 224,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0017",
+      "referenceId": "REF-0041",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 224,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0018",
+      "referenceId": "REF-0047",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 255,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0018",
+      "referenceId": "REF-0048",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 255,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0019",
+      "referenceId": "REF-0047",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 255,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0019",
+      "referenceId": "REF-0049",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 264,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0020",
+      "referenceId": "REF-0047",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 255,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0020",
+      "referenceId": "REF-0050",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 273,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0021",
+      "referenceId": "REF-0053",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 288,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0021",
+      "referenceId": "REF-0054",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 288,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0022",
+      "referenceId": "REF-0053",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 288,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0022",
+      "referenceId": "REF-0055",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 298,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0023",
+      "referenceId": "REF-0053",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 288,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0023",
+      "referenceId": "REF-0056",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 302,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0024",
+      "referenceId": "REF-0060",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 321,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0024",
+      "referenceId": "REF-0061",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 321,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0025",
+      "referenceId": "REF-0060",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 321,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0025",
+      "referenceId": "REF-0062",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 332,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0026",
+      "referenceId": "REF-0060",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 321,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0026",
+      "referenceId": "REF-0063",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 342,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0027",
+      "referenceId": "REF-0066",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 352,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0027",
+      "referenceId": "REF-0067",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 352,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0028",
+      "referenceId": "REF-0066",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 352,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0028",
+      "referenceId": "REF-0068",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 362,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0028",
+      "referenceId": "REF-0136",
+      "sourceId": "SRC-0005",
+      "pdfPageIndexZeroBased": null,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0029",
+      "referenceId": "REF-0066",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 352,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0029",
+      "referenceId": "REF-0069",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 368,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0030",
+      "referenceId": "REF-0073",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 391,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0030",
+      "referenceId": "REF-0080",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 420,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0031",
+      "referenceId": "REF-0073",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 391,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0031",
+      "referenceId": "REF-0080",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 420,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0032",
+      "referenceId": "REF-0073",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 391,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0032",
+      "referenceId": "REF-0076",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 403,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0033",
+      "referenceId": "REF-0083",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 429,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0033",
+      "referenceId": "REF-0090",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 465,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0034",
+      "referenceId": "REF-0083",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 429,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0034",
+      "referenceId": "REF-0090",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 465,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0035",
+      "referenceId": "REF-0083",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 429,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0035",
+      "referenceId": "REF-0086",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 441,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0036",
+      "referenceId": "REF-0093",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 480,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0036",
+      "referenceId": "REF-0100",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 510,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0037",
+      "referenceId": "REF-0093",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 480,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0037",
+      "referenceId": "REF-0100",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 510,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0038",
+      "referenceId": "REF-0093",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 480,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0038",
+      "referenceId": "REF-0096",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 492,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0039",
+      "referenceId": "REF-0103",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 518,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0039",
+      "referenceId": "REF-0112",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 565,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0040",
+      "referenceId": "REF-0103",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 518,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0040",
+      "referenceId": "REF-0112",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 565,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0041",
+      "referenceId": "REF-0103",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 518,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0041",
+      "referenceId": "REF-0112",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 565,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0042",
+      "referenceId": "REF-0113",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 567,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0042",
+      "referenceId": "REF-0122",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 613,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0042",
+      "referenceId": "REF-0137",
+      "sourceId": "SRC-0006",
+      "pdfPageIndexZeroBased": null,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0043",
+      "referenceId": "REF-0113",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 567,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0043",
+      "referenceId": "REF-0122",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 613,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0044",
+      "referenceId": "REF-0113",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 567,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0044",
+      "referenceId": "REF-0122",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 613,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0045",
+      "referenceId": "REF-0123",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 615,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0045",
+      "referenceId": "REF-0132",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 640,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0045",
+      "referenceId": "REF-0138",
+      "sourceId": "SRC-0007",
+      "pdfPageIndexZeroBased": null,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0046",
+      "referenceId": "REF-0123",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 615,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0046",
+      "referenceId": "REF-0132",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 640,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0047",
+      "referenceId": "REF-0123",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 615,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0047",
+      "referenceId": "REF-0132",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 640,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0048",
+      "referenceId": "REF-0015",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 96,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0048",
+      "referenceId": "REF-0133",
+      "sourceId": "SRC-0002",
+      "pdfPageIndexZeroBased": null,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0049",
+      "referenceId": "REF-0015",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 96,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0049",
+      "referenceId": "REF-0020",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 131,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0050",
+      "referenceId": "REF-0010",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 60,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0050",
+      "referenceId": "REF-0035",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 191,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0051",
+      "referenceId": "REF-0023",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 148,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0051",
+      "referenceId": "REF-0053",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 288,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0052",
+      "referenceId": "REF-0004",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 21,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0052",
+      "referenceId": "REF-0143",
+      "sourceId": "SRC-0012",
+      "pdfPageIndexZeroBased": null,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0053",
+      "referenceId": "REF-0133",
+      "sourceId": "SRC-0002",
+      "pdfPageIndexZeroBased": null,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0054",
+      "referenceId": "REF-0135",
+      "sourceId": "SRC-0004",
+      "pdfPageIndexZeroBased": null,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0055",
+      "referenceId": "REF-0029",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 168,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0055",
+      "referenceId": "REF-0060",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 321,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0055",
+      "referenceId": "REF-0083",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 429,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0055",
+      "referenceId": "REF-0093",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 480,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0056",
+      "referenceId": "REF-0018",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 117,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0056",
+      "referenceId": "REF-0134",
+      "sourceId": "SRC-0003",
+      "pdfPageIndexZeroBased": null,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "EXR-0057",
+      "referenceId": "REF-0138",
+      "sourceId": "SRC-0007",
+      "pdfPageIndexZeroBased": null,
+      "status": "editorial_instructional_link",
+      "notes": "Reference supports the mechanism or distinction, not a fictional event. External findings retain inherited review limitations."
+    },
+    {
+      "entityId": "LES-0001",
+      "referenceId": "REF-0001",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 21,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0001",
+      "referenceId": "REF-0007",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 42,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0005",
+      "referenceId": "REF-0023",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 148,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0005",
+      "referenceId": "REF-0024",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 153,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0006",
+      "referenceId": "REF-0029",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 168,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0006",
+      "referenceId": "REF-0030",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 173,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0008",
+      "referenceId": "REF-0041",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 224,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0008",
+      "referenceId": "REF-0042",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 231,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0009",
+      "referenceId": "REF-0047",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 255,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0009",
+      "referenceId": "REF-0048",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 255,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0011",
+      "referenceId": "REF-0060",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 321,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0011",
+      "referenceId": "REF-0061",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 321,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0013",
+      "referenceId": "REF-0073",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 391,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0013",
+      "referenceId": "REF-0074",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 394,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0018",
+      "referenceId": "REF-0123",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 615,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0018",
+      "referenceId": "REF-0124",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 617,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0002",
+      "referenceId": "REF-0005",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 52,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0002",
+      "referenceId": "REF-0010",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 60,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0003",
+      "referenceId": "REF-0014",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 85,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0003",
+      "referenceId": "REF-0015",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 96,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0004",
+      "referenceId": "REF-0018",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 117,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0004",
+      "referenceId": "REF-0019",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 125,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0007",
+      "referenceId": "REF-0035",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 191,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0007",
+      "referenceId": "REF-0036",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 197,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0010",
+      "referenceId": "REF-0053",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 288,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0010",
+      "referenceId": "REF-0054",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 288,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0012",
+      "referenceId": "REF-0066",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 352,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0012",
+      "referenceId": "REF-0067",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 352,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0016",
+      "referenceId": "REF-0103",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 518,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0016",
+      "referenceId": "REF-0104",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 520,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0014",
+      "referenceId": "REF-0083",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 429,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0014",
+      "referenceId": "REF-0084",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 432,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0015",
+      "referenceId": "REF-0093",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 480,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0015",
+      "referenceId": "REF-0094",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 483,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0017",
+      "referenceId": "REF-0113",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 567,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    },
+    {
+      "entityId": "LES-0017",
+      "referenceId": "REF-0114",
+      "sourceId": "SRC-0001",
+      "pdfPageIndexZeroBased": 572,
+      "status": "editorial_instructional_link",
+      "notes": "Lesson is editorial synthesis, not additional research coverage."
+    }
+  ]
+}

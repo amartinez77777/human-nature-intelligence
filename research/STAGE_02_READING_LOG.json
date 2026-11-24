@@ -1,0 +1,402 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "SRC-0001",
+  "pdfSha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e",
+  "pdfPages": 690,
+  "pageNumberConvention": "pdfPageIndex is zero-based; viewer page is index + 1. Printed pages unverified.",
+  "scope": "Headings and sample passages are verified; no assertion of a full page-by-page book review or external historical/scientific verification.",
+  "sections": [
+    {
+      "lawId": "LAW-01",
+      "section": "The Inner Athena",
+      "startPdfPageIndex": 21,
+      "endPdfPageIndex": 36,
+      "spotChecks": [
+        {
+          "pdfPageIndex": 21,
+          "viewerPage": 22,
+          "extractedCharacters": 1682,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 28,
+          "viewerPage": 29,
+          "extractedCharacters": 2573,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 36,
+          "viewerPage": 37,
+          "extractedCharacters": 2538,
+          "textLayerPresent": true
+        }
+      ],
+      "sectionStatus": "substantively_reviewed",
+      "historicalOrScienceIndependentlyVerified": false
+    },
+    {
+      "lawId": "LAW-01",
+      "section": "Step One: Recognize the Biases",
+      "startPdfPageIndex": 37,
+      "endPdfPageIndex": 40,
+      "spotChecks": [
+        {
+          "pdfPageIndex": 37,
+          "viewerPage": 38,
+          "extractedCharacters": 2302,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 38,
+          "viewerPage": 39,
+          "extractedCharacters": 2435,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 40,
+          "viewerPage": 41,
+          "extractedCharacters": 1959,
+          "textLayerPresent": true
+        }
+      ],
+      "sectionStatus": "substantively_reviewed",
+      "historicalOrScienceIndependentlyVerified": false
+    },
+    {
+      "lawId": "LAW-01",
+      "section": "Step Two: Beware the Inflaming Factors",
+      "startPdfPageIndex": 41,
+      "endPdfPageIndex": 46,
+      "spotChecks": [
+        {
+          "pdfPageIndex": 41,
+          "viewerPage": 42,
+          "extractedCharacters": 2373,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 43,
+          "viewerPage": 44,
+          "extractedCharacters": 2432,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 46,
+          "viewerPage": 47,
+          "extractedCharacters": 2266,
+          "textLayerPresent": true
+        }
+      ],
+      "sectionStatus": "selected_passages_only",
+      "historicalOrScienceIndependentlyVerified": false
+    },
+    {
+      "lawId": "LAW-01",
+      "section": "Step Three: Strategies Toward Bringing Out the Rational Self",
+      "startPdfPageIndex": 47,
+      "endPdfPageIndex": 51,
+      "spotChecks": [
+        {
+          "pdfPageIndex": 47,
+          "viewerPage": 48,
+          "extractedCharacters": 2233,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 49,
+          "viewerPage": 50,
+          "extractedCharacters": 2603,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 51,
+          "viewerPage": 52,
+          "extractedCharacters": 1525,
+          "textLayerPresent": true
+        }
+      ],
+      "sectionStatus": "selected_passages_only",
+      "historicalOrScienceIndependentlyVerified": false
+    },
+    {
+      "lawId": "LAW-02",
+      "section": "The Narcissistic Spectrum",
+      "startPdfPageIndex": 52,
+      "endPdfPageIndex": 64,
+      "spotChecks": [
+        {
+          "pdfPageIndex": 52,
+          "viewerPage": 53,
+          "extractedCharacters": 1601,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 58,
+          "viewerPage": 59,
+          "extractedCharacters": 2640,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 64,
+          "viewerPage": 65,
+          "extractedCharacters": 2519,
+          "textLayerPresent": true
+        }
+      ],
+      "sectionStatus": "substantively_reviewed",
+      "historicalOrScienceIndependentlyVerified": false
+    },
+    {
+      "lawId": "LAW-02",
+      "section": "Four Examples of Narcissistic Types",
+      "startPdfPageIndex": 65,
+      "endPdfPageIndex": 84,
+      "spotChecks": [
+        {
+          "pdfPageIndex": 65,
+          "viewerPage": 66,
+          "extractedCharacters": 2253,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 74,
+          "viewerPage": 75,
+          "extractedCharacters": 2554,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 84,
+          "viewerPage": 85,
+          "extractedCharacters": 1579,
+          "textLayerPresent": true
+        }
+      ],
+      "sectionStatus": "selected_passages_only",
+      "historicalOrScienceIndependentlyVerified": false
+    },
+    {
+      "lawId": "LAW-03",
+      "section": "The Second Language",
+      "startPdfPageIndex": 85,
+      "endPdfPageIndex": 95,
+      "spotChecks": [
+        {
+          "pdfPageIndex": 85,
+          "viewerPage": 86,
+          "extractedCharacters": 1657,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 90,
+          "viewerPage": 91,
+          "extractedCharacters": 2307,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 95,
+          "viewerPage": 96,
+          "extractedCharacters": 2502,
+          "textLayerPresent": true
+        }
+      ],
+      "sectionStatus": "substantively_reviewed",
+      "historicalOrScienceIndependentlyVerified": false
+    },
+    {
+      "lawId": "LAW-03",
+      "section": "Observational Skills",
+      "startPdfPageIndex": 96,
+      "endPdfPageIndex": 99,
+      "spotChecks": [
+        {
+          "pdfPageIndex": 96,
+          "viewerPage": 97,
+          "extractedCharacters": 2409,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 97,
+          "viewerPage": 98,
+          "extractedCharacters": 2478,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 99,
+          "viewerPage": 100,
+          "extractedCharacters": 2394,
+          "textLayerPresent": true
+        }
+      ],
+      "sectionStatus": "substantively_reviewed",
+      "historicalOrScienceIndependentlyVerified": false
+    },
+    {
+      "lawId": "LAW-03",
+      "section": "Decoding Keys",
+      "startPdfPageIndex": 100,
+      "endPdfPageIndex": 111,
+      "spotChecks": [
+        {
+          "pdfPageIndex": 100,
+          "viewerPage": 101,
+          "extractedCharacters": 2391,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 105,
+          "viewerPage": 106,
+          "extractedCharacters": 2628,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 111,
+          "viewerPage": 112,
+          "extractedCharacters": 2599,
+          "textLayerPresent": true
+        }
+      ],
+      "sectionStatus": "selected_passages_only",
+      "historicalOrScienceIndependentlyVerified": false
+    },
+    {
+      "lawId": "LAW-03",
+      "section": "The Art of Impression Management",
+      "startPdfPageIndex": 112,
+      "endPdfPageIndex": 116,
+      "spotChecks": [
+        {
+          "pdfPageIndex": 112,
+          "viewerPage": 113,
+          "extractedCharacters": 2476,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 114,
+          "viewerPage": 115,
+          "extractedCharacters": 2538,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 116,
+          "viewerPage": 117,
+          "extractedCharacters": 993,
+          "textLayerPresent": true
+        }
+      ],
+      "sectionStatus": "selected_passages_only",
+      "historicalOrScienceIndependentlyVerified": false
+    },
+    {
+      "lawId": "LAW-04",
+      "section": "The Pattern",
+      "startPdfPageIndex": 117,
+      "endPdfPageIndex": 130,
+      "spotChecks": [
+        {
+          "pdfPageIndex": 117,
+          "viewerPage": 118,
+          "extractedCharacters": 1605,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 123,
+          "viewerPage": 124,
+          "extractedCharacters": 2618,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 130,
+          "viewerPage": 131,
+          "extractedCharacters": 2458,
+          "textLayerPresent": true
+        }
+      ],
+      "sectionStatus": "substantively_reviewed",
+      "historicalOrScienceIndependentlyVerified": false
+    },
+    {
+      "lawId": "LAW-04",
+      "section": "Character Signs",
+      "startPdfPageIndex": 131,
+      "endPdfPageIndex": 136,
+      "spotChecks": [
+        {
+          "pdfPageIndex": 131,
+          "viewerPage": 132,
+          "extractedCharacters": 2438,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 133,
+          "viewerPage": 134,
+          "extractedCharacters": 2508,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 136,
+          "viewerPage": 137,
+          "extractedCharacters": 2423,
+          "textLayerPresent": true
+        }
+      ],
+      "sectionStatus": "substantively_reviewed",
+      "historicalOrScienceIndependentlyVerified": false
+    },
+    {
+      "lawId": "LAW-04",
+      "section": "Toxic Types",
+      "startPdfPageIndex": 137,
+      "endPdfPageIndex": 142,
+      "spotChecks": [
+        {
+          "pdfPageIndex": 137,
+          "viewerPage": 138,
+          "extractedCharacters": 2323,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 139,
+          "viewerPage": 140,
+          "extractedCharacters": 2551,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 142,
+          "viewerPage": 143,
+          "extractedCharacters": 2485,
+          "textLayerPresent": true
+        }
+      ],
+      "sectionStatus": "selected_passages_only",
+      "historicalOrScienceIndependentlyVerified": false
+    },
+    {
+      "lawId": "LAW-04",
+      "section": "The Superior Character",
+      "startPdfPageIndex": 143,
+      "endPdfPageIndex": 147,
+      "spotChecks": [
+        {
+          "pdfPageIndex": 143,
+          "viewerPage": 144,
+          "extractedCharacters": 2317,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 145,
+          "viewerPage": 146,
+          "extractedCharacters": 2549,
+          "textLayerPresent": true
+        },
+        {
+          "pdfPageIndex": 147,
+          "viewerPage": 148,
+          "extractedCharacters": 1412,
+          "textLayerPresent": true
+        }
+      ],
+      "sectionStatus": "selected_passages_only",
+      "historicalOrScienceIndependentlyVerified": false
+    }
+  ]
+}

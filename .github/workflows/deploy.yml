@@ -1,0 +1,50 @@
+name: 3 - Verify and publish GitHub Pages
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: hni-pages-production
+  cancel-in-progress: false
+jobs:
+  verify:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: read
+    timeout-minutes: 25
+    env:
+      HNI_GITHUB_BASE: /${{ github.event.repository.name }}/
+    steps:
+      - uses: actions/checkout@v7
+      - name: Require committed lockfile
+        run: git ls-files --error-unmatch package-lock.json
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+          cache-dependency-path: package-lock.json
+      - run: npm ci --no-audit --no-fund
+      - run: npm run verify
+      - run: npm run build:github && npm run build:netlify
+      - run: npx playwright install --with-deps chromium
+      - run: npm run test:browser
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist/github/
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    needs: verify
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - name: Deploy verified GitHub Pages artifact
+        id: deployment
+        uses: actions/deploy-pages@v4

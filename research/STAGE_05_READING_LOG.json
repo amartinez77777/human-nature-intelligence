@@ -1,0 +1,346 @@
+{
+  "schemaVersion": 1,
+  "pdfSha256": "e3ce8025644078a192204f200b428e8f8346c7108571307f414b40a92c175c7e",
+  "pdfPages": 690,
+  "scope": [
+    "LAW-13",
+    "LAW-14",
+    "LAW-15"
+  ],
+  "pdfPageIndexConvention": "zero-based PDF index, viewer page is index + 1, printed page unverified",
+  "method": "Direct book PDF text extraction; extensive opening narrative plus targeted chapter-middle and final passages. The other named sections were not exhaustively examined.",
+  "correctedPriorMetadata": [
+    {
+      "lawId": "LAW-14",
+      "section": "The Reality Group",
+      "oldIndex": 463,
+      "correctedIndex": 472,
+      "reason": "Prior location was a forward mention rather than the section heading; heading actually appears on PDF viewer page 473."
+    }
+  ],
+  "sections": [
+    {
+      "lawId": "LAW-13",
+      "section": "The Voice",
+      "startPdfPageIndex": 391,
+      "endPdfPageIndex": 414,
+      "headingVerified": true,
+      "substantiveReviewCredited": true,
+      "reviewNotes": "Opening narrative, relevant interpretation and selected middle passages analyzed; not full paragraph-by-paragraph verification."
+    },
+    {
+      "lawId": "LAW-13",
+      "section": "Strategies for Developing a High Sense of Purpose",
+      "startPdfPageIndex": 415,
+      "endPdfPageIndex": 421,
+      "headingVerified": true,
+      "substantiveReviewCredited": false,
+      "reviewNotes": "Heading location and selected arguments spot-read; substantive review still pending."
+    },
+    {
+      "lawId": "LAW-13",
+      "section": "The Lure of False Purposes",
+      "startPdfPageIndex": 422,
+      "endPdfPageIndex": 428,
+      "headingVerified": true,
+      "substantiveReviewCredited": false,
+      "reviewNotes": "Heading location and selected arguments spot-read; substantive review still pending."
+    },
+    {
+      "lawId": "LAW-14",
+      "section": "An Experiment in Human Nature",
+      "startPdfPageIndex": 429,
+      "endPdfPageIndex": 464,
+      "headingVerified": true,
+      "substantiveReviewCredited": true,
+      "reviewNotes": "Opening narrative, relevant interpretation and selected middle passages analyzed; not full paragraph-by-paragraph verification."
+    },
+    {
+      "lawId": "LAW-14",
+      "section": "The Court and Its Courtiers",
+      "startPdfPageIndex": 465,
+      "endPdfPageIndex": 471,
+      "headingVerified": true,
+      "substantiveReviewCredited": false,
+      "reviewNotes": "Heading location and selected arguments spot-read; substantive review still pending."
+    },
+    {
+      "lawId": "LAW-14",
+      "section": "The Reality Group",
+      "startPdfPageIndex": 472,
+      "endPdfPageIndex": 479,
+      "headingVerified": true,
+      "substantiveReviewCredited": false,
+      "reviewNotes": "Heading location and selected arguments spot-read; substantive review still pending."
+    },
+    {
+      "lawId": "LAW-15",
+      "section": "The Entitlement Curse",
+      "startPdfPageIndex": 480,
+      "endPdfPageIndex": 506,
+      "headingVerified": true,
+      "substantiveReviewCredited": true,
+      "reviewNotes": "Opening narrative, relevant interpretation and selected middle passages analyzed; not full paragraph-by-paragraph verification."
+    },
+    {
+      "lawId": "LAW-15",
+      "section": "Strategies for Establishing Authority",
+      "startPdfPageIndex": 507,
+      "endPdfPageIndex": 513,
+      "headingVerified": true,
+      "substantiveReviewCredited": false,
+      "reviewNotes": "Heading location and selected arguments spot-read; substantive review still pending."
+    },
+    {
+      "lawId": "LAW-15",
+      "section": "The Inner Authority",
+      "startPdfPageIndex": 514,
+      "endPdfPageIndex": 517,
+      "headingVerified": true,
+      "substantiveReviewCredited": false,
+      "reviewNotes": "Heading location and selected arguments spot-read; substantive review still pending."
+    }
+  ],
+  "pageChecks": [
+    {
+      "lawId": "LAW-13",
+      "pdfPageIndex": 391,
+      "viewerPage": 392,
+      "textCharacters": 1616,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-13",
+      "pdfPageIndex": 394,
+      "viewerPage": 395,
+      "textCharacters": 2451,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-13",
+      "pdfPageIndex": 398,
+      "viewerPage": 399,
+      "textCharacters": 2447,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-13",
+      "pdfPageIndex": 403,
+      "viewerPage": 404,
+      "textCharacters": 2325,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-13",
+      "pdfPageIndex": 407,
+      "viewerPage": 408,
+      "textCharacters": 2282,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-13",
+      "pdfPageIndex": 411,
+      "viewerPage": 412,
+      "textCharacters": 2494,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-13",
+      "pdfPageIndex": 415,
+      "viewerPage": 416,
+      "textCharacters": 2375,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-13",
+      "pdfPageIndex": 420,
+      "viewerPage": 421,
+      "textCharacters": 2443,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-13",
+      "pdfPageIndex": 422,
+      "viewerPage": 423,
+      "textCharacters": 2276,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-13",
+      "pdfPageIndex": 426,
+      "viewerPage": 427,
+      "textCharacters": 2520,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-14",
+      "pdfPageIndex": 429,
+      "viewerPage": 430,
+      "textCharacters": 1606,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-14",
+      "pdfPageIndex": 432,
+      "viewerPage": 433,
+      "textCharacters": 2354,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-14",
+      "pdfPageIndex": 435,
+      "viewerPage": 436,
+      "textCharacters": 2387,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-14",
+      "pdfPageIndex": 441,
+      "viewerPage": 442,
+      "textCharacters": 2218,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-14",
+      "pdfPageIndex": 447,
+      "viewerPage": 448,
+      "textCharacters": 2240,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-14",
+      "pdfPageIndex": 451,
+      "viewerPage": 452,
+      "textCharacters": 2212,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-14",
+      "pdfPageIndex": 458,
+      "viewerPage": 459,
+      "textCharacters": 2443,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-14",
+      "pdfPageIndex": 465,
+      "viewerPage": 466,
+      "textCharacters": 2313,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-14",
+      "pdfPageIndex": 472,
+      "viewerPage": 473,
+      "textCharacters": 2429,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-14",
+      "pdfPageIndex": 475,
+      "viewerPage": 476,
+      "textCharacters": 2541,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-15",
+      "pdfPageIndex": 480,
+      "viewerPage": 481,
+      "textCharacters": 1649,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-15",
+      "pdfPageIndex": 483,
+      "viewerPage": 484,
+      "textCharacters": 2470,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-15",
+      "pdfPageIndex": 487,
+      "viewerPage": 488,
+      "textCharacters": 2198,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-15",
+      "pdfPageIndex": 492,
+      "viewerPage": 493,
+      "textCharacters": 2458,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-15",
+      "pdfPageIndex": 498,
+      "viewerPage": 499,
+      "textCharacters": 2396,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-15",
+      "pdfPageIndex": 502,
+      "viewerPage": 503,
+      "textCharacters": 2537,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-15",
+      "pdfPageIndex": 507,
+      "viewerPage": 508,
+      "textCharacters": 2289,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-15",
+      "pdfPageIndex": 510,
+      "viewerPage": 511,
+      "textCharacters": 2414,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-15",
+      "pdfPageIndex": 514,
+      "viewerPage": 515,
+      "textCharacters": 2330,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    },
+    {
+      "lawId": "LAW-15",
+      "pdfPageIndex": 516,
+      "viewerPage": 517,
+      "textCharacters": 2566,
+      "hasText": true,
+      "reviewScope": "Direct targeted textual analysis, not exhaustive page audit"
+    }
+  ]
+}

@@ -1,0 +1,822 @@
+{
+  "schemaVersion": 1,
+  "chapters": [
+    {
+      "lawId": "LAW-01",
+      "pdfStartIndex": 21,
+      "pdfEndIndex": 51,
+      "pdfStartPageOneBased": 22,
+      "pdfEndPageOneBased": 52,
+      "internalSectionsIdentified": [
+        {
+          "title": "The Inner Athena",
+          "pdfPageOneBased": 22,
+          "pdfPageIndexZeroBased": 21
+        },
+        {
+          "title": "Step One: Recognize the Biases",
+          "pdfPageOneBased": 38,
+          "pdfPageIndexZeroBased": 37
+        },
+        {
+          "title": "Step Two: Beware the Inflaming Factors",
+          "pdfPageOneBased": 42,
+          "pdfPageIndexZeroBased": 41
+        },
+        {
+          "title": "Step Three: Strategies Toward Bringing Out the Rational Self",
+          "pdfPageOneBased": 48,
+          "pdfPageIndexZeroBased": 47
+        }
+      ],
+      "sectionsReviewed": [
+        "The Inner Athena",
+        "Step One: Recognize the Biases"
+      ],
+      "sectionsRemaining": [
+        "Step Two: Beware the Inflaming Factors",
+        "Step Three: Strategies Toward Bringing Out the Rational Self"
+      ],
+      "extractionIssues": [],
+      "editorialStatus": "partially_reviewed",
+      "reviewNotes": "Stage 02: 4 of 4 section headings and selected passages inspected. 2 sections have sufficient prior or current reading to count as substantively reviewed, but chapter-wide exhaustive editorial reading, independent historical verification, and scientific assessment remain unfinished. Added an attributed, research-linked law dossier.",
+      "sectionHeadingVerification": {
+        "method": "PyMuPDF text-layer passage check with section-offset and neighboring text inspection",
+        "verifiedHeadings": 4,
+        "totalHeadings": 4,
+        "isFullChapterTextReviewed": false
+      },
+      "sourceReadScope": "Full chapter text available and sampled by subsection. Individual examples are source-grounded; unexamined sentences and independent factual/evidence claims are NOT certified.",
+      "sectionsSpotChecked": [
+        "The Inner Athena",
+        "Step One: Recognize the Biases",
+        "Step Two: Beware the Inflaming Factors",
+        "Step Three: Strategies Toward Bringing Out the Rational Self"
+      ]
+    },
+    {
+      "lawId": "LAW-02",
+      "pdfStartIndex": 52,
+      "pdfEndIndex": 84,
+      "pdfStartPageOneBased": 53,
+      "pdfEndPageOneBased": 85,
+      "internalSectionsIdentified": [
+        {
+          "title": "The Narcissistic Spectrum",
+          "pdfPageOneBased": 53,
+          "pdfPageIndexZeroBased": 52
+        },
+        {
+          "title": "Four Examples of Narcissistic Types",
+          "pdfPageOneBased": 66,
+          "pdfPageIndexZeroBased": 65
+        }
+      ],
+      "sectionsReviewed": [
+        "The Narcissistic Spectrum"
+      ],
+      "sectionsRemaining": [
+        "Four Examples of Narcissistic Types"
+      ],
+      "extractionIssues": [],
+      "editorialStatus": "partially_reviewed",
+      "reviewNotes": "Stage 02: 2 of 2 section headings and selected passages inspected. 1 sections have sufficient prior or current reading to count as substantively reviewed, but chapter-wide exhaustive editorial reading, independent historical verification, and scientific assessment remain unfinished. Added an attributed, research-linked law dossier.",
+      "sectionHeadingVerification": {
+        "method": "PyMuPDF text-layer passage check with section-offset and neighboring text inspection",
+        "verifiedHeadings": 2,
+        "totalHeadings": 2,
+        "isFullChapterTextReviewed": false
+      },
+      "sourceReadScope": "Full chapter text available and sampled by subsection. Individual examples are source-grounded; unexamined sentences and independent factual/evidence claims are NOT certified.",
+      "sectionsSpotChecked": [
+        "The Narcissistic Spectrum",
+        "Four Examples of Narcissistic Types"
+      ]
+    },
+    {
+      "lawId": "LAW-03",
+      "pdfStartIndex": 85,
+      "pdfEndIndex": 116,
+      "pdfStartPageOneBased": 86,
+      "pdfEndPageOneBased": 117,
+      "internalSectionsIdentified": [
+        {
+          "title": "The Second Language",
+          "pdfPageOneBased": 86,
+          "pdfPageIndexZeroBased": 85
+        },
+        {
+          "title": "Observational Skills",
+          "pdfPageOneBased": 97,
+          "pdfPageIndexZeroBased": 96
+        },
+        {
+          "title": "Decoding Keys",
+          "pdfPageOneBased": 101,
+          "pdfPageIndexZeroBased": 100
+        },
+        {
+          "title": "The Art of Impression Management",
+          "pdfPageOneBased": 113,
+          "pdfPageIndexZeroBased": 112
+        }
+      ],
+      "sectionsReviewed": [
+        "The Second Language",
+        "Observational Skills"
+      ],
+      "sectionsRemaining": [
+        "Decoding Keys",
+        "The Art of Impression Management"
+      ],
+      "extractionIssues": [],
+      "editorialStatus": "partially_reviewed",
+      "reviewNotes": "Stage 02: 4 of 4 section headings and selected passages inspected. 2 sections have sufficient prior or current reading to count as substantively reviewed, but chapter-wide exhaustive editorial reading, independent historical verification, and scientific assessment remain unfinished. Added an attributed, research-linked law dossier.",
+      "sectionHeadingVerification": {
+        "method": "PyMuPDF text-layer passage check with section-offset and neighboring text inspection",
+        "verifiedHeadings": 4,
+        "totalHeadings": 4,
+        "isFullChapterTextReviewed": false
+      },
+      "sourceReadScope": "Full chapter text available and sampled by subsection. Individual examples are source-grounded; unexamined sentences and independent factual/evidence claims are NOT certified.",
+      "sectionsSpotChecked": [
+        "The Second Language",
+        "Observational Skills",
+        "Decoding Keys",
+        "The Art of Impression Management"
+      ]
+    },
+    {
+      "lawId": "LAW-04",
+      "pdfStartIndex": 117,
+      "pdfEndIndex": 147,
+      "pdfStartPageOneBased": 118,
+      "pdfEndPageOneBased": 148,
+      "internalSectionsIdentified": [
+        {
+          "title": "The Pattern",
+          "pdfPageOneBased": 118,
+          "pdfPageIndexZeroBased": 117
+        },
+        {
+          "title": "Character Signs",
+          "pdfPageOneBased": 132,
+          "pdfPageIndexZeroBased": 131
+        },
+        {
+          "title": "Toxic Types",
+          "pdfPageOneBased": 138,
+          "pdfPageIndexZeroBased": 137
+        },
+        {
+          "title": "The Superior Character",
+          "pdfPageOneBased": 144,
+          "pdfPageIndexZeroBased": 143
+        }
+      ],
+      "sectionsReviewed": [
+        "The Pattern",
+        "Character Signs"
+      ],
+      "sectionsRemaining": [
+        "Toxic Types",
+        "The Superior Character"
+      ],
+      "extractionIssues": [],
+      "editorialStatus": "partially_reviewed",
+      "reviewNotes": "Stage 02: 4 of 4 section headings and selected passages inspected. 2 sections have sufficient prior or current reading to count as substantively reviewed, but chapter-wide exhaustive editorial reading, independent historical verification, and scientific assessment remain unfinished. Added an attributed, research-linked law dossier.",
+      "sectionHeadingVerification": {
+        "method": "PyMuPDF text-layer passage check with section-offset and neighboring text inspection",
+        "verifiedHeadings": 4,
+        "totalHeadings": 4,
+        "isFullChapterTextReviewed": false
+      },
+      "sourceReadScope": "Full chapter text available and sampled by subsection. Individual examples are source-grounded; unexamined sentences and independent factual/evidence claims are NOT certified.",
+      "sectionsSpotChecked": [
+        "The Pattern",
+        "Character Signs",
+        "Toxic Types",
+        "The Superior Character"
+      ]
+    },
+    {
+      "lawId": "LAW-05",
+      "pdfStartIndex": 148,
+      "pdfEndIndex": 167,
+      "pdfStartPageOneBased": 149,
+      "pdfEndPageOneBased": 168,
+      "internalSectionsIdentified": [
+        {
+          "title": "The Object of Desire",
+          "pdfPageOneBased": 149,
+          "pdfPageIndexZeroBased": 148
+        },
+        {
+          "title": "Strategies for Stimulating Desire",
+          "pdfPageOneBased": 161,
+          "pdfPageIndexZeroBased": 160
+        },
+        {
+          "title": "The Supreme Desire",
+          "pdfPageOneBased": 166,
+          "pdfPageIndexZeroBased": 165
+        }
+      ],
+      "sectionsReviewed": [
+        "The Object of Desire",
+        "Strategies for Stimulating Desire"
+      ],
+      "sectionsRemaining": [
+        "The Supreme Desire"
+      ],
+      "extractionIssues": [],
+      "editorialStatus": "partially_reviewed",
+      "reviewNotes": "Stage 03: book chapter opening, historical narrative, interpretive sections and selected strategic/critical passages directly examined. Major section headings verified in their source pages. Substantive chapter-wide review remains incomplete; individual source claims must not be treated as independent science or verified history.",
+      "sectionHeadingVerification": {
+        "method": "PyMuPDF text layer + heading/context checks against the same PDF fingerprint",
+        "verifiedHeadings": 3,
+        "totalHeadings": 3,
+        "checkedOn": "2026-11-23"
+      }
+    },
+    {
+      "lawId": "LAW-06",
+      "pdfStartIndex": 168,
+      "pdfEndIndex": 190,
+      "pdfStartPageOneBased": 169,
+      "pdfEndPageOneBased": 191,
+      "internalSectionsIdentified": [
+        {
+          "title": "Moments of Madness",
+          "pdfPageOneBased": 169,
+          "pdfPageIndexZeroBased": 168
+        },
+        {
+          "title": "Four Signs of Shortsightedness and Strategies to Overcome Them",
+          "pdfPageOneBased": 182,
+          "pdfPageIndexZeroBased": 181
+        },
+        {
+          "title": "The Farsighted Human",
+          "pdfPageOneBased": 190,
+          "pdfPageIndexZeroBased": 189
+        }
+      ],
+      "sectionsReviewed": [
+        "Moments of Madness",
+        "Four Signs of Shortsightedness and Strategies to Overcome Them"
+      ],
+      "sectionsRemaining": [
+        "The Farsighted Human"
+      ],
+      "extractionIssues": [],
+      "editorialStatus": "partially_reviewed",
+      "reviewNotes": "Stage 03: book chapter opening, historical narrative, interpretive sections and selected strategic/critical passages directly examined. Major section headings verified in their source pages. Substantive chapter-wide review remains incomplete; individual source claims must not be treated as independent science or verified history.",
+      "sectionHeadingVerification": {
+        "method": "PyMuPDF text layer + heading/context checks against the same PDF fingerprint",
+        "verifiedHeadings": 3,
+        "totalHeadings": 3,
+        "checkedOn": "2026-11-23"
+      }
+    },
+    {
+      "lawId": "LAW-07",
+      "pdfStartIndex": 191,
+      "pdfEndIndex": 223,
+      "pdfStartPageOneBased": 192,
+      "pdfEndPageOneBased": 224,
+      "internalSectionsIdentified": [
+        {
+          "title": "The Influence Game",
+          "pdfPageOneBased": 192,
+          "pdfPageIndexZeroBased": 191
+        },
+        {
+          "title": "Five Strategies for Becoming a Master Persuader",
+          "pdfPageOneBased": 209,
+          "pdfPageIndexZeroBased": 208
+        },
+        {
+          "title": "The Flexible Mind—Self-strategies",
+          "pdfPageOneBased": 221,
+          "pdfPageIndexZeroBased": 220
+        }
+      ],
+      "sectionsReviewed": [
+        "The Influence Game"
+      ],
+      "sectionsRemaining": [
+        "Five Strategies for Becoming a Master Persuader",
+        "The Flexible Mind—Self-strategies"
+      ],
+      "extractionIssues": [],
+      "editorialStatus": "partially_reviewed",
+      "reviewNotes": "Stage 03: book chapter opening, historical narrative, interpretive sections and selected strategic/critical passages directly examined. Major section headings verified in their source pages. Substantive chapter-wide review remains incomplete; individual source claims must not be treated as independent science or verified history.",
+      "sectionHeadingVerification": {
+        "method": "PyMuPDF text layer + heading/context checks against the same PDF fingerprint",
+        "verifiedHeadings": 3,
+        "totalHeadings": 3,
+        "checkedOn": "2026-11-23"
+      }
+    },
+    {
+      "lawId": "LAW-08",
+      "pdfStartIndex": 224,
+      "pdfEndIndex": 254,
+      "pdfStartPageOneBased": 225,
+      "pdfEndPageOneBased": 255,
+      "internalSectionsIdentified": [
+        {
+          "title": "The Ultimate Freedom",
+          "pdfPageOneBased": 225,
+          "pdfPageIndexZeroBased": 224
+        },
+        {
+          "title": "The Constricted (Negative) Attitude",
+          "pdfPageOneBased": 240,
+          "pdfPageIndexZeroBased": 239
+        },
+        {
+          "title": "The Expansive (Positive) Attitude",
+          "pdfPageOneBased": 249,
+          "pdfPageIndexZeroBased": 248
+        }
+      ],
+      "sectionsReviewed": [
+        "The Ultimate Freedom"
+      ],
+      "sectionsRemaining": [
+        "The Constricted (Negative) Attitude",
+        "The Expansive (Positive) Attitude"
+      ],
+      "extractionIssues": [],
+      "editorialStatus": "partially_reviewed",
+      "reviewNotes": "Stage 03: book chapter opening, historical narrative, interpretive sections and selected strategic/critical passages directly examined. Major section headings verified in their source pages. Substantive chapter-wide review remains incomplete; individual source claims must not be treated as independent science or verified history.",
+      "sectionHeadingVerification": {
+        "method": "PyMuPDF text layer + heading/context checks against the same PDF fingerprint",
+        "verifiedHeadings": 3,
+        "totalHeadings": 3,
+        "checkedOn": "2026-11-23"
+      }
+    },
+    {
+      "lawId": "LAW-09",
+      "pdfStartIndex": 255,
+      "pdfEndIndex": 287,
+      "pdfStartPageOneBased": 256,
+      "pdfEndPageOneBased": 288,
+      "internalSectionsIdentified": [
+        {
+          "title": "The Dark Side",
+          "pdfPageOneBased": 256,
+          "pdfPageIndexZeroBased": 255
+        },
+        {
+          "title": "Deciphering the Shadow: Contradictory Behavior",
+          "pdfPageOneBased": 274,
+          "pdfPageIndexZeroBased": 273
+        },
+        {
+          "title": "The Integrated Human",
+          "pdfPageOneBased": 280,
+          "pdfPageIndexZeroBased": 279
+        }
+      ],
+      "sectionsReviewed": [
+        "The Dark Side"
+      ],
+      "sectionsRemaining": [
+        "Deciphering the Shadow: Contradictory Behavior",
+        "The Integrated Human"
+      ],
+      "extractionIssues": [
+        "Spot-checked searchable PDF text; no page-level visual audit of all paragraphs."
+      ],
+      "editorialStatus": "partially_reviewed",
+      "reviewNotes": "Stage 04: opening historical narrative and Greene interpretation analyzed; later major section heading and targeted supporting passages inspected but not exhaustively read. Independent historical/scientific verification remains open.",
+      "sectionHeadingVerification": {
+        "verifiedHeadings": 3,
+        "totalHeadings": 3,
+        "method": "direct searchable PDF text at exact heading start; this does not imply full section review"
+      }
+    },
+    {
+      "lawId": "LAW-10",
+      "pdfStartIndex": 288,
+      "pdfEndIndex": 320,
+      "pdfStartPageOneBased": 289,
+      "pdfEndPageOneBased": 321,
+      "internalSectionsIdentified": [
+        {
+          "title": "Fatal Friends",
+          "pdfPageOneBased": 289,
+          "pdfPageIndexZeroBased": 288
+        },
+        {
+          "title": "Signs of Envy",
+          "pdfPageOneBased": 303,
+          "pdfPageIndexZeroBased": 302
+        },
+        {
+          "title": "Envier Types",
+          "pdfPageOneBased": 306,
+          "pdfPageIndexZeroBased": 305
+        },
+        {
+          "title": "Envy Triggers",
+          "pdfPageOneBased": 313,
+          "pdfPageIndexZeroBased": 312
+        },
+        {
+          "title": "Beyond Envy",
+          "pdfPageOneBased": 317,
+          "pdfPageIndexZeroBased": 316
+        }
+      ],
+      "sectionsReviewed": [
+        "Fatal Friends"
+      ],
+      "sectionsRemaining": [
+        "Signs of Envy",
+        "Envier Types",
+        "Envy Triggers",
+        "Beyond Envy"
+      ],
+      "extractionIssues": [
+        "Spot-checked searchable PDF text; no page-level visual audit of all paragraphs."
+      ],
+      "editorialStatus": "partially_reviewed",
+      "reviewNotes": "Stage 04: opening historical narrative and Greene interpretation analyzed; later major section heading and targeted supporting passages inspected but not exhaustively read. Independent historical/scientific verification remains open.",
+      "sectionHeadingVerification": {
+        "verifiedHeadings": 5,
+        "totalHeadings": 5,
+        "method": "direct searchable PDF text at exact heading start; this does not imply full section review"
+      }
+    },
+    {
+      "lawId": "LAW-11",
+      "pdfStartIndex": 321,
+      "pdfEndIndex": 351,
+      "pdfStartPageOneBased": 322,
+      "pdfEndPageOneBased": 352,
+      "internalSectionsIdentified": [
+        {
+          "title": "The Success Delusion",
+          "pdfPageOneBased": 322,
+          "pdfPageIndexZeroBased": 321
+        },
+        {
+          "title": "The Grandiose Leader",
+          "pdfPageOneBased": 343,
+          "pdfPageIndexZeroBased": 342
+        },
+        {
+          "title": "Practical Grandiosity",
+          "pdfPageOneBased": 348,
+          "pdfPageIndexZeroBased": 347
+        }
+      ],
+      "sectionsReviewed": [
+        "The Success Delusion"
+      ],
+      "sectionsRemaining": [
+        "The Grandiose Leader",
+        "Practical Grandiosity"
+      ],
+      "extractionIssues": [
+        "Spot-checked searchable PDF text; no page-level visual audit of all paragraphs."
+      ],
+      "editorialStatus": "partially_reviewed",
+      "reviewNotes": "Stage 04: opening historical narrative and Greene interpretation analyzed; later major section heading and targeted supporting passages inspected but not exhaustively read. Independent historical/scientific verification remains open.",
+      "sectionHeadingVerification": {
+        "verifiedHeadings": 3,
+        "totalHeadings": 3,
+        "method": "direct searchable PDF text at exact heading start; this does not imply full section review"
+      }
+    },
+    {
+      "lawId": "LAW-12",
+      "pdfStartIndex": 352,
+      "pdfEndIndex": 390,
+      "pdfStartPageOneBased": 353,
+      "pdfEndPageOneBased": 391,
+      "internalSectionsIdentified": [
+        {
+          "title": "The Authentic Gender",
+          "pdfPageOneBased": 353,
+          "pdfPageIndexZeroBased": 352
+        },
+        {
+          "title": "Gender Projection—Types",
+          "pdfPageOneBased": 375,
+          "pdfPageIndexZeroBased": 374
+        },
+        {
+          "title": "The Original Man/Woman",
+          "pdfPageOneBased": 383,
+          "pdfPageIndexZeroBased": 382
+        }
+      ],
+      "sectionsReviewed": [
+        "The Authentic Gender"
+      ],
+      "sectionsRemaining": [
+        "Gender Projection—Types",
+        "The Original Man/Woman"
+      ],
+      "extractionIssues": [
+        "Spot-checked searchable PDF text; no page-level visual audit of all paragraphs."
+      ],
+      "editorialStatus": "partially_reviewed",
+      "reviewNotes": "Stage 04: opening historical narrative and Greene interpretation analyzed; later major section heading and targeted supporting passages inspected but not exhaustively read. Independent historical/scientific verification remains open.",
+      "sectionHeadingVerification": {
+        "verifiedHeadings": 3,
+        "totalHeadings": 3,
+        "method": "direct searchable PDF text at exact heading start; this does not imply full section review"
+      }
+    },
+    {
+      "lawId": "LAW-13",
+      "pdfStartIndex": 391,
+      "pdfEndIndex": 428,
+      "pdfStartPageOneBased": 392,
+      "pdfEndPageOneBased": 429,
+      "internalSectionsIdentified": [
+        {
+          "title": "The Voice",
+          "pdfPageOneBased": 392,
+          "pdfPageIndexZeroBased": 391
+        },
+        {
+          "title": "Strategies for Developing a High Sense of Purpose",
+          "pdfPageOneBased": 416,
+          "pdfPageIndexZeroBased": 415
+        },
+        {
+          "title": "The Lure of False Purposes",
+          "pdfPageOneBased": 423,
+          "pdfPageIndexZeroBased": 422
+        }
+      ],
+      "sectionsReviewed": [
+        "The Voice"
+      ],
+      "sectionsRemaining": [
+        "Strategies for Developing a High Sense of Purpose",
+        "The Lure of False Purposes"
+      ],
+      "extractionIssues": [
+        "Searchable PDF text, headings verified at actual starts; no exhaustive visual verification of every page."
+      ],
+      "editorialStatus": "partially_reviewed",
+      "reviewNotes": "Stage 05 analyzed opening narrative and interpretation; later sections were targeted spot-reads, not fully reviewed. Printed pagination and independent history/science remain unverified.",
+      "sectionHeadingVerification": {
+        "verifiedHeadings": 3,
+        "totalHeadings": 3,
+        "method": "Direct extracted PDF page text at actual heading start, not cross-reference mention"
+      }
+    },
+    {
+      "lawId": "LAW-14",
+      "pdfStartIndex": 429,
+      "pdfEndIndex": 479,
+      "pdfStartPageOneBased": 430,
+      "pdfEndPageOneBased": 480,
+      "internalSectionsIdentified": [
+        {
+          "title": "An Experiment in Human Nature",
+          "pdfPageOneBased": 430,
+          "pdfPageIndexZeroBased": 429
+        },
+        {
+          "title": "The Court and Its Courtiers",
+          "pdfPageOneBased": 466,
+          "pdfPageIndexZeroBased": 465
+        },
+        {
+          "title": "The Reality Group",
+          "pdfPageOneBased": 473,
+          "pdfPageIndexZeroBased": 472
+        }
+      ],
+      "sectionsReviewed": [
+        "An Experiment in Human Nature"
+      ],
+      "sectionsRemaining": [
+        "The Court and Its Courtiers",
+        "The Reality Group"
+      ],
+      "extractionIssues": [
+        "Searchable PDF text, headings verified at actual starts; no exhaustive visual verification of every page."
+      ],
+      "editorialStatus": "partially_reviewed",
+      "reviewNotes": "Stage 05 analyzed opening narrative and interpretation; later sections were targeted spot-reads, not fully reviewed. Printed pagination and independent history/science remain unverified.",
+      "sectionHeadingVerification": {
+        "verifiedHeadings": 3,
+        "totalHeadings": 3,
+        "method": "Direct extracted PDF page text at actual heading start, not cross-reference mention"
+      }
+    },
+    {
+      "lawId": "LAW-15",
+      "pdfStartIndex": 480,
+      "pdfEndIndex": 517,
+      "pdfStartPageOneBased": 481,
+      "pdfEndPageOneBased": 518,
+      "internalSectionsIdentified": [
+        {
+          "title": "The Entitlement Curse",
+          "pdfPageOneBased": 481,
+          "pdfPageIndexZeroBased": 480
+        },
+        {
+          "title": "Strategies for Establishing Authority",
+          "pdfPageOneBased": 508,
+          "pdfPageIndexZeroBased": 507
+        },
+        {
+          "title": "The Inner Authority",
+          "pdfPageOneBased": 515,
+          "pdfPageIndexZeroBased": 514
+        }
+      ],
+      "sectionsReviewed": [
+        "The Entitlement Curse"
+      ],
+      "sectionsRemaining": [
+        "Strategies for Establishing Authority",
+        "The Inner Authority"
+      ],
+      "extractionIssues": [
+        "Searchable PDF text, headings verified at actual starts; no exhaustive visual verification of every page."
+      ],
+      "editorialStatus": "partially_reviewed",
+      "reviewNotes": "Stage 05 analyzed opening narrative and interpretation; later sections were targeted spot-reads, not fully reviewed. Printed pagination and independent history/science remain unverified.",
+      "sectionHeadingVerification": {
+        "verifiedHeadings": 3,
+        "totalHeadings": 3,
+        "method": "Direct extracted PDF page text at actual heading start, not cross-reference mention"
+      }
+    },
+    {
+      "lawId": "LAW-16",
+      "pdfStartIndex": 518,
+      "pdfEndIndex": 566,
+      "pdfStartPageOneBased": 519,
+      "pdfEndPageOneBased": 567,
+      "internalSectionsIdentified": [
+        {
+          "title": "The Sophisticated Aggressor",
+          "pdfPageOneBased": 519,
+          "pdfPageIndexZeroBased": 518
+        },
+        {
+          "title": "The Source of Human Aggression",
+          "pdfPageOneBased": 541,
+          "pdfPageIndexZeroBased": 540
+        },
+        {
+          "title": "Passive Aggression—Its Strategies and How to Counter Them",
+          "pdfPageOneBased": 552,
+          "pdfPageIndexZeroBased": 551
+        },
+        {
+          "title": "Controlled Aggression",
+          "pdfPageOneBased": 561,
+          "pdfPageIndexZeroBased": 560
+        }
+      ],
+      "sectionsReviewed": [
+        "The Sophisticated Aggressor"
+      ],
+      "sectionsRemaining": [
+        "The Source of Human Aggression",
+        "Passive Aggression—Its Strategies and How to Counter Them",
+        "Controlled Aggression"
+      ],
+      "extractionIssues": [],
+      "editorialStatus": "partially_reviewed",
+      "reviewNotes": "Stage 06: 4/4 actual subsection headings checked; opening historical narrative given substantive review credit; other 3 sections read selectively and not exhaustively certified. Detailed attributed dossier integrated. Independent history and scientific status remain not assessed.",
+      "sectionHeadingVerification": {
+        "method": "PyMuPDF text-layer header check against matching SHA-256 PDF; direct neighboring-page review",
+        "verifiedHeadings": 4,
+        "totalHeadings": 4,
+        "isFullChapterTextReviewed": false
+      },
+      "sourceReadScope": "Opening narrative read closely; sample passages read from each subsequent main subsection. Other chapter text and external sources require Stage 07+ research.",
+      "sectionsSpotChecked": [
+        "The Sophisticated Aggressor",
+        "The Source of Human Aggression",
+        "Passive Aggression—Its Strategies and How to Counter Them",
+        "Controlled Aggression"
+      ]
+    },
+    {
+      "lawId": "LAW-17",
+      "pdfStartIndex": 567,
+      "pdfEndIndex": 614,
+      "pdfStartPageOneBased": 568,
+      "pdfEndPageOneBased": 615,
+      "internalSectionsIdentified": [
+        {
+          "title": "The Rising Tide",
+          "pdfPageOneBased": 568,
+          "pdfPageIndexZeroBased": 567
+        },
+        {
+          "title": "The Generational Phenomenon",
+          "pdfPageOneBased": 591,
+          "pdfPageIndexZeroBased": 590
+        },
+        {
+          "title": "Generational Patterns",
+          "pdfPageOneBased": 596,
+          "pdfPageIndexZeroBased": 595
+        },
+        {
+          "title": "Strategies for Exploiting the Spirit of the Times",
+          "pdfPageOneBased": 604,
+          "pdfPageIndexZeroBased": 603
+        },
+        {
+          "title": "The Human Beyond Time and Death",
+          "pdfPageOneBased": 609,
+          "pdfPageIndexZeroBased": 608
+        }
+      ],
+      "sectionsReviewed": [
+        "The Rising Tide"
+      ],
+      "sectionsRemaining": [
+        "The Generational Phenomenon",
+        "Generational Patterns",
+        "Strategies for Exploiting the Spirit of the Times",
+        "The Human Beyond Time and Death"
+      ],
+      "extractionIssues": [],
+      "editorialStatus": "partially_reviewed",
+      "reviewNotes": "Stage 06: 5/5 actual subsection headings checked; opening historical narrative given substantive review credit; other 4 sections read selectively and not exhaustively certified. Detailed attributed dossier integrated. Independent history and scientific status remain not assessed.",
+      "sectionHeadingVerification": {
+        "method": "PyMuPDF text-layer header check against matching SHA-256 PDF; direct neighboring-page review",
+        "verifiedHeadings": 5,
+        "totalHeadings": 5,
+        "isFullChapterTextReviewed": false
+      },
+      "sourceReadScope": "Opening narrative read closely; sample passages read from each subsequent main subsection. Other chapter text and external sources require Stage 07+ research.",
+      "sectionsSpotChecked": [
+        "The Rising Tide",
+        "The Generational Phenomenon",
+        "Generational Patterns",
+        "Strategies for Exploiting the Spirit of the Times",
+        "The Human Beyond Time and Death"
+      ]
+    },
+    {
+      "lawId": "LAW-18",
+      "pdfStartIndex": 615,
+      "pdfEndIndex": 641,
+      "pdfStartPageOneBased": 616,
+      "pdfEndPageOneBased": 642,
+      "internalSectionsIdentified": [
+        {
+          "title": "The Bullet in the Side",
+          "pdfPageOneBased": 616,
+          "pdfPageIndexZeroBased": 615
+        },
+        {
+          "title": "A Philosophy of Life Through Death",
+          "pdfPageOneBased": 633,
+          "pdfPageIndexZeroBased": 632
+        }
+      ],
+      "sectionsReviewed": [
+        "The Bullet in the Side"
+      ],
+      "sectionsRemaining": [
+        "A Philosophy of Life Through Death"
+      ],
+      "extractionIssues": [],
+      "editorialStatus": "partially_reviewed",
+      "reviewNotes": "Stage 06: 2/2 actual subsection headings checked; opening historical narrative given substantive review credit; other 1 sections read selectively and not exhaustively certified. Detailed attributed dossier integrated. Independent history and scientific status remain not assessed.",
+      "sectionHeadingVerification": {
+        "method": "PyMuPDF text-layer header check against matching SHA-256 PDF; direct neighboring-page review",
+        "verifiedHeadings": 2,
+        "totalHeadings": 2,
+        "isFullChapterTextReviewed": false
+      },
+      "sourceReadScope": "Opening narrative read closely; sample passages read from each subsequent main subsection. Other chapter text and external sources require Stage 07+ research.",
+      "sectionsSpotChecked": [
+        "The Bullet in the Side",
+        "A Philosophy of Life Through Death"
+      ]
+    }
+  ],
+  "stage03ResearchSummary": {
+    "sectionsChecked": 12,
+    "sectionsReviewed": 6,
+    "sectionsTotal": 12,
+    "laws": "LAW-05–LAW-08",
+    "status": "partially_reviewed",
+    "meaning": "All 12 major headings anchored; six major sections substantively sampled; remaining section reviews outstanding. Not all chapters fully annotated."
+  }
+}

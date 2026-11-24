@@ -1,0 +1,1828 @@
+[
+  {
+    "id": "EDG-0001",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-01",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0001",
+    "relationshipType": "illustrates",
+    "explanation": "Confirmation bias is discussed in Chapter 1 as one form of distorted evaluation.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0002"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0002",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-01",
+    "toEntityType": "historical_case",
+    "toEntityId": "CAS-0001",
+    "relationshipType": "illustrates",
+    "explanation": "Greene uses the account of Pericles as a model for deliberate judgment. Historical accuracy has not been independently checked.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0004"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0003",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-02",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0003",
+    "relationshipType": "explores",
+    "explanation": "The chapter develops an account of empathy and outwardly directed attention.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0006"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0004",
+    "fromEntityType": "concept",
+    "fromEntityId": "CON-0001",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0002",
+    "relationshipType": "related_to",
+    "explanation": "Greene relates biased judgment and emotional state in Chapter 1.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0002",
+      "REF-0003"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0005",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-01",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0004",
+    "relationshipType": "explores",
+    "explanation": "Chapter 1 discusses self-protective rationalization as a relevant interpretive mechanism; it is not a stand-alone scientific conclusion.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0007"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0006",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-02",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0005",
+    "relationshipType": "explores",
+    "explanation": "Chapter 2 discusses analytic empathy as a relevant interpretive mechanism; it is not a stand-alone scientific conclusion.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0010"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0007",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-02",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0006",
+    "relationshipType": "explores",
+    "explanation": "Chapter 2 discusses self-image regulation as a relevant interpretive mechanism; it is not a stand-alone scientific conclusion.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0010"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0008",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-03",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0007",
+    "relationshipType": "explores",
+    "explanation": "Chapter 3 discusses impression management as a relevant interpretive mechanism; it is not a stand-alone scientific conclusion.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0014"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0009",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-03",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0008",
+    "relationshipType": "explores",
+    "explanation": "Chapter 3 discusses nonverbal ambiguity as a relevant interpretive mechanism; it is not a stand-alone scientific conclusion.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0014"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0010",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-03",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0009",
+    "relationshipType": "explores",
+    "explanation": "Chapter 3 discusses role-dependent behavior as a relevant interpretive mechanism; it is not a stand-alone scientific conclusion.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0014"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0011",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-04",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0010",
+    "relationshipType": "explores",
+    "explanation": "Chapter 4 discusses recurring behavioral patterns as a relevant interpretive mechanism; it is not a stand-alone scientific conclusion.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0018"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0012",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-04",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0011",
+    "relationshipType": "explores",
+    "explanation": "Chapter 4 discusses trait-versus-situation distinction as a relevant interpretive mechanism; it is not a stand-alone scientific conclusion.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0018"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0013",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-04",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0012",
+    "relationshipType": "explores",
+    "explanation": "Chapter 4 discusses behavioral reliability as a relevant interpretive mechanism; it is not a stand-alone scientific conclusion.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0018"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0014",
+    "fromEntityType": "historical_case",
+    "fromEntityId": "CAS-0002",
+    "toEntityType": "law",
+    "toEntityId": "LAW-02",
+    "relationshipType": "illustrates",
+    "explanation": "Greene uses this narrative to illustrate his law; historical causes and private motives are not independently established.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0010"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0015",
+    "fromEntityType": "historical_case",
+    "fromEntityId": "CAS-0003",
+    "toEntityType": "law",
+    "toEntityId": "LAW-03",
+    "relationshipType": "illustrates",
+    "explanation": "Greene uses this narrative to illustrate his law; historical causes and private motives are not independently established.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0014"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0016",
+    "fromEntityType": "historical_case",
+    "fromEntityId": "CAS-0004",
+    "toEntityType": "law",
+    "toEntityId": "LAW-04",
+    "relationshipType": "illustrates",
+    "explanation": "Greene uses this narrative to illustrate his law; historical causes and private motives are not independently established.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0018"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0017",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-01",
+    "toEntityType": "law",
+    "toEntityId": "LAW-03",
+    "relationshipType": "complements",
+    "explanation": "Chapter 1 warns about appearance-related judgments; Chapter 3 discusses cautious observation of social performances.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0009",
+      "REF-0015"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0018",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-02",
+    "toEntityType": "law",
+    "toEntityId": "LAW-03",
+    "relationshipType": "qualifies",
+    "explanation": "Empathic inquiry helps guard against treating nonverbal interpretation as certainty about another person.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0010",
+      "REF-0016"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0019",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-03",
+    "toEntityType": "law",
+    "toEntityId": "LAW-04",
+    "relationshipType": "complements",
+    "explanation": "Public performances should be weighed against repeated conduct over time when inferring reliability.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0017",
+      "REF-0020"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0020",
+    "fromEntityType": "concept",
+    "fromEntityId": "CON-0001",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0008",
+    "relationshipType": "shared_foundation",
+    "explanation": "Both concepts caution that a favored interpretation can override alternative explanations.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0002",
+      "REF-0015"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0021",
+    "fromEntityType": "concept",
+    "fromEntityId": "CON-0005",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0011",
+    "relationshipType": "complements",
+    "explanation": "Learning contextual information supports more careful assessment of behavior across situations.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0010",
+      "REF-0020"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0022",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-05",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0013",
+    "relationshipType": "explores",
+    "explanation": "Chapter 5 discusses ideas interpreted here as projected desire; the link explains Greene’s argument rather than certifying scientific support.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0023"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0023",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-05",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0014",
+    "relationshipType": "explores",
+    "explanation": "Chapter 5 discusses ideas interpreted here as practical need; the link explains Greene’s argument rather than certifying scientific support.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0023"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0024",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-05",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0015",
+    "relationshipType": "explores",
+    "explanation": "Chapter 5 discusses ideas interpreted here as perceived scarcity and social proof; the link explains Greene’s argument rather than certifying scientific support.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0023"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0025",
+    "fromEntityType": "historical_case",
+    "fromEntityId": "CAS-0005",
+    "toEntityType": "law",
+    "toEntityId": "LAW-05",
+    "relationshipType": "illustrates",
+    "explanation": "This is a historical example selected and interpreted by Greene, not independent proof of a general behavioral rule.",
+    "provenanceType": "secondary_source_account",
+    "sourceReferenceIds": [
+      "REF-0023"
+    ],
+    "verificationStatus": "secondary_source_account"
+  },
+  {
+    "id": "EDG-0026",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-06",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0016",
+    "relationshipType": "explores",
+    "explanation": "Chapter 6 discusses ideas interpreted here as decision horizon; the link explains Greene’s argument rather than certifying scientific support.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0029"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0027",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-06",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0017",
+    "relationshipType": "explores",
+    "explanation": "Chapter 6 discusses ideas interpreted here as salience of immediate rewards; the link explains Greene’s argument rather than certifying scientific support.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0029"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0028",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-06",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0018",
+    "relationshipType": "explores",
+    "explanation": "Chapter 6 discusses ideas interpreted here as counterfactual scenario planning; the link explains Greene’s argument rather than certifying scientific support.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0029"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0029",
+    "fromEntityType": "historical_case",
+    "fromEntityId": "CAS-0006",
+    "toEntityType": "law",
+    "toEntityId": "LAW-06",
+    "relationshipType": "illustrates",
+    "explanation": "This is a historical example selected and interpreted by Greene, not independent proof of a general behavioral rule.",
+    "provenanceType": "secondary_source_account",
+    "sourceReferenceIds": [
+      "REF-0029"
+    ],
+    "verificationStatus": "secondary_source_account"
+  },
+  {
+    "id": "EDG-0030",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-07",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0019",
+    "relationshipType": "explores",
+    "explanation": "Chapter 7 discusses ideas interpreted here as self-opinion and identity threat; the link explains Greene’s argument rather than certifying scientific support.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0035"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0031",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-07",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0020",
+    "relationshipType": "explores",
+    "explanation": "Chapter 7 discusses ideas interpreted here as autonomy-supportive persuasion; the link explains Greene’s argument rather than certifying scientific support.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0035"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0032",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-07",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0021",
+    "relationshipType": "explores",
+    "explanation": "Chapter 7 discusses ideas interpreted here as coercive pressure; the link explains Greene’s argument rather than certifying scientific support.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0035"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0033",
+    "fromEntityType": "historical_case",
+    "fromEntityId": "CAS-0007",
+    "toEntityType": "law",
+    "toEntityId": "LAW-07",
+    "relationshipType": "illustrates",
+    "explanation": "This is a historical example selected and interpreted by Greene, not independent proof of a general behavioral rule.",
+    "provenanceType": "secondary_source_account",
+    "sourceReferenceIds": [
+      "REF-0035"
+    ],
+    "verificationStatus": "secondary_source_account"
+  },
+  {
+    "id": "EDG-0034",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-08",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0022",
+    "relationshipType": "explores",
+    "explanation": "Chapter 8 discusses ideas interpreted here as expectation-behavior feedback; the link explains Greene’s argument rather than certifying scientific support.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0041"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0035",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-08",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0023",
+    "relationshipType": "explores",
+    "explanation": "Chapter 8 discusses ideas interpreted here as interpretive attitude; the link explains Greene’s argument rather than certifying scientific support.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0041"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0036",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-08",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0024",
+    "relationshipType": "explores",
+    "explanation": "Chapter 8 discusses ideas interpreted here as external circumstance; the link explains Greene’s argument rather than certifying scientific support.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0041"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0037",
+    "fromEntityType": "historical_case",
+    "fromEntityId": "CAS-0008",
+    "toEntityType": "law",
+    "toEntityId": "LAW-08",
+    "relationshipType": "illustrates",
+    "explanation": "This is a historical example selected and interpreted by Greene, not independent proof of a general behavioral rule.",
+    "provenanceType": "secondary_source_account",
+    "sourceReferenceIds": [
+      "REF-0041"
+    ],
+    "verificationStatus": "secondary_source_account"
+  },
+  {
+    "id": "EDG-0038",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-05",
+    "toEntityType": "law",
+    "toEntityId": "LAW-01",
+    "relationshipType": "related_to",
+    "explanation": "Emotional expectation and confirmation bias may influence how imagined desirable objects are evaluated.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0023"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0039",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-05",
+    "toEntityType": "law",
+    "toEntityId": "LAW-02",
+    "relationshipType": "complements",
+    "explanation": "Social attention and the desire for an admired identity can interact without making all attraction narcissism.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0023"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0040",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-06",
+    "toEntityType": "law",
+    "toEntityId": "LAW-01",
+    "relationshipType": "qualifies",
+    "explanation": "An emotional response becomes a long-horizon concern when it obscures cumulative or delayed effects.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0029"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0041",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-06",
+    "toEntityType": "law",
+    "toEntityId": "LAW-04",
+    "relationshipType": "related_to",
+    "explanation": "Short-horizon decisions can recur as patterns, although repetition and forecasting are distinct questions.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0029"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0042",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-07",
+    "toEntityType": "law",
+    "toEntityId": "LAW-02",
+    "relationshipType": "complements",
+    "explanation": "Understanding another person’s perspective can reduce some interpersonal threat without guaranteeing compliance.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0035"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0043",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-07",
+    "toEntityType": "law",
+    "toEntityId": "LAW-03",
+    "relationshipType": "qualifies",
+    "explanation": "Impression management can aid respectful communication or hide manipulative pressure; motives remain uncertain.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0035"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0044",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-08",
+    "toEntityType": "law",
+    "toEntityId": "LAW-04",
+    "relationshipType": "complements",
+    "explanation": "Character patterns and reciprocal interpretations may interact but should not erase external causes.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0041"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0045",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-08",
+    "toEntityType": "law",
+    "toEntityId": "LAW-01",
+    "relationshipType": "related_to",
+    "explanation": "Expectations can select confirming cues; revising beliefs matters when evaluating events.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0041"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0046",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-09",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0025",
+    "relationshipType": "explores",
+    "explanation": "Richard Nixon provides a Greene-attributed setting for the concept Disowned self-image; causal status remains unassessed.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0047"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0047",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-09",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0026",
+    "relationshipType": "explores",
+    "explanation": "Richard Nixon provides a Greene-attributed setting for the concept Contradictory behavior; causal status remains unassessed.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0047"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0048",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-09",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0027",
+    "relationshipType": "explores",
+    "explanation": "Richard Nixon provides a Greene-attributed setting for the concept Integration of traits; causal status remains unassessed.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0047"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0049",
+    "fromEntityType": "historical_case",
+    "fromEntityId": "CAS-0009",
+    "toEntityType": "law",
+    "toEntityId": "LAW-09",
+    "relationshipType": "illustrates",
+    "explanation": "The selected account is Greene’s illustration and does not independently establish the proposed universal mechanism.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0048"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0050",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-09",
+    "toEntityType": "law",
+    "toEntityId": "LAW-03",
+    "relationshipType": "complements",
+    "explanation": "Social roles and masks are observable; invoking repressed motives requires additional evidence.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0047"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0051",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-09",
+    "toEntityType": "law",
+    "toEntityId": "LAW-01",
+    "relationshipType": "qualifies",
+    "explanation": "A Shadow interpretation can itself be distorted by confirmation bias and snap judgments.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0047"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0052",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-09",
+    "toEntityType": "law",
+    "toEntityId": "LAW-07",
+    "relationshipType": "related_to",
+    "explanation": "A threatened self-image may influence defensive responses, but the unconscious cause cannot be assumed.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0047"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0053",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-10",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0028",
+    "relationshipType": "explores",
+    "explanation": "Mary Shelley and Jane Williams: Greene’s envy interpretation provides a Greene-attributed setting for the concept Envy and comparison; causal status remains unassessed.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0053"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0054",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-10",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0029",
+    "relationshipType": "explores",
+    "explanation": "Mary Shelley and Jane Williams: Greene’s envy interpretation provides a Greene-attributed setting for the concept Jealousy and relationship threat; causal status remains unassessed.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0053"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0055",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-10",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0030",
+    "relationshipType": "explores",
+    "explanation": "Mary Shelley and Jane Williams: Greene’s envy interpretation provides a Greene-attributed setting for the concept Admiration versus resentment; causal status remains unassessed.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0053"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0056",
+    "fromEntityType": "historical_case",
+    "fromEntityId": "CAS-0010",
+    "toEntityType": "law",
+    "toEntityId": "LAW-10",
+    "relationshipType": "illustrates",
+    "explanation": "The selected account is Greene’s illustration and does not independently establish the proposed universal mechanism.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0054"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0057",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-10",
+    "toEntityType": "law",
+    "toEntityId": "LAW-05",
+    "relationshipType": "complements",
+    "explanation": "Coveted status or attention may intensify comparison but envy is not identical to wanting the same object.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0053"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0058",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-10",
+    "toEntityType": "law",
+    "toEntityId": "LAW-02",
+    "relationshipType": "related_to",
+    "explanation": "Self-image and external validation are relevant to comparison without diagnosing narcissism.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0053"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0059",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-10",
+    "toEntityType": "law",
+    "toEntityId": "LAW-11",
+    "relationshipType": "qualifies",
+    "explanation": "Inflated self-evaluation can interact with comparison, but emotional reactions remain context-dependent.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0053"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0060",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-11",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0031",
+    "relationshipType": "explores",
+    "explanation": "Michael Eisner and the success delusion provides a Greene-attributed setting for the concept Confidence versus overconfidence; causal status remains unassessed.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0060"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0061",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-11",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0032",
+    "relationshipType": "explores",
+    "explanation": "Michael Eisner and the success delusion provides a Greene-attributed setting for the concept Success attribution; causal status remains unassessed.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0060"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0062",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-11",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0033",
+    "relationshipType": "explores",
+    "explanation": "Michael Eisner and the success delusion provides a Greene-attributed setting for the concept Practical ambition; causal status remains unassessed.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0060"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0063",
+    "fromEntityType": "historical_case",
+    "fromEntityId": "CAS-0011",
+    "toEntityType": "law",
+    "toEntityId": "LAW-11",
+    "relationshipType": "illustrates",
+    "explanation": "The selected account is Greene’s illustration and does not independently establish the proposed universal mechanism.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0061"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0064",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-11",
+    "toEntityType": "law",
+    "toEntityId": "LAW-06",
+    "relationshipType": "complements",
+    "explanation": "Recent victories may narrow a decision-maker’s horizon; adverse outcomes alone do not prove hindsight was foreseeable.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0060"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0065",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-11",
+    "toEntityType": "law",
+    "toEntityId": "LAW-01",
+    "relationshipType": "related_to",
+    "explanation": "Self-confirming evidence selection may hinder calibration, conditional on incentives and information.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0060"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0066",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-11",
+    "toEntityType": "law",
+    "toEntityId": "LAW-07",
+    "relationshipType": "qualifies",
+    "explanation": "Defensiveness may protect inflated self-image, yet resistance to a critique may have legitimate causes.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0060"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0067",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-12",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0034",
+    "relationshipType": "explores",
+    "explanation": "Caterina Sforza and Renaissance gender roles provides a Greene-attributed setting for the concept Gender-role expectations; causal status remains unassessed.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0066"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0068",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-12",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0035",
+    "relationshipType": "explores",
+    "explanation": "Caterina Sforza and Renaissance gender roles provides a Greene-attributed setting for the concept Gendered projection; causal status remains unassessed.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0066"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0069",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-12",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0036",
+    "relationshipType": "explores",
+    "explanation": "Caterina Sforza and Renaissance gender roles provides a Greene-attributed setting for the concept Behavioral flexibility beyond stereotypes; causal status remains unassessed.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0066"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0070",
+    "fromEntityType": "historical_case",
+    "fromEntityId": "CAS-0012",
+    "toEntityType": "law",
+    "toEntityId": "LAW-12",
+    "relationshipType": "illustrates",
+    "explanation": "The selected account is Greene’s illustration and does not independently establish the proposed universal mechanism.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0067"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0071",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-12",
+    "toEntityType": "law",
+    "toEntityId": "LAW-03",
+    "relationshipType": "complements",
+    "explanation": "Role presentation can reflect social expectation; it does not reveal gender identity or unconscious motivation.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0066"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0072",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-12",
+    "toEntityType": "law",
+    "toEntityId": "LAW-09",
+    "relationshipType": "qualifies",
+    "explanation": "An unwanted role may foster disowned preferences, but repression remains an interpretation rather than a diagnostic conclusion.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0066"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0073",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-12",
+    "toEntityType": "law",
+    "toEntityId": "LAW-07",
+    "relationshipType": "related_to",
+    "explanation": "Threats to public identity can prompt defensive interaction; the cause must not be assumed from gender expression.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0066"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0074",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-13",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0037",
+    "relationshipType": "explores",
+    "explanation": "Chapter 13 introduces Deliberated purpose as an analytical distinction, without claiming a scientifically proved general law.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0073",
+      "REF-0076"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0075",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-13",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0038",
+    "relationshipType": "explores",
+    "explanation": "Chapter 13 introduces Goal ladder as an analytical distinction, without claiming a scientifically proved general law.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0073",
+      "REF-0077"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0076",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-13",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0039",
+    "relationshipType": "explores",
+    "explanation": "Chapter 13 introduces False purpose and status pursuit as an analytical distinction, without claiming a scientifically proved general law.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0073",
+      "REF-0076"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0077",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-13",
+    "toEntityType": "historical_case",
+    "toEntityId": "CAS-0013",
+    "relationshipType": "illustrates",
+    "explanation": "Greene uses this historically situated account to exemplify his thesis; archival corroboration and motive verification remain incomplete.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0073",
+      "REF-0077"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0078",
+    "fromEntityType": "historical_case",
+    "fromEntityId": "CAS-0013",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0037",
+    "relationshipType": "illustrates",
+    "explanation": "This selected book narrative provides a contextual example but cannot establish a population-level psychological mechanism.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0073",
+      "REF-0076"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0079",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-13",
+    "toEntityType": "claim",
+    "toEntityId": "CLM-0027",
+    "relationshipType": "explores",
+    "explanation": "The directly inspected author argument is linked explicitly as a Greene-attributed claim, not independently assessed science.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0073",
+      "REF-0077"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0080",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-13",
+    "toEntityType": "law",
+    "toEntityId": "LAW-06",
+    "relationshipType": "complements",
+    "explanation": "Long-horizon decisions may support sustained values, but neither concept implies guaranteed outcomes.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0073",
+      "REF-0076"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0081",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-13",
+    "toEntityType": "law",
+    "toEntityId": "LAW-08",
+    "relationshipType": "related_to",
+    "explanation": "Interpretations of setbacks can influence motivation, while external circumstances still shape options.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0073",
+      "REF-0077"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0082",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-14",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0040",
+    "relationshipType": "explores",
+    "explanation": "Chapter 14 introduces Normative group pressure as an analytical distinction, without claiming a scientifically proved general law.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0083",
+      "REF-0086"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0083",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-14",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0041",
+    "relationshipType": "explores",
+    "explanation": "Chapter 14 introduces Group social personality as an analytical distinction, without claiming a scientifically proved general law.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0083",
+      "REF-0087"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0084",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-14",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0042",
+    "relationshipType": "explores",
+    "explanation": "Chapter 14 introduces Reality-oriented team as an analytical distinction, without claiming a scientifically proved general law.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0083",
+      "REF-0086"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0085",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-14",
+    "toEntityType": "historical_case",
+    "toEntityId": "CAS-0014",
+    "relationshipType": "illustrates",
+    "explanation": "Greene uses this historically situated account to exemplify his thesis; archival corroboration and motive verification remain incomplete.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0083",
+      "REF-0087"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0086",
+    "fromEntityType": "historical_case",
+    "fromEntityId": "CAS-0014",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0040",
+    "relationshipType": "illustrates",
+    "explanation": "This selected book narrative provides a contextual example but cannot establish a population-level psychological mechanism.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0083",
+      "REF-0086"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0087",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-14",
+    "toEntityType": "claim",
+    "toEntityId": "CLM-0029",
+    "relationshipType": "explores",
+    "explanation": "The directly inspected author argument is linked explicitly as a Greene-attributed claim, not independently assessed science.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0083",
+      "REF-0087"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0088",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-14",
+    "toEntityType": "law",
+    "toEntityId": "LAW-03",
+    "relationshipType": "related_to",
+    "explanation": "Social presentation can affect public compliance without revealing private motive.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0083",
+      "REF-0086"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0089",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-14",
+    "toEntityType": "law",
+    "toEntityId": "LAW-07",
+    "relationshipType": "complements",
+    "explanation": "Identity threat may interact with pressure to agree, but coercion and personal motives remain distinct.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0083",
+      "REF-0087"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0090",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-15",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0043",
+    "relationshipType": "explores",
+    "explanation": "Chapter 15 introduces Perceived legitimacy as an analytical distinction, without claiming a scientifically proved general law.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0093",
+      "REF-0096"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0091",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-15",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0044",
+    "relationshipType": "explores",
+    "explanation": "Chapter 15 introduces Leadership ambivalence as an analytical distinction, without claiming a scientifically proved general law.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0093",
+      "REF-0097"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0092",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-15",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0045",
+    "relationshipType": "explores",
+    "explanation": "Chapter 15 introduces Accountable authority as an analytical distinction, without claiming a scientifically proved general law.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0093",
+      "REF-0096"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0093",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-15",
+    "toEntityType": "historical_case",
+    "toEntityId": "CAS-0015",
+    "relationshipType": "illustrates",
+    "explanation": "Greene uses this historically situated account to exemplify his thesis; archival corroboration and motive verification remain incomplete.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0093",
+      "REF-0097"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0094",
+    "fromEntityType": "historical_case",
+    "fromEntityId": "CAS-0015",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0043",
+    "relationshipType": "illustrates",
+    "explanation": "This selected book narrative provides a contextual example but cannot establish a population-level psychological mechanism.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0093",
+      "REF-0096"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0095",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-15",
+    "toEntityType": "claim",
+    "toEntityId": "CLM-0031",
+    "relationshipType": "explores",
+    "explanation": "The directly inspected author argument is linked explicitly as a Greene-attributed claim, not independently assessed science.",
+    "provenanceType": "directly_inspected",
+    "sourceReferenceIds": [
+      "REF-0093",
+      "REF-0097"
+    ],
+    "verificationStatus": "directly_inspected"
+  },
+  {
+    "id": "EDG-0096",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-15",
+    "toEntityType": "law",
+    "toEntityId": "LAW-07",
+    "relationshipType": "related_to",
+    "explanation": "Defensiveness can change leader–follower communication when disagreement feels personal.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0093",
+      "REF-0096"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0097",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-15",
+    "toEntityType": "law",
+    "toEntityId": "LAW-11",
+    "relationshipType": "qualifies",
+    "explanation": "Confidence and legitimate authority should not be equated with grandiosity or unchecked entitlement.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0093",
+      "REF-0097"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0098",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-16",
+    "toEntityType": "law",
+    "toEntityId": "LAW-04",
+    "relationshipType": "complements",
+    "explanation": "Recurring observable conduct from Law 4 is a stronger starting point than diagnosing covert hostility from a gesture or tone.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0103"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0099",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-16",
+    "toEntityType": "law",
+    "toEntityId": "LAW-07",
+    "relationshipType": "qualifies",
+    "explanation": "Defensiveness under pressure may be a reaction to coercion; it is not proof that resistance is irrational or malicious.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0103"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0100",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-16",
+    "toEntityType": "law",
+    "toEntityId": "LAW-11",
+    "relationshipType": "complements",
+    "explanation": "Unchecked grandiose entitlement may accompany some controlling tactics, but the link is a hypothesis, not an inferred diagnosis.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0103"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0101",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-16",
+    "toEntityType": "law",
+    "toEntityId": "LAW-15",
+    "relationshipType": "qualifies",
+    "explanation": "Accountable authority depends on legitimacy and restraint rather than simply obtaining compliance through intimidation.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0103"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0102",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-16",
+    "toEntityType": "law",
+    "toEntityId": "LAW-09",
+    "relationshipType": "alternative_to",
+    "explanation": "Concealed-hostility stories about a shadow self compete with observable contextual explanations for specific conflict.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0103"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0103",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-16",
+    "toEntityType": "law",
+    "toEntityId": "LAW-14",
+    "relationshipType": "related_to",
+    "explanation": "Institutional and group norms can facilitate or restrain pressure tactics independent of any one person’s disposition.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0103"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0104",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-17",
+    "toEntityType": "law",
+    "toEntityId": "LAW-06",
+    "relationshipType": "complements",
+    "explanation": "Farsighted choices can include recognizing the uncertainty and opportunities of a changing historical period.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0113"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0105",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-17",
+    "toEntityType": "law",
+    "toEntityId": "LAW-14",
+    "relationshipType": "complements",
+    "explanation": "Social norms vary across periods and groups; cohort labels alone do not reveal all members’ behavior.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0113"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0106",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-17",
+    "toEntityType": "law",
+    "toEntityId": "LAW-15",
+    "relationshipType": "qualifies",
+    "explanation": "Leadership legitimacy depends in part on contemporary institutions and shifting expectations, not just a leader’s personal traits.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0113"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0107",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-17",
+    "toEntityType": "law",
+    "toEntityId": "LAW-13",
+    "relationshipType": "complements",
+    "explanation": "Enduring personal goals can be pursued through different tactics when historical institutions and opportunities change.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0113"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0108",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-17",
+    "toEntityType": "law",
+    "toEntityId": "LAW-01",
+    "relationshipType": "related_to",
+    "explanation": "Hindsight and selection biases may influence stories about generations and apparently farsighted historical actors.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0113"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0109",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-17",
+    "toEntityType": "law",
+    "toEntityId": "LAW-12",
+    "relationshipType": "qualifies",
+    "explanation": "Historically contingent gender-role expectations should not be reinterpreted as fixed traits of generations or individuals.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0113"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0110",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-18",
+    "toEntityType": "law",
+    "toEntityId": "LAW-06",
+    "relationshipType": "complements",
+    "explanation": "Recognizing finite time can inform how people weigh immediate and long-range goals, although responses vary.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0123"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0111",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-18",
+    "toEntityType": "law",
+    "toEntityId": "LAW-13",
+    "relationshipType": "complements",
+    "explanation": "Mortality reflection may prompt scrutiny of valued purposes without requiring one predetermined life mission.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0123"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0112",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-18",
+    "toEntityType": "law",
+    "toEntityId": "LAW-02",
+    "relationshipType": "complements",
+    "explanation": "Shared vulnerability offers a philosophical ground for empathy, but not evidence of guaranteed prosocial behavior.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0123"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0113",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-18",
+    "toEntityType": "law",
+    "toEntityId": "LAW-08",
+    "relationshipType": "qualifies",
+    "explanation": "Interpretive attitudes affect some responses to adversity, yet material circumstances and loss remain real.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0123"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0114",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-18",
+    "toEntityType": "law",
+    "toEntityId": "LAW-16",
+    "relationshipType": "alternative_to",
+    "explanation": "Existential awareness may be interpreted through compassion or control; the book cannot claim one universal result.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0123"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0115",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-18",
+    "toEntityType": "law",
+    "toEntityId": "LAW-17",
+    "relationshipType": "related_to",
+    "explanation": "Historical traditions about death and cultural inheritance can vary, challenging a single standard of coping.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0123"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0116",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-16",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0046",
+    "relationshipType": "explores",
+    "explanation": "Greene's Chapter 16 discussion is used as an attributed point of departure for the distinct concept ethical assertiveness; alternative explanations and limits remain essential.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0103",
+      "REF-0111"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0117",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-16",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0047",
+    "relationshipType": "explores",
+    "explanation": "Greene's Chapter 16 discussion is used as an attributed point of departure for the distinct concept instrumental intimidation; alternative explanations and limits remain essential.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0105",
+      "REF-0106"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0118",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-16",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0048",
+    "relationshipType": "explores",
+    "explanation": "Greene's Chapter 16 discussion is used as an attributed point of departure for the distinct concept indirect conflict expression; alternative explanations and limits remain essential.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0109",
+      "REF-0110"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0119",
+    "fromEntityType": "historical_case",
+    "fromEntityId": "CAS-0016",
+    "toEntityType": "law",
+    "toEntityId": "LAW-16",
+    "relationshipType": "illustrates",
+    "explanation": "This historical narrative illustrates Greene’s treatment of Chapter 16; it does not independently verify private motives or universal psychology.",
+    "provenanceType": "secondary_source_account",
+    "sourceReferenceIds": [
+      "REF-0103",
+      "REF-0104",
+      "REF-0105",
+      "REF-0106"
+    ],
+    "verificationStatus": "secondary_source_account"
+  },
+  {
+    "id": "EDG-0120",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-17",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0049",
+    "relationshipType": "explores",
+    "explanation": "Greene's Chapter 17 discussion is used as an attributed point of departure for the distinct concept age-period-cohort distinction; alternative explanations and limits remain essential.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0117",
+      "REF-0118"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0121",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-17",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0050",
+    "relationshipType": "explores",
+    "explanation": "Greene's Chapter 17 discussion is used as an attributed point of departure for the distinct concept historical-period sensitivity; alternative explanations and limits remain essential.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0119",
+      "REF-0120"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0122",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-17",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0051",
+    "relationshipType": "explores",
+    "explanation": "Greene's Chapter 17 discussion is used as an attributed point of departure for the distinct concept cohort narrative selection; alternative explanations and limits remain essential.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0114",
+      "REF-0115"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0123",
+    "fromEntityType": "historical_case",
+    "fromEntityId": "CAS-0017",
+    "toEntityType": "law",
+    "toEntityId": "LAW-17",
+    "relationshipType": "illustrates",
+    "explanation": "This historical narrative illustrates Greene’s treatment of Chapter 17; it does not independently verify private motives or universal psychology.",
+    "provenanceType": "secondary_source_account",
+    "sourceReferenceIds": [
+      "REF-0113",
+      "REF-0114",
+      "REF-0115",
+      "REF-0116"
+    ],
+    "verificationStatus": "secondary_source_account"
+  },
+  {
+    "id": "EDG-0124",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-18",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0052",
+    "relationshipType": "explores",
+    "explanation": "Greene's Chapter 18 discussion is used as an attributed point of departure for the distinct concept mortality awareness; alternative explanations and limits remain essential.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0123",
+      "REF-0128"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0125",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-18",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0053",
+    "relationshipType": "explores",
+    "explanation": "Greene's Chapter 18 discussion is used as an attributed point of departure for the distinct concept existential meaning-making; alternative explanations and limits remain essential.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0129",
+      "REF-0130"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0126",
+    "fromEntityType": "law",
+    "fromEntityId": "LAW-18",
+    "toEntityType": "concept",
+    "toEntityId": "CON-0054",
+    "relationshipType": "explores",
+    "explanation": "Greene's Chapter 18 discussion is used as an attributed point of departure for the distinct concept shared finitude and compassion; alternative explanations and limits remain essential.",
+    "provenanceType": "editorial_synthesis",
+    "sourceReferenceIds": [
+      "REF-0130",
+      "REF-0131"
+    ],
+    "verificationStatus": "editorial_synthesis"
+  },
+  {
+    "id": "EDG-0127",
+    "fromEntityType": "historical_case",
+    "fromEntityId": "CAS-0018",
+    "toEntityType": "law",
+    "toEntityId": "LAW-18",
+    "relationshipType": "illustrates",
+    "explanation": "This historical narrative illustrates Greene’s treatment of Chapter 18; it does not independently verify private motives or universal psychology.",
+    "provenanceType": "secondary_source_account",
+    "sourceReferenceIds": [
+      "REF-0123",
+      "REF-0124",
+      "REF-0125",
+      "REF-0127"
+    ],
+    "verificationStatus": "secondary_source_account"
+  }
+]

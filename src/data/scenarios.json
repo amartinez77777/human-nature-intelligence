@@ -1,0 +1,1925 @@
+{
+  "schemaVersion": 1,
+  "scenarios": [
+    {
+      "id": "SIM-0001",
+      "title": "The Unanswered Proposal",
+      "description": "Delayed feedback, emotional interpretation and the danger of assuming intent.",
+      "context": "Maya sends Jordan a detailed project proposal on Monday. The shared document shows Jordan opened it, but two days pass without feedback. At Wednesday’s planning meeting Jordan says the idea needs substantial revision before approval. Maya has invested a week in the work and feels dismissed. The team has a deadline Friday, and Jordan is responsible for checking dependencies across two departments. You are asked to help Maya understand what happened and choose a response. The scene deliberately leaves Jordan’s intention unknown.",
+      "characters": [
+        "Maya — proposal author",
+        "Jordan — reviewer"
+      ],
+      "learningObjectives": [
+        "Separate observations and reports from inferred motives",
+        "Compare competing explanations and revise them using new information",
+        "Choose proportionate responses and connect reasoning to the archive"
+      ],
+      "difficulty": "intermediate",
+      "fictional": true,
+      "observations": [
+        "Jordan opened the document; feedback arrived two days later.",
+        "Jordan requested substantial revision at the meeting.",
+        "Maya reports feeling dismissed."
+      ],
+      "interpretations": [
+        "Jordan disagrees with the proposal on its merits.",
+        "Review was delayed by workload or a dependency.",
+        "Jordan may be avoiding a difficult conversation or reacting defensively."
+      ],
+      "evidenceItems": [
+        {
+          "id": "e-1",
+          "kind": "document",
+          "text": "Document access log: opened Monday; written comments first appeared Wednesday."
+        },
+        {
+          "id": "e-2",
+          "kind": "report",
+          "text": "Maya says Jordan has seemed distant this week, but cites no specific hostile statement."
+        },
+        {
+          "id": "e-3",
+          "kind": "document",
+          "text": "Jordan’s comments identify an unresolved supplier dependency and an untested estimate."
+        },
+        {
+          "id": "e-4",
+          "kind": "report",
+          "text": "The project coordinator says another review was also delayed during an urgent handoff."
+        },
+        {
+          "id": "e-5",
+          "kind": "document",
+          "text": "A revised estimate changes the original projected cost; Jordan offers a 20-minute clarification meeting."
+        }
+      ],
+      "entryStepId": "observation",
+      "steps": [
+        {
+          "id": "observation",
+          "kind": "observation",
+          "prompt": "What is directly established?",
+          "evidenceIds": [
+            "e-1"
+          ],
+          "choices": [
+            {
+              "id": "observation-b",
+              "label": "Jordan deliberately withheld feedback to undermine Maya.",
+              "evaluation": "needs_review",
+              "explanation": "The motive is not in the log; this turns an interpretation into a fact.",
+              "nextStepId": "reflection"
+            },
+            {
+              "id": "observation-c",
+              "label": "Jordan found every part of the proposal unacceptable.",
+              "evaluation": "needs_review",
+              "explanation": "No feedback details are yet available; opening a file does not establish an evaluation.",
+              "nextStepId": "reflection"
+            },
+            {
+              "id": "observation-a",
+              "label": "Jordan opened the proposal and feedback arrived later.",
+              "evaluation": "well_supported",
+              "explanation": "The log establishes timing, not how thoroughly Jordan read or why feedback was delayed.",
+              "nextStepId": "interpretation"
+            }
+          ],
+          "qualification": "Maya’s feeling matters, but is not evidence of Jordan’s intent."
+        },
+        {
+          "id": "interpretation",
+          "kind": "interpretation",
+          "prompt": "Which working interpretation is appropriate before seeing the comments?",
+          "evidenceIds": [
+            "e-2"
+          ],
+          "choices": [
+            {
+              "id": "interpretation-c",
+              "label": "Conclude that the delay is a personal attack.",
+              "evaluation": "needs_review",
+              "explanation": "This selects one explanation from ambiguous evidence and risks confirmation bias.",
+              "nextStepId": "assessment"
+            },
+            {
+              "id": "interpretation-a",
+              "label": "Keep workload, substantive disagreement and interpersonal tension open.",
+              "evaluation": "well_supported",
+              "explanation": "All fit the limited timing evidence; none is established.",
+              "nextStepId": "assessment"
+            },
+            {
+              "id": "interpretation-b",
+              "label": "Treat avoidance as a tentative hypothesis worth checking privately.",
+              "evaluation": "defensible",
+              "explanation": "Avoidance is possible if kept provisional, but more ordinary explanations also deserve attention.",
+              "nextStepId": "assessment"
+            }
+          ],
+          "qualification": "Do not equate emotional discomfort with irrationality."
+        },
+        {
+          "id": "assessment",
+          "kind": "assessment",
+          "prompt": "How should the actual comments change the assessment?",
+          "evidenceIds": [
+            "e-3"
+          ],
+          "choices": [
+            {
+              "id": "assessment-a",
+              "label": "They give substantive grounds for revisions; the delay remains unexplained.",
+              "evaluation": "well_supported",
+              "explanation": "Separate the reason for revision from the timing of feedback.",
+              "nextStepId": "missing_information"
+            },
+            {
+              "id": "assessment-b",
+              "label": "Ask whether the technical concerns are accurate before revising.",
+              "evaluation": "defensible",
+              "explanation": "Verification is reasonable; it does not settle the interpersonal question.",
+              "nextStepId": "missing_information"
+            },
+            {
+              "id": "assessment-c",
+              "label": "The technical comments are just a cover story.",
+              "evaluation": "needs_review",
+              "explanation": "This dismisses potentially disconfirming evidence without testing it.",
+              "nextStepId": "missing_information"
+            }
+          ],
+          "qualification": "Specific criticism can be accurate even when delivered poorly."
+        },
+        {
+          "id": "missing_information",
+          "kind": "missing_information",
+          "prompt": "What would best distinguish workload from selective avoidance?",
+          "evidenceIds": [],
+          "choices": [
+            {
+              "id": "missing_information-b",
+              "label": "Ask for a shared review deadline and document future delays.",
+              "evaluation": "defensible",
+              "explanation": "Useful for coordination, though it may not explain this particular delay.",
+              "nextStepId": "revision"
+            },
+            {
+              "id": "missing_information-c",
+              "label": "Ask teammates whether Jordan dislikes Maya.",
+              "evaluation": "needs_review",
+              "explanation": "Speculation is less informative than comparable timelines and direct clarification.",
+              "nextStepId": "revision"
+            },
+            {
+              "id": "missing_information-a",
+              "label": "Compare comparable review timelines and ask Jordan about constraints.",
+              "evaluation": "well_supported",
+              "explanation": "Comparable work and an open question can distinguish the hypotheses without surveillance.",
+              "nextStepId": "revision"
+            }
+          ],
+          "qualification": "Gather information proportionately, without invading privacy."
+        },
+        {
+          "id": "revision",
+          "kind": "revision",
+          "prompt": "New context: what conclusion should be revised?",
+          "evidenceIds": [
+            "e-4",
+            "e-5"
+          ],
+          "choices": [
+            {
+              "id": "revision-c",
+              "label": "The new information proves Jordan is trustworthy in all settings.",
+              "evaluation": "needs_review",
+              "explanation": "Evidence about one review does not establish general character.",
+              "nextStepId": "response"
+            },
+            {
+              "id": "revision-a",
+              "label": "The deliberate-undermining hypothesis is less supported; technical and workload explanations gain weight.",
+              "evaluation": "well_supported",
+              "explanation": "The parallel delay and concrete estimate weaken a selective-hostility explanation.",
+              "nextStepId": "response"
+            },
+            {
+              "id": "revision-b",
+              "label": "Remain uncertain about motive while accepting the technical issue.",
+              "evaluation": "defensible",
+              "explanation": "This is a defensible cautious update; the new information still matters.",
+              "nextStepId": "response"
+            }
+          ],
+          "qualification": "Updating is not the same as excusing impact."
+        },
+        {
+          "id": "response",
+          "kind": "response",
+          "prompt": "What is the most proportionate next action?",
+          "evidenceIds": [],
+          "choices": [
+            {
+              "id": "response-a",
+              "label": "Meet to clarify revisions, timing expectations and responsibilities.",
+              "evaluation": "well_supported",
+              "explanation": "This addresses both evidence and impact without an unverified accusation.",
+              "nextStepId": null
+            },
+            {
+              "id": "response-b",
+              "label": "Request written revision criteria and set a shared deadline.",
+              "evaluation": "defensible",
+              "explanation": "A practical alternative if a meeting is unavailable.",
+              "nextStepId": null
+            },
+            {
+              "id": "response-c",
+              "label": "Publicly accuse Jordan of sabotage.",
+              "evaluation": "needs_review",
+              "explanation": "Escalation based on weak motive evidence risks reputational harm and impedes repair.",
+              "nextStepId": null
+            }
+          ],
+          "qualification": "If a repeated pattern of concrete harmful conduct emerges, document it and use appropriate channels."
+        },
+        {
+          "id": "reflection",
+          "kind": "reflection",
+          "prompt": "Recheck the first inference: which statement can the record actually establish?",
+          "evidenceIds": [
+            "e-1"
+          ],
+          "qualification": "The extra review is a teaching branch, not a penalty.",
+          "choices": [
+            {
+              "id": "reflection-b",
+              "label": "The observation establishes the person’s private intention.",
+              "evaluation": "needs_review",
+              "explanation": "The same event can arise from different motives or constraints. Keep the inference provisional.",
+              "nextStepId": "interpretation"
+            },
+            {
+              "id": "reflection-a",
+              "label": "Jordan opened the document; feedback arrived two days later.",
+              "evaluation": "well_supported",
+              "explanation": "This is the observation as given, not a claim about a private motive.",
+              "nextStepId": "interpretation"
+            }
+          ]
+        }
+      ],
+      "finalAnalysis": [
+        "Timing and a revision request are observed; deliberate disrespect is inferred.",
+        "The supplier issue and parallel delay make a workload-plus-substantive-review account stronger than targeted sabotage, without proving intent.",
+        "Greene’s discussion of selective evidence and emotional reactions motivates the exercise; the fictional outcome is editorial instruction, not validation of his theory.",
+        "Request specific criteria and a reliable feedback process. A good outcome does not retrospectively establish Jordan’s private motive."
+      ],
+      "uncertaintyNotes": [
+        "The actual reason for the first delay remains unknown.",
+        "One interaction cannot establish character or a clinical trait."
+      ],
+      "ethicalConsiderations": [
+        "Do not publicly accuse someone on ambiguous evidence.",
+        "Address impact and expectations separately from motive."
+      ],
+      "relatedLawIds": [
+        "LAW-01",
+        "LAW-07",
+        "LAW-08"
+      ],
+      "relatedConceptIds": [
+        "CON-0001",
+        "CON-0002",
+        "CON-0004",
+        "CON-0019",
+        "CON-0023",
+        "CON-0024"
+      ],
+      "relatedCaseIds": [
+        "CAS-0001",
+        "CAS-0007"
+      ],
+      "relatedClaimIds": [
+        "CLM-0001",
+        "CLM-0015",
+        "CLM-0017"
+      ],
+      "relatedResearchFindingIds": [
+        "RES-0003"
+      ],
+      "sourceReferenceIds": [
+        "REF-0002",
+        "REF-0008",
+        "REF-0039",
+        "REF-0044",
+        "REF-0135"
+      ],
+      "editorialStatus": "provisional"
+    },
+    {
+      "id": "SIM-0002",
+      "title": "The Unexpected Promotion",
+      "description": "Status comparisons, disappointment, fairness and organizational incentives.",
+      "context": "Rina and Alex have similar tenure on a product team. Alex is promoted to lead a new account while Rina remains in her current role. Rina congratulates Alex in a meeting but later questions whether the selection was fair. The manager has not published the rubric, and both colleagues have different strengths. Rina’s friend calls her reaction envy. You are helping the team decide what the available evidence can establish, while recognizing the real stakes of an opaque promotion process.",
+      "characters": [
+        "Rina — candidate",
+        "Alex — promoted colleague",
+        "Sam — hiring manager"
+      ],
+      "learningObjectives": [
+        "Separate observations and reports from inferred motives",
+        "Compare competing explanations and revise them using new information",
+        "Choose proportionate responses and connect reasoning to the archive"
+      ],
+      "difficulty": "intermediate",
+      "fictional": true,
+      "observations": [
+        "Alex received the promotion; Rina questioned the selection.",
+        "Both have similar tenure; their roles differ."
+      ],
+      "interpretations": [
+        "Rina is disappointed and comparing outcomes.",
+        "Rina has a legitimate concern about procedural fairness.",
+        "Rina may resent Alex personally; the evidence is insufficient."
+      ],
+      "evidenceItems": [
+        {
+          "id": "e-1",
+          "kind": "observation",
+          "text": "Alex was promoted; Rina congratulated Alex and later asked how the decision was made."
+        },
+        {
+          "id": "e-2",
+          "kind": "report",
+          "text": "A friend says Rina looked upset after the announcement."
+        },
+        {
+          "id": "e-3",
+          "kind": "document",
+          "text": "The job posting emphasized client escalations and training, but no scoring rubric was shared."
+        },
+        {
+          "id": "e-4",
+          "kind": "document",
+          "text": "The panel records show Alex handled more escalations; Rina had stronger delivery metrics."
+        },
+        {
+          "id": "e-5",
+          "kind": "observation",
+          "text": "Rina asks for development feedback and volunteers to help Alex with the transition."
+        }
+      ],
+      "entryStepId": "observation",
+      "steps": [
+        {
+          "id": "observation",
+          "kind": "observation",
+          "prompt": "Which is a direct observation?",
+          "evidenceIds": [
+            "e-1"
+          ],
+          "choices": [
+            {
+              "id": "observation-c",
+              "label": "Management discriminated against Rina.",
+              "evaluation": "needs_review",
+              "explanation": "The process may merit scrutiny, but the outcome alone does not establish discrimination.",
+              "nextStepId": "reflection"
+            },
+            {
+              "id": "observation-a",
+              "label": "Alex received the promotion; Rina asked how the decision was made.",
+              "evaluation": "well_supported",
+              "explanation": "The decision and question are directly observable.",
+              "nextStepId": "interpretation"
+            },
+            {
+              "id": "observation-b",
+              "label": "Rina envies Alex and plans to sabotage the transition.",
+              "evaluation": "needs_review",
+              "explanation": "Neither internal feeling nor future action is established.",
+              "nextStepId": "reflection"
+            }
+          ],
+          "qualification": "The fictional record contains no reliable private-motive evidence."
+        },
+        {
+          "id": "interpretation",
+          "kind": "interpretation",
+          "prompt": "How should you treat the friend’s account?",
+          "evidenceIds": [
+            "e-2"
+          ],
+          "choices": [
+            {
+              "id": "interpretation-a",
+              "label": "It is a report of apparent disappointment, not proof of envy.",
+              "evaluation": "well_supported",
+              "explanation": "Facial impressions are ambiguous and secondhand here.",
+              "nextStepId": "assessment"
+            },
+            {
+              "id": "interpretation-b",
+              "label": "Treat social comparison as one possible mechanism.",
+              "evaluation": "defensible",
+              "explanation": "Comparison is relevant, but so are fairness and career concerns.",
+              "nextStepId": "assessment"
+            },
+            {
+              "id": "interpretation-c",
+              "label": "A disappointed appearance establishes malicious intent.",
+              "evaluation": "needs_review",
+              "explanation": "Disappointment can coexist with support for a colleague.",
+              "nextStepId": "assessment"
+            }
+          ],
+          "qualification": "Greene’s envy framework is a lens, not a diagnostic rule."
+        },
+        {
+          "id": "assessment",
+          "kind": "assessment",
+          "prompt": "What does the posting establish?",
+          "evidenceIds": [
+            "e-3"
+          ],
+          "choices": [
+            {
+              "id": "assessment-b",
+              "label": "Ask how different strengths were weighted.",
+              "evaluation": "defensible",
+              "explanation": "A useful inquiry; it does not itself determine fairness.",
+              "nextStepId": "missing_information"
+            },
+            {
+              "id": "assessment-c",
+              "label": "The posting proves the manager rigged the outcome.",
+              "evaluation": "needs_review",
+              "explanation": "No evidence of a predetermined result is present.",
+              "nextStepId": "missing_information"
+            },
+            {
+              "id": "assessment-a",
+              "label": "The criteria were partly visible but scoring transparency was weak.",
+              "evaluation": "well_supported",
+              "explanation": "This supports a process concern independently of Rina’s motives.",
+              "nextStepId": "missing_information"
+            }
+          ],
+          "qualification": "Process opacity is not equivalent to a proven unfair outcome."
+        },
+        {
+          "id": "missing_information",
+          "kind": "missing_information",
+          "prompt": "What missing information would best improve the evaluation?",
+          "evidenceIds": [],
+          "choices": [
+            {
+              "id": "missing_information-c",
+              "label": "Ask Alex whether Rina is secretly jealous.",
+              "evaluation": "needs_review",
+              "explanation": "This solicits speculation rather than evidence.",
+              "nextStepId": "revision"
+            },
+            {
+              "id": "missing_information-a",
+              "label": "Comparable candidate evaluations, stated weighting and panel rationale.",
+              "evaluation": "well_supported",
+              "explanation": "Those records can test fairness without speculating about personalities.",
+              "nextStepId": "revision"
+            },
+            {
+              "id": "missing_information-b",
+              "label": "Ask Rina what feedback would help her grow.",
+              "evaluation": "defensible",
+              "explanation": "Useful for development but does not independently audit fairness.",
+              "nextStepId": "revision"
+            }
+          ],
+          "qualification": "Respect confidential candidate information."
+        },
+        {
+          "id": "revision",
+          "kind": "revision",
+          "prompt": "How should the panel record and transition behavior change your view?",
+          "evidenceIds": [
+            "e-4",
+            "e-5"
+          ],
+          "choices": [
+            {
+              "id": "revision-a",
+              "label": "Distinct strengths explain a possible selection rationale; cooperative behavior weakens sabotage speculation.",
+              "evaluation": "well_supported",
+              "explanation": "The new evidence does not settle all fairness questions but weakens the most hostile inference.",
+              "nextStepId": "response"
+            },
+            {
+              "id": "revision-b",
+              "label": "Reserve judgment on fairness until weighting is clarified.",
+              "evaluation": "defensible",
+              "explanation": "Reasonable; collaboration is still relevant evidence against immediate sabotage.",
+              "nextStepId": "response"
+            },
+            {
+              "id": "revision-c",
+              "label": "Cooperation proves Rina never feels envy.",
+              "evaluation": "needs_review",
+              "explanation": "A person can cooperate while experiencing mixed emotions.",
+              "nextStepId": "response"
+            }
+          ],
+          "qualification": "Do not treat a prosocial act as access to someone’s mind."
+        },
+        {
+          "id": "response",
+          "kind": "response",
+          "prompt": "What should the team do?",
+          "evidenceIds": [],
+          "choices": [
+            {
+              "id": "response-b",
+              "label": "Support Alex and let Rina request a private review.",
+              "evaluation": "defensible",
+              "explanation": "Reasonable if a fair review channel is available.",
+              "nextStepId": null
+            },
+            {
+              "id": "response-c",
+              "label": "Exclude Rina from decisions because she is envious.",
+              "evaluation": "needs_review",
+              "explanation": "This punishes inferred motives instead of observable misconduct.",
+              "nextStepId": null
+            },
+            {
+              "id": "response-a",
+              "label": "Offer transparent criteria, developmental feedback and equal access to future opportunities.",
+              "evaluation": "well_supported",
+              "explanation": "This addresses the process and reduces avoidable ambiguity.",
+              "nextStepId": null
+            }
+          ],
+          "qualification": "Separate fair process, feelings and actual behavior."
+        },
+        {
+          "id": "reflection",
+          "kind": "reflection",
+          "prompt": "Recheck the first inference: which statement can the record actually establish?",
+          "evidenceIds": [
+            "e-1"
+          ],
+          "qualification": "The extra review is a teaching branch, not a penalty.",
+          "choices": [
+            {
+              "id": "reflection-a",
+              "label": "Alex received the promotion; Rina questioned the selection.",
+              "evaluation": "well_supported",
+              "explanation": "This is the observation as given, not a claim about a private motive.",
+              "nextStepId": "interpretation"
+            },
+            {
+              "id": "reflection-b",
+              "label": "The observation establishes the person’s private intention.",
+              "evaluation": "needs_review",
+              "explanation": "The same event can arise from different motives or constraints. Keep the inference provisional.",
+              "nextStepId": "interpretation"
+            }
+          ]
+        }
+      ],
+      "finalAnalysis": [
+        "Rina’s disappointment and fairness question are compatible with ordinary career aspirations.",
+        "The selection record supports role-specific differences but does not establish whether weighting was fair.",
+        "Greene’s distinction between comparison as motivation and comparison as resentment informs this exercise; motives remain unverified.",
+        "Support both employees and investigate procedural fairness without labeling either person."
+      ],
+      "uncertaintyNotes": [
+        "No private feeling is established.",
+        "Full scoring rules remain unknown."
+      ],
+      "ethicalConsiderations": [
+        "Avoid stigmatizing disappointment.",
+        "Keep sensitive selection records confidential."
+      ],
+      "relatedLawIds": [
+        "LAW-10",
+        "LAW-02",
+        "LAW-11"
+      ],
+      "relatedConceptIds": [
+        "CON-0028",
+        "CON-0030",
+        "CON-0006",
+        "CON-0032"
+      ],
+      "relatedCaseIds": [
+        "CAS-0010",
+        "CAS-0011"
+      ],
+      "relatedClaimIds": [
+        "CLM-0021",
+        "CLM-0022",
+        "CLM-0023"
+      ],
+      "relatedResearchFindingIds": [],
+      "sourceReferenceIds": [
+        "REF-0053",
+        "REF-0059",
+        "REF-0060",
+        "REF-0065"
+      ],
+      "editorialStatus": "provisional"
+    },
+    {
+      "id": "SIM-0003",
+      "title": "The Charismatic Leader",
+      "description": "Confidence, authority, competence and independent judgment.",
+      "context": "A community technology initiative hires an articulate director, Ellis. In the first month Ellis delivers a compelling vision and gains strong support. A board member wants to expand the budget immediately. Another asks for performance data. The pilot has promising attendance but incomplete retention metrics. Several volunteers describe Ellis as inspiring. Your role is to distinguish genuine leadership potential from claims that exceed the evidence without treating charisma as deception.",
+      "characters": [
+        "Ellis — director",
+        "Board members",
+        "Volunteers"
+      ],
+      "learningObjectives": [
+        "Separate observations and reports from inferred motives",
+        "Compare competing explanations and revise them using new information",
+        "Choose proportionate responses and connect reasoning to the archive"
+      ],
+      "difficulty": "advanced",
+      "fictional": true,
+      "observations": [
+        "Ellis presented a vision; volunteers expressed support.",
+        "Pilot attendance is reported as promising; retention is incomplete."
+      ],
+      "interpretations": [
+        "Ellis is a competent leader communicating a clear plan.",
+        "Presentation and social approval are amplifying enthusiasm ahead of evidence.",
+        "Ellis may be overconfident about expansion, even if sincere."
+      ],
+      "evidenceItems": [
+        {
+          "id": "e-1",
+          "kind": "observation",
+          "text": "Ellis presented a persuasive plan; several volunteers expressed enthusiasm."
+        },
+        {
+          "id": "e-2",
+          "kind": "document",
+          "text": "The pilot had high initial attendance but the retention report is incomplete."
+        },
+        {
+          "id": "e-3",
+          "kind": "report",
+          "text": "A coordinator reports that Ellis credited team members and welcomed questions."
+        },
+        {
+          "id": "e-4",
+          "kind": "document",
+          "text": "The board’s budget proposal assumes retention at twice the observed early rate."
+        },
+        {
+          "id": "e-5",
+          "kind": "document",
+          "text": "Ellis agrees to a staged budget, independent evaluation and a stop criterion."
+        }
+      ],
+      "entryStepId": "observation",
+      "steps": [
+        {
+          "id": "observation",
+          "kind": "observation",
+          "prompt": "Which claim is observable?",
+          "evidenceIds": [
+            "e-1"
+          ],
+          "choices": [
+            {
+              "id": "observation-a",
+              "label": "Ellis presented a vision and several volunteers expressed support.",
+              "evaluation": "well_supported",
+              "explanation": "This establishes communication and expressed support, not competence or motive.",
+              "nextStepId": "interpretation"
+            },
+            {
+              "id": "observation-b",
+              "label": "Ellis is manipulating everyone.",
+              "evaluation": "needs_review",
+              "explanation": "Charisma alone cannot establish deception.",
+              "nextStepId": "reflection"
+            },
+            {
+              "id": "observation-c",
+              "label": "Ellis is qualified for every proposed expansion.",
+              "evaluation": "needs_review",
+              "explanation": "No expansion outcomes have been observed.",
+              "nextStepId": "reflection"
+            }
+          ],
+          "qualification": "Confidence can communicate skill or simply enthusiasm."
+        },
+        {
+          "id": "interpretation",
+          "kind": "interpretation",
+          "prompt": "How should early attendance be interpreted?",
+          "evidenceIds": [
+            "e-2"
+          ],
+          "choices": [
+            {
+              "id": "interpretation-b",
+              "label": "Treat it as a reason to continue a bounded pilot.",
+              "evaluation": "defensible",
+              "explanation": "A reversible trial fits the available early evidence.",
+              "nextStepId": "assessment"
+            },
+            {
+              "id": "interpretation-c",
+              "label": "Use attendance as proof that the strategy will scale.",
+              "evaluation": "needs_review",
+              "explanation": "Scaling introduces additional constraints and uncertain assumptions.",
+              "nextStepId": "assessment"
+            },
+            {
+              "id": "interpretation-a",
+              "label": "It supports initial reach, not sustained effectiveness.",
+              "evaluation": "well_supported",
+              "explanation": "Attendance and retention answer different questions.",
+              "nextStepId": "assessment"
+            }
+          ],
+          "qualification": "Do not confuse a promising metric with a complete evaluation."
+        },
+        {
+          "id": "assessment",
+          "kind": "assessment",
+          "prompt": "What does the coordinator’s report add?",
+          "evidenceIds": [
+            "e-3"
+          ],
+          "choices": [
+            {
+              "id": "assessment-c",
+              "label": "The report establishes that Ellis cannot be overconfident.",
+              "evaluation": "needs_review",
+              "explanation": "Cooperation and overconfidence can coexist.",
+              "nextStepId": "missing_information"
+            },
+            {
+              "id": "assessment-a",
+              "label": "It is consistent with accountable leadership but needs corroboration.",
+              "evaluation": "well_supported",
+              "explanation": "Welcoming questions is relevant without proving stable character.",
+              "nextStepId": "missing_information"
+            },
+            {
+              "id": "assessment-b",
+              "label": "Seek direct examples from board and volunteer interactions.",
+              "evaluation": "defensible",
+              "explanation": "Useful way to test the report.",
+              "nextStepId": "missing_information"
+            }
+          ],
+          "qualification": "A report is evidence of a report, not automatic proof of its content."
+        },
+        {
+          "id": "missing_information",
+          "kind": "missing_information",
+          "prompt": "What data should be collected before committing the budget?",
+          "evidenceIds": [],
+          "choices": [
+            {
+              "id": "missing_information-a",
+              "label": "Retention cohorts, cost per sustained participant and downside scenarios.",
+              "evaluation": "well_supported",
+              "explanation": "These address the uncertain assumptions on which expansion depends.",
+              "nextStepId": "revision"
+            },
+            {
+              "id": "missing_information-b",
+              "label": "A limited trial with independent metrics.",
+              "evaluation": "defensible",
+              "explanation": "A prudent way to obtain missing evidence, if a trial is affordable.",
+              "nextStepId": "revision"
+            },
+            {
+              "id": "missing_information-c",
+              "label": "Only a survey of how inspiring Ellis sounds.",
+              "evaluation": "needs_review",
+              "explanation": "Popularity is not a sufficient outcome measure.",
+              "nextStepId": "revision"
+            }
+          ],
+          "qualification": "Use metrics aligned with the program’s purpose."
+        },
+        {
+          "id": "revision",
+          "kind": "revision",
+          "prompt": "How does the expansion proposal and Ellis’s response affect your view?",
+          "evidenceIds": [
+            "e-4",
+            "e-5"
+          ],
+          "choices": [
+            {
+              "id": "revision-b",
+              "label": "Delay full approval until the pilot reaches its stop criterion.",
+              "evaluation": "defensible",
+              "explanation": "A reasonable governance decision; it does not imply dishonesty.",
+              "nextStepId": "response"
+            },
+            {
+              "id": "revision-c",
+              "label": "The optimistic projection proves Ellis is a grandiose fraud.",
+              "evaluation": "needs_review",
+              "explanation": "A faulty assumption could result from several mechanisms; fraud requires more evidence.",
+              "nextStepId": "response"
+            },
+            {
+              "id": "revision-a",
+              "label": "The projection is optimistic, but acceptance of safeguards supports accountability.",
+              "evaluation": "well_supported",
+              "explanation": "Separate unsupported forecast from observable willingness to accept oversight.",
+              "nextStepId": "response"
+            }
+          ],
+          "qualification": "Greene’s success-to-overconfidence argument is not a clinical assessment."
+        },
+        {
+          "id": "response",
+          "kind": "response",
+          "prompt": "What governance response is most proportionate?",
+          "evidenceIds": [],
+          "choices": [
+            {
+              "id": "response-c",
+              "label": "Remove Ellis solely for being charismatic.",
+              "evaluation": "needs_review",
+              "explanation": "Presentation alone is not misconduct or incompetence.",
+              "nextStepId": null
+            },
+            {
+              "id": "response-a",
+              "label": "Authorize a bounded pilot with transparent criteria and independent review.",
+              "evaluation": "well_supported",
+              "explanation": "This uses enthusiasm while protecting resources and learning from results.",
+              "nextStepId": null
+            },
+            {
+              "id": "response-b",
+              "label": "Wait for the existing pilot report before any expansion.",
+              "evaluation": "defensible",
+              "explanation": "Defensible if delay has manageable costs.",
+              "nextStepId": null
+            }
+          ],
+          "qualification": "Do not punish style when the real question is accountability and outcomes."
+        },
+        {
+          "id": "reflection",
+          "kind": "reflection",
+          "prompt": "Recheck the first inference: which statement can the record actually establish?",
+          "evidenceIds": [
+            "e-1"
+          ],
+          "qualification": "The extra review is a teaching branch, not a penalty.",
+          "choices": [
+            {
+              "id": "reflection-b",
+              "label": "The observation establishes the person’s private intention.",
+              "evaluation": "needs_review",
+              "explanation": "The same event can arise from different motives or constraints. Keep the inference provisional.",
+              "nextStepId": "interpretation"
+            },
+            {
+              "id": "reflection-a",
+              "label": "Ellis presented a vision; volunteers expressed support.",
+              "evaluation": "well_supported",
+              "explanation": "This is the observation as given, not a claim about a private motive.",
+              "nextStepId": "interpretation"
+            }
+          ]
+        }
+      ],
+      "finalAnalysis": [
+        "Charisma and early attendance are observable; competence at scale is not yet established.",
+        "A weak forecast warrants challenge. Ellis’s willingness to accept review makes a simple manipulation story less persuasive.",
+        "Greene’s warnings about success-driven grandiosity and authority motivate the questions, not a verdict on Ellis.",
+        "Use independent measurement, staged commitments and the ability to revise."
+      ],
+      "uncertaintyNotes": [
+        "Long-term outcomes are unknown.",
+        "Leadership style and private motives cannot be determined from a few meetings."
+      ],
+      "ethicalConsiderations": [
+        "Evaluate performance rather than personality labels.",
+        "Make oversight consistent for all leaders."
+      ],
+      "relatedLawIds": [
+        "LAW-03",
+        "LAW-11",
+        "LAW-14",
+        "LAW-15"
+      ],
+      "relatedConceptIds": [
+        "CON-0007",
+        "CON-0008",
+        "CON-0031",
+        "CON-0032",
+        "CON-0040",
+        "CON-0043",
+        "CON-0045"
+      ],
+      "relatedCaseIds": [
+        "CAS-0011",
+        "CAS-0015"
+      ],
+      "relatedClaimIds": [
+        "CLM-0005",
+        "CLM-0023",
+        "CLM-0024",
+        "CLM-0031",
+        "CLM-0032"
+      ],
+      "relatedResearchFindingIds": [
+        "RES-0001"
+      ],
+      "sourceReferenceIds": [
+        "REF-0015",
+        "REF-0060",
+        "REF-0065",
+        "REF-0088",
+        "REF-0097",
+        "REF-0100",
+        "REF-0133"
+      ],
+      "editorialStatus": "provisional"
+    },
+    {
+      "id": "SIM-0004",
+      "title": "The Changing Group Opinion",
+      "description": "Normative pressure, informational influence and legitimate belief revision.",
+      "context": "A nonprofit committee initially favors opening a new evening service. During the meeting, Priya, a respected senior volunteer, objects that staffing has been underestimated. Several committee members change their public position. Leo suspects that members simply follow Priya to avoid disapproval. The meeting has a public vote, and many participants have not seen the latest staffing schedule. The committee wants to understand the shift without assuming everyone who changed their mind acted irrationally.",
+      "characters": [
+        "Priya — senior volunteer",
+        "Leo — committee member",
+        "Committee participants"
+      ],
+      "learningObjectives": [
+        "Separate observations and reports from inferred motives",
+        "Compare competing explanations and revise them using new information",
+        "Choose proportionate responses and connect reasoning to the archive"
+      ],
+      "difficulty": "advanced",
+      "fictional": true,
+      "observations": [
+        "Initial discussion favored the service; Priya objected; several public positions changed.",
+        "The initial vote was public."
+      ],
+      "interpretations": [
+        "Members learned credible new information.",
+        "Members followed Priya because of social pressure.",
+        "Some members were uncertain already and used the objection to express concerns."
+      ],
+      "evidenceItems": [
+        {
+          "id": "e-1",
+          "kind": "observation",
+          "text": "Several members switched from verbal support to opposition after Priya’s objection."
+        },
+        {
+          "id": "e-2",
+          "kind": "report",
+          "text": "One participant says they did not want to appear irresponsible in front of Priya."
+        },
+        {
+          "id": "e-3",
+          "kind": "document",
+          "text": "The updated schedule has two fewer trained evening staff than the initial proposal assumed."
+        },
+        {
+          "id": "e-4",
+          "kind": "document",
+          "text": "An anonymous follow-up shows mixed views: some oppose the original plan, others favor a smaller pilot."
+        },
+        {
+          "id": "e-5",
+          "kind": "report",
+          "text": "Priya says she would support a pilot if staffing minimums were met."
+        }
+      ],
+      "entryStepId": "observation",
+      "steps": [
+        {
+          "id": "observation",
+          "kind": "observation",
+          "prompt": "What is the direct observation?",
+          "evidenceIds": [
+            "e-1"
+          ],
+          "choices": [
+            {
+              "id": "observation-b",
+              "label": "Everyone switched because they feared Priya.",
+              "evaluation": "needs_review",
+              "explanation": "The same sequence could arise from credible new information.",
+              "nextStepId": "reflection"
+            },
+            {
+              "id": "observation-c",
+              "label": "The original proposal was definitely unsafe.",
+              "evaluation": "needs_review",
+              "explanation": "No staffing evidence has yet been shown.",
+              "nextStepId": "reflection"
+            },
+            {
+              "id": "observation-a",
+              "label": "Several public positions changed after the objection.",
+              "evaluation": "well_supported",
+              "explanation": "The sequence is observable but does not establish the mechanism.",
+              "nextStepId": "interpretation"
+            }
+          ],
+          "qualification": "Temporal ordering alone does not identify motive."
+        },
+        {
+          "id": "interpretation",
+          "kind": "interpretation",
+          "prompt": "What can the participant’s report establish?",
+          "evidenceIds": [
+            "e-2"
+          ],
+          "choices": [
+            {
+              "id": "interpretation-c",
+              "label": "The report proves the group cannot think independently.",
+              "evaluation": "needs_review",
+              "explanation": "It overgeneralizes from one account.",
+              "nextStepId": "assessment"
+            },
+            {
+              "id": "interpretation-a",
+              "label": "At least one participant reports social pressure; others may differ.",
+              "evaluation": "well_supported",
+              "explanation": "The report provides limited evidence about that participant, not the whole group.",
+              "nextStepId": "assessment"
+            },
+            {
+              "id": "interpretation-b",
+              "label": "Investigate whether the vote format amplified pressure.",
+              "evaluation": "defensible",
+              "explanation": "A useful hypothesis consistent with the report.",
+              "nextStepId": "assessment"
+            }
+          ],
+          "qualification": "Normative and informational influence can coexist."
+        },
+        {
+          "id": "assessment",
+          "kind": "assessment",
+          "prompt": "What does the schedule change?",
+          "evidenceIds": [
+            "e-3"
+          ],
+          "choices": [
+            {
+              "id": "assessment-a",
+              "label": "It provides a substantive reason to reconsider the original proposal.",
+              "evaluation": "well_supported",
+              "explanation": "Staffing information can justify belief revision regardless of who raised it.",
+              "nextStepId": "missing_information"
+            },
+            {
+              "id": "assessment-b",
+              "label": "Ask whether alternate staffing would solve the problem.",
+              "evaluation": "defensible",
+              "explanation": "A relevant next step that keeps options open.",
+              "nextStepId": "missing_information"
+            },
+            {
+              "id": "assessment-c",
+              "label": "Ignore it because Priya is influential.",
+              "evaluation": "needs_review",
+              "explanation": "This replaces one bias with another; evaluate the information independently.",
+              "nextStepId": "missing_information"
+            }
+          ],
+          "qualification": "Changing one’s mind after better information is not automatically conformity."
+        },
+        {
+          "id": "missing_information",
+          "kind": "missing_information",
+          "prompt": "What would help separate public agreement from private judgment?",
+          "evidenceIds": [],
+          "choices": [
+            {
+              "id": "missing_information-b",
+              "label": "Invite a written counterproposal from an independent reviewer.",
+              "evaluation": "defensible",
+              "explanation": "This provides a competing information source but not every private judgment.",
+              "nextStepId": "revision"
+            },
+            {
+              "id": "missing_information-c",
+              "label": "Force everyone to announce whether they fear Priya.",
+              "evaluation": "needs_review",
+              "explanation": "Public pressure may distort answers and harm trust.",
+              "nextStepId": "revision"
+            },
+            {
+              "id": "missing_information-a",
+              "label": "Collect private initial judgments and reasons, then discuss shared evidence.",
+              "evaluation": "well_supported",
+              "explanation": "This can reveal disagreement while respecting participants.",
+              "nextStepId": "revision"
+            }
+          ],
+          "qualification": "Protect dissent and confidentiality."
+        },
+        {
+          "id": "revision",
+          "kind": "revision",
+          "prompt": "What does the anonymous follow-up support?",
+          "evidenceIds": [
+            "e-4",
+            "e-5"
+          ],
+          "choices": [
+            {
+              "id": "revision-c",
+              "label": "All dissent was fake because Priya supports a pilot.",
+              "evaluation": "needs_review",
+              "explanation": "The new information does not erase earlier staffing concerns.",
+              "nextStepId": "response"
+            },
+            {
+              "id": "revision-a",
+              "label": "The group contains mixed positions; staffing and social pressure may both matter.",
+              "evaluation": "well_supported",
+              "explanation": "Diverse responses and conditional support weaken an all-or-nothing explanation.",
+              "nextStepId": "response"
+            },
+            {
+              "id": "revision-b",
+              "label": "Conclude that a smaller pilot merits independent review.",
+              "evaluation": "defensible",
+              "explanation": "A plausible policy update rather than a claim about all motives.",
+              "nextStepId": "response"
+            }
+          ],
+          "qualification": "Do not assume that private votes reveal every motive."
+        },
+        {
+          "id": "response",
+          "kind": "response",
+          "prompt": "Which process would improve the next decision?",
+          "evidenceIds": [],
+          "choices": [
+            {
+              "id": "response-a",
+              "label": "Circulate evidence first, gather independent opinions and evaluate alternatives openly.",
+              "evaluation": "well_supported",
+              "explanation": "The procedure reduces avoidable pressure and supports reasoned revision.",
+              "nextStepId": null
+            },
+            {
+              "id": "response-b",
+              "label": "Hold a private vote after verifying staffing.",
+              "evaluation": "defensible",
+              "explanation": "Useful, though discussion of reasons still adds value.",
+              "nextStepId": null
+            },
+            {
+              "id": "response-c",
+              "label": "Exclude Priya from the next meeting solely for being influential.",
+              "evaluation": "needs_review",
+              "explanation": "This removes potentially useful expertise rather than changing the process.",
+              "nextStepId": null
+            }
+          ],
+          "qualification": "Authority can be informative without being decisive."
+        },
+        {
+          "id": "reflection",
+          "kind": "reflection",
+          "prompt": "Recheck the first inference: which statement can the record actually establish?",
+          "evidenceIds": [
+            "e-1"
+          ],
+          "qualification": "The extra review is a teaching branch, not a penalty.",
+          "choices": [
+            {
+              "id": "reflection-a",
+              "label": "Initial discussion favored the service; Priya objected; several public positions changed.",
+              "evaluation": "well_supported",
+              "explanation": "This is the observation as given, not a claim about a private motive.",
+              "nextStepId": "interpretation"
+            },
+            {
+              "id": "reflection-b",
+              "label": "The observation establishes the person’s private intention.",
+              "evaluation": "needs_review",
+              "explanation": "The same event can arise from different motives or constraints. Keep the inference provisional.",
+              "nextStepId": "interpretation"
+            }
+          ]
+        }
+      ],
+      "finalAnalysis": [
+        "The sequence of position changes is observed; a single group motive is not.",
+        "The staffing gap supports legitimate revision, while one report supplies limited evidence of normative pressure.",
+        "Greene’s concern with group influence motivates the distinction; this case does not independently establish its prevalence.",
+        "Independent initial judgment and transparent evidence can make disagreement productive."
+      ],
+      "uncertaintyNotes": [
+        "Private reasons vary and may remain unknown.",
+        "Anonymous responses can still be influenced by framing."
+      ],
+      "ethicalConsiderations": [
+        "Make dissent safe.",
+        "Respect expertise and evaluate its evidence independently."
+      ],
+      "relatedLawIds": [
+        "LAW-01",
+        "LAW-14",
+        "LAW-15"
+      ],
+      "relatedConceptIds": [
+        "CON-0001",
+        "CON-0040",
+        "CON-0041",
+        "CON-0042",
+        "CON-0043"
+      ],
+      "relatedCaseIds": [
+        "CAS-0014",
+        "CAS-0015"
+      ],
+      "relatedClaimIds": [
+        "CLM-0003",
+        "CLM-0029",
+        "CLM-0030",
+        "CLM-0031"
+      ],
+      "relatedResearchFindingIds": [],
+      "sourceReferenceIds": [
+        "REF-0002",
+        "REF-0088",
+        "REF-0089",
+        "REF-0093",
+        "REF-0097"
+      ],
+      "editorialStatus": "provisional"
+    },
+    {
+      "id": "SIM-0005",
+      "title": "The Quiet Rivalry",
+      "description": "Ambition, indirect conflict, envy and professional boundaries.",
+      "context": "Dev and Morgan work on related projects. After Dev receives public recognition and a larger portfolio, Morgan challenges two of Dev’s proposals and sends a terse message asking for earlier notice of changes. Dev interprets this as a covert rivalry. Both teams depend on the same small design group, and the new responsibilities overlap. A manager asks you to evaluate the conduct and recommend a response that protects collaboration without dismissing possible problems.",
+      "characters": [
+        "Dev — project lead",
+        "Morgan — adjacent project lead",
+        "Manager"
+      ],
+      "learningObjectives": [
+        "Separate observations and reports from inferred motives",
+        "Compare competing explanations and revise them using new information",
+        "Choose proportionate responses and connect reasoning to the archive"
+      ],
+      "difficulty": "intermediate",
+      "fictional": true,
+      "observations": [
+        "Morgan challenged two proposals and requested earlier notice.",
+        "Dev received public recognition and expanded responsibilities."
+      ],
+      "interpretations": [
+        "Resource overlap and ambiguous ownership create legitimate disagreement.",
+        "Morgan feels competitive or disappointed about the allocation.",
+        "Some conduct may be deliberately obstructive; motive is not established."
+      ],
+      "evidenceItems": [
+        {
+          "id": "e-1",
+          "kind": "observation",
+          "text": "Morgan challenged two proposals and asked for earlier notice in a short message."
+        },
+        {
+          "id": "e-2",
+          "kind": "report",
+          "text": "Dev says the changes began after the recognition announcement."
+        },
+        {
+          "id": "e-3",
+          "kind": "document",
+          "text": "Both proposals required the same designer at overlapping times; ownership was not defined."
+        },
+        {
+          "id": "e-4",
+          "kind": "document",
+          "text": "Morgan later misses a handoff after a written deadline; the same week another team reports a similar delay."
+        },
+        {
+          "id": "e-5",
+          "kind": "document",
+          "text": "A shared schedule clarifies ownership; Morgan meets the next two deadlines but still disagrees about one priority."
+        }
+      ],
+      "entryStepId": "observation",
+      "steps": [
+        {
+          "id": "observation",
+          "kind": "observation",
+          "prompt": "What is the most precise observation?",
+          "evidenceIds": [
+            "e-1"
+          ],
+          "choices": [
+            {
+              "id": "observation-c",
+              "label": "Morgan intends to take Dev’s role.",
+              "evaluation": "needs_review",
+              "explanation": "The evidence does not establish a career objective.",
+              "nextStepId": "reflection"
+            },
+            {
+              "id": "observation-a",
+              "label": "Morgan challenged two proposals and requested earlier notice.",
+              "evaluation": "well_supported",
+              "explanation": "These actions are observable without attributing a hostile intention.",
+              "nextStepId": "interpretation"
+            },
+            {
+              "id": "observation-b",
+              "label": "Morgan is covertly aggressive.",
+              "evaluation": "needs_review",
+              "explanation": "A behavioral pattern and motive require more evidence.",
+              "nextStepId": "reflection"
+            }
+          ],
+          "qualification": "A terse tone alone is ambiguous."
+        },
+        {
+          "id": "interpretation",
+          "kind": "interpretation",
+          "prompt": "How should the timing report be treated?",
+          "evidenceIds": [
+            "e-2"
+          ],
+          "choices": [
+            {
+              "id": "interpretation-a",
+              "label": "It is compatible with rivalry and with a changed workload.",
+              "evaluation": "well_supported",
+              "explanation": "Recognition and responsibilities changed together, so timing does not isolate the cause.",
+              "nextStepId": "assessment"
+            },
+            {
+              "id": "interpretation-b",
+              "label": "Track concrete behaviors before and after the role change.",
+              "evaluation": "defensible",
+              "explanation": "Useful if comparable situations are considered.",
+              "nextStepId": "assessment"
+            },
+            {
+              "id": "interpretation-c",
+              "label": "The recognition caused Morgan’s resentment.",
+              "evaluation": "needs_review",
+              "explanation": "Timing is not proof of causation or feeling.",
+              "nextStepId": "assessment"
+            }
+          ],
+          "qualification": "Comparison can motivate ambition without malice."
+        },
+        {
+          "id": "assessment",
+          "kind": "assessment",
+          "prompt": "What does the resource schedule add?",
+          "evidenceIds": [
+            "e-3"
+          ],
+          "choices": [
+            {
+              "id": "assessment-b",
+              "label": "Ask for explicit design allocation criteria.",
+              "evaluation": "defensible",
+              "explanation": "Useful operational correction.",
+              "nextStepId": "missing_information"
+            },
+            {
+              "id": "assessment-c",
+              "label": "The schedule proves there is no rivalry.",
+              "evaluation": "needs_review",
+              "explanation": "Structural conflict and personal competition can coexist.",
+              "nextStepId": "missing_information"
+            },
+            {
+              "id": "assessment-a",
+              "label": "It identifies an actual structural conflict independent of motive.",
+              "evaluation": "well_supported",
+              "explanation": "Overlapping demands can explain disagreement without envy.",
+              "nextStepId": "missing_information"
+            }
+          ],
+          "qualification": "Do not make the situational account an absolute conclusion."
+        },
+        {
+          "id": "missing_information",
+          "kind": "missing_information",
+          "prompt": "What would help assess whether the missed handoff is obstructive?",
+          "evidenceIds": [
+            "e-4"
+          ],
+          "choices": [
+            {
+              "id": "missing_information-c",
+              "label": "Retaliate by delaying Morgan’s own deliverable.",
+              "evaluation": "needs_review",
+              "explanation": "Retaliation creates harm and obscures the evidence.",
+              "nextStepId": "revision"
+            },
+            {
+              "id": "missing_information-a",
+              "label": "Compare agreed deadlines, dependencies and repeated comparable handoffs.",
+              "evaluation": "well_supported",
+              "explanation": "The impact is documented; comparable patterns and constraints help identify causes.",
+              "nextStepId": "revision"
+            },
+            {
+              "id": "missing_information-b",
+              "label": "Raise the missed deadline with Morgan and clarify the next one.",
+              "evaluation": "defensible",
+              "explanation": "Addresses the immediate issue without a verdict on motive.",
+              "nextStepId": "revision"
+            }
+          ],
+          "qualification": "One missed deadline is enough to discuss impact, not diagnose motive."
+        },
+        {
+          "id": "revision",
+          "kind": "revision",
+          "prompt": "How should the later handoffs affect the rivalry hypothesis?",
+          "evidenceIds": [
+            "e-5"
+          ],
+          "choices": [
+            {
+              "id": "revision-a",
+              "label": "Improved delivery after clarification strengthens a coordination explanation; disagreement can remain legitimate.",
+              "evaluation": "well_supported",
+              "explanation": "The intervention changed observable outcomes, while motive remains uncertain.",
+              "nextStepId": "response"
+            },
+            {
+              "id": "revision-b",
+              "label": "Continue tracking commitments rather than deciding whether Morgan is envious.",
+              "evaluation": "defensible",
+              "explanation": "Prudent if the pattern is still developing.",
+              "nextStepId": "response"
+            },
+            {
+              "id": "revision-c",
+              "label": "Conclude that any remaining disagreement is disguised hostility.",
+              "evaluation": "needs_review",
+              "explanation": "Disagreement can be substantive even after coordination improves.",
+              "nextStepId": "response"
+            }
+          ],
+          "qualification": "A successful repair does not rule out all mixed motives."
+        },
+        {
+          "id": "response",
+          "kind": "response",
+          "prompt": "Which response protects collaboration and boundaries?",
+          "evidenceIds": [],
+          "choices": [
+            {
+              "id": "response-b",
+              "label": "Use a manager-mediated discussion if direct clarification fails.",
+              "evaluation": "defensible",
+              "explanation": "Reasonable when ownership or power differences make direct resolution difficult.",
+              "nextStepId": null
+            },
+            {
+              "id": "response-c",
+              "label": "Spread rumors that Morgan is secretly sabotaging Dev.",
+              "evaluation": "needs_review",
+              "explanation": "Unverified reputational claims can cause harm and worsen conflict.",
+              "nextStepId": null
+            },
+            {
+              "id": "response-a",
+              "label": "Agree on ownership, document commitments and escalate repeated concrete harm if necessary.",
+              "evaluation": "well_supported",
+              "explanation": "This targets behavior and impact while preserving fair process.",
+              "nextStepId": null
+            }
+          ],
+          "qualification": "Assertiveness differs from intimidation or retaliation."
+        },
+        {
+          "id": "reflection",
+          "kind": "reflection",
+          "prompt": "Recheck the first inference: which statement can the record actually establish?",
+          "evidenceIds": [
+            "e-1"
+          ],
+          "qualification": "The extra review is a teaching branch, not a penalty.",
+          "choices": [
+            {
+              "id": "reflection-b",
+              "label": "The observation establishes the person’s private intention.",
+              "evaluation": "needs_review",
+              "explanation": "The same event can arise from different motives or constraints. Keep the inference provisional.",
+              "nextStepId": "interpretation"
+            },
+            {
+              "id": "reflection-a",
+              "label": "Morgan challenged two proposals and requested earlier notice.",
+              "evaluation": "well_supported",
+              "explanation": "This is the observation as given, not a claim about a private motive.",
+              "nextStepId": "interpretation"
+            }
+          ]
+        }
+      ],
+      "finalAnalysis": [
+        "The challenge and missed handoff are concrete; covert hostility is a hypothesis.",
+        "Overlapping resources and improvement after clarification support a structural account, without ruling out ordinary competition.",
+        "Greene’s treatments of comparison and indirect hostility guide the questions, but the fictional case does not verify a psychological diagnosis.",
+        "Set boundaries and measure conduct, not perceived personality."
+      ],
+      "uncertaintyNotes": [
+        "The participants’ emotional states remain uncertain.",
+        "One intervention does not establish a permanent behavioral pattern."
+      ],
+      "ethicalConsiderations": [
+        "Do not retaliate or spread unverified accusations.",
+        "Escalate concrete repeated harm through fair channels."
+      ],
+      "relatedLawIds": [
+        "LAW-04",
+        "LAW-10",
+        "LAW-16"
+      ],
+      "relatedConceptIds": [
+        "CON-0010",
+        "CON-0011",
+        "CON-0028",
+        "CON-0030",
+        "CON-0046",
+        "CON-0048"
+      ],
+      "relatedCaseIds": [
+        "CAS-0010",
+        "CAS-0016"
+      ],
+      "relatedClaimIds": [
+        "CLM-0007",
+        "CLM-0021",
+        "CLM-0022",
+        "CLM-0033",
+        "CLM-0034"
+      ],
+      "relatedResearchFindingIds": [
+        "RES-0002"
+      ],
+      "sourceReferenceIds": [
+        "REF-0019",
+        "REF-0053",
+        "REF-0059",
+        "REF-0109",
+        "REF-0111",
+        "REF-0134"
+      ],
+      "editorialStatus": "provisional"
+    },
+    {
+      "id": "SIM-0006",
+      "title": "The High-Stakes Decision",
+      "description": "Emotional salience, time horizons and decision quality under uncertainty.",
+      "context": "A volunteer service organization has a limited reserve. A popular short-term campaign promises visible growth if the team commits nearly all of the reserve this week. The campaign sponsor says a delay will lose the opportunity. A quieter alternative would preserve funds for service continuity but may reduce immediate reach. Last month’s successful campaign has made the committee optimistic. You are asked to advise on the decision process, not to predict the future or choose a universally correct risk level.",
+      "characters": [
+        "Campaign sponsor",
+        "Operations lead",
+        "Committee"
+      ],
+      "learningObjectives": [
+        "Separate observations and reports from inferred motives",
+        "Compare competing explanations and revise them using new information",
+        "Choose proportionate responses and connect reasoning to the archive"
+      ],
+      "difficulty": "advanced",
+      "fictional": true,
+      "observations": [
+        "The sponsor requests a commitment this week; the proposed commitment uses most reserves.",
+        "A smaller alternative preserves more of the reserve."
+      ],
+      "interpretations": [
+        "The short deadline is a real opportunity constraint.",
+        "Recent success and social excitement make the upside unusually salient.",
+        "The larger plan may be appropriate if downside exposure can be bounded."
+      ],
+      "evidenceItems": [
+        {
+          "id": "e-1",
+          "kind": "document",
+          "text": "The proposal would use most reserves, with a stated deadline this week."
+        },
+        {
+          "id": "e-2",
+          "kind": "report",
+          "text": "Several members cite last month’s success as a reason to approve quickly."
+        },
+        {
+          "id": "e-3",
+          "kind": "document",
+          "text": "The forecast assumes repeat participation but contains no sensitivity analysis."
+        },
+        {
+          "id": "e-4",
+          "kind": "document",
+          "text": "The vendor confirms a smaller trial is available for two weeks, at a higher unit cost."
+        },
+        {
+          "id": "e-5",
+          "kind": "document",
+          "text": "Operations identifies a minimum reserve requirement and a measurable trial success threshold."
+        }
+      ],
+      "entryStepId": "observation",
+      "steps": [
+        {
+          "id": "observation",
+          "kind": "observation",
+          "prompt": "What is actually known?",
+          "evidenceIds": [
+            "e-1"
+          ],
+          "choices": [
+            {
+              "id": "observation-a",
+              "label": "The proposal uses most reserves and specifies a deadline.",
+              "evaluation": "well_supported",
+              "explanation": "The record establishes terms, not urgency’s legitimacy or future outcomes.",
+              "nextStepId": "interpretation"
+            },
+            {
+              "id": "observation-b",
+              "label": "The campaign is guaranteed to repeat last month’s success.",
+              "evaluation": "needs_review",
+              "explanation": "Future participation is not established.",
+              "nextStepId": "reflection"
+            },
+            {
+              "id": "observation-c",
+              "label": "The sponsor is intentionally manipulating the committee.",
+              "evaluation": "needs_review",
+              "explanation": "A deadline can be genuine; intent is not shown.",
+              "nextStepId": "reflection"
+            }
+          ],
+          "qualification": "Separate risk terms from conclusions about motives."
+        },
+        {
+          "id": "interpretation",
+          "kind": "interpretation",
+          "prompt": "How should last month’s success affect the decision?",
+          "evidenceIds": [
+            "e-2"
+          ],
+          "choices": [
+            {
+              "id": "interpretation-b",
+              "label": "Ask for a comparison with earlier campaigns, including failures.",
+              "evaluation": "defensible",
+              "explanation": "This improves the evidence base.",
+              "nextStepId": "assessment"
+            },
+            {
+              "id": "interpretation-c",
+              "label": "Repeat the same scale because success proves superior judgment.",
+              "evaluation": "needs_review",
+              "explanation": "Outcome bias and overconfidence may hide chance or contextual differences.",
+              "nextStepId": "assessment"
+            },
+            {
+              "id": "interpretation-a",
+              "label": "Treat it as relevant but incomplete evidence; test whether conditions repeat.",
+              "evaluation": "well_supported",
+              "explanation": "Past outcomes help only to the extent that circumstances are comparable.",
+              "nextStepId": "assessment"
+            }
+          ],
+          "qualification": "Success does not isolate the cause of success."
+        },
+        {
+          "id": "assessment",
+          "kind": "assessment",
+          "prompt": "What is the key weakness in the forecast?",
+          "evidenceIds": [
+            "e-3"
+          ],
+          "choices": [
+            {
+              "id": "assessment-c",
+              "label": "Discard all forecasting because uncertainty exists.",
+              "evaluation": "needs_review",
+              "explanation": "Uncertainty makes scenario analysis more valuable, not pointless.",
+              "nextStepId": "missing_information"
+            },
+            {
+              "id": "assessment-a",
+              "label": "Unexamined sensitivity to participation and costs.",
+              "evaluation": "well_supported",
+              "explanation": "A forecast needs ranges and downside consequences, not just a central estimate.",
+              "nextStepId": "missing_information"
+            },
+            {
+              "id": "assessment-b",
+              "label": "Ask the sponsor to state assumptions and supporting data.",
+              "evaluation": "defensible",
+              "explanation": "Useful prerequisite to evaluating the forecast.",
+              "nextStepId": "missing_information"
+            }
+          ],
+          "qualification": "A forecast is an assumption-dependent tool."
+        },
+        {
+          "id": "missing_information",
+          "kind": "missing_information",
+          "prompt": "What missing information matters most before commitment?",
+          "evidenceIds": [],
+          "choices": [
+            {
+              "id": "missing_information-a",
+              "label": "Reserve obligations, downside scenarios, alternative deadlines and exit terms.",
+              "evaluation": "well_supported",
+              "explanation": "These determine exposure, reversibility and the real value of acting now.",
+              "nextStepId": "revision"
+            },
+            {
+              "id": "missing_information-b",
+              "label": "Independent review of the forecast by operations.",
+              "evaluation": "defensible",
+              "explanation": "Helpful for detecting assumptions, though contractual alternatives also matter.",
+              "nextStepId": "revision"
+            },
+            {
+              "id": "missing_information-c",
+              "label": "A poll of who feels most confident.",
+              "evaluation": "needs_review",
+              "explanation": "Confidence is not a substitute for decision-relevant information.",
+              "nextStepId": "revision"
+            }
+          ],
+          "qualification": "Consider both opportunity costs and continuity obligations."
+        },
+        {
+          "id": "revision",
+          "kind": "revision",
+          "prompt": "What changes after the smaller trial becomes available?",
+          "evidenceIds": [
+            "e-4",
+            "e-5"
+          ],
+          "choices": [
+            {
+              "id": "revision-b",
+              "label": "Wait if even the trial violates the minimum reserve.",
+              "evaluation": "defensible",
+              "explanation": "Defensible under the stated financial constraint.",
+              "nextStepId": "response"
+            },
+            {
+              "id": "revision-c",
+              "label": "Approve the large plan because reconsideration shows weakness.",
+              "evaluation": "needs_review",
+              "explanation": "Revision is a strength when evidence changes.",
+              "nextStepId": "response"
+            },
+            {
+              "id": "revision-a",
+              "label": "The all-or-nothing framing is weakened; compare trial costs with reduced downside and learning value.",
+              "evaluation": "well_supported",
+              "explanation": "The new option changes the decision set and enables an evidence-producing commitment.",
+              "nextStepId": "response"
+            }
+          ],
+          "qualification": "The smaller trial is not automatically optimal; compare actual constraints."
+        },
+        {
+          "id": "response",
+          "kind": "response",
+          "prompt": "Which decision process is best justified?",
+          "evidenceIds": [],
+          "choices": [
+            {
+              "id": "response-c",
+              "label": "Commit everything to maintain enthusiasm.",
+              "evaluation": "needs_review",
+              "explanation": "This ignores known continuity risk and available alternatives.",
+              "nextStepId": null
+            },
+            {
+              "id": "response-a",
+              "label": "Set the reserve floor, compare scenarios, and authorize only a commitment consistent with those constraints.",
+              "evaluation": "well_supported",
+              "explanation": "This makes trade-offs explicit and guards against irreversible exposure.",
+              "nextStepId": null
+            },
+            {
+              "id": "response-b",
+              "label": "Defer until the forecast and service obligations are independently checked.",
+              "evaluation": "defensible",
+              "explanation": "Reasonable if the cost of delay is acceptable.",
+              "nextStepId": null
+            }
+          ],
+          "qualification": "No result here predicts real investment or financial performance."
+        },
+        {
+          "id": "reflection",
+          "kind": "reflection",
+          "prompt": "Recheck the first inference: which statement can the record actually establish?",
+          "evidenceIds": [
+            "e-1"
+          ],
+          "qualification": "The extra review is a teaching branch, not a penalty.",
+          "choices": [
+            {
+              "id": "reflection-a",
+              "label": "The sponsor requests a commitment this week; the proposed commitment uses most reserves.",
+              "evaluation": "well_supported",
+              "explanation": "This is the observation as given, not a claim about a private motive.",
+              "nextStepId": "interpretation"
+            },
+            {
+              "id": "reflection-b",
+              "label": "The observation establishes the person’s private intention.",
+              "evaluation": "needs_review",
+              "explanation": "The same event can arise from different motives or constraints. Keep the inference provisional.",
+              "nextStepId": "interpretation"
+            }
+          ]
+        }
+      ],
+      "finalAnalysis": [
+        "The reserve exposure and deadline are known; future success and motives are not.",
+        "The smaller trial changes the available options, and operations supplies a legitimate continuity constraint.",
+        "Greene’s emotional-reactivity and longer-perspective arguments inform the exercise, but risk tolerance and the best choice depend on circumstances.",
+        "Good decisions specify tradeoffs, downside boundaries and information that would trigger revision."
+      ],
+      "uncertaintyNotes": [
+        "The forecast remains uncertain.",
+        "Trial results may not generalize to full scale."
+      ],
+      "ethicalConsiderations": [
+        "Respect obligations to beneficiaries.",
+        "Do not pressure dissenters or imply a guaranteed outcome."
+      ],
+      "relatedLawIds": [
+        "LAW-01",
+        "LAW-06",
+        "LAW-11",
+        "LAW-14",
+        "LAW-15"
+      ],
+      "relatedConceptIds": [
+        "CON-0001",
+        "CON-0002",
+        "CON-0016",
+        "CON-0017",
+        "CON-0018",
+        "CON-0031",
+        "CON-0040",
+        "CON-0045"
+      ],
+      "relatedCaseIds": [
+        "CAS-0001",
+        "CAS-0006",
+        "CAS-0011"
+      ],
+      "relatedClaimIds": [
+        "CLM-0001",
+        "CLM-0013",
+        "CLM-0014",
+        "CLM-0023",
+        "CLM-0030",
+        "CLM-0032"
+      ],
+      "relatedResearchFindingIds": [],
+      "sourceReferenceIds": [
+        "REF-0002",
+        "REF-0008",
+        "REF-0032",
+        "REF-0033",
+        "REF-0060",
+        "REF-0065",
+        "REF-0089",
+        "REF-0100"
+      ],
+      "editorialStatus": "provisional"
+    }
+  ]
+}
