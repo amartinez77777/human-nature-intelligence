@@ -32,7 +32,12 @@ export function normalizeProgress(input:unknown):UserProgress {
  const academyAttempts:Record<string,AcademyAttempt>={};
  if(input.academyAttempts!==undefined){
   if(!isRecord(input.academyAttempts)||Object.keys(input.academyAttempts).length>rawExercises.length)throw Error('Invalid Academy attempts');
-  for(const [id,a] of Object.entries(input.academyAttempts)){const ex=rawExercises.find(e=>e.id===id);if(!ex||!isRecord(a)||a.exerciseId!==id||typeof a.revision!=='number'||!Number.isInteger(a.revision)||a.revision<1||a.revision>(ex.revision??1)||!Array.isArray(a.choiceIds)||!a.choiceIds.every(x=>typeof x==='string'))throw Error('Invalid Academy attempt');const choices=a.choiceIds as string[];evaluateExercise(ex as ExerciseInput,choices);academyAttempts[id]={exerciseId:id,revision:a.revision,choiceIds:choices};}
+  for(const [id,a] of Object.entries(input.academyAttempts)){const ex=rawExercises.find(e=>e.id===id);if(!ex||!isRecord(a)||a.exerciseId!==id||typeof a.revision!=='number'||!Number.isInteger(a.revision)||a.revision<1||a.revision>(ex.revision??1)||!Array.isArray(a.choiceIds)||!a.choiceIds.every(x=>typeof x==='string'))throw Error('Invalid Academy attempt');const choices=a.choiceIds as string[];const exerciseType=ex.exerciseType;
+   if(exerciseType!=='multiple_choice'&&exerciseType!=='evidence_classification'&&exerciseType!=='multiple_interpretations')throw Error('Invalid exercise type');
+   const explanations:Record<string,string>={};
+   for(const [key,value] of Object.entries(ex.explanations)){if(typeof value==='string')explanations[key]=value;}
+   const exercise:ExerciseInput={id:ex.id,exerciseType,choices:ex.choices,evaluationRules:ex.evaluationRules,explanations,revision:ex.revision};
+   evaluateExercise(exercise,choices);academyAttempts[id]={exerciseId:id,revision:a.revision,choiceIds:choices};}
  }
  const scenarioProgress:Record<string,ScenarioSession>={};
  if(input.schemaVersion===2){
